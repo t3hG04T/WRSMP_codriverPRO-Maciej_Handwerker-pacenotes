@@ -1,0 +1,76 @@
+# Pian del Colle Snow
+-17 50_ 5_lewy _dluzszy
+30 100
+150 6_lewy_ 150
+270 6_lewy_ zacisk
+300 przechodzi_w_ 3_prawy bardzo dlugi
+560 120
+650 5_lewy _dluzszy
+750 150
+755 szczyt_prawa max
+835 5_lewy _dluzszy otwarty
+990 120
+1090 6_prawy nie_tnij _barierka
+1185 5_lewy_ max
+1310 120
+1365 6_prawy bardzo dlugi ciac_ max
+1550 90
+1605 6_lewy_ ciac_ 90
+1695 6_prawy_ 70 shamuj 
+1710 4_lewy _dluzszy ciac_
+1890 150
+1990 6_prawy_ max
+2080 50_ shamuj 4_lewy dlugi
+2250 80_ 5_prawy _za_znak ciac_
+2390 300 prostuj
+2600 5_lewy_ nie_spiesz_
+2660 shamuj_40 3+_prawy ciac_
+2795 5_lewy_ ciac_
+2840 120
+2880 5_prawy zahacz smialo
+2910 120
+3040 5_prawy_ zahacz do shamuj 4_lewy_ dlugi zacisk
+3300 80
+3365 3_prawy_ dlugi
+3450 za_szczytem_50
+3490 4_lewy_ ciac_
+3600 4+_prawy_ zahacz _wejscie zacisk
+3685 za_znakiem_ 3+_lewy ciac_ 40
+3800 5_lewy_ bardzo dlugi otwarty
+4000 150
+4085 pozny 4_prawy ciac_ smialo
+4190 80
+4215 pozny_ 4_prawy_ przechodzi_w_ 4_lewy
+4400 80_ 6_lewy_ ciac_
+4480 200
+4590 szykana_od_lewej podwojny
+4785 250
+4885 hamowanie nawrot_prawy nie_tnij
+5065 300
+5330 6_prawy_ smialo nie_tnij do 6_lewy_ zahacz do 7_prawy_ ciac_
+5570 200
+5690 _przy_drzewach 6_lewy_ max 200
+5800 hamowanie nawrot_lewy
+6020 nawrot_prawy _dluzszy
+6100 150 prostuj prawy_lewy
+6190 5_prawy_ zahacz do 6_lewy_ ciac_
+6385 6_prawy shamuj do nawrot_lewy
+6550 120
+6625 pozny_ 3+_prawy
+6700 50_ nawrot_prawy dlugi
+6820 3_lewy _dluzszy
+6880 70_ 5_prawy nie_tnij
+6960 70_ 6_lewy_ zahacz
+7020 50_ nie_spiesz_ 6_prawy_ do 6_lewy
+7120 hamowanie nawrot_lewy
+7260 120
+7340 hamuj_ 2_prawy _dluzszy
+7440 250 prostuj prawy_lewy
+7625 hamowanie szykana_od_lewej
+7740 100
+7800 7_prawy_ 100
+7930 6_lewy_ ciac_
+7990 150
+8050 shamuj 3_lewy_ 50
+8190 3_prawy _dluzszy
+8305 lotna 150 _do_mety_stop

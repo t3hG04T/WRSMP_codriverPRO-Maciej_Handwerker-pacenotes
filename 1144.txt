@@ -1,0 +1,79 @@
+#Joux Plane
+0 30 3_prawy_ plus na_szczyt
+30 do ciac_ 4_lewy
+100 7_prawy i 5_prawy
+210 40 przytnij 4_lewy_ za_szczytem_ 5_prawy
+430 40 3_prawy_ _dluzszy
+540 do ciac_ 5_lewy
+600 do ciac_ 4_lewy 70 _prostuj
+700 4_prawy przytnij
+800 do przytnij 5_lewy do 2+_lewy_ _ciac
+950 do przytnij 6_prawy do 4_lewy_ _dluzszy zacisk
+1020 ciac_ _wyjscie do krotki 5_prawy
+1120 70 _prostuj 3_prawy_ _dluzszy
+1300 do mocno_ciac 5_lewy_ plus 150
+1440 6_prawy do 5_lewy_ _ciac nie_wypuszczaj 60
+1510 4_prawy_ _dluzszy zostan
+1880 za_szczytem_ 5_lewy_ zacisk_do_3 ciac_ _wyjscie 30
+2120 przytnij 2+_prawy zostan do 5_prawy_ dlugi
+2300 za_szczytem_ 3_lewy_ zacisk
+2420 do 4_prawy odkleja 30
+2500 5_lewy_ przytnij dlugi
+2700 120
+2750 przytnij krotki 6_prawy do 6_lewy 
+2940 szczyt_prawa do przytnij 6_lewy
+3100 do 5_prawy_ _dluzszy od_tasm_ zacisk
+3400 do 6_prawy_ dlugi
+3450 za_szczytem_ przyciac 6_prawy 
+3550 za_szczytem_ 80 
+3620 za_szczytem_ dlugi 6_lewy lekki_zacisk
+3890 100 
+3950 6_lewy przytnij 120
+4150 za_drzewkiem_ 6_prawy 60 
+4300 przytnij 6_prawy i krotki 5_lewy_ przytnij zostan
+4400 200
+4550 wczesnie_ krotki 6_prawy 
+4640 do 5_prawy_ minus
+4830 do 5_lewy_ _dluzszy zacisk_do_3 przytnij_wyjscie
+5000 do 5_lewy_ na_szczyt ciac_ _wyjscie
+5100 za_szczytem_ przytnij 6_prawy do ciac_ 6_lewy
+5150 40 5_prawy_ minus slisko 50
+5320 pozniej_ 4_lewy_ przytnij slisko 120
+5550 ciac_ 6_lewy 
+5680 do za_szczytem_ 5_prawy zacisk podbija i 5_lewy
+5840 szczyt shamuj i ciac_ 3_prawy_ plus
+6040 za_szczytem_ 40 4_lewy_ do 5_prawy
+6300 zacisk_do_3 _ciac
+6420 40 pozny 6_lewy_ przytnij _wyjscie 120
+6610 6_prawy przytnij _wyjscie nie_wypuszczaj 300
+7000 6_prawy przytnij nie_wypuszczaj 150
+7220 3_lewy_ ciac_ _wyjscie
+7510 30 5_prawy zacisk bardzo dlugi
+7640 20 4_lewy_ minus przytnij _wyjscie
+7750 60 nawrot_prawy
+7940 do 6_lewy
+7960 do przytnij 5_prawy 40
+8020 przytnij 5_lewy_ plus za_szczytem_ 7_lewy
+8050 shamuj_ 30 5_prawy do 1_lewy do 1_lewy
+8410 60
+8470 3_prawy_ zacisk _ciac 30
+8600 4_prawy_ krotki 20 
+8640 4_lewy_ _ciac do 4_prawy_ plus
+8700 150 _prostuj 
+8800 6_lewy do 4_lewy_ minus
+9000 i 4_prawy do 5_lewy 30
+9100 krotki 6_lewy 100 _prostuj
+9230 przytnij krotki 6_lewy_ i 4_lewy_ nie_tnij
+9450 60 przytnij 6_lewy 50 przytnij 7_lewy do ciac_ 6_prawy
+9680 do 6_lewy_ minus podbija slisko 50 4_prawy minus
+9850 do ciac_ 5_lewy
+10050 za_szczytem_ 6_prawy 
+10110 70 
+10200 7_lewy 120
+10350 negat 3_prawy do nawrot_lewy
+10630 30 mocno_ciac 2_prawy
+10700 do 6_lewy
+10740 100
+10770 6_lewy_ shamuj do 4_prawy do 5_lewy_ _ciac
+11000 do przytnij 6_prawy do 5_lewy minus do 5_lewy
+11210 lotna

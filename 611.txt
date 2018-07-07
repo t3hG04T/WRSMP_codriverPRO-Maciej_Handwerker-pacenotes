@@ -1,0 +1,47 @@
+#Capo di Feno
+0-15 100
+0010 6_prawy_ mocno_ciac
+60 4_lewy_ dlugi zostan
+0280  4+_prawy
+0350 250
+460 za_szczytem_50 2+_prawy
+0680 4_lewy_ zacisk
+0790 120
+0830 za_szczytem_30 3+_lewy
+1000 50
+1015 2_prawy
+1110 150
+1230 za_szczytem_ 5_lewy_ ciac_
+1260 do 6_prawy_ 120
+1425 shamuj 4_prawy_ do 5_lewy_ zahacz
+1525 za_szczytem_ 3+_prawy
+1615 150
+1725 hamowanie 2_prawy _pozny_
+1840 70 3_lewy_ dlugi nie_tnij slup
+1905 70
+1975 4+_lewy nie_tnij potem_ hamowanie do
+2020 2_lewy_ nie_tnij
+2105 50_ 6_lewy_ do 4_prawy
+2200 70
+2250 3_prawy_ nie_ciac do 2_lewy_ ciac_
+2340 50_ 4_prawy_ do 1_lewy_ nie_ciac
+2420 3+_prawy nie_ciac
+2470 100
+2520 hamowanie 3_prawy_ nie_ciac do 2_lewy
+2615 przechodzi_w_ 4_lewy_ 70 
+2705 5_prawy _dluzszy
+2720 100
+2780 hamowanie nawrot_prawy
+2890 150
+2960 na_szczyt 3_lewy_ do 4_prawy _dluzszy
+3105 50_ 4_lewy_ do 5_prawy_ dlugi zacisk
+3300 70
+3365 na_szczyt nawrot_lewy
+3460 nawrot_prawy dlugi
+3515 6_lewy_ max 120
+3710 hamowanie 6_prawy_ do nawrot_lewy do 2_prawy _dluzszy
+3950 150
+4030 hamuj_ nawrot_lewy
+4120 30_ nawrot_prawy _dluzszy
+4200 150 do lotna
+4360 hamuj_50_ _do_mety_stop

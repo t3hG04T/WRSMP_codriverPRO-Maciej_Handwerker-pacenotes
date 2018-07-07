@@ -1,0 +1,84 @@
+#Kaihuavaara II
+-5 2_lewy otwarty
+10 do 7_prawy_ garb 50
+55 6_lewy zostan _na_wyjsciu hopa samp 100
+150 7_lewy _dluzszy zacisk  widac_ 7_prawy 100
+370 4_prawy nie_tnij odkleja 70
+520 3_lewy_ minus nie_wypuszczaj do
+600 7_prawy przez_garb 70
+670 7_lewy 40 4_prawy zacisk
+720 3_lewy ostroznie
+780 2_prawy shamuj_30
+850 _ciasny hak_lewy przytnij 70
+970 od_szczytu_ 5_lewy 
+1000 zacisk do 3_lewy 20 szczyt_prawa
+1100 5_lewy 70
+1170 podbija 6_prawy
+1200 do 5_lewy_ 30 
+1300 4_prawy nie_tnij
+1400 widac_ 50 prostuj
+1450 3_prawy plus zahacz
+1500 6_prawy krotki 20
+1550 4_lewy prawy wypusc szczyt_lewa 70 podbija
+1750 4_lewy do 5_prawy 50
+1840 3_lewy _dluzszy otwarty samp 40
+1940 5_lewy 50
+2000 6_prawy shamuj od_szczytu_ 
+2070 30 do ciasny_ hak_prawy przytnij 100
+2300 6_lewy do 6_prawy krotki prostuj 
+2350 do 5_lewy otwarty _podbija 100 
+2450 7_lewy dlugi podbija 40
+2580 od_szczytu_ podbija 7_prawy 50
+2700 do 4_lewy 40 garb prawa 30
+2850 5_prawy od_szczytu_ zacisk pozniej_
+2920 lewa prostuj do krotki 5_lewy
+2980 do 6_prawy 30
+3120 6_lewy hopa 40
+3250 podbija 5_prawy negat 50 hopa
+3350 5_prawy odkleja zostan
+3400 5_lewy _dluzszy otwarty 
+3500 do krotki 5_prawy _szczytem zostan 70
+3650 5_prawy garb odkleja 50
+3700 za_szczytem_ 5_prawy wypusc 30 garb 
+3850 do 5_lewy shamuj_30
+3950 3_prawy do 3_lewy zahacz 30
+4000 7_lewy 30 shamuj
+4050 2_prawy zacisk
+4070 minus 2_lewy otwarty 30
+4200 5_prawy krotki wypusc
+4250 do 4_lewy _dluzszy otwarty 100
+4300 od_szczytu_ hamowanie 40 
+4400 2_prawy dlugi zacisk 
+4500 do 2_lewy otwarty
+4580 od_szczytu_ 3_lewy_ do 3_prawy krotki
+4720 do 3_lewy dlugi otwarty 
+4800 3_prawy 
+4900 do 7_lewy 20 6_prawy shamuj do 2_lewy_ _dluzszy
+5100 do 3_prawy _dluzszy
+5150 do 5_lewy krotki
+5200 do 4_prawy 50 odkleja _na_wyjsciu
+5300 szczyt_lewa
+5350 do 4_prawy _dluzszy otwarty 30
+5450 3_lewy plus _szczytem 70
+5650 za_szczytem_ 30 shamuj 5_prawy 
+5700 do 2_lewy zahacz samp 50
+5800 7_lewy 
+5850 do krotki 5_prawy przytnij
+5900 do 5_lewy _dluzszy nie_wypuszczaj 30
+6050 6_prawy krotka
+6100 lotna i 3_prawy
+6200 30 _do_mety_stop
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+

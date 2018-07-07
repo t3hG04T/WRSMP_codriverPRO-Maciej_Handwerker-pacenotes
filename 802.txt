@@ -1,0 +1,196 @@
+#Ai-Petri
+-5 4_lewy_ do 4_prawy_ mocno_ciac
+20 80 pozny_ 5_lewy
+80 krotka pozny_ 2_prawy_ _krotki nie_ciac
+200 krotka 5_lewy_ do 4_prawy_ _dluzszy zacisk zahacz syf
+300 krotka 5_lewy do 6_prawy
+380 do pozny_ za_znakiem_ 3_lewy_ _krotki minus
+460 za_szczytem_ 5_lewy
+530 5_prawy_ syf do 2_lewy
+680 krotka 4_prawy_ zahacz syf
+730 6_lewy_ prostuj do pozny_ 3_prawy_ minus _nie_wypuszczaj
+880 80 pozny 2_lewy
+950 krotka 2_prawy_ _nie_wypuszczaj
+1040 3_lewy_ minus lekki_zacisk
+1120 do 3_prawy_ zacisk dlugi zostan
+1170 krotka garb od_szczytu_ 6_lewy
+1210 krotka 4_prawy_ minus
+1250 do 3_lewy_ do 2_prawy_ _krotki minus nie_ciac syf 
+1420 7_lewy_ 60
+1460 5_lewy_ smialo
+1480 60 pozny_ 3_prawy_ _krotki
+1540 do 5_lewy_ _krotki do 5_prawy_ _dluzszy
+1600 krotka pozny od_znaku_ 2_lewy_ _dluzszy
+1800 krotka od_znaku_ 2_lewy_ krotki
+1860 do 5_prawy_ zacisk_do_ 4 dlugi nie_ciac
+1940 7_lewy_ krotka 2_lewy_ _dluzszy zostan
+2060 do 2_lewy_ minus
+2140 do 2_prawy_ _krotki _nie_wypuszczaj samp
+2175 70_ prostuj 4_prawy_ _dluzszy do 4_lewy_ _krotki syf
+2240 60 lewa do 3_prawy_ _krotki
+2360 krotka 3_lewy_ _ciac syf
+2410 100 shamuj_ 2_prawy minus
+2470 90 5_lewy_ _krotki _ciac syf samp
+2500 do 2_lewy_ _krotki nie_ciac syf
+2630 krotka 3_prawy_ _krotki
+2710 prostuj 150
+2740 shamuj_ przy_murku_ 3_lewy
+2820 krotka przy_murku_ 6_lewy_ do 3_prawy_ minus _dluzszy
+2920 60 4_lewy_ minus zacisk zahacz syf
+2960 krotka 4_prawy_ _krotki
+2990 do pozny_ 2_prawy_ nie_ciac
+3090 krotka od_szczytu_ 3_lewy_ _dluzszy
+3150 do 4_prawy_ _krotki minus nie_ciac syf
+3200 do 6_lewy
+3260 70_ 5_lewy_ _krotki smialo
+3300 100 shamuj_ za_szczytem_ 2_prawy_ _krotki
+3460 do 6_lewy_ 60
+3490 3_prawy_ minus do 3_lewy
+3560 prostuj 3_lewy_ do 1_lewy syf
+3720 120 lewy 5_prawy_ do 4_lewy_ nie_ciac
+3820 80 4_prawy_ _krotki
+3900 5_lewy_ minus zacisk _dluzszy zahacz
+3940 60 pozny_ 5_prawy_ _krotki smialo
+4000 70_prostuj pozny_ 5_prawy_ przy_murku
+4060 krotka 4_lewy_ mocno_ciac syf
+4230 krotka 7_lewy_ prawy potem_ prostuj
+4300 krotka 4_prawy_ minus nie_ciac
+4370 5_lewy_ przy_murku
+4440 7_prawy_ do 2_lewy_ _otwarty
+4570 70_ shamuj_ 2_prawy
+4700 60 prostuj 2_lewy_ _barierki
+4750 krotka pozny_ 2_prawy
+4800 krotka 3_lewy_ minus _dluzszy przytnij_wejscie_ _nie_wypuszczaj
+4900 krotka 7_lewy_ _ciac do 7_prawy
+4980 120 prostuj 6_lewy_ _podwojny _ciac
+5110 szczyt_prawa smialo do szczyt_lewa smialo
+5260 150 shamuj_ za_szczytem_30
+5330 5_lewy_ _ciac
+5390 prostuj 120 hamuj_ hak_prawy zahacz syf
+5720 7_prawy_ zajebiscie_ dlugi
+5800 do od_znaku_ pozny 3_lewy_ _krotki
+5960 120 6_prawy_ _dluzszy
+6000 do hamuj_ hak_lewy 
+6050 do 1_prawy_ _dluzszy
+6230 60 od_szczytu_ 7_prawy_ _krotki
+6270 100 shamuj_ 2_lewy_ _krotki zahacz syf
+6340 do 4_lewy_ _krotki minus zahacz syf
+6450 80 1_prawy_ nie_ciac
+6570 krotka 6_lewy_ przechodzi_w_ 3_lewy_ minus zahacz
+6680 do 4_lewy_ zahacz
+6730 7_prawy_ syf do 4_lewy_ _krotki zahacz syf
+6820 7_prawy_ do 3_lewy_ minus zahacz syf
+6870 do 4_prawy_ minus _dluzszy
+6930 70_ 6_prawy_ _krotki
+6990 60 4_lewy_ _krotki syf
+7040 do 5_lewy_ _ciac syf do 3_prawy_ minus _krotki
+7170 krotka 7_prawy_ zacisk_do_ 4
+7230 do 4_lewy_ _dluzszy zahacz syf
+7260 do hak_prawy
+7400 5_lewy_ minus dlugi zahacz syf
+7460 200 prostuj hamuj_ 6_lewy_ zahacz syf
+7510 do 2_prawy
+7610 do 2_lewy_ zahacz syf
+7730 do 2_prawy_ _dluzszy
+7770 do 2_lewy_nie_ciac zacisk _dluzszy syf
+7810 krotka 2_prawy_ _wypusc samp
+7900 70_ prostuj 5_prawy_ minus _dluzszy
+7960 50_prostuj 5_prawy_ do 5_lewy_ _dluzszy nie_ciac
+8060 do 6_prawy_ _dluzszy
+8100 100 smialo przez_szczyt
+8150 shamuj_ 4_lewy_ _krotki zahacz syf
+8210 do 4_prawy_ minus
+8300 hamuj_ 6_prawy_ lewy do ciasny_ hak_prawy syf zostan
+8530 60 od_znaku_ hak_lewy
+8600 6_prawy_ lewy do hamuj_ hak_prawy syf
+8730 krotka pozny_ 5_lewy
+8760 4_prawy_ minus zahacz syf zostan
+8840 70_ prostuj 3_lewy_ _dluzszy lekki_zacisk
+9030 150 6_lewy_ smialo
+9080 60 6_prawy_ _krotki _ciac syf samp
+9140 5_prawy_ zahacz do 4_lewy_ _krotki minus nie_ciac
+9290 hamuj_ od_znaku_ hak_lewy
+9460 7_lewy_ _dluzszy nie_ciac
+9480 200
+9550 shamuj_ 4_prawy_ minus _dluzszy
+9690 50_prostuj 3_prawy_ _krotki
+9750 60 6_lewy_ _krotki smialo
+9820 90 6_lewy_ _prawy smialo
+9930 150 5_prawy_ krotki
+10090 70_ 6_prawy
+10130 150 prostuj
+10180 hamuj_ pozny_ od_znaku_ nawrot_prawy _nie_wypuszczaj
+10350 60 7_lewy
+10400 70_ 6_prawy_ zacisk dlugi
+10430 shamuj_ 2_lewy_nie_ciac _podwojny potem_ zacisk
+10600 100 pozny_ 6_prawy
+10650 do 4_lewy nie_ciac
+10690 60 shamuj_ 5_lewy_ syf do hak_prawy zacisk _nie_wypuszczaj
+10930 7_lewy_ 60 4_lewy_ _dluzszy
+11000 do 1_prawy_ nie_ciac zostan
+11050 prawy 50_prostuj hak_lewy
+11160 80 prostuj 2_lewy_ _krotki
+11260 5_prawy_ _krotki smialo
+11300 krotka 5_lewy_ _krotki
+11340 100 pozny_ 4_prawy_ zacisk _dluzszy
+11430 krotka za_szczytem_30 5_lewy_ minus _ciac syf
+11500 60 3_prawy
+11640 krotka hak_lewy nie_ciac
+11780 50_prostuj 4_lewy_ _dluzszy
+11810 shamuj_ 3_prawy_ _nie_wypuszczaj
+11880 krotka 6_lewy_ _krotki
+11920 90 pozny_ 5_prawy_ _podwojny minus
+12080 krotka 3_lewy_ przy_murku_ nie_ciac
+12180 80 6_prawy_ smialo
+12230 120 pozny_ 5_prawy
+12280 6_lewy_ do hamuj_ hak_prawy _ciasny nie_ciac zostan
+12520 5_prawy_ do 4_lewy_ minus _dluzszy
+12560 70_ 6_lewy_ smialo
+12610 do 5_prawy_ nie_ciac _kamien
+12660 7_lewy_ _prawy potem_ _ciac syf
+12700 60 5_lewy_ _krotki
+12750 do 6_prawy_ _ciac syf samp
+12810 60 6_prawy
+12870 krotka shamuj_ hak_lewy syf _nie_wypuszczaj
+13100 70_ 6_lewy_ _prawy smialo
+13130 80 minus 4_lewy_prawy nie_ciac _kamien
+13200 krotka 5_lewy_ _krotki _ciac syf
+13260 150 7_lewy_ do 6_prawy_ minus zostan
+13380 100 7_lewy_ zahacz do 7_prawy_ bardzo dlugi smialo
+13520  250 przy_murku_ 7_lewy_ smialo
+13600 120 6_prawy_ lewy _krotki _ciac syf
+13830 150 hamuj_ hak_prawy syf
+14150 100 6_lewy_ smialo
+14180 do 5_prawy_ minus
+14260 80 7_lewy_ smialo
+14300 70_ pozny_ 6_prawy
+14340 krotka pozny_ 5_lewy_ lekki_zacisk
+14440 70_ 7_prawy_ mocno_ciac
+14520 120 hamuj_  hak_lewy zahacz syf
+14770 60 przy_murku_ 7_lewy
+14820 120 7_prawy_ _podwojny
+14860 70_ 7_lewy_ smialo
+14900 100 pozny_ hak_prawy _ciac syf zostan samp
+15200 70_ 7_prawy_ lewy
+15260 200 prostuj
+15300 hamuj_ ciasny_ hak_lewy syf _nie_wypuszczaj
+15580 70_ 6_prawy
+15580 100 pozny_ 7_lewy
+15650 100 7_prawy
+15750 100 pozny_ 6_prawy
+15850 200 prostuj 
+15890 6_lewy_ dlugi
+15920 6_prawy_ lewy
+16040 krotka 6_lewy
+16090 hamuj_ ciasny_ hak_prawy syf _nie_wypuszczaj
+16420 krotka 7_prawy
+16450 80 6_prawy
+16490 70_ 6_prawy
+16520 120 pozny_ 7_prawy
+16560 60 hamuj_ ciasny_ hak_lewy nie_ciac syf _nie_wypuszczaj
+16920 150 prostuj
+16950 7_lewy_ 80 hamuj_ ciasny_ hak_prawy nie_ciac syf _nie_wypuszczaj
+17160 100 7_lewy do 6_prawy
+17190 60 6_lewy_ smialo
+17230 80 lotna i 5_lewy
+17520 5_prawy_ _do_mety_stop

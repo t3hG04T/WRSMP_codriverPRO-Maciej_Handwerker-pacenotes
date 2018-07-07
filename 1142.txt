@@ -1,0 +1,88 @@
+#Joux Verte
+0 nawrot_lewy
+70 60 _prostuj
+100 nawrot_prawy
+180 150 _prostuj
+250 shamuj_20 nawrot_lewy samp
+340 70
+400 6_prawy do 6_lewy
+470 do 4_prawy_ _dluzszy
+540 do 6_lewy
+620 za_szczytem_ nawrot_prawy
+710 100
+810 szczyt_lewa nawrot_lewy
+930 60 _prostuj
+970 nawrot_prawy
+1020 100
+1060 za_szczytem_ 30 nawrot_lewy
+1230 60
+1260 6_prawy do 6_lewy
+1380 za_szczytem_ nawrot_prawy
+1480 100
+1540 krotki 6_lewy 150
+1680 5_lewy minus odkleja
+1790 90
+1900 nawrot_lewy
+1990 do ciac_ 6_prawy
+2010 do przytnij 6_lewy do przytnij 6_prawy
+2050 100 _prostuj nawrot_prawy
+2260 za_szczytem_ 6_lewy do 6_prawy
+2320 szczyt i 5_lewy_
+2380 do 6_prawy podwojny
+2430 za_szczytem_ nawrot_lewy
+2640 do 6_lewy _szczytem przytnij
+2690 do 5_prawy 40
+2750 za_szczytem_ nawrot_prawy
+2880 100 _prostuj
+2950 nawrot_lewy
+3020 60
+3040 nawrot_prawy
+3130 100 
+3200 za_szczytem_ 30 nawrot_lewy
+3350 60
+3370 nawrot_prawy
+3440 20
+3460 za_szczytem_ 30 nawrot_lewy samp
+3530 60
+3580 nawrot_prawy na_glowna przez_garb
+3640 30
+3670 za_szczytem_ 40 5_lewy
+3720 30 przytnij 6_prawy
+3770 120
+3920 5_lewy_ plus
+4000 do 5_prawy wyjscie_hopa
+4100 do krotki 5_lewy plus
+4290 40 4_lewy wypusc
+4390 40 6_prawy przytnij wyjscie_szczytem
+4500 150
+4570 5_prawy_ zacisk
+4700 50 4_lewy_ zostan
+4890 szczyt_lewa do 5_prawy
+4990 do przytnij 6_lewy do 6_prawy
+5100 80 6_prawy podwojny przytnij _wyjscie
+5200 za_szczytem_ 60 ciac_ 1_lewy_ _z_drogi
+5565 nawrot_prawy zostan
+5610 do nawrot_lewy przyciac
+5640 80
+5680 za_szczytem_ nawrot_prawy przytnij
+5790 80 _prostuj
+5840 4_lewy_ minus
+5950 za_szczytem_ 6_lewy shamuj_30 nawrot_lewy _ciasny
+6170 do krotki 4_prawy za_szczytem_ 
+6200 ciac_ 3_prawy_ krotki do 6_lewy
+6300 nawrot_prawy _ciac
+6420 do 6_lewy podwojny
+6430 40 nawrot_lewy
+6550 do przytnij 3_prawy do 4_lewy
+6650 50 za_szczytem_ 20 nawrot_prawy
+6810 3_lewy 30
+6830 nie_ciac 4_lewy do 4_lewy
+6900 40 3_prawy_ zacisk_do_2
+7100 przytnij 5_prawy 70 _prostuj 3_lewy_ nie_ciac
+7230 30 przytnij 5_lewy do 3_prawy
+7270 do 3_lewy_ ciac_ _wyjscie
+7400 50 5_lewy 40 2+_prawy_ szeroko
+7560 50 krotki 5_prawy shamuj_40 nawrot_lewy _ciasny
+7830 60 
+7850 6_lewy 30 za_szczytem_ 80 _prostuj
+7980 lotna

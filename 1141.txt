@@ -1,0 +1,61 @@
+#Cote D'Arbroz
+0 3_prawy przytnij _wyjscie
+10 i 6_lewy_ podwojny
+80 60
+110 pozny 2_lewy
+280 100
+340 za_szczytem_ przytnij 6_prawy
+370 i 6_lewy
+400 10 nawrot_prawy
+530 20 za_szczytem_ nawrot_lewy
+630 30 przytnij szczyt_prawa
+650 40 7_lewy
+700 za_szczytem_ nawrot_prawy zostan
+840 krotki 6_lewy za_szczytem_ 70
+900 nawrot_lewy zostan
+980 i przytnij 5_prawy
+1020 do ciac_ 6_lewy
+1040 i 4_prawy
+1070 od_szczytu_ 5_lewy
+1110 shamuj_ pozny nawrot_prawy
+1250 50
+1260 za_szczytem_ 5_prawy_ shamuj
+1270 10 nawrot_lewy wypusc
+1400 50 7_lewy
+1430 70
+1450 ciac_ 5_lewy_ na_szczyt
+1540 80
+1580 nie_tnij 5_prawy
+1650 do mocno_ciac 5_lewy
+1780 do szczyt_prawa do 7_prawy
+1900 do krotki 6_prawy lewy
+2020 do 6_prawy
+2080 do _ciac 6_lewy krotki
+2200 do szczyt_prawa do 6_prawy_ minus potrojny 
+2350 do 5_lewy i 5_lewy_
+2400 zacisk_do_2 plus _ciac samp
+2550 do 7_prawy 70 
+2600 za_szczytem_ 50
+2650 _tylko_przyciac 4_prawy ostroznie
+2750 za_drugim_szczytem_ ciac_ 6_prawy
+2840 do przyciac 7_lewy 60
+2880 ciac_ 6_lewy do 7_prawy
+3050 120
+3070 pozniej_ 5_lewy_ odkleja
+3250 do 5_prawy
+3280 do 6_lewy
+3300 do przyciac 6_prawy_
+3350 50 przytnij 6_lewy_ _dluzszy
+3450 40 7_prawy 20
+3500 4_prawy_ plus zostan 80
+3590 od_szczytu_ ciac_ 5_lewy ostroznie
+3720 shamuj_30 ciac_ 3_prawy
+3980 do 7_prawy
+4030 za_hopa_ 30
+4080 3_lewy_ zostan
+4170 30 pozny 2_prawy_ _dluzszy
+4210 do 6_lewy przytnij _dluzszy
+4320 50 _tylko_przyciac krotki 5_prawy
+4440 i ciac_ 4_lewy podbija
+4500 100
+4620 lotna

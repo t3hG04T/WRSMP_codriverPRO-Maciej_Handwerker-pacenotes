@@ -1,0 +1,78 @@
+#Junior Wheels I
+
+0001 2_prawy _ciac 60
+0070 3_prawy do 2_lewy 100
+0214 2_prawy i 2_lewy 140
+0404 7_prawy i garb bardzo_wybija _ostroznie
+0608 za_hopa_ garb _podbija
+0772 5_lewy do 2_prawy zacisk
+0918 2_lewy negat _podwojny
+1045 3_lewy dlugi zacisk _nie_wypuszczaj
+1184 2_prawy krotka nie_tnij
+1242 5_lewy do 3_prawy
+1325 3_lewy ciasno
+1359 3_prawy
+1397 3_lewy zacisk
+1420 4_prawy
+1480 hopa_smialo
+1508 za_szczytem_ 5_prawy podwojny
+1840 2_lewy zacisk _od_znaku
+1971 7_prawy_ do 5_lewy 80
+2088 prawy_lewy prostuj
+2139 przechodzi_w_ 5_prawy i 3_lewy minus
+2331 100
+2364 2_prawy i 2_lewy 140
+2528 7_prawy i garb bardzo_wybija _ostroznie
+2728 za_hopa_ garb _podbija
+2909 5_lewy do 2_prawy zacisk
+3068 2_lewy _podwojny
+3081 nie_wypuszczaj
+3147 50 2_prawy _z_drogi do 3_lewy
+3236 60 nawrot_prawy dlugi 80
+3373 2_lewy przechodzi_w_ 2_prawy nie_tnij
+3459 nawrot_lewy dlugi negat
+3562 prawy_lewy prostoj i 4_prawy
+3652 nawrot_prawy dlugi
+3738 5_lewy do nawrot_lewy 80
+3898 6_lewy do 2_lewy negat nie_tnij
+4051 3_prawy zacisk
+4134 mostek
+4145 ciac _prawy do nawrot_lewy
+4245 za_woda_ nie_tnij nawrot_prawy
+4307 2_lewy _nie_wypuszczaj
+4360 nawrot_lewy
+4436 2_prawy _szczytem _nie_wypuszczaj
+4456 lewy_prawy
+4492 lewy przechodzi_w_ hak_prawy
+4574 3_prawy
+4600 2_lewy zacisk_do_1 i 1_prawy _na_glowna
+4663 5_lewy do prawy
+4700 i 3_lewy do 3_prawy nie_tnij
+4743 3_lewy do 4_prawy 250
+4873 hopa_smialo
+4986 za_szczytem_ 5_prawy _podwojny
+5170 2_lewy zacisk _od_znaku
+5375 5_lewy _wypusc
+5475 hamuj_ 2_lewy
+5592 lotna
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,92 @@
+# Bisanne
+0 za_szczytem_ 3_prawy_ przytnij_wyjscie
+20 30
+25 przytnij krotki 3_lewy
+70 do szczyt_lewa
+90 i szerzej_ 5_prawy
+110 20 _ciasny 3_lewy
+200 30 _ciasny nawrot_lewy
+330 do 2+_prawy
+390 do szczyt_lewa
+410 70 3_prawy_ _dluzszy lekki_zacisk
+450 i przyciac 4_lewy_ wyjscie_szczytem
+510 30 przytnij krotki 4_prawy
+530 i ciac_ 4_lewy
+640 30 nawrot_prawy
+770 i 7_lewy
+830 i ciac_ 5_prawy
+850 za_szczytem_10 _ciasny nawrot_lewy zostan
+950 20 _ciasny nawrot_prawy zostan
+1020 6_prawy przytnij_wyjscie
+1050 do 4_lewy minus
+1060 do ciac_ 6_prawy 40
+1120 nawrot_lewy
+1220 do szczyt_lewa
+1240 i przytnij 6_prawy_ lewy
+1270 40 _ciasny nawrot_prawy
+1390 70 _prostuj za_szczytem_ 40
+1410 slisko 3_lewy zacisk dlugi zostan
+1580 do 2+_prawy_ zacisk nie_ciac
+1640 za_szczytem_ 10 ciac_ hak_lewy _ciasny
+1720 i przytnij 6_prawy
+1750 40 _prostuj
+1760 przytnij krotki 6_lewy
+1780 50 3_prawy_ zostan 30
+1800 krotki 4_lewy_ prawy lewy
+1850 _ciasny nawrot_prawy
+2090 do 6_prawy
+2100 za_szczytem_ _ciasny nawrot_lewy
+2180 50 6_lewy_ na_szczyt
+2220 krotki _ciasny 4_lewy
+2250 40 3_prawy 30
+2270 5_prawy max 60
+2290 za_szczytem_ 70
+2340 przytnij 4_prawy i 2+_lewy samp
+2610 do 4_lewy_ prawy 
+2640 do 3_lewy
+2720 30 krotki 5_lewy 20
+2730 3_prawy _ciasny
+2750 i 3_lewy
+2790 20 3_lewy
+2800 30 ciac_ 2+_prawy
+2960 40
+2970 przytnij 6_prawy i 2+_lewy
+3030 i przytnij 3_prawy do 3_lewy_ zacisk_do_2
+3180 przytnij 2_prawy i 6_lewy_ prawy
+3200 30 przytnij 3_lewy 
+3290 i _ciac 4_prawy
+3300 50 _prostuj
+3310 szczyt_prawa do 6_lewy
+3320 80 _prostuj krotki 5_lewy minus
+3400 50 _prostuj
+3530 4_lewy do 3_prawy_ dlugi
+3630 za_drzewkiem_ zacisk_do_2
+3760 30
+3800 4_lewy i 5_prawy
+3830 ostroznie 4_lewy i 4_prawy
+3870 i 4_lewy do 3_prawy
+3930 szczyt_lewa i krotki 5_prawy lewy
+3900 i przytnij 3_prawy lewy
+4150 do 5_prawy i przytnij 5_lewy
+4230 za_szczytem_ shamuj_ 100 
+4300 nawrot_lewy
+4500 30 ciac_ 6_prawy
+4520 i 5_lewy
+4550 shamuj_30 nawrot_prawy _ciasny
+4630 20 szczyt_lewa podwojny 6_prawy i 6_lewy
+4650 za_szczytem_ 30 3_prawy_ zacisk_do_2
+4860 do 2+_lewy zacisk
+4920 do 2_prawy
+4960 i 6_lewy prawy
+4990 do przytnij 3_lewy
+5020 za_szczytem_ 40
+5050 5_prawy_ zacisk samp
+5180 70 _prostuj i ciac_ 3_lewy
+5300 70 6_lewy
+5350 shamuj_30
+5380 2+_prawy
+5500 do 2_lewy_ nawrot
+5550 do przytnij 4_prawy
+5580 szczyt_prawa nie_ciac
+5600 do 5_lewy shamuj
+5700 lotna

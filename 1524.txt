@@ -1,0 +1,85 @@
+#Sherwood Forest II Summer
+0 100 4_lewy przechodzi_w_ 4 prawy_lewy
+150 i 6_lewy prawy do nie_tnij 4_lewy
+300 100 i 5_lewy zacisk
+370 nie_tnij 5_prawy i 4_lewy dlugi _kamien _z_uwaga
+500 i 4 lewy_prawy ciasno
+640 5_prawy do 4_lewy dlugi zacisk _w_belach i 5_prawy
+860 100 3_lewy do 5_prawy nie_tnij
+1040 150 5_prawy zacisk_do_1
+1200 90 nawrot_lewy
+1300 1_lewy przytnij_row
+1400 5 prawy_lewy
+1500 nie_tnij 4_lewy do 6_prawy
+1620 5_prawy i 100 4 lewy_prawy
+1820 6_prawy do 4_lewy
+1960 3_prawy _tylko_przyciac
+2100 100 3 lewy_prawy zacisk_do_1
+2350 prostuj 6_lewy i hopa_smialo_
+2450 nie_tnij 5_lewy max
+2560 prostuj 150 hopa_smialo_
+2690 5_lewy przytnij_wejscie
+2760 90 4_prawy przytnij zacisk
+2880 1_prawy kamien _z_uwaga
+3020 100 3_lewy dlugi zacisk_do_2 ciasno
+3220 przytnij 4_lewy
+3340 przytnij 3_prawy do 3_lewy
+3600 6_prawy zacisk_do_ 5
+3660 shamuj 120 nawrot_prawy nie_tnij
+3830 prostuj 6_prawy
+3930 shamuj za_szczytem_ 5_prawy do 3_lewy przytnij_row
+4100 prostuj 150 6_prawy
+4250 6_prawy i shamuj 2_lewy ciasno
+4480 6 prawy_lewy i 50 2_prawy do 1_lewy do 2_prawy do 1_lewy
+4800 100 4 prawy_lewy dlugi zacisk_do_3
+5000 6_prawy do przytnij 4_lewy
+5120 4_lewy dlugi do 4 prawy_lewy
+5300 nie_tnij 3_lewy do nie_tnij 4_prawy
+5450 przytnij 5_prawy i 4_lewy zacisk
+5600 4_prawy
+5700 6_lewy do 5_prawy do nie_tnij 3 lewy_prawy zacisk _w_belach
+5920 5 prawy_lewy do 2_prawy
+6050 4_prawy _wybija_ do 4_lewy nie_tnij
+6200 5_prawy nie_tnij do przytnij minus 4_lewy
+6360 6_prawy do 2_lewy zacisk ciasno
+6500 5_prawy do 5_lewy zacisk i 5_prawy na_szczyt
+6650 5_prawy do przytnij 4_lewy zacisk do przytnij 5 minus prawy
+6850 5 lewy_prawy do nawrot_lewy nie_tnij
+7050 prostuj woda i 5_lewy przytnij
+7150 6_prawy do 5 lewy_prawy
+7360 4 lewy_prawy lewy na_szczyt
+7550 6_prawy do przytnij 4 lewy_prawy zacisk
+7750 5 lewy_prawy na szczyt
+7880 100 4_prawy przytnij_wejscie_
+8000 nie_tnij 4_lewy dlugi do przytnij 4_prawy
+8210 prostuj 5_lewy na_szczyt
+8320 za_szczytem 4_lewy _w_siodle do shamuj 1_prawy
+8620 7_lewy do 3_prawy _w_siodle
+8820 wybija 4_lewy zacisk
+8950 prostuj 5_lewy hopa_smialo
+9050 6_prawy i 200 wybija nie_tnij 4_lewy
+9270 przytnij 4_lewy do 5_prawy dlugi
+9420 przytnij 4 lewy_prawy
+9620 przytnij 4_lewy dlugi shamuj _na_spadaniu 1_lewy
+9860 prostuj 6 prawy_lewy
+10000 5_prawy do przytnij 4 lewy_prawy do 1_lewy przytnij
+10220 5_prawy przytnij_row
+10320 nie_tnij 4 prawy_lewy
+10420 przytnij 3_lewy na_mostek z_uwaga nie_tnij 3_prawy
+10600 5_lewy do nie_tnij 3_prawy i 4_lewy na_mostek
+10750 przytnij 5 lewy_prawy
+10820 120 i 4_lewy zacisk_do_3 i przytnij 5_prawy
+11020 100 nie_tnij 5_prawy do 4_lewy na_mostek
+11180 4_lewy do przytnij 4_prawy
+11300 przytnij 5 lewy_prawy
+11400 4_prawy przytnij_row i przytnij 5 lewy_prawy
+11610 120 przytnij 4 lewy_prawy
+11820 na_mostek i przytnij 4_lewy do 5_prawy dlugi
+12000 przytnij 6_lewy zacisk_do_ 4
+12150 100 6_prawy do 5 lewy_prawy na_mostek
+12320 shamuj 150 1_prawy nie_tnij
+12500 nie_tnij 5_prawy do nie_tnij 3 lewy_prawy
+12730 5_lewy wybija do 3_prawy
+12950 100 2_prawy do 5_lewy do 4_prawy do 5_lewy
+13210 przytnij 4_prawy do 3_lewy i shamuj 2_lewy
+13500 lotna 3 lewy_prawy i 50 _do_mety_stop

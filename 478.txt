@@ -1,0 +1,92 @@
+# Rallysprint Hondarribia 2011
+-15 50 nawrot_lewy do ciasny_ 1_prawy_ nawrot
+80 nawrot_lewy dlugi syf
+140 5_prawy
+185 4_lewy zacisk _ciasny slisko
+265 nawrot_prawy bardzo dlugi
+345 50 2_lewy zacisk do hak_lewy
+445 70 3_lewy do 4_prawy podwojny zacisk
+580 5_lewy
+605 6_prawy przechodzi do 5_lewy
+700 5_prawy z_uwaga_ do 4+_lewy 70
+900 6_prawy 120
+1005 5_prawy do 2_lewy
+1180 hak_prawy _z_drogi
+1240  50 2_prawy_ ciac_
+1280 30_ nawrot_lewy dlugi
+1365  4_lewy_ ciac_ dlugi do 4_prawy_
+1495  50
+1500 5_prawy_ do 6_lewy_ do 3_prawy
+1630 6_lewy 7_prawy_ za_hopa_ 6_lewy
+1745  90
+1795 2_prawy _z_drogi ciac_
+1865 80
+1880 5_lewy _dluzszy
+1970  70_ 4_lewy_ zahacz _wybija
+2040 3_prawy
+2100 100
+2135 6_lewy 100
+2240 6_lewy na_szczyt 50
+2375  6_lewy_ podbija
+2435 6_prawy_ podbija do 5_lewy do 5_prawy
+2645  za_szczytem_ 5_lewy_ 70
+2720 hamowanie 5_lewy_ do 3_prawy podbija
+2825 50_ 2_prawy_ nie_ciac
+2860 3_lewy _dluzszy przytnij otwarty
+2975 50_ 4_lewy
+3015 5_prawy przy_slupie
+3077 50_ 6_lewy_ zostan hopa lewa
+3210 70_ 4+_lewy shamuj
+3265 4_prawy_ ciac_ smialo
+3355 shamuj 5_lewy do hak_prawy ciasno
+3455  50_ 2_prawy_ ciac_ wybija
+3515 60  za_szczytem_ hak_lewy
+3600  70
+3626 3_prawy_ ciasno
+3685 100 max
+3785 lewy_prawy prostuj ciasno
+3840 50_ 2+_prawy nie_tnij
+3947 6_lewy_ przez_ hopa zostan
+4010 6_prawy
+4065 120
+4120 6_lewy_ i hamuj_ do hak_lewy _z_drogi
+4285 60 5_prawy zacisk do 2_prawy przytnij 
+4395 30_ 2_lewy_ dlugi
+4450 60 6_prawy_ do 5_lewy
+4555 nie_spiesz_ 5_prawy_ pozny_ hopa
+4610 potem_ 5_lewy
+4675 150
+4735 5_prawy_ zahacz smialo
+4850 200
+4940 hamowanie hak_lewy ciasno
+5075 3_lewy_ nie_tnij 70
+5180 5_prawy_
+5210 4_lewy_ bardzo dlugi
+5325 5_prawy
+5380 90
+5435 6_lewy_ do 5_prawy
+5500 50_ 2_prawy_ pozny
+5620 50_ 4_lewy_ pozny
+5725 50_ 5_prawy
+5770 80_ 4_prawy_ lekki_zacisk dlugi
+5900 5_lewy_ 70
+6000 6_lewy_ przez_szczyt
+6035 3_lewy_ lekki_zacisk
+6165 5_prawy_ 60
+6215 5 plus lewy _dluzszy 90
+6335 hamuj_ 5_lewy_ przez_szczyt 
+6445 4_prawy_ 
+6475 50_ nawrot_prawy _dluzszy
+6600 150
+6700 6_lewy_ do 3+_prawy
+6800 4_lewy nie_wypuszczaj do 4_prawy
+6920 100
+6990 4_lewy
+7035 50_ 2_prawy
+7130 40 2+_lewy
+7200 50_ 6_prawy
+7250 200
+7365 hamuj_ przy_drzewie 6_lewy_ do 4_lewy
+7525 60
+7590 lotna i hamuj_ 2_lewy
+7640 200 _do_mety_stop

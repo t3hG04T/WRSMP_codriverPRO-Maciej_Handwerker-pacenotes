@@ -1,0 +1,52 @@
+# Pian del Colle Snow Reversed
+20 2_prawy
+100 3_lewy_ ciac_
+200 do 4_prawy_ przytnij
+270 100
+330 6_prawy
+510 6_lewy
+600 szykana_od_prawej
+750 6_prawy_ do 6_lewy
+880 2_lewy
+1120 nawrot_prawy
+1200 6_prawy
+1300 6_lewy_ do 5_prawy
+1380 3_lewy_ nie_ciac
+1500 2_prawy_ do nawrot_lewy
+1650 4_lewy_ ciac_
+1820 nawrot_prawy
+1950 5_lewy_ do 6_prawy
+2050 4_lewy_ przyciac_ nie_wypuszczaj
+2280 nawrot_lewy do nawrot_prawy
+2500 6_prawy
+2680 6_lewy_ do 6_prawy_ przytnij
+2780 6_lewy_ nie_ciac
+3250 nawrot_lewy
+3450 szykana_od_lewej
+3770 6_lewy
+3850 6_prawy
+3950 3_prawy
+4050 4_lewy podwojny
+4320 4_prawy_ do 3_prawy_ podwojny
+4650 4_lewy
+4750 4_prawy
+4870 3_lewy
+5100 4_prawy
+5200 6_lewy
+5300 6_lewy
+5400 5_prawy_ ciac_ do 4_lewy_ ciac_
+5650 5_prawy
+5900 4_lewy
+6100 4_prawy
+6200 6_lewy
+6500 4_prawy_ do 5_lewy_ ciac_
+6580 5_prawy_ ciac_
+6700 6_lewy
+7000 4_prawy_ ciac_
+7200 5_lewy
+7300 5_prawy_ ciac_ nie_wypuszczaj
+7500 5_prawy_ ciac_
+7700 3_lewy_ zacisk
+7950 5_prawy_ ciac_
+8100 6_prawy
+8200 4_prawy lotna 150 _do_mety_stop

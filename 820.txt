@@ -1,0 +1,40 @@
+# La Rocca
+0 _prostuj 4_prawy dlugi do 4_lewy  
+200 3_lewy otwarty _tylko_przyciac
+400  2+_prawy nawrot _ostroznie i 5_prawy ciasno
+620 _prostuj i 
+750 150 shamuj nawrot_lewy _w_dol
+920 100 i nawrot_prawy
+1050 _prostuj 4_lewy dlugi zacisk_do_3
+1280 shamuj nawrot_prawy
+1450 3_lewy i _prostuj
+1600 shamuj  nawrot 2_lewy dlugi
+1800 i nawrot 2_prawy zacisk 
+1940 _prostuj i nawrot 3_lewy zacisk _z_uwaga
+2150 100 i 3_prawy nie_tnij
+2280 3_prawy do nawrot_lewy
+2500 _prostuj i 3_prawy _w_dol ciasno przechodzi_w_ 4_lewy dlugi zacisk_do_3
+2750 i 4_prawy ciasno _z_uwaga _kamien
+2900 prostuj
+3000 6_prawy max potem shamuj
+3100 150 _z_uwaga nawrot_prawy _w_siodle _na_spadaniu
+3320 i nawrot_lewy
+3450 _prostuj 6_lewy zacisk_do_ 4
+3650 150 i shamuj nawrot 2+_prawy bardzo dlugi z_uwaga
+3850 150 i 5_lewy zacisk_do_1 z_uwaga_
+4050 5_lewy przytnij na szczyt hopa z_uwaga_ _kamien 
+4350 4_lewy dlugi i 150 nawrot_prawy _na_spadaniu
+4720 5_lewy do 4_prawy bardzo dlugi _kamien z_uwaga_
+4900 i nie_tnij 3_lewy przez_szczyt z_uwaga_ do 4_prawy _w_siodle
+5150 shamuj nawrot_lewy i prostuj
+5350 6_prawy
+5450 4_prawy dlugi do przyciac 5_lewy do mocno_ciac 5_prawy dlugi
+5700 200 shamuj nie_ciac 4_lewy ciasny_ 
+5950 prostuj 6 prawy_lewy do shamuj nawrot_prawy do 3 lewy_prawy
+6250 prostuj 5_lewy_prawy i nawrot 2_lewy zacisk_do_1
+6450 5_prawy i 5 lewy ciac_ do nawrot_prawy do nawrot 2_lewy i prostuj
+6750 3_lewy ciasno przytnij_wejscie_ z_uwaga_ _kamien
+6910 4_prawy do nawrot_lewy i 100 nawrot_prawy
+7200 prostuj
+7250 nie_ciac 5_lewy do 5_prawy i lotna
+7400 4_lewy dlugi _do_mety_stop
