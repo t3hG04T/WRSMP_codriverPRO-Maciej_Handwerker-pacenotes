@@ -14,21 +14,21 @@
 970 i 4_lewy_ slisko zacisk_do_2 nie_ciac
 1070 90
 1120 zajebiscie_ ostroznie nie_spiesz_
-1170 4_prawy do 6_prawy_ lewy 
-1300 do 5_prawy 50
-1350 przytnij 5_lewy do
-1370 za_szczytem_ 4_lewy_ _ciac krotki
-1500 60 krotki 4_prawy
-1570 40 szczyt_lewa 30 ciac_ 1_prawy
-1780 za_szczytem_ 30
-1800 ciac_ 3_lewy_ plus smialo
-1820 80 nie_spiesz_ nie_ciac 4_lewy_ _ciasny
-1920 150
-2080 za_szczytem_ 5_prawy 70
-2170 nie_spiesz_ za_szczytem_ nie_ciac 4_lewy_ otwarty
-2330 80
-2350 za_szczytem_ 30 3_lewy_ negat nie_ciac
-2500 50 przytnij 5_prawy 20
+1170 4_prawy prostuj 100
+1330  5 lewy_prawy prostuj 90
+1450 przytnij 5_lewy  przy_drzewie
+1490 za_szczytem_ 4_lewy_ _ciac krotki 
+1575 60 krotki 4_prawy
+1615 40 szczyt_lewa 30 ciac_ 1_prawy
+1840 za_szczytem_ 30
+1850 ciac_ 3_lewy_ plus smialo
+1930 80 nie_spiesz_ nie_ciac 4_lewy_ _ciasny
+2065 150
+2210 za_szczytem_ 5_prawy 70
+2320 nie_spiesz_ za_szczytem_ nie_ciac 4_lewy_ otwarty
+2430 80
+2450 za_szczytem_ 30 3_lewy_ negat nie_ciac
+2600 50 przytnij 5_prawy 20
 2520 za_szczytem_ krotki 5_lewy 50 3_prawy_ _dluzszy
 2810 120
 2840 4_lewy_ _dluzszy lekki_zacisk

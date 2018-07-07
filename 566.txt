@@ -1,93 +1,60 @@
 # Undva
--15  7_prawy
-0020 120
-0100 6_lewy_ 150
-0227 6_prawy_ do 6_lewy_ przez_szczyt dlugi
-0435 150
-0510 6_prawy
-0578 250
-0720 shamuj_ 6_prawy_ przez_szczyt podbija
-0870 150
-0945 shamuj_ 6_prawy_ ciasno
-1030 120
-1005 6_prawy lewa _kamien do 4_lewy
-1260 50 5_prawy
-1335 200
-1470  za_szczytem_ 7_prawy
-1580 100
-1630 shamuj 5_lewy_ zajebiscie_ dlugi zacisk do 3
-1850 30 5_prawy
-1906 80 5_prawy
-1950 prostuj lewy_prawy
-2023 shamuj_20 3+_lewy do 4_prawy
-2172 60 4_prawy nie_tnij
-2285 3_lewy
-2390 70
-2420 6_lewy_ przechodzi_w_ 5_prawy
-2533 30 4_prawy
-2588 6_lewy_ do 6_prawy
-2655 nie_spiesz_ 50 5_prawy
-2780 80 5_lewy_ zajebiscie_ dlugi
-2990 50 6_prawy potem_ 6_prawy_ przez_garb
-3093 50_ 6_prawy _dluzszy nie_tnij _kamien
-3225 120
-3255 4_lewy_ zacisk
-3380 6_prawy _dluzszy
-3420 120
-3494  6_lewy _szczytem do 6_prawy hamuj_ do 2+_prawy dlugi
-3765 30 2+_lewy_ dlugi
-3880 60 5_prawy pozny
-3980 80_ 2+_prawy
-4120 50 6_lewy_ do 6_prawy 80
-4308 shamuj 4_prawy
-4390 20_ 6_lewy
-4448 50_ 4_prawy nie_tnij
-4543 50_ 6_lewy
-4590 100 prostuj
-4660 5_lewy
-4722 60
-4742 6_prawy_ do 6_lewy _dluzszy
-4868 100
-4927 shamuj_30 4_lewy
-5008 250
-5220 6_lewy_ do 5_prawy nie_tnij
-5372 80 shamuj_ 5_prawy
-5460 70_
-5500 hamuj_ 2+_prawy _dluzszy
-5618 70_ 
-5645 6_lewy 50
-5730 shamuj_20 5_prawy do 3_lewy 150
-6000 za_baner 5_lewy_ do 5_prawy_ do 5_lewy nie_spiesz_
-6180 podbija 50_ 6_prawy do
-6240 5_lewy_ do 4+_prawy _kamien nie_tnij
-6390 70_ shamuj_20 2_lewy _z_drogi _dluzszy
-6506 30_ 5_prawy nie_tnij
-6537 50_ 6_lewy _dluzszy
-6650 shamuj_30 lewa 2+_prawy nie_tnij
-6765 30_ 3_lewy
-6800 70 3_lewy
-6908 70_ 2+_prawy nie_tnij
-7000 300
-7240 6_lewy do 5_prawy_ 150
-7452 6_prawy_ do  6_lewy_ dlugi
-7605 200
-7800 6_lewy _dluzszy do 7_prawy
-7999 hamuj_ za_szczytem_30 3+_prawy
-8160 40 5_lewy
-8220 5_prawy _dluzszy nie_tnij
-8349 150
-8420 6_lewy 70
-8530 shamuj_ 6_lewy _dluzszy zacisk_do_ 4
+-15  7_prawy max
+0020 120 6_lewy_ 
+0070 150 6_prawy_ do shamuj_ minus 5_lewy zacisk przez_szczyt nie_tnij _kamien _ostroznie kaszel 
+0435 150 6_prawy nie_tnij kamien max
+0568 200 shamuj_ minus 5_prawy_ przez_szczyt nie_tnij _kamien zacisk podbija 
+0799 180 shamuj_ _pozny_ 4_prawy_ zajebiscie_ ciasno zacisk _przy_drzewach 
+0980 120 5_prawy lewa _kamien do minus 4_lewy zacisk _kamien
+1230 50 5_prawy max
+1335 200 za_szczytem_ 7_prawy i 120 shamuj _ostroznie nie_tnij 4_lewy_ zajebiscie_ dlugi zacisk do 2
+1800 50 4_prawy
+1876 80 4_prawy zacisk
+1920 prostuj lewy_prawy i shamuj_ do nie_tnij 3_lewy do 4_prawy
+2122 60 minus 4_prawy nie_tnij _kamien zacisk
+2285 3_lewy ciasno
+2390 70 5_lewy_ przechodzi_w_ minus 5_prawy zacisk
+2500 30 nie_tnij 3_prawy
+2588 6_lewy_ do 6_prawy i nie_spiesz_ 50 3_prawy 
+2730 80 5_lewy_ zajebiscie_ dlugi zacisk _kamien
+2920 50 nie_tnij 6_prawy potem_ 6_prawy_ przez_szczyt
+3023 50_ _wypusc 6_prawy _dluzszy ciasno _kamien
+3225 120 minus 4_lewy_ zacisk ciasno i 6_prawy prostuj
+3380 120 6_lewy _szczytem i hamuj_ 6_prawy do 2_prawy dlugi 
+3725 do 2+_lewy_ dlugi zacisk
+3840 60 5_prawy pozny
+3930 80_ 2+_prawy nie_tnij ciasno
+4080 prostuj 6_lewy_ do 6_prawy 80
+4258 shamuj 4_prawy ciasno do 5_lewy max
+4378 70_ 3_prawy nie_tnij ciasno _kamien i nie_tnij 5_lewy _przy_drzewach max
+4590 100 i 4_lewy zacisk
+4680 60 6_prawy_ do 5_lewy _dluzszy
+4868 100 shamuj_30 3_lewy ciasno
+5008 250 prostuj
+5170 6_lewy_ do 5_prawy nie_tnij
+5322 80 shamuj_ 5_prawy i hamuj_ 2+_prawy dlugi zacisk _kamien
+5550 100_ 5_lewy
+5625 50 i shamuj_20 krotki minus 4_prawy do minus 3_lewy i prostuj
+5850 150 za_baner 5_lewy_ do 5_prawy_ do 4_lewy ciasno
+6050 i shamuj_ slisko podbija 6_prawy do 5_lewy_ do 4+_prawy _kamien nie_tnij 
+6340 70_ shamuj_20 2_lewy _z_drogi zacisk 
+6456 30_ 5_prawy nie_tnij
+6507 50_ 6_lewy _dluzszy
+6580 shamuj lewa 2+_prawy ciasno _kamien nie_tnij
+6700 50_ 3_lewy nie_tnij
+6780 70 2_lewy nie_tnij
+6888 70_ 2+_prawy nie_tnij zacisk
+7000 prostuj 300
+7190 6_lewy do 5_prawy_ ciasno 150
+7382 6_prawy_ do  6_lewy_ dlugi max
+7600 150 i 5_lewy _dluzszy do hamuj 5_prawy do 5_lewy na_szczyt
+7869 i za_szczytem 3+_prawy do 40 4_lewy nie_tnij
+8160 5_prawy _dluzszy nie_tnij _kamien 
+8349 150 6_lewy i shamuj_ 6_lewy _dluzszy zacisk_do_ 3 ciasno
 8640 30_ 5_prawy
 8690 50_ 4_prawy_ nie_tnij
-8743 200
-8880 6_prawy_ lewy _dluzszy
-8980 120 smialo
-9082 6_lewy
-9118 120
-9223 6_prawy
-9265 400 _prostuj
-9653  shamuj_ 6_lewy_ nie_tnij 100
-9780 hak_lewy _za_bal
-9855 40
-9910 lotna 120 _do_mety_stop
+8783 150 6 lewy potrojny smialo i prostuj
+9118 120 6_prawy i 400 _prostuj 
+9453 200 hamowanie 6_lewy_ nie_tnij do 50 wybija hak_lewy _za_bal 
+9855 40 lotna 120 _do_mety_stop
+9910 

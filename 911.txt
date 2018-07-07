@@ -2,21 +2,20 @@
 -0012 5_prawy do  4_lewy _dluzszy
 0080  70  4_lewy pozny
 0180 30  3_lewy przyciac do 6_prawy dlugi
-0300 5_lewy _krotki
-0380 70 4_prawy _krotki
+0300 5_lewy
+0380 70 4_prawy
 0530 70 5_lewy nie_tnij
-0615 60 4_prawy _krotki 50
-0715 4_lewy_ i hamuj_ 2_prawy dlugi
-0885 80_ za_szczytem_10 3_prawy _krotki
+0615 60 4_prawy 50
+0715 4_lewy_ potem_ hamuj_ 2_prawy dlugi
+0885 80_ za_szczytem_10 3_prawy
 0995 70 6_prawy_ do 4_lewy_ zacisk
 1170 5_prawy przechodzi_w_ 5_lewy_ zacisk do  hak_lewy
 1337 70_ 5_prawy do 4_lewy
 1465 80 5_prawy przechodzi_w_ 6_lewy zahacz
 1615 shamuj_ do 4_lewy_ zacisk
 1700 100
-1750 3+_prawy do zahacz 3_lewy
-1850 4_prawy zajebiscie_ dlugi zacisk
-2010 30 4_lewy_ do 3_prawy _kotki
+1750 3+_prawy do zahacz 3_lewy przechodzi_w_ 4_prawy zajebiscie_ dlugi zacisk
+2010 30 4_lewy_ do 3_prawy
 2145 70 5_lewy na_mostek
 2220 80
 2270 4_lewy do 3_prawy nie_spiesz_
@@ -28,8 +27,7 @@
 2890 200
 2999 hamuj_ 6_lewy_ zacisk do hak_lewy
 3150 60 nawrot_prawy otwarty
-3235 6_prawy_ dlugi smialo _przy_drzewach przechodzi_w_ 
-3324 6_lewy_ _pod_wiadukt
+3235 6_prawy_ dlugi smialo _przy_drzewach przechodzi_w_ 6_lewy_ _pod_wiadukt
 3400 100 prostuj  lewy_prawy podbija
 3520 shamuj_ 30_ prawy do 5_lewy do 2_prawy
 3700 30 4+_lewy
@@ -54,7 +52,7 @@
 5930 50_ 4_lewy _dluzszy
 6060 120 prostuj
 6175 shamuj_ do 4_prawy
-6220 shamuj ciac_ 2_prawy do 4+_lewy zahacz
+6230 50 shamuj 2_prawy do 4+_lewy zahacz
 6340 80_ 5_lewy_ ciac_
 6460 4_prawy
 6505 50 5_prawy_ do 6_lewy 60 i 5_lewy ciac_
