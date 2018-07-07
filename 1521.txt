@@ -1,0 +1,109 @@
+#Sherwood Forest I
+0 5_lewy_ do 4_prawy_ nie_tnij 70
+150 2_prawy do 5_lewy prawa
+200 5_prawy do 4_lewy
+340 5_prawy _podwojny
+410 4_lewy _szczytem nie_tnij 4_prawy_
+520 2_lewy przyciac 80
+680 3_lewy i 5_prawy_
+820 5_prawy do 4_lewy_ nie_tnij dlugi zacisk i 4_prawy
+900 6_lewy odkleja shamuj_40 
+1050 _w_belach 1_lewy_
+1235 100 mostek 6_lewy_ do 6_prawy _szczytem
+1255 60 5_lewy do 5_prawy_  _podwojny
+1500 5_lewy_ i 5_lewy _ciac
+1650 3_prawy_ mostek
+1710 7_prawy_ do 5_lewy
+1825 4_prawy dlugi 50
+2000 5_lewy _prawy prostuj
+2100 3_lewy _tylko_przyciac
+2220 5_lewy_ i 5_prawy 70
+2345 4_lewy nie_ciac
+2400 4_prawy_ _tylko_przyciac mostek 4_prawy
+2485 4_lewy nie_ciac
+2530 7_lewy nie_ciac
+2600 3_lewy _tylko_przyciac
+2665 4_prawy 40
+2750 4_lewy shamuj_ i 3_prawy_ mostek
+2885 3_prawy ni_tnij do 3_lewy
+3000 4_prawy_
+3040 4_lewy mostek i 3_prawy nie_tnij
+3080 3_prawy_
+3120 6_lewy_ do 6_prawy zacisk
+3220 4_lewy _dluzszy _nie_ciac 80
+3310 4_lewy_ nie_ciac _shamuj za_szczytem_ do 2+_prawy_
+3500 5_lewy _ciac od_szczytu_ 4_prawy prastuj 200
+3700 szczyt_lewa _shamuj 1_prawy_
+3870 5_lewy _ciac _dluzszy do 5_prawy _duzszy hopa
+3990 6_lewy_ dugi
+4040 i 5_prawy_
+4080 6_lewy_ dlugi _nie_spiesz
+4280 5_prawy prostuj
+4350 5_prawy _w_brame 100 prostuj
+4480 6_lewy hopa_prawa 80
+4660 4_prawy do 5_prawy_ 80 _nie_spiesz _wybija
+4850 4_lewy 100 hamuj_ 2_lewy_nie_ciac
+5150 100 5_prawy do 6_lewy 120 prostuj
+5290 shamuj _szczytem 4_lewy dlugi nie_tnij
+5510 5_prawy max
+5600 5_lewy
+5675 6_lewy i 6_prawy do 6_lewy zacisk_do_ 4
+5900 5_prawy _szczytem
+6010 5_lewy
+6180 6_prawy i 6_lewy
+6290 6_prawy 6_lewy _w_brame
+6390 6_prawy shamuj woda 100 hamowanie 2_prawy_
+6650 6_lewy do przytnij_6_prawy_przez_szczyt
+6710 5_lewy tylko_przyciac_
+6775 5_prawy _dluzszy do 5_lewy_
+6810 szczyt 5_lewy 6_prawy _dluzszy
+7100 7_lewy hamuj_ 2_prawy zostan
+7250 7_lewy do 5_prawy do 5_lewy
+7400 5_prawy i 5_lewy_ _szczytem 
+7540 3_lewy _nie_ciac
+7680 60 _bale 3_lewy do 4_prawy_
+7780 100 7_prawy_ _podwojny
+7850 4_lewy_ i 5_prawy_ _dluzszy i 6_lewy otwarty
+8180 80 5_lewy do 5_prawy_ dlugi _ciac zacisk
+8300 5_lewy do 5_prawy _dluzszy
+8500 50 5_prawy lewy i 5_prawy_ _podwojny
+8690 5_lewy 130 i 3_prawy
+8910 2_lewy i 2_prawy_ przyciac 
+9050 i 3_lewy_ przyciac
+9120 100 prostuj_ 4_prawy_ _nie_spiesz
+9290 150 6_lewy dlugi zahacz 200
+9350 za_drugim_szczytem_ hamuj_ 4_prawy
+9650 6_lewy _podwojny
+9780 hak_lewy
+9930 120 6_lewy do 6p_prawy
+10000 4_prawy i
+10070 ciac_ _szczytem 4_lewy
+10300 4_prawy potrojny zostan
+10590 3_lewy_ przyciac i 4_lewy
+10780 6_prawy za_hopa_ 80
+11000 6_prawy _dluzszy ciasno i 5_prawy shamuj_ i 2_lewy _dluzszy
+11400 5_lewy przyciac i 5_prawy przyciac
+11500 4_lewy nie_tnij 4_prawy zacisk nie_wypuszczaj
+11690 6_lewy do 5_lewy 70
+11800 5_lewy do 5_prawy_ 50
+11950 5_lewy _podwojny
+12080 4_prawy_ _tylko_przyciac
+12150 5_prawy _ciac
+12210 4_lewy nie_ciac do
+12265 2 prawy nie_ciac 50
+12360 2_prawy_
+12450 2_lewy_nie_ciac
+12510 70 brama 5_lewy do 4_prawy_ 70_prostuj
+12750 6_lewy
+12800 5_prawy_ dlugi i 6_lewy nie_ciac
+13010 5_lewy do 4_prawy_ _podwojny
+13230 4 lewy_prawy nie_ciac 80
+13375 3_prawy_ i 4_lewy_ nie_tnij
+13460 4_prawy _dluzszy lotna
+13500 5_lewy i do 4_prawy_ i _do_mety_stop
+
+
+  
+
+																					
+
