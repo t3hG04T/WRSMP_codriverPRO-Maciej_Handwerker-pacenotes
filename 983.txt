@@ -1,69 +1,68 @@
 #Hyppyjulma Tarmac
 0 100 prostuj
 10 6_prawy dlugi zacisk przy_drzewie 30
-80 5_lewy_ minus _dluzszy 20
-230 6_prawy przytnij 50
-330 minus 5_lewy zacisk _kamien 40
-450 5_prawy przytnij 40
-520 od_szczytu_ krotki 5_lewy _w_siodle podbija 30
-600 5_prawy _dluzszy zacisk 40
-730 do 4_lewy samp 50
-820 krotki 5_lewy przytnij
-880 do 5_prawy zacisk przytnij 30
-990 4_prawy przytnij samp 30 4_prawy
-1060 4_lewy przytnij zostan samp
-1140 5_lewy przytnij 40
-1220 6_prawy przytnij krotki  50
-1285 6_prawy krotki ostroznie
-1330 pozny_ 5_lewy szczyt odkleja
-1450 shamuj_ hopa prawa ostroznie
-1580 7_prawy dlugi na_mostek wybija
-1710 krotki 6_lewy 30
-1780 6_lewy_ 40 shamuj
-1860 5_prawy_ minus _podwojny nie_wypuszczaj
-2070 5_lewy_ przytnij 40
-2150 6_lewy _dluzszy shamuj
-2230 od_szczytu_ przytnij 5_prawy_ lewy
-2350 shamuj_ 7_lewy przez_ hopa_lewa ostroznie
-2520 krotki 5_prawy minus
-2650 4_lewy _dluzszy zostan zacisk
-2720 do zahacz 5_prawy krotki
-2850 do 5_lewy _dluzszy 40
+205 5_lewy_ minus _dluzszy 20
+330 6_prawy przytnij 50
+400 minus 5_lewy zacisk _kamien 40
+540 5_prawy przytnij 40
+550 5_lewy _w_siodle podbija 30
+750 5_prawy _dluzszy zacisk 
+840 do 4_lewy samp 50
+940 krotki 5_lewy przytnij
+1010 do 5_prawy zacisk przytnij 30
+1110 4_prawy przytnij samp 30 4_prawy
+1175 4_lewy przytnij _dluzszy
+1306  50_ 5_lewy_ do 6_prawy z_uwaga_
+1425 70
+1460 6_prawy przez_garb
+1560 pozny_ 5_lewy szczyt odkleja
+1672 shamuj_ hopa prawa ostroznie
+1740 7_prawy dlugi na_mostek wybija
+1860 krotki 6_lewy 30
+1920 6_lewy_ 40 shamuj
+1975 5_prawy_ minus _podwojny nie_wypuszczaj
+2132 5_lewy_ przytnij 40
+2200 6_lewy _dluzszy shamuj
+2350 5_prawy_ lewy zahacz
+2480 200 przez_ hopa_lewa
+2620 krotki 5_prawy minus
+2740 4_lewy _dluzszy zostan zacisk
+2840 do zahacz 5_prawy krotki
+2870 do 5_lewy _dluzszy 40
 2910 shamuj 4_lewy spadanie ciasno
 2960 nie_tnij 2_prawy dlugi negat na_szczyt 50
-3150 5_lewy_ minus odkleja 
-3230 od_szczytu_ 4_prawy
-3300 6_prawy lewy
-3350 4_prawy  minus negat 5_prawy krotki
-3400 5_lewy
-3470 6_prawy krotki hopa
-3560 krotki 4+_prawy
-3600 przytnij krotki 6_lewy
-3670 krotki 5_lewy_ prawy przytnij 30
-3750 4_lewy_ prawy nie_tnij zostan 40
-3850 krotki 7_lewy 30
-3900 4_prawy 40
-4000 krotki 5_lewy i 5_prawy zahacz 40
-4040 krotki 5_prawy
-4100 6_lewy _szczytem przechodzi_w_
-4170 krotki 6_prawy
-4270 4_lewy odkleja nie_wypuszczaj
-4400 5_prawy minus 40
-4470 od_szczytu_ przytnij 5_lewy podwojny odkleja
-4670 5_prawy przytnij 30
-4730 4_lewy_ _dluzszy _szczytem przytnij 50
-4880 5_prawy przez_szczyt zacisk_do_ 4 odkleja 30
-5000 5_lewy krotki przytnij 
-5050 4_prawy przytnij krotki 20
-5080 7_lewy przytnij 30
-5200 3_prawy od_szczytu_ zacisk przytnij 20
-5280 4_lewy_ dlugi zostan
-5370 5_prawy 
-5420 5_lewy minus zostan _szczytem
-5500 z_uwaga_ przytnij 4_prawy lewy przez_szczyt
-5730 4_lewy zacisk przytnij nie_wypuszczaj 50
-5850 6_prawy 40
-5880 5_lewy przytnij zostan
-5930 5_prawy przytnij _wyjscie _szczytem 
+3198 5_lewy zacisk _szczytem _dluzszy
+3335 6_prawy lewy 40
+3420 4_prawy  minus negat 5_prawy krotki
+3510 5_lewy
+3535 6_prawy krotki hopa
+3637 4+_prawy
+3650 przytnij krotki 6_lewy 40
+3787 5_lewy_ prawy przytnij 30
+3825 4_lewy_ prawy nie_tnij zostan 40
+3910 krotki 7_lewy 30
+3980 4_prawy 40
+4100 krotki 5_lewy i 5_prawy zahacz 40
+4215 krotki 5_prawy
+4270 4_lewy _szczytem 30
+4346 krotki 6_prawy
+4370 4_lewy odkleja nie_wypuszczaj 30
+4450 5_prawy minus 40
+4510 od_szczytu_ przytnij 5_lewy podwojny odkleja
+4708 5_prawy przytnij 30
+4782 4_lewy_ _dluzszy _szczytem przytnij 50
+4927 5_prawy przez_szczyt zacisk_do_ 4 odkleja 30
+5100 5_lewy krotki przytnij 
+5140 4_prawy przytnij krotki 20
+5190 7_lewy przytnij 30
+5220 3_prawy od_szczytu_ zacisk przytnij 20
+5345 4_lewy_ dlugi zostan
+5470 5_prawy 
+5535 5_lewy minus zostan _szczytem
+5600 z_uwaga_ przytnij 4_prawy lewy przez_szczyt 40
+5750 4_lewy zacisk przytnij nie_wypuszczaj 50
+5930 6_prawy 40
+5970 5_lewy przytnij zostan
+6040 5_prawy przytnij _wyjscie _szczytem 
 6150 lotna
 6180 100 _do_mety_stop
