@@ -1,0 +1,25 @@
+# Lousada - WRC
+# @author: ŁĘCKI Ariel
+0000 50 2_prawy_ minus dlugi
+0070 70 7_prawy_ do dlugi 3_lewy_ _ciasny przez_szczyt nie_tnij
+0300 60 _na_szuter za_hopa_ hamowanie 3_lewy_ _dluzszy
+0540 150 hamuj_ hak_lewy _na_asfalt
+0750 150
+0830 shamuj_ 2_prawy_ dlugi
+0960 50 szczyt_prawa ostroznie 4_prawy_ _nie_wypuszczaj na_mostek
+1050 4_prawy_ zacisk_do_2 bardzo dlugi
+1270 30 _na_szuter i 4+_lewy zacisk do 1_lewy_nawrot 100
+1460 prawy max shamuj_ do hak_prawy _na_asfalt
+1600 150
+1680 shamuj_ 2_prawy_ minus dlugi
+1770 70 7_prawy_ do dlugi 3_lewy_ _ciasny przez_szczyt nie_tnij
+2000 60 _na_szuter za_hopa_ hamowanie 3_lewy_ _dluzszy
+2240 150 hamuj_ hak_lewy _na_asfalt
+2450 150
+2530 shamuj_ 2_prawy_ dlugi
+2660 50 szczyt_prawa ostroznie 4_prawy_ _nie_wypuszczaj na_mostek
+2750 4_prawy_ zacisk_do_2 bardzo dlugi
+2970 30 _na_szuter i 4+_lewy zacisk do 1_lewy_nawrot 100
+3160 prawy max shamuj_ do hak_prawy _na_asfalt
+3360 lotna
+3400 do 2_prawy
