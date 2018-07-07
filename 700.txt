@@ -1,0 +1,71 @@
+#Passo Valle
+
+0000 4_lewy zacisk_do_ 1_lewy_nawrot slisko
+0081 4_prawy _krotki przechodzi_w_ 6_prawy slisko
+0140 6_lewy _krotki przechodzi_w_ 3_prawy zacisk_do_2 slisko
+0260 5_lewy podwojny i 5_prawy 
+0370 lewy_prawy i 4_lewy
+0460 slisko 6_prawy do 4_lewy _krotki 
+0560 3_lewy dlugi wybija
+0640 6_prawy 100
+0690 6_lewy do 3_prawy dlugi
+0870 prostuj
+0890 5_lewy krotki 150
+1020 6_lewy do 6_prawy bardzo dlugi 100
+1330 5_prawy 80
+1440 slisko 4_lewy do 4_prawy
+1550 6_lewy i 3_lewy dlugi nie_ciac slup
+
+1740 4_prawy 50
+1800 3_prawy _nie wypuszczaj
+1850 5_prawy _nie_wypuszczaj 50
+1930 7_prawy i 7_prawy 200
+2080 prawy_lewy do 5_prawy
+2270 4_lewy i 4_prawy podwojny
+2440 slisko 3_lewy dlugi na_mostek
+2560 bardzo dlugi 6_lewy podwojny do 5_lewy
+2730 5_prawy _krotki i 4_lewy do 3_prawy
+2850 slisko 2_lewy do 3_prawy
+2900 7_prawy 100
+2950 5_lewy zacisk do 1_prawy slisko
+3159 2_prawy slisko
+3235 prostuj i 2_prawy do 2_lewy slisko
+3360 3_prawy _krotki i 5_lewy
+3400 prostuj do 3_prawy
+3480 5_lewy do 3_prawy
+3530 3_lewy
+3570 5_prawy 70
+3640 6_prawy i 7_lewy 50
+3713 5_lewy 80
+3787 5_lewy do 4_prawy
+3910 5_lewy do 3_prawy
+3970 2_lewy 100
+4041 3_lewy 80
+4120 5_prawy 80
+4170 3_lewy do 2_prawy _krotki slisko
+4250 4_lewy 50
+4280 5_lewy potem_ prostuj
+4329 i 4_prawy
+4420 2_lewy zacisk na_mostek
+4480 3_lewy slisko
+4520 prawy_lewy 50
+4560 6_lewy do 4_prawy
+4650 6_lewy do 3_prawy slisko
+4740 3_lewy do 3_prawy prostuj
+4780 4_prawy od_znaku_ zacisk
+4860 4_lewy dlugi
+4900 bardzo slisko 3_prawy
+4970 4_lewy
+5010 krotki 4_prawy do 4_lewy zacisk
+5080 6_lewy dlugi potem_ prostuj
+5250 bardzo slisko 2_prawy krotki do 3_lewy krotki
+5380 4_prawy krotki 70
+5470 hamuj 5_lewy do 4_prawy _ciac i ciasny_ 2_lewy slisko
+5620 3_prawy slisko
+5732 5_lewy _do_mety_stop
+
+
+
+
+
+
