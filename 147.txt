@@ -1,0 +1,138 @@
+#Peklo Snow_R
+0 150
+30 7_prawy
+50 do 6_lewy
+110 120 prostuj
+170 5_prawy
+230 50 3_prawy_ zacisk nie_ciac _na_wyjsciu
+450 do 2+_lewy_ dlugi 
+540 30 2_prawy
+640 50
+650 3_lewy_ _dluzszy
+760 40 3_prawy_ przyciac
+850 80
+880 3_lewy_ minus _dluzszy
+950 50
+980 5_prawy
+1000 do 3_lewy_ otwarty
+1110 40
+1150 6_prawy_ dlugi
+1250 do 3_prawy_ _ciasny
+1370 120
+1430 3_lewy_ zacisk
+1510 60
+1600 4_prawy
+1620 70
+1670 7_lewy_ shamuj
+1700 do 3_prawy_ _z_drogi
+1760 ostroznie do zostan 3_lewy_ samp
+1820 50
+1930 3_lewy
+2000 do 3_prawy
+2070 200 prostuj
+2170 6_lewy
+2190 50
+2200 5_prawy
+2310 80
+2350 ciasny_ 4_lewy
+2490 40
+2510 6_prawy_ bardzo dlugi
+2650 100 prostuj
+2720 6_prawy
+2740 80
+2750 4_lewy_ zacisk_do_3 minus przyciac
+2970 50
+2990 2+_prawy_ _nie_wypuszczaj
+3040 20
+3060 5_lewy
+3130 20
+3140 za_szczytem_ 60
+3160 1_lewy_ _ciac
+3300 40
+3310 3_prawy_ zacisk_do_2 nie_wypuszczaj
+3410 30
+3420 2_lewy
+3440 20
+3460 krotki 3_prawy
+3480 20 ciac_ 2_lewy
+3580 70
+3600 4_prawy_ minus dlugi
+3720 120
+3780 3_prawy_ plus
+3900 60
+3960 6_lewy_ zacisk_do_2 plus
+4120 do krotki 3_prawy i pozny 2_lewy
+4200 do 3_prawy
+4250 50
+4270 4_prawy_ minus lekki_zacisk
+4350 100
+4420 5_prawy do 5_lewy_ przytnij
+4500 80
+4530 6_prawy 30
+4560 4_lewy_ plus
+4580 50 slisko
+4600 od_szczytu_ 3_prawy_ _dluzszy podbija
+4740 50
+4780 4_lewy
+4920 do 6_prawy
+4930 120
+4940 slisko 4_lewy
+5170 150
+5200 6_prawy 50 
+5210 z_uwaga_ 4_lewy shamuj
+5240 20 _w_dol
+5250 1_prawy_ nawrot
+5510 100
+5540 krotki 5_prawy 
+5560 30
+5580 5_lewy
+5600 70
+5620 za_szczytem_ 7_prawy
+5700 za_drzewkiem_ zacisk_do_2 plus prawy
+5880 40
+5920 3_prawy
+5940 do 4_lewy
+5980 50
+6030 6_prawy
+6040 70 slisko
+6050 1_lewy_ _w_dol nawrot
+6230 do 7_prawy
+6240 50 4_lewy_ minus
+6260 do 4_prawy
+6280 70 shamuj podbija i 4_lewy
+6330 30 4_prawy_
+6340 lewy
+6400 50 2_prawy_ nawrot
+6700 30
+6720 3_lewy
+6740 do 2+_prawy
+6750 do 2+_lewy
+6755 za_drzewkiem_ krotki 4_prawy
+6770 60
+6780 za_szczytem_ 1_lewy_ nawrot nie_ciac
+6980 50 7_prawy_
+6990 lewy
+7000 4_prawy nie_ciac
+7010 i 3_lewy_ plus
+7060 30 nie_ciac 5_prawy
+7130 100
+7170 2+_lewy
+7180 20 2_prawy_ zacisk
+7340 30
+7390 3_prawy
+7400 80 za_drzewkiem_ 2_lewy_ nawrot
+7550 do 7_prawy
+7580 do 5_prawy_ dlugi
+7610 zacisk do 3_prawy_ zostan
+7650 shamuj 10
+7680 1_lewy_ nawrot
+7850 40
+7870 3_lewy
+7890 40
+7910 2_prawy_ nawrot
+7990 do 7_lewy
+8000 120
+8050 6_lewy_ przyciac
+8080 150
+8220 7_prawy 200
+8400 lotna

@@ -1,0 +1,62 @@
+# Sourkov II
+-5 30 5_prawy shamuj 30
+20 2_lewy minus ciasno 150
+100 od_szczytu_ nie_tnij 4_prawy samp 150
+250 od_szczytu_ nie_tnij 4_prawy 30
+350 6_lewy zostan 40
+450 5_prawy_ shamuj_30
+500 do 3_lewy
+600 krotka i 6_prawy_ zacisk 90
+650 szczyt_prawa shamuj_30
+750 4_prawy_ zacisk shamuj zostan 
+800 przechodzi_w_ 1_lewy_ nawrot nie_tnij 60
+900 za_szczytem_ 5_lewy _ciac podbija 50
+980 od_szczytu_ przytnij 6_prawy_ shamuj
+1070 do 3_lewy odkleja 70
+1150 7_prawy krotki max 70
+1220 od_szczytu_ shamuj 7_lewy wypusc
+1300 krotka i 4_prawy_ _ciac 50
+1420 za_szczytem_ nie_tnij 4_prawy_ _ciasny 50
+1550 od_szczytu_ 7_prawy krotki 30
+1650 7_lewy_ zostan hamowanie 40
+1700 za_szczytem_30 do 2_lewy _za_drzewo zahacz _na_asfalt 
+1800 300 od_szczytu_ prawa _z_uwaga hopa shamuj_50
+2000 garb shamuj_50
+2100 4_lewy zahacz 30
+2200 krotka i przytnij 4_prawy krotki 40
+2300 7_prawy 50 
+2400 7_prawy 60 shamuj
+2450 3_prawy podwojny przytnij _z_uwaga
+2550 wypusc _przy_drzewach do 5_lewy _dluzszy otwarty nie_tnij 60
+2750 shamuj 3_lewy _przytnij_wyjscie
+2850 krotka i 3_prawy nie_tnij 30
+2950 szczyt_prawa _wypusc do 6_prawy
+3000 do 5_lewy przytnij
+3050 krotka i przyciac_ 6_prawy_ _przy_drzewach
+3150 120 prostuj
+3250 od_szczytu_ przytnij 3_prawy _dluzszy zostan nie_tnij _wyjscie
+3350 40 4_prawy_ krotki zahacz
+3450 do 7_lewy_ krotki do 4_prawy przyciac _drzewach shamuj_30
+3550 2_lewy plus ciasno 40
+3650 2_lewy zacisk_do_1 nie_tnij
+3750 20 6_prawy krotki _ciac 80
+3850 7_prawy samp 50
+3950 5_prawy nie_tnij 70
+4100 szczyt_prawa 70 shamuj
+4200 przytnij _z_uwaga 4_prawy
+4250 do nie_tnij 4_lewy_ przechodzi_w_ 6_lewy
+4450 120 7_lewy_ _szczytem smialo
+4600 pozniej_ szczyt_lewa 
+4700 pozniej_ 7_lewy _szczytem shamuj_30 
+4850 do 4_prawy _dluzszy negat
+5050 100  4_prawy_ negat 70
+5200 3_lewy
+5300 od_szczytu_ 7_lewy _dluzszy 
+5400 250 prawa
+5600 krotki 5_prawy nie_tnij 70
+5750 5_lewy
+5800 do 4_prawy _ciac przy_drzewie _z_uwaga
+5950 100 szczyt_prawa prostuj smialo
+6050 150
+6200 lotna 
+6250 200 _do_mety_stop 

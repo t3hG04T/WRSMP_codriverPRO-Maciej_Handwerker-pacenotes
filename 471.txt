@@ -1,0 +1,62 @@
+# Aragona
+0 6_prawy _dluzszy shamuj zacisk_do_ 2_lewy dlugi ciasny_ podbija 10
+260 krotki 4_prawy do 6_lewy shamuj
+340 2_prawy nawrot
+460 przy_tasmie 4_prawy krotki zacisk_do_2 30
+560 3_lewy zacisk_do_2 70
+660 4+_prawy zacisk_do_ minus nie_tnij 20
+780 4+_lewy i 4_lewy krotki podwojny 50
+920 2_prawy zacisk 30
+1020 shamuj 4_lewy krotki  
+1040 do 1_lewy _z_drogi do 1_prawy
+1130 do hak_lewy do 1_prawy
+1170 2_lewy nie_tnij nie_wypuszczaj 20
+1230 3_prawy krotki do 3_lewy 30
+1280 przy_tasmie 4_prawy  do 3+_lewy
+1390 6_prawy zacisk_do_2 nie_tnij 30
+1530 4_lewy minus podwojny 100
+1680 2+_prawy 50
+1850 od_szczytu_ 5_lewy zostan do 7_prawy
+1930 150
+2000 pozny_ 5_lewy przy_tasmie 90
+2200 3+_prawy nie_tnij lekki_zacisk samp 40 
+2400 2+_prawy zacisk 70
+2520 2_lewy zacisk_do_1 200
+2630 7_prawy 
+2700 shamuj_ 80 3_prawy zacisk 30
+2980 4_lewy 40
+3050 przy_tasmie 4_prawy wypusc
+3150 do 4_lewy _dluzszy 70 ostroznie
+3230 5_prawy zacisk krotki 
+3280 do 5_prawy _szczytem pozniej_ 
+3370 hamowanie _szczytem prawa 50
+3440 2+_lewy zacisk
+3560 50
+3600 za_szczytem_ 2_prawy zacisk garb 70
+3700 pozny_ 4_lewy zostan nie_tnij slisko 20
+3820 5_prawy krotki 50
+3910 przy_slupie 6_lewy zostan samp
+4000 hamowanie _przy_drzewach 1_lewy _z_drogi
+4145 do hak_prawy do 1_lewy 30
+4220 5_prawy shamuj_30 1_lewy plus garb
+4350 5_prawy 10 i 2_lewy minus 20
+4430 2_prawy pozniej_ 3_lewy
+4540 5_prawy 70
+4580 2_lewy 30
+4650 i 2_lewy
+4700 prostuj 70 4_prawy przy_tasmie zacisk_do_3 
+4900 4_lewy prawy krotki i 3_lewy
+5050 5_prawy lewy
+5150 _szczytem 6_prawy 150
+5300  dlugi szczyt shamuj 3_lewy 30
+5500 3_prawy minus do  5_lewy dlugi lekki_zacisk shamuj_30
+5660 4_prawy do 3+_lewy garb zostan 10
+5800 2_prawy 
+5880 3_lewy zacisk 40
+5970 4_prawy minus 30
+6050 ciasno 2+_lewy zacisk_do_ 2_prawy i 1_lewy
+6170 2_prawy _dluzszy
+6220 i 2_lewy garb
+6290 2_prawy 10
+6315 3_lewy do 3_prawy otwarty dlugi
+6420 lotna

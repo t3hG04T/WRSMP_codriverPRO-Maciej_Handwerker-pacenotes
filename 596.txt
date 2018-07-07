@@ -1,0 +1,46 @@
+# Sardian night
+0 150 6_lewy krotki wypusc
+80 _szczytem 5_prawy odkleja 100
+200 4_lewy 50
+360 4+_lewy ciasny_ 150
+470 ostroznie 3_prawy_ ciasny_ zostan 40
+680 2_lewy 30 nie_spiesz_
+740 2_lewy krotki do 2_prawy otwarty 30
+825 nawrot_lewy krotki
+880 szczyt_lewa shamuj _na_spadaniu 2_prawy zostan _z_uwaga do 3_prawy
+1090 za_szczytem_ nawrot_lewy
+1250 200 3_prawy minus 30 
+1400 2_lewy 40
+1535 2_prawy ciasny_ do przytnij 2_lewy podwojny
+1650 za_szczytem_ 2_lewy zostan
+1790 4_prawy ciasno smialo 150
+# okr¹¿enie
+1880 6_lewy krotki wypusc
+1980 _szczytem 5_prawy odkleja 100
+2090 4_lewy 50
+2250 4+_lewy ciasny_ 150
+2370 ostroznie 3_prawy_ ciasny_ zostan 40
+2580 2_lewy 30 nie_spiesz_
+2650 2_lewy krotki do 2_prawy otwarty 30
+2725 nawrot_lewy krotki
+2780 szczyt_lewa shamuj _na_spadaniu 2_prawy zostan _z_uwaga do 3_prawy
+2990 za_szczytem_ nawrot_lewy
+3150 200 3_prawy minus 30
+3300 2_lewy 40
+3430 2_prawy ciasny_ do przytnij 2_lewy podwojny
+3550 za_szczytem_ 2_lewy zostan
+3690 4_prawy ciasno smialo
+#okr¹¿enie 
+3780 6_lewy krotki wypusc
+3850 _szczytem 5_prawy odkleja 100
+3950 4_lewy 50
+4110 4+_lewy ciasny_ 150
+4250 ostroznie 3_prawy_ ciasny_ zostan 40
+4440 2_lewy 30 nie_spiesz_
+4590 2_lewy krotki do 2_prawy otwarty 30
+4640 nawrot_lewy krotki
+4720 szczyt_lewa shamuj _na_spadaniu 50 2_prawy wypusc _z_uwaga
+4820 do 3_lewy spadanie i 3_lewy 100
+5000 _z_drogi 5_prawy lewy
+5050 lotna 200
+5260 _stop

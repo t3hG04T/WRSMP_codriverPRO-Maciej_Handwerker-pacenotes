@@ -1,0 +1,80 @@
+#Autiovaara II
+-5 5_lewy_ _szczytem 50
+30 od_szczytu_ odkleja 4_lewy 30
+100 4_prawy _dluzszy 30
+130 5_lewy 30
+180 za_szczytem_10 4_prawy otwarty 70 prostuj
+350 krotki 6_prawy zostan shamuj od_szczytu_
+420 plus 3_lewy _dluzszy nie_tnij
+520 krotka i 4_prawy
+600 do 4_lewy nie_tnij 50
+680 do 4_prawy _dluzszy zacisk wyjscie_szczytem odkleja 20
+800 do 4_lewy _dluzszy od_szczytu_ zacisk 30
+900 6_prawy 20
+980 4_lewy na_szczyt krotki prawy
+1050 do minus 4_lewy otwarty
+1200 50 prostuj
+1250 5_prawy 20 od_szczytu_ 4_prawy otwarty
+1320 30 prostuj przez_garb 
+1360 4_lewy 30
+1420 krotki podwojny 5_prawy zacisk od_szczytu_ spadanie 50 
+1600 4_lewy 30
+1700 krotka i 3_prawy zacisk
+1770 krotka i 4_lewy 
+1840 za_szczytem_ 4_prawy ciasny_ odkleja 20
+1920 4_lewy 50 4_lewy 30 
+1930 4_prawy nie_wypuszczaj 30
+2050 4_lewy 40
+2140 od_szczytu_ 4_lewy podbija do 4_prawy 20
+2270 od_szczytu_ krotki 6_lewy prawy 40
+2350 6_prawy _w_siodle 20
+2450 4_lewy 50 hamowanie
+2500 za_szczytem_ ciasny_ 3_lewy_ prawy 30
+2620 krotki 3_lewy plus podwojny
+2700 do 5_prawy
+2730 do 4_lewy _dluzszy i ostroznie od_szczytu_ 
+2850 3_prawy otwarty _na_spadaniu 5_prawy
+2890 hamowanie
+2940 do 2+_lewy dlugi _w_gore zacisk 10
+3100 4_prawy _dluzszy zacisk 50
+3200 4_prawy 20  
+3300 do 5_lewy 
+3350 do 4_prawy otwarty zostan na_szczyt 20
+3400 za_szczytem_ 20 4_lewy otwarty 50
+3600 7_prawy shamuj przy_drzewie hopa ostroznie 30
+3650 4_prawy 
+3750 do 4_lewy nie_tnij 40
+3900 5_prawy dlugi zacisk shamuj_40
+4000 _z_uwaga przytnij ciasny_ 4_lewy
+4050 do 4_prawy_ otwarty 30
+4120 4_lewy 30
+4180 krotki 5_prawy 40 6_prawy krotki
+4280 od_szczytu_ 6_lewy mostek lewa _na_wyjsciu odkleja 50
+4400 na_szczyt lewa hamowanie ostroznie
+4550 za_szczytem_ lewa 30 4_prawy otwarty 30
+4650 7_lewy 40 
+4720 6_lewy krotki
+4800 do 4_prawy 40
+4850 7_lewy
+4900 do 4_prawy _dluzszy
+5000 do 4_lewy samp
+5080 do 4_lewy _dluzszy otwarty 40
+5150 4_lewy
+5250 do 4_prawy 50 prostuj
+5300 4_prawy
+5370 do 5_lewy _dluzszy otwarty nie_wypuszczaj 30
+5500 do 5_prawy _w_siodle 40
+5600 5_lewy 40 shamuj ostroznie _kamien
+5670 pozny_ 4_prawy 40
+5750 6_lewy _dluzszy shamuj_30
+5850 3_prawy plus 20
+6000 5_lewy bardzo dlugi otwarty
+6150 przez_ lotna 
+6200 120 _do_mety_stop
+
+
+
+
+
+
+

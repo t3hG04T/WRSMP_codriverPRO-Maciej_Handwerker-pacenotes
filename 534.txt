@@ -1,0 +1,64 @@
+# Haguenau
+-5 2+_prawy przy_drzewie zahacz ostroznie ciasno
+70 150 lewa i 2_prawy nie_tnij zostan 
+180 do 3_lewy _dluzszy szeroko _za_slup i zacisk _za_bale
+290 do 2_prawy _za_bale zostan 30
+330 3_lewy minus nie_tnij pozniej_ ciasno
+380 krotki 2_prawy lewy 30 garb wybija
+440 2_prawy ciasno 10 3_lewy szerzej_
+500 _prostuj 150 _z_uwaga
+570 ciasno 1_lewy podwojny nie_tnij
+650 120 _z_uwaga _barierki
+710 szykana_od_prawej _w_belach ciasno
+820 pozniej_ prawy_lewy prostuj garb
+860 2_prawy ciasno wypusc pozno 50
+930 2+_prawy nie_tnij
+1010 5_lewy do smialo 5_prawy _dluzszy zacisk shamuj
+1100 do hak_lewy ciasno
+1260 4_lewy negat odkleja 50
+1300 6_prawy krotki zostan i 6_lewy prawy ciasno 70
+1450 2_prawy ciasno do 2_lewy zostan
+1680 150 hamowanie hak_lewy _za_bal
+#drugie okr
+1850 200 lewa i 2_prawy nie_tnij zostan
+1960 do 3_lewy _dluzszy szeroko _za_slup i zacisk _za_bale
+2070 do 2_prawy _za_bale zostan 30
+2110 3_lewy minus nie_tnij pozniej_ ciasno
+2160 krotki 2_prawy lewy 30 garb wybija
+2220 2_prawy ciasno 10 3_lewy szerzej_
+2280 _prostuj 150 _z_uwaga
+2360 ciasno 1_lewy podwojny nie_tnij
+2440 120 _z_uwaga _barierki
+2500 szykana_od_prawej _w_belach ciasno
+2600 pozniej_ prawy_lewy prostuj garb
+2640 2_prawy ciasno wypusc pozno 50
+2710 2+_prawy nie_tnij
+2790 5_lewy do smialo 5_prawy _dluzszy zacisk shamuj
+2880 do hak_lewy ciasno
+3040 4_lewy negat odkleja 50
+3080 6_prawy krotki zostan i 6_lewy prawy ciasno 70
+3190 hamuj_ 2_prawy ciasno do 2_lewy zostan
+3460 150 hamowanie hak_lewy _za_bal
+#trzecie okr
+3630 200 lewa i 2_prawy nie_tnij zostan
+3780 do 3_lewy _dluzszy szeroko _za_slup i zacisk _za_bale
+3880 do 2_prawy _za_bale zostan 30
+3920 3_lewy nie_tnij pozniej_ ciasno
+3970 krotki 2_prawy lewy 30 garb wybija
+4030 2_prawy ciasno 10 3_lewy szerzej_
+4090 _prostuj 150 _z_uwaga
+4160 ciasno 1_lewy podwojny nie_tnij
+4240 120 _z_uwaga _barierki
+4300 szykana_od_prawej _w_belach ciasno
+4410 pozniej_ prawy_lewy prostuj garb
+4460 2_prawy ciasno wypusc pozno 50
+4530 2+_prawy nie_tnij
+4610 5_lewy do smialo 5_prawy _dluzszy zacisk shamuj
+4690 do hak_lewy ciasno
+4850 4_lewy negat odkleja 50
+4890 6_prawy krotki zostan i 6_lewy prawy ciasno 70
+5040 2_prawy ciasno zostan 50
+5200 szykana_od_prawej _w_belach ciasno 100 lewa
+5290 szykana_od_prawej _w_belach
+5430 70 prawa ciasno
+5520 lotna

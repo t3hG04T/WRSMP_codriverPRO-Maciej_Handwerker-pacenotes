@@ -1,0 +1,69 @@
+#GB Sprint Extreme
+0 3_prawy_ przytnij i hak_lewy _za_znak
+70 7_prawy
+90 4_lewy_ minus _w_siodle przytnij _wejscie
+260 podbija 7_lewy_ zacisk_do_ 5 przytnij
+340 4_prawy_ zacisk_do_2 plus
+610 6_prawy_ przytnij
+700 7_lewy_ przez_szczyt
+750 5_prawy_ minus przytnij_row
+840 shamuj_ hopa
+910 5_prawy_ _z_drogi _przy_oponach i 3_prawy ciasno
+1140 prawa nawrot_lewy bardzo dlugi
+1340 3_prawy i 4_lewy
+1400 hak_prawy nie_tnij _wypusc
+1500 7_prawy
+1530 6_lewy zacisk_do_2 _podbija _nie_wypuszczaj
+1830 7_lewy
+1870 3_prawy_ nie_tnij bardzo dlugi _podwojny 
+2150 shamuj_ za_szczytem_ 80
+2180 4+_prawy_ _ciac
+2430 7_lewy_ przez_szczyt
+2450 shamuj_ hopa_prawa 70
+2580 hamuj_ 2_prawy_ _z_drogi _bale
+2780 70 _prostuj ciasno
+2800 za_szczytem_10 1_lewy_ przytnij_krzakiem_ _ciasny
+2890 2_prawy_ przez_szczyt zacisk nie_tnij _nie_wypuszczaj
+2950 samp i 4_lewy
+3000 1_lewy_ _podwojny bardzo ciasno
+3070 2_lewy_ _na_glowna _bale
+3120 3_prawy_ przytnij
+3150 2+_lewy_ _przytnij_wyjscie
+3310 150
+3370 shamuj_ hopa_lewa
+3400 7_prawy
+3430 4+_lewy _ciac
+3630 ostroznie za_szczytem_ krotka
+3760 3+_lewy nie_tnij bardzo dlugi _podwojny _nie_wypuszczaj
+4180 prostuj shamuj_ 2_prawy_ _podbija przytnij_row
+4330 2_prawy_ _z_drogi _bale
+4440 100 2_lewy_ zacisk dlugi
+4530 podbija 5_prawy_ lewy
+4600 2+_prawy_ przytnij
+4720 80
+4760 5_prawy_ przytnij
+4780 100 hamuj_ _podbija_ 1_prawy _nie_wypuszczaj
+4960 7_lewy_ do 6_prawy _ciac
+4980 60 5_lewy
+5020 5_prawy_ _podwojny
+5100 6_lewy
+5200 5_lewy_ przytnij
+5250 ostroznie 4+_prawy_ na_mostek
+5370 prawy i 4_lewy_ przytnij 
+5450 4+_prawy _nie_wypuszczaj
+5540 hamuj_ 2_prawy
+5740 5_lewy
+5760 5_prawy_ zacisk
+5780 6_lewy
+5800 80 7_lewy
+5850 6_prawy_ lewy
+5880 hamuj_ _podbija_ 2_prawy zahacz
+6070 6_lewy
+6090 za_szczytem_ 6_prawy
+6130 za_hopa_ 4_lewy_ _dluzszy przez_szczyt
+6260 wybija 3_prawy
+6330 6_lewy_ zacisk_do_ 5 _nie_wypuszczaj
+6450 5_prawy_ przytnij samp
+6500 4_prawy
+6530 80 prostuj bardzo _wybija przez_ potrojny garb
+6660 5_lewy_ nie_tnij lotna

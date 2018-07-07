@@ -1,0 +1,165 @@
+#Sumburk 2007
+0 30 za_szczytem_ 5_prawy
+60 do 4_lewy_ dlugi
+120 przy_drzewie zacisk
+200 20
+220 3_prawy_ zacisk_do_1
+330 20
+350 za_szczytem_ 80
+380 6_prawy 40
+400 za_szczytem_ ciac_ 2+_prawy
+480 i ciac_ 5_lewy_
+510 i ciac_ 3_prawy
+570 50
+600 7_lewy_ dlugi
+650 40
+670 przytnij krotki 6_prawy
+730 50
+770 6_lewy
+840 za_drzewkiem_przytnij_6_prawy
+940 za_szczytem_ 4_prawy_ przy_drzewku_
+1000 nie_spiesz_ 6_lewy_ prawy shamuj_
+1100 od_szczytu_ 3_lewy_ i hak_lewy _ciasny
+1300 do 5_prawy_ lewy przytnij
+1310 40 6_lewy_ _szczytem
+1340 50 za_szczytem_ 40
+1470 6_lewy 30
+1500 ciac_ 3_prawy
+1670 80
+1700 za_szczytem_ 6_lewy_ podbija
+1770 od_szczytu_ 6_prawy_ lewy
+1800 widac_ 50
+1810 _prostuj 6_prawy_ przy_drzewku_
+1830 do 6_lewy_ prawy
+1880 40 3_lewy_ krotki _przy_drzewach
+2200 120
+2280 krotki 5_lewy
+2300 50
+2310 mocno_ciac 6_prawy
+2350 30 6_prawy_ wyjscie_szczytem
+2400 za_szczytem_ widac_ 40
+2460 6_lewy 50
+2600 3_prawy
+2780 50
+2800 za_szczytem_ przytnij 2+_prawy
+2940 120 _prostuj
+2980 4_lewy
+3010 40 shamuj_ 5_lewy
+3070 20 _pozny_ 1_prawy syf
+3250 70 _prostuj
+3250 nie_spiesz_ 5_lewy
+3270 za_szczytem_20 przytnij 1_lewy
+3430 50
+3440 6_prawy_ wypusc 40
+3450 6_prawy
+3530 do 6_lewy
+3600 80
+3630 7_prawy
+3680 150
+3750 krotki 4_lewy
+3800 do 6_prawy_ dlugi
+4000 do krotki 5_lewy
+4100 80
+4180 6_prawy 50
+4230 6_lewy_ do 6_lewy
+4370 za_szczytem_ 7_prawy
+4520 50 7_prawy
+4600 150
+4650 szykana_od_prawej
+4925 100
+4950 4_prawy _dluzszy #+?
+5000 50 7_prawy
+5070 80
+5100 6_lewy do
+5140 3_lewy_ zacisk nie_ciac
+5320 syf
+5340 80 slisko
+5370 2+_prawy
+5480 70 _prostuj 2_lewy zacisk
+5575 60 krotki 6_lewy 30
+5600 duzy_syf 2+_prawy_ _z_uwaga
+5680 30 _pozny_ 2_lewy_ nie_ciac
+5800 do 6_lewy_ syf _na_wyjsciu
+5870 do krotki 3_prawy
+5910 50 ostroznie
+5930 krotki 4_prawy_ zacisk_do_1
+6030 20 nie_ciac 1_lewy
+6100 40 szczyt_lewa
+6150 do 6_prawy_ dlugi zacisk_do_3
+6340 30
+6350 pozny_ 2_lewy
+6420 za_szczytem_10 slisko
+6430 1_prawy
+6500 do 6_lewy_ na_szczyt
+6580 50
+6600 _na_asfalt i 3_prawy_ otwarty
+6630 potem_ zacisk
+6720 20 i 1_lewy
+6850 30 pozny_ 4_lewy nie_wypuszczaj
+6880 50
+6900 4_prawy_ dlugi nie_wypuszczaj
+7050 do 5_lewy
+7150 150
+7300 za_szczytem_ 6_lewy
+7400 70
+7450 5_lewy_ do 6_lewy
+7520 50
+7530 krotki 6_prawy
+7550 80
+7600 syf 2+_prawy
+7820 50 za_szczytem_ 150
+7900 krotki 5_lewy
+8000 50
+8020 krotki 5_prawy 70
+8120 6_lewy
+8170 do ciasny_ krotki 5_prawy
+8260 150
+8420 6_lewy_ lekki_zacisk
+8480 i 5_prawy_ nie_wypuszczaj
+8700 shamuj_30 2+_prawy
+8850 60
+8860 6_prawy_ podwojny
+8900 120
+8950 krotki 5_lewy
+9100 do 7_prawy
+9150 do przytnij 5_lewy
+9280 do 6_lewy
+9350 80
+9450 krotki 6_lewy
+9500 70
+9530 za_szczytem_ 7_lewy 200
+9750 2+_prawy_ otwarty
+10000 za_szczytem_ 6_prawy
+10050 za_szczytem_ 6_lewy
+10180 120
+10230 2_lewy_ nawrot
+10430 80
+10460 krotki 7_prawy
+10470 20
+10480 2_prawy_ nawrot
+10630 120
+10635 za_szczytem_ 2_lewy_ nawrot
+10840 200
+10900 2_prawy_ nawrot lekki_zacisk
+11090 50
+11111 4_lewy 60 # :)
+11140 krotki 5_prawy 40
+11160 2_lewy_ na_mostek
+11290 20 przytnij 3_lewy
+11350 50
+11370 4_prawy 40
+11400 2_lewy_ nawrot zostan
+11530 do 2+_prawy
+11580 100
+11600 2+_lewy za_baner
+11760 80
+11800 4_prawy
+11830 do 4_lewy_ lekki_zacisk
+11900 do 6_prawy_ _dluzszy
+12100 podbija i 6_prawy
+12110 70 shamuj_ krotki 6_prawy
+12150 do 2+_lewy
+12390 20 5_lewy 300
+12630 lotna
+12640 5_prawy
+#koniec

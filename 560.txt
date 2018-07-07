@@ -1,0 +1,83 @@
+#Loch Ard
+0 5_prawy_ i 5_lewy_ przez_szczyt
+30 6_prawy_ nie_tnij 100
+70 6_lewy_ przez_szczyt
+110 6_prawy_ nie_tnij
+210 150 prostuj
+300 4_lewy_ przytnij _nie_wypuszczaj _bale
+400 do 3_prawy_ zacisk _ostroznie
+500 60 przez_szczyt 3_lewy_ plus _dluzszy nie_tnij
+680 za_hopa_ 3_prawy_ _dluzszy nie_tnij
+830 7_lewy_ do 5_prawy_ przez_szczyt samp
+880 5_lewy_ nie_tnij
+970 szczyt_prawa samp
+1020 80 shamuj_ za_hopa_ 5_lewy_ podwojny 
+1200 do 6_prawy_ przez_szczyt
+1350 150 za_szczytem_ 6_prawy
+1500 4_lewy_ _podwojny do 3_prawy
+1720 6_lewy_ krotka i 6_lewy
+1750 minus 5_lewy_ i przez_szczyt i 5_prawy_ minus
+1980 120 prostuj szczyt_lewa
+2060 7_lewy_ _dluzszy 60
+2150 5_prawy_ nie_tnij _dluzszy
+2350 4_lewy_ przytnij_wejscie_
+2450 70_prostuj _w_siodle
+2480 6_prawy_ krotka 6_lewy
+2600 150
+2670 4_prawy_ nie_tnij row
+2800 4_lewy_ do 3_prawy_ przytnij
+2900 3_lewy
+2950 3_prawy_ przytnij
+3000 krotka 5_prawy_ przytnij _podwojny
+3050 za_szczytem_ 4_lewy_ _ciac _nie_wypuszczaj do 6_prawy_ lewy 
+3200 60 3_lewy_ nie_tnij
+3360 krotka 3_prawy_ zacisk_do_2 nie_tnij
+3470 za_szczytem_ 7_lewy
+3500 4_lewy_ minus _ciac
+3550 krotka i 6_prawy_  przechodzi_w_ 4 zostan
+3650 krotka przez_szczyt 5_lewy_ minus przytnij
+3800 7_prawy_ przechodzi_w_ 5 przez_szczyt
+3850 6_prawy_ lewy przez_szczyt 
+3860 60 szczyt_lewa
+3890 za_szczytem_ 4_prawy_ minus nie_tnij
+4120 120 prostuj przez_ podwojny szczyt
+4160 4_lewy_ zacisk przez_szczyt ostroznie
+4300 100 hopa 7_prawy
+4400 ostroznie 4_lewy_ _podwojny przytnij
+4500 ostroznie 4_prawy_ minus przez_szczyt
+4650 200 prostuj 6_prawy_ lewy
+4700 za_szczytem_ hamowanie i 3_prawy_ minus nie_tnij
+4880 krotka i 5_lewy_ przytnij przez_szczyt
+4890 120 prostuj
+4960 4_prawy_ przytnij krotka i 4_lewy
+5130 za_szczytem_ 6_prawy_ lewy
+5210 60 szczyt_prawa 
+5240 6_prawy_ minus do 5_lewy_ minus
+5430 120 prostuj hopa_lewa
+5570 60 hopa_lewa
+5610 prostuj ostroznie 7_prawy_ lewy przechodzi_w_ 4_lewy_ przez_szczyt
+5800 prostuj smialo przez_szczyt 
+5890 3_prawy_ plus przytnij
+6010 krotka 3_lewy_ _ciac
+6150 4_prawy_ przytnij
+6180 krotka _w_siodle i 6_lewy
+6200 4_prawy_ przytnij 
+6270 krotka i 4_prawy_ _dluzszy
+6360 2_lewy_ zacisk ostroznie na_mostek
+6520 100 6_lewy_ przytnij
+6600 120 przez_szczyt 
+6630 za_szczytem_ 5_lewy_ _ciac lekki_zacisk
+6730 5_lewy_ przytnij
+6850 5_prawy_ _ciac
+6900 za_szczytem_ prostuj krotka i 4_lewy_ _podbija_ ostroznie
+7050 nie_tnij 3_lewy_ _podwojny zostan do 5_prawy
+7170 4_prawy_ przez_szczyt bardzo dlugi zostan
+7300 5_lewy_ _podwojny
+7405 250 prostuj szczyt_prawa
+7540 6_lewy_ przytnij
+7550 6_prawy_ minus  potrojny przytnij_wejscie_
+7730 6_prawy_ lewy _w_siodle
+7800 shamuj_ 5_prawy_ przytnij za_szczytem_ 3_prawy
+8050 3_lewy_ minus
+8150 2_lewy_ negat nie_tnij
+8250 krotka i 3_prawy_ plus lotna

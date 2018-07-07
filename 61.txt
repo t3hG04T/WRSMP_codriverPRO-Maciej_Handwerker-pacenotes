@@ -1,0 +1,46 @@
+#Fraizer Wells
+0 prostuj 200
+50 6_lewy krotki _nie_wypuszczaj ciasno
+150 100 szczyt_lewa
+220 7_prawy
+270 20 3_lewy_ plus podbija
+400 10 krotki 6_prawy
+450 50 5_lewy krotki zostan
+550 30 4_prawy_ podwojny otwarty podbija
+670 70 6_lewy krotki odkleja
+950 30 6_prawy_ ostroznie podbija
+1150 100 7_lewy_ wyjscie_szczytem 70
+1400 szczyt_prawa odkleja smialo
+1550 400 prostuj podbija  
+1700 za_drugim_szczytem_ 7_prawy_ max 
+1900 120
+2100 5_lewy plus _dluzszy nie_tnij
+2350 do 6_prawy zostan
+2460 30 4_lewy_ negat nie_tnij
+2650 50 6_prawy
+2700 30 na_szczyt lewa max pozniej_ hopa
+2900 40 krotki 7_lewy
+3000 50 _w_gore _z_uwaga
+3050 za_szczytem_10 i 5_prawy minus negat
+3200 prostuj 120
+3320 krotki 6_lewy _w_gore 20
+3400 i 5_lewy plus _szczytem negat zostan
+3450 krotka i 5_prawy _szczytem nie_wypuszczaj odkleja
+3600 50 5_lewy plus podbija
+3720 do za_szczytem_ 5_prawy krotki  
+3800 80 prostuj
+3900 6_lewy _w_gore 
+4010 50 5_prawy plus _szczytem _z_uwaga
+4050 pozniej_ 5_prawy krotki wyjscie_szczytem zostan
+4300 30 za_szczytem_ 6_lewy
+4400 do 6_prawy 
+4500 do 6_lewy _dluzszy otwarty wyjscie_szczytem
+4550 30 7_lewy 
+4600 do 5_prawy plus przez_ dlugi szczyt otwarty
+4850 100 lotna
+4900 hamowanie
+5000 3_prawy 30 _do_mety_stop
+
+
+
+

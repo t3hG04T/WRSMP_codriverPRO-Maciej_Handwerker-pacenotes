@@ -1,0 +1,118 @@
+#Noiker
+0 6_lewy
+20 70 6_prawy
+120 50 podbija 40 6_lewy
+320 100 7_lewy
+360 za_szczytem_ 70
+580 7_prawy 100
+720 6_lewy 50
+750 6_prawy
+900 za_szczytem_ 50 6_lewy
+1000 50 6_lewy za_szczytem_ lekki_zacisk
+1200 podbija 70
+1300 6_prawy_ minus przez_szczyt _dluzszy
+1420 100 
+1520 6_lewy do 6_prawy i 6_lewy
+1720 80 6_prawy _szczytem 30
+1870 shamuj_ 5_prawy 40 2+_lewy_ negat nawrot
+
+2200 20 2_prawy_ nawrot nie_wypuszczaj
+2270 do 5_lewy_ prawy podbija
+2340 40 4_lewy 20
+2370 4_prawy przez_szczyt do
+2520 5_prawy do 3_lewy
+2680 za_szczytem_ 5_prawy podwojny przytnij do 4_lewy przytnij
+2900 100
+2930 5_prawy do 6_lewy
+3020 shamuj_ 70 1_lewy
+3230 do 6_lewy prawy do
+3260 4_prawy 30
+3280 3_lewy
+3470 50 4_prawy do przytnij 4_lewy
+3500 do krotki 2+_prawy do 1_prawy
+3700 do 6_prawy
+3740 50 5_lewy_ krotki i 3_lewy
+3900 30 4_prawy i 3_lewy przez_garb
+4000 do 6_prawy 30
+4100 5_prawy do 3_lewy
+4260 za_szczytem_ podbija 5_lewy_ zacisk zostan
+4400 do 5_prawy i 5_lewy_ przez_szczyt
+4480 30 3_lewy
+4630 30 4_prawy
+4670 40 3_prawy negat
+4770 40 7_prawy 40
+4820 4_prawy do 7_lewy przez_szczyt
+5060 za_szczytem_ 30 4_lewy_ zacisk_do_3
+5300 120
+5330 4_prawy_ przytnij _wyjscie i ciac_ 5_lewy
+5450 60 6_prawy 40
+5620 6_lewy za_szczytem_ 5_prawy ostroznie 30
+5700 5_prawy_ zacisk_do_3
+6000 40 4_lewy
+6100 70
+6140 za_szczytem_ 7_prawy 60
+6230 3_prawy_ przytnij _wyjscie
+6360 i 4_lewy_ dlugi zacisk
+6520 zostan do 6_prawy
+6630 za_szczytem_ 20 ciac_ 5_lewy 50
+6800 przytnij szczyt_prawa
+6850 150
+7000 za_szczytem_ 30 przytnij 4_lewy
+7170 50 5_prawy za_szczytem_ 30 przytnij 5_lewy
+7350 120
+7480 szczyt_lewa 100
+7650 4_prawy_ shamuj_ do 4_lewy_ zacisk_do_1 _ciac
+
+7900 30
+7920 za_szczytem_ 80 3_prawy
+7980 do 5_prawy_ _ciac i 3_lewy_ _w_dol
+8230 150
+8300 6_lewy podwojny przytnij
+8330 do 4_prawy
+8480 i 6_lewy
+8500 za_szczytem_ 7_lewy 120
+8650 2+_prawy_ nawrot
+8830 80
+8900 7_prawy 90
+9000 3_lewy
+9050 30 6_prawy
+9110 za_szczytem_ 2+_prawy_ zostan
+9260 20 2_lewy
+9330 50 4_prawy_ _ciac
+9360 do za_szczytem_ 6_lewy
+9470 60 6_lewy 30
+9580 za_szczytem_ 7_lewy do 5_prawy
+9750 30 6_lewy
+9820 200
+10000 5_lewy 30 4_lewy_ minus dlugi
+10250 do 6_prawy
+10310 80 4_prawy
+10410 50 4_prawy_ zacisk_do_2 nawrot
+10720 i 6_lewy_ podwojny
+10770 20 6_lewy
+10820 80 podbija 3_lewy
+10870 zostan 20 2_prawy nawrot
+11140 20 nie_ciac 4_lewy
+
+11170 30 7_lewy 100
+11200 za_szczytem_ 50 krotki 5_lewy_ _ciac
+11370 80 ostroznie za_szczytem_ spadanie 60 3_prawy
+11700 30 4_lewy
+11810 za_szczytem_ 40 ciac_ 4_prawy
+11880 30 6_prawy do 5_lewy
+12000 50 6_lewy minus nie_ciac dlugi
+12200 30 szczyt_lewa 30 7_prawy
+12300 50 wczesnie_ 6_prawy_  przytnij
+12420 200
+12620 szczyt_lewa
+12700 80 7_prawy
+12800 150
+12880 2_lewy zostan
+13050 do 4_prawy zacisk
+13130 70
+13210 5_prawy 40 3_lewy_ dlugi nawrot
+13440 do 3_prawy_ _dluzszy
+13530 100
+13580 3_lewy
+13680 40 4_prawy przytnij
+13880 lotna

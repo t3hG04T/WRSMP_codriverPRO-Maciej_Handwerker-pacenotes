@@ -1,0 +1,69 @@
+#Mlynky II
+0  5_prawy_ _podwojny
+40 od_szczytu_ 3_lewy_ minus odkleja
+170 6_prawy
+200 250 na_szczyt
+270 za_znakiem_ od_szczytu_ 4+_lewy odkleja
+430 spadanie_ 5_prawy
+550 6_lewy przez_szczyt
+600 krotka
+650 5_lewy_ przytnij
+700 hamowanie za_szczytem_20 2+_prawy
+950 80 prostuj
+970 5_lewy do szczyt_prawa
+1040 70 prostuj 6_lewy_ prawy hamowanie 2_lewy_ negat _w_gore
+1310 od_szczytu_ 6_lewy
+1360 shamuj_ 4_prawy_ _podwojny potem_ przez_garb
+1460 do 4+_prawy 
+1500 smialo przez_szczyt
+1550 6_prawy_ prostuj na_szczyt
+1620 od_szczytu_ 7_lewy
+1700 150 prostuj spadanie
+1740 6_prawy_ minus _dluzszy
+1860 100 prostuj
+1930 od_znaku_ 2_lewy_ przechodzi_w_ 3
+2150 6_prawy
+2230 100 prostuj
+2280 6_lewy_ i od_szczytu_ 4_lewy_ minus odkleja
+2480 2_prawy_ _w_siodle zostan do 1_lewy_ _ciasny _za_opony
+2700 200 prostuj
+2720 7_prawy_ do minus 6_lewy_ zajebiscie_ dlugi ciasno potem_ lekki_zacisk
+2900 shamuj_ 4_prawy_ minus
+3090 krotka na_szczyt
+3120 od_szczytu_ 6_lewy
+3200 250 prostuj lewa
+3280 5_prawy_ minus i 5_prawy
+3350 i hamowanie 2+_prawy samp
+3600 szczyt_lewa spadanie 6_prawy_ minus _dluzszy
+3670 150 7_prawy_ i shamuj_ za_szczytem_ 4_lewy_ minus
+3870 5_prawy
+3980 70 5_lewy_ samp
+4010 za_znakiem_ 2_lewy_ _dluzszy
+4220 smialo za_szczytem_ 7_lewy
+4270 70 6_prawy
+4320 80 prostuj
+4370 od_szczytu_ 6_lewy
+4410 120 prostuj 5_prawy
+4490 za_szczytem_ 5_lewy_ minus
+4650 od_szczytu_ 6_prawy
+4700 6_lewy_ _podwojny
+4800 shamuj_ 5_prawy_ minus zostan
+4900 120 prostuj 5_prawy
+5020 za_szczytem_ 5_lewy
+5070 5_prawy_ minus
+5120 spadanie i 4_lewy_ _dluzszy lekki_zacisk
+5330 120 prostuj od_szczytu_ 4+_lewy odkleja samp
+5460 hamowanie 2_prawy
+5640 120 prostuj od_znaku_ 5_prawy_ minus _dluzszy _podbija
+5780 100 6_lewy
+5800 150 na_szczyt smialo
+5830 za_szczytem_ 5_lewy
+6010 250 prostuj
+6100 od_szczytu_ 6_prawy_ i 6_lewy
+6190 80 6_prawy do 5_lewy
+6320 150 spadanie
+6350 shamuj_ zajebiscie_ _wybija_ 3+_prawy
+6580 7_lewy_ przez_szczyt
+6650 150 prostuj spadanie
+6720 4_prawy_ _dluzszy
+6980 lotna

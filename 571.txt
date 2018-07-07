@@ -1,0 +1,120 @@
+# Peyregrosse Mandagout
+0 4_prawy lewy krotki 70
+50 3_lewy nie_tnij do 3_prawy _dluzszy  wyjscie_szczytem zostan
+150 do 3_lewy 40
+200 2_prawy krotki do 1_lewy nie_tnij
+310 3_prawy otwarty
+360 3_lewy shamuj przy_murku hak_prawy 20
+485 3_lewy do 2_prawy nie_tnij
+510 pozny_ 1_lewy 20
+590 1_prawy _dluzszy nie_tnij 30 2_lewy
+720 3_prawy _ciac 50
+780 3_lewy do 4_lewy krotki 50
+850 4_prawy zostan 20 do 3_lewy _dluzszy do 1_prawy nie_tnij
+1000  5_lewy 30 krotka hak_lewy 
+1080 4_prawy otwarty 40 2_lewy
+1160 5_prawy _dluzszy zacisk i  6_lewy krotki 50
+1280 przy_drzewku_ 4_prawy 40
+1400 4_lewy _dluzszy zacisk nie_tnij do 1_prawy dlugi 70
+1580 5_prawy lewy krotki _szczytem shamuj_30
+1700 hak_lewy zostan 50
+1820 ostroznie 4_prawy krotki shamuj szykana_od_lewej 50
+1970 ciasno 2_prawy lewy i 3_prawy  na_mostek 30
+2100 2_lewy do 3_lewy dlugi
+2200 do 2_prawy dlugi do 3_lewy nie_tnij 40
+2370 4_prawy  dlugi
+2500 prostuj 70
+2550 2_lewy do 3_prawy lewy_prawy krotki
+2720 _dluzszy 3_lewy lekki_zacisk
+2830 4_prawy zacisk_do_2 dlugi
+2950 4_lewy dlugi otwarty nie_wypuszczaj do 4_prawy krotki 70 prostuj
+3100 2_lewy krotki do 5_prawy otwarty
+3200 pozny_ 1_lewy
+3320 6_lewy 30 6_prawy zacisk_do_2 _dluzszy nie_tnij garb 20
+3450 2_prawy krotki 30
+3550 3_prawy krotki do pozny_ 2_lewy samp
+3650 szczyt_prawa 150
+3720 6_prawy krotki 70
+3820  6_prawy krotki 40
+3900 3_prawy_ plus krotka i 4_lewy 40
+4050 3_prawy 30 3_prawy dlugi zacisk_do_1 syf
+4300 5_prawy zacisk shamuj hak_lewy
+4380 5_prawy krotki 10 prostuj
+4450 6_lewy krotki zacisk_do_2 dlugi 30
+4600 6_prawy otwarty 50 
+4670 7_prawy shamuj_50 hak_prawy 40
+4850 5_lewy do 5_prawy krotki 70
+4930 5_lewy 40
+5000 5_prawy  zacisk_do_3 
+5090 5_prawy 70
+5220 3_prawy _dluzszy shamuj do hak_lewy
+5300 7_prawy do 5_lewy otwarty 100
+5450 6_lewy zacisk_do_ 4 40
+5690 4_lewy krotki do 2_prawy na_mostek 30
+5820 2_lewy przyciac 30
+5870 nawrot_prawy
+5915 4_lewy _dluzszy zacisk_do_3 30
+5990 2_prawy do 7_lewy 50
+6070  5_lewy krotki do 2_prawy
+6210 5_lewy zacisk_do_3
+6280 6_lewy _dluzszy zacisk
+6330 za_szczytem_ 2_prawy _na_spadaniu 50
+6530 pozny_ 4_lewy otwarty do 6_lewy 30
+6650 shamuj 2_lewy do hak_prawy ciasno 20
+6820 3_lewy zacisk nie_tnij 40
+6870 nie_tnij 2_prawy shamuj 
+6950 hak_lewy zostan 40
+7000 do hak_prawy krotki ostroznie ciasny_ mostek
+7050 2_prawy do 5_lewy 50
+7130 4_prawy nie_tnij
+7255 6_lewy prawy 40
+7300 7_lewy _dluzszy zacisk_do_3 zostan 30
+7450 hak_prawy
+7520 6_prawy 40
+7550 1_lewy dlugi
+7650 6_prawy zacisk_do_2 przez_garb krotka
+7720 5_prawy _dluzszy zacisk shamuj
+7850 2_lewy podbija 50
+7950 4_prawy do 4_lewy otwarty 50
+8100 pozny_ 4_prawy 40
+8220 6_lewy _dluzszy przy_drzewie zacisk_do_ 4 dlugi 70
+8520 3_prawy  lekki_zacisk nie_tnij 50
+8650 6_prawy zacisk na_mostek ostroznie 1_prawy lewy  zajebiscie_ ciasno
+8800 3_prawy 
+8850 7_lewy do 5_prawy przyciac 120 prostuj
+8970 6_prawy zacisk_do_ 4_lewy _dluzszy zacisk 50
+9185 5_prawy zacisk_do_ 4 dlugi
+9370 krotki 5_lewy prawy shamuj
+9450 3_lewy _dluzszy do pozny_ 2_prawy do 2_lewy 50
+9640 krotki 6_lewy potrojny
+9800 do 5_prawy 100
+10000 nawrot_lewy do 3_prawy krotki
+10100 50 podbija
+10150 5_lewy krotka i 3_lewy do 4_prawy 30
+10410 4_prawy zacisk_do_2 50
+10520 1_lewy samp 30
+10600 5_prawy dlugi zacisk_do_ hak_prawy
+10770 2_lewy krotki do 4_lewy dlugi 70
+10850 7_lewy do 1_prawy ciasno 30
+10970 2_lewy dlugi
+11050 2_prawy do 4_lewy 30
+11100 2_lewy zacisk 20
+11220 6_prawy zacisk_do_3
+11350 6_prawy zacisk_do_1 lewy
+11400 krotki 5_lewy _szczytem otwarty
+11500 100 prawa na_szczyt 
+11550 za_szczytem_ 6_lewy krotki 20 3_prawy zacisk_do_2 zostan
+11700 3_lewy_ minus do 2_prawy 50
+11800 6_prawy 50
+11850 5_prawy lewy shamuj_40
+11930 hak_lewy do 3_prawy otwarty
+12050 5_prawy lewy nie_tnij do 5_prawy 40
+12190 3_lewy krotki przyciac
+12200 krotki 5_lewy do 3_prawy krotki garb 30 prostuj
+12300 3_prawy _ciac zostan prostuj 30
+12400 2_lewy 30
+12480 2_prawy podwojny _nie_spiesz
+12520 3_lewy podwojny dlugi 40 _nie_spiesz
+12640 pozny_ 3_lewy zacisk do 3_prawy otwarty
+12740 6_prawy dlugi
+12800 lotna

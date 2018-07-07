@@ -1,0 +1,25 @@
+# Rally School Czech
+0 4_lewy_ minus przytnij _ostroznie
+40 120 _podbija_ hamowanie 2_lewy_ na_glowna przytnij
+180 6_prawy_ przytnij
+200 5_lewy_ przytnij i 5_prawy
+250 4_lewy_ _podwojny przytnij
+430 100 6_prawy_ hamowanie 1_prawy _ciasny 
+700 120 podbija 4_lewy_ minus _dluzszy
+800 80 prostuj 4_prawy_ przytnij_wyjscie 
+900 do 3_lewy_ przytnij _nie_wypuszczaj mostek _wybija
+1000 3_prawy_ przytnij _ostroznie
+1150 5_prawy_ minus _dluzszy
+1200 5_prawy_ lekki_zacisk dlugi
+1300 60 4_lewy_ przytnij _ostroznie
+1470 60 4_prawy_ _dluzszy nie_tnij
+1560 krotka 5_lewy_ lekki_zacisk do ostroznie przytnij 4_prawy_ na_mostek _podbija
+1770 60 5_lewy_ szczyt_prawa do 5_lewy_ na_szczyt
+1860 shamuj_ za_szczytem_ _z_drogi ciasno 2_prawy_ lewy
+2120 100 4_lewy_ minus
+2250 150 7_lewy_ przez_szczyt 100
+2310 hamowanie slisko 2_prawy_ na_glowna
+2500 100 przez_szczyt
+2530 5_lewy_ do 5_prawy_ lewy przytnij
+2620 za_szczytem_ nie_tnij 5_prawy
+2900 lotna

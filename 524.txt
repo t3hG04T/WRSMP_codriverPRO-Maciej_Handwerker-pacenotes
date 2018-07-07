@@ -1,0 +1,25 @@
+# Rally School Czech II
+-5 lewy i 150 6_prawy zacisk przy_drzewie odkleja
+100 do 6_lewy wyjscie_szczytem odkleja do 5_prawy krotki
+260 5_lewy garb i 6_prawy  wyjscie_szczytem 
+320 hamowanie 40 2_lewy _z_drogi negat 
+650 100 szczyt_prawa 50
+750 3_prawy zacisk 50 prawa 
+900 wczesnie_ 2_lewy _z_drogi do 2_prawy lewy przyciac zajebiscie_ podbija 40
+1070 od_szczytu_  4_prawy_ _na_spadaniu zostan
+1100 od_szczytu_ 4_prawy_ na_mostek wybija ostroznie
+1220 3_lewy_ _krotki zahacz do 3_prawy_ plus  _dluzszy otwarty
+1370 do 4_lewy_ minus _dluzszy lekki_zacisk 100
+1480 5_prawy_ minus krotki _ciac 100
+1650 pozny_ bardzo dlugi 4_lewy_ plus podwojny 50
+1800 pozny_ 2+_lewy przyciac na_mostek podbija 40 
+1970 wczesnie_ 3_prawy zacisk do 3_lewy smialo
+2100 krotka i 7_prawy _nie_spiesz 30 
+2200 4_prawy_ minus nie_tnij samp garb _na_wyjsciu shamuj_50 
+2275 1_lewy  na_glowna 70
+2470 7_lewy 100
+2520 7_lewy do 5_prawy_ _dluzszy przy_drzewku_ _ciac
+2700 6_lewy i ostroznie 6_prawy lewy shamuj
+2800 do 3_prawy _z_drogi _za_drzewo podbija 100
+2970  za_szczytem_ 50 4_prawy zacisk nie_tnij 
+3045 lotna

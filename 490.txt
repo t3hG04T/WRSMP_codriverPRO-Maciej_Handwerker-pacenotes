@@ -1,0 +1,54 @@
+# Sourkov
+-5 30 7_prawy max
+50 prostuj 300 max
+130 przy_drzewie 4_lewy przytnij
+280 do 5_prawy otwarty
+420 150 za_szczytem_ 6_lewy dlugi otwarty max
+620 70 6_prawy _dluzszy 
+730 shamuj_ szczyt 40 3_prawy przytnij otwarty
+1000 70 pozny 4_lewy wyjscie_szczytem zostan
+1150 120 dlugi 6_lewy minus pozniej_ otwarty
+1300 przechodzi_w_ krotki 7_prawy lewy 
+1430 50 od_szczytu_ 5_prawy_ krotki
+1560 200 5_prawy _dluzszy zacisk zostan prawa
+1750 przechodzi_w_ 5_lewy _szczytem smialo
+1900 70 od_szczytu_ 6_lewy krotki 
+2100 100 od_szczytu_ 7_lewy max
+2280 80 shamuj 5_lewy_ krotki
+2300 do zahacz 2_prawy dlugi max zostan
+2570 40 _ciac krotki 3_prawy
+2600 20 3_lewy krotki _ciac 
+2680 krotki 4_prawy lewy
+2710 50 podbija 5_lewy bardzo dlugi zacisk_do_3
+2950 120 za_szczytem_ 7_lewy shamuj
+3050 40 przytnij 4_prawy krotki
+3170 od_szczytu_ krotki 7_lewy prawy shamuj
+3230 do 4_lewy zostan
+3280 do 3_prawy
+3390 70 od_szczytu_ 5_prawy zacisk zostan
+3430 do przy _drzewach 4_lewy zacisk_do_3 negat
+3650 7_prawy
+3750 do 7_lewy podwojny 70 shamuj
+3850 _przy_drzewach przytnij 4_lewy
+3970 40 5_prawy_ krotki
+4050 50 szczyt podwojny lewa _na_asfalt
+4200 200
+4300 hamowanie _za_drzewo 2_prawy minus _z_drogi _na_szuter
+4500 70 dlugi 7_prawy szczyt i 7_lewy krotki
+4600 100 shamuj 5_lewy zacisk wyjscie_szczytem prawa odkleja
+4730 100 przytnij 4_lewy krotki zostan
+4830 30 od_szczytu_ 7_prawy krotki
+4950 70 7_lewy _szczytem shamuj_50
+5030 do 3_prawy podbija nie_tnij zostan
+5130 przechodzi_w_ 6_lewy
+5170 30 hamowanie krotki 5_prawy _ciac _z_drogi
+5250 30 szczyt_lewa hamuj_ nawrot_prawy samp ciasno
+5400 30 5_lewy podwojny otwarty
+5450 70 7_lewy _szczytem _dluzszy zostan
+5580 20 shamuj 3_prawy
+5650 do 6_lewy _dluzszy 
+5730 7_prawy krotki
+5780 50 4_lewy samp odkleja 
+5850 5_lewy krotki
+6080 120 hamowanie za_szczytem_ 2_prawy
+6270 lotna 120 shamuj

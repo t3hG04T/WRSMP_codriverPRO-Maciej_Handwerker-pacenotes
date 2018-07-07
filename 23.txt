@@ -1,0 +1,49 @@
+#Shepherd Shield
+0 100 
+50 70 7_prawy
+100 do przytnij _z_uwaga 5_lewy
+200 50 przy_murku 5_prawy negat
+250 zacisk_do_2 _przy_drzewach otwarty zostan 30
+400 wczesnie_ przytnij 2_lewy_ ostroznie woda
+500 slisko zahacz 2_prawy_ minus krotka
+560 przytnij 3_lewy_ minus otwarty 40
+600 4_lewy ciac_ _z_uwaga slup podbija
+710 100 prostuj 7_prawy 
+850 50 przytnij 5_prawy i przytnij 5_lewy _nie_wypuszczaj _ciasny mostek
+1100 100 krotki 7_lewy wypusc _szczytem do 6_prawy
+1170 od_tasm_ 4_prawy zacisk_do_3 odkleja
+1300 do 3_lewy_ minus ciac_ przy_drzewku_ smialo
+1500 prostuj 150
+1550 szczyt_prawa i 6_prawy negat zacisk 50 shamuj
+1600 do 1_lewy _z_drogi 40
+1800 od_tasm_ ostroznie 2_lewy _ciasny mostek _na_wyjsciu podbija 20
+1850 pozniej_ 5_prawy przez_szczyt nie_tnij
+1920 wybija i krotki 5_lewy nie_wypuszczaj
+2000 30 szczyt 7_lewy
+2100 shamuj 5_lewy ciac_ row 80
+2220 6_lewy podwojny przez_ szczyt_lewa 50
+2450 krotki 6_prawy podwojny odkleja 50
+2600 od_szczytu_ nie_tnij krotki 5_prawy lewy przytnij 40
+2780 do za_drzewkiem_ nie_tnij 4_prawy _ciasny zostan 30
+2850 4_lewy przytnij_row nie_wypuszczaj 70
+3070 nie_tnij 4_prawy 
+3100 do ostroznie nie_tnij 5_lewy otwarty mostek _na_wyjsciu podbija 50
+3300 przytnij 5_lewy_ minus 70
+3400 podwojny 6_lewy przy_murku otwarty smialo 40
+3500 za_szczytem_50 shamuj
+3600 wczesnie_ 3_lewy zahacz
+3700 do 3_prawy_ minus zostan 30
+3780 5_lewy 20
+3850 i wczesnie_ _dluzszy 3_prawy zacisk 30
+3950 4_lewy _dluzszy 30
+4050 5_lewy przytnij_row
+4200 do 5_prawy ciac_ row 50
+4300 mostek i 6_prawy lewy prawy krotka
+4450 zacisk_do_ 4 wypusc _szczytem
+4550 do zostan 5_prawy lewy nie_tnij 30
+4650 przytnij 5_prawy_ minus
+4750 do 7_lewy i lotna 100 
+4850 _do_mety_stop
+
+
+ 

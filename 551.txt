@@ -1,0 +1,95 @@
+#Foron II Snow
+0 3+_prawy zahacz 70 prostuj spadanie
+50 hamuj_ hak_prawy _za_bal przez_garb 
+190 lewy potem_ prawa i 1_lewy_ _za_bal przez_garb 70
+285 2_lewy _ciac 40 _w_gore
+355 za_szczytem_20 hak_prawy _za_bal zostan  50
+450 hak_lewy _za_bal 30 _w_gore
+530 od_szczytu_ 2_prawy_ _krotki _za_bal negat
+570 prostuj _podbija_ i 2_prawy_ zacisk
+630 szczyt_lewa do 3_prawy
+690 do 2+_lewy _ciac i 2_lewy_ nie_tnij 
+840 5_prawy_ _podwojny samp
+920 hamuj_ 2_prawy_ _ciac _dluzszy zacisk 40
+1135 szczyt_lewa  krotka i 5_prawy_ lewy_prawy shamuj
+1180 nawrot_lewy _ciasny zahacz
+1330 nie_spiesz_ 3_lewy  shamuj
+1370 nawrot_prawy  zacisk zahacz
+1440 za_szczytem_ 40 6_lewy_ _krotki podwojny samp 50
+1500 shamuj_ 6_prawy zacisk_do_2 podbija
+1650 5_lewy 100 prawa
+1730 przyciac 4_lewy_ minus _dluzszy _z_uwaga samp 40
+1850 od_szczytu_ krotki 5_lewy podwojny
+1950 hamuj_ za_szczytem_ 2+_prawy _dluzszy podbija 20
+2170 3_lewy_ slisko zostan 
+2200 prostuj przez_szczyt
+2300 6_prawy_ _krotki i od_szczytu_ 3_prawy
+2440 5_lewy_ _szczytem _ciac 50
+2500 za_szczytem_10 4_prawy_ negat podbija nie_wypuszczaj
+2580 do 5_lewy prawy krotki 50
+2720 6_lewy _dluzszy 40 
+2790 przy_murku_ 4_prawy_ zostan spadanie
+2870 do 5_lewy_ do 5_prawy_ _szczytem do 5_lewy_ przyciac
+3130 krotki 5_prawy_ _szczytem wypusc do 6_lewy_ _ciac podbija
+3290  widac_ 6_lewy_ krotka 5_prawy_ max przyciac 
+3450 szczyt_lewa za_szczytem_ 3_prawy_ przyciac 100 przez_szczyt prostuj
+3680 6_prawy_ hamuj_ dlugi 2_lewy_ ciasny_ mostek podbija
+3830 pozniej_ otwarty nie_tnij prostuj 40
+3900 5_lewy_ _szczytem _ciac  do 5_prawy_ _podbija
+3950 5_prawy_ _krotki 50
+4040 6_prawy_ _szczytem zostan
+4140 5_lewy_ _ciac do 5_prawy
+4240 5_lewy_ przy_murku do 6_prawy_ nie_ciac 50
+4340 6_prawy_  przy_slupie 30
+4440 5_lewy_ _nie_spiesz _barierka zostan
+4560 5_prawy_ _dluzszy 50 prawa
+4680 za_szczytem_20 i wczesnie_ 5_lewy_ negat 50
+4790 6_lewy_ shamuj spadanie prawa
+4850 nawrot_lewy zahacz
+5040 pozniej_ szczyt_prawa spadanie shamuj 
+5080 7_lewy krotki do nawrot_prawy zacisk zostan
+5190  od_szczytu_ nie_spiesz_ 5_lewy_
+5210 za_szczytem_20 4_prawy_ negat zostan
+5240 spadanie 5_lewy _ciac  do 5_prawy zacisk do nawrot_lewy ciasny_ 70 podbija
+5465 5_lewy_ krotka nawrot_prawy
+5560 7_lewy_ potem_ _w_gore od_szczytu_ 5_prawy_ shamuj spadanie
+5630 nawrot_lewy zahacz _ciasny zostan
+5815  4_prawy_ zacisk_do_1 nie_wypuszczaj
+5910 5_lewy_ prawy przyciac 120
+5960 hamuj_ nawrot_lewy _ciac dlugi
+6170 5_lewy _dluzszy zacisk 
+6220 ostroznie za_szczytem_ 2_prawy_ _podwojny
+6440 4_lewy przyciac do 4_prawy shamuj 
+6510 do nie_tnij 3_lewy_ bardzo dlugi potem_ zacisk_do_2
+6640 do 4_prawy_ lewy _ciac shamuj
+6700 za_szczytem_ 2_prawy_ _ciac slisko 20
+6820  2+_prawy _ciac
+6865 6_lewy potrojny 30 shamuj
+6970 2_lewy_ _dluzszy mocno_ciac 120
+7100 od_szczytu_ 5_prawy_ lewy
+7140 nawrot_prawy otwarty
+7370 4_prawy_ zostan do nawrot_lewy _w_gore _ciac
+7440 od_szczytu_ 6_prawy_ otwarty 30 _nie_spiesz
+7500 2_prawy_ _pozny_ zacisk dlugi podbija
+7630 ciac_ 5_lewy_ prostuj _szczytem
+7650 hamuj_ hak_lewy _za_bal 50
+7750 4+_prawy _ciac 30
+7840 4+_lewy zahacz 50
+7910 4_lewy_ _za_bal podbija
+7980 za_szczytem_ 4_prawy_ minus _nie_wypuszczaj samp
+8050 5_prawy 50
+8090 od_szczytu_ 6_lewy_ _dluzszy shamuj
+8140 2_prawy_ _z_drogi _podbija_ 30 _na_asfalt
+8340 ciasno 2_prawy 30
+8400 2_lewy 30 
+8450 hak_prawy przez_garb negat zostan
+8480 za_szczytem_ nie_tnij 5_prawy_ spadanie
+8520 4_lewy_ _nie_spiesz do 5_prawy_ wyjscie_szczytem
+8610 do 5_lewy_ prostuj 50 ostroznie _barierki
+8680 4_lewy_prawy ciasno
+8850 do 2_lewy_ prawy_lewy prawy
+8900 do 3_lewy 30
+8940 5_prawy_ lewy shamuj
+8980 5_prawy_ zahacz wyjscie_szczytem prostuj
+9180 lotna 50 lewa
+9270 i _stop

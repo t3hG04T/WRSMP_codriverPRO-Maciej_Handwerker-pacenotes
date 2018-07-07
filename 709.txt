@@ -1,0 +1,32 @@
+#Travanca do Monte
+-17 120
+35 2+_prawy _na_szuter do 2_prawy
+90 100
+180 3_lewy
+235 50_ 5_lewy _dluzszy
+330 150
+442 4_prawy nie_ciac _kamien
+530 100
+570 hamowanie 1_prawy
+635 3+_lewy do 4_prawy 
+715 3_lewy_ podwojny
+760 6_prawy_ 50
+837 5_prawy do 5_lewy _podbija_
+935 shamuj do 3_lewy podwojny
+1020 100
+1070 5_lewy_ przez_garb
+1120 50_ 4_lewy
+1200 80
+1225 nawrot_prawy _dluzszy
+1295 100
+1350 4_prawy _szczytem z_uwaga_
+1390 do 6_lewy
+1485 150
+1570 3 minus lewy
+1660 100
+1735 6_lewy_ do 5_prawy
+1810 120
+1910 5_lewy do  hamuj_ 6_prawy_ do 1_lewy _z_drogi _za_znak
+2040 80
+2085 3_prawy _z_drogi
+2160 lotna i 60 _do_mety_stop

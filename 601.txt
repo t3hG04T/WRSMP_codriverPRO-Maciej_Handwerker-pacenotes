@@ -1,0 +1,81 @@
+# Northumbria (asfalt)
+0 prostuj 300 _w_gore
+120 za_drugim_szczytem_ 5_prawy_ krotki
+430 4_lewy wyjscie_szczytem 20
+530 4_prawy_ minus zahacz 30
+660 4_lewy _szczytem nie_tnij 40
+730 4_prawy_ zacisk pozny 70 
+830 za_szczytem_ 4+_lewy przytnij 100
+970 5_lewy_ minus przytnij
+1030 3_prawy od_szczytu_ otwarty
+1130 4_lewy_ minus podwojny _szczytem
+1200 krotka i plus 5_prawy_ 70
+1320 5_lewy _szczytem lekki_zacisk 30
+1450 5_prawy _dluzszy zostan 30
+1550 5_lewy_ minus krotki 30
+1670 5_prawy otwarty dlugi _ciac smialo 30
+1850 za_szczytem_ ostroznie 4_lewy_ _wybija_ _na_wyjsciu
+2020 5_prawy krotki 30
+2050 6_lewy krotki shamuj_ 5_prawy_ minus 50
+2220 5_prawy_ minus
+2300 do 5_lewy 50
+2390 4_lewy_ otwarty
+2460 za_szczytem_ 20 4_lewy krotki
+2550 do pozny_ 3_prawy 50
+2640 5_prawy krotki 70 prostuj
+2770 4_lewy _ciac
+2850 od_szczytu_ 4_prawy przechodzi_w_ 6_prawy 30
+2970 4_lewy odkleja wyjscie_szczytem nie_spiesz_
+3150 5_prawy_ minus
+3320 500
+3550 hamowanie szczyt_lewa 40 2_prawy_ negat
+3940 5_lewy_ 5_prawy_ lewy na_mostek ciasno
+4030 krotki 5_prawy_ zostan przytnij
+4150 do 3+_lewy dlugi lekki_zacisk
+4240 100 prostuj lewa
+4300 za_szczytem_ 4_prawy_ minus 70
+4430 3_lewy_ _za_drzewo 
+4480 4_prawy
+4510 do krotki 4_lewy 
+4570 krotki 2_prawy_nie_wypuszczaj_row samp ciasno mostek  
+4740 4_lewy i od_szczytu_ prawy zostan samp 30
+4830 5_prawy krotki 120 mostek
+4910 5_lewy_ przytnij zostan i 3_prawy_ zacisk 40
+5140 4_lewy_ pozny zacisk
+5230 za_szczytem_ 20 minus 4_prawy_ do 4_lewy_ mostek
+5370 i 3+_lewy 90
+5460 4_prawy zacisk_do_2 bardzo dlugi nie_wypuszczaj 
+5600 100 7_prawy 
+5660 do 6_lewy zacisk_do_ 5 
+5800 150
+5840 6_prawy_ lewy minus zostan shamuj
+6010 5_prawy 50
+6130 4_prawy 50
+6270 3_prawy_ minus zacisk zostan 
+6370 do 5_lewy_ krotki
+6430 prawy krotki 30
+6460 5_lewy_ lekki_zacisk
+6580 szczyt_lewa 40 5_prawy_ minus 50
+6650 6_lewy zahacz przechodzi_w_ 7_lewy
+6780 mostek i 4_lewy zacisk_do_3
+7000 5_prawy krotka i 3+_prawy _nie_wypuszczaj negat 100 
+7130 5_lewy krotki 150 podbija
+7260 shamuj 5_prawy_ minus zostan
+7380 mostek zahacz 5_lewy za_szczytem_ 6_prawy
+7560 krotka 5_lewy 30
+7610 4_lewy_ _ciac 30
+7780 3_prawy zacisk 50
+7920 wczesnie_ 4_lewy_ zacisk_do_3 negat
+8030 4_prawy krotki 50 prawa
+8080 5_lewy zacisk_do_ 4 przytnij zostan
+8130 krotka i 2_prawy 30
+8200 4_lewy krotki
+8270 od_szczytu_ 4_lewy przytnij do 2_prawy _dluzszy otwarty
+8430 prostuj 70
+8510 4_lewy_ zacisk zahacz krotka
+8580 i 2_prawy zacisk 50 
+8710 2_lewy_ _ciac prostuj 70 prawa
+8790 krotki 4_lewy do 4_prawy 40
+8950 5_lewy
+9035 lotna 70 prawa
+9185 _stop 

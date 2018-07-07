@@ -1,0 +1,19 @@
+# Karlstad
+0 200 shamuj
+50 3_lewy_ plus zacisk
+350 do 1_lewy_ nie_tnij
+445 hopa 
+480 do 2_prawy_ minus zacisk nie_tnij
+610 30_ 3_lewy_ zacisk _dluzszy nie_tnij
+915 200
+960 3_lewy_ _dluzszy zacisk 
+1290 do 1_lewy
+1320 1_prawy_ nie_tnij
+1400 100
+1415 hopa _prostuj
+1430 5_lewy do 2_prawy_ minus nie_tnij
+1550 20 1_lewy_ nie_tnij
+1600 3_lewy_ plus _dluzszy _otwarty
+1800 zacisk
+1880 100 _prostuj 
+1995 lotna 150 shamuj

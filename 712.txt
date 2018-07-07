@@ -1,0 +1,31 @@
+#Akagi II
+0 30 3_prawy 40
+30 2_prawy 10 nawrot_lewy 40
+120 nawrot_prawy zostan 
+170 do nawrot_lewy 50
+310 nawrot_prawy zacisk zostan do nawrot_lewy
+430 5_prawy lewy do 4_prawy lewy_prawy prostuj 50
+580 2_prawy dlugi
+715 5_prawy krotki do nawrot_lewy 80 
+860 4_prawy 20 nawrot_prawy szeroko 30
+1070 nawrot_lewy zacisk
+1140 5_prawy zacisk do 4_lewy zacisk 40
+1250 nawrot_prawy zacisk
+1380 3_lewy do 3_prawy do
+1440 nawrot_lewy otwarty 4_lewy
+1540 3_prawy 2_lewy prawy 
+1700 5_lewy 4_prawy lewy_prawy _dluzszy 70
+1900 nawrot_lewy do pozny_ 2_prawy
+2070 5_lewy 4_prawy lewy 40
+2220 nawrot_prawy zacisk 50
+2370 nawrot_lewy zostan
+2430 do 4_prawy do 2_lewy 30
+2510 nawrot_prawy 50
+2600 nawrot_lewy zacisk 10  nawrot_prawy 20
+2700 nawrot_lewy zacisk
+2780 6_prawy 70
+2820 2_lewy zacisk
+2980 6_prawy 30 nawrot_prawy zostan
+3110 do 3_lewy do 4_prawy _dluzszy otwarty smialo 200
+3430 lotna hamowanie
+3550 _stop

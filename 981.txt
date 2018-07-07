@@ -1,0 +1,70 @@
+#Hyppyjulma Gravel
+0 100 prostuj
+10 5_prawy_ dlugi zacisk przy_drzewie 30
+80 4_lewy_ _dluzszy 20
+230 6_prawy przytnij 50
+330 5_lewy_ minus _kamien 40
+450 5_prawy_ minus _dluzszy przytnij 40
+540 od_szczytu_ krotki 5_lewy_ _w_siodle podbija 30
+600 5_prawy_ _dluzszy pozny_ zacisk 40
+730 do 4_lewy_ samp 50
+840 krotki 5_lewy przytnij
+930 do 5_prawy_ lekki_zacisk przytnij 30
+1030 4_prawy_ przytnij samp 30 4_prawy
+1080 4_lewy_ przytnij zostan samp
+1140 5_lewy_ przytnij 40
+1290 6_prawy_ przytnij _krotki  50
+1440 6_prawy_ _krotki
+1500 pozny_ 5_lewy szczyt odkleja
+1570 shamuj_ hopa_prawa ostroznie
+1680 7_prawy dlugi przez_ mostek wybija
+1810 krotki 6_lewy 30
+1850 5_lewy_ 40 shamuj
+1910 5_prawy_ minus _podwojny nie_wypuszczaj
+2100 5_lewy_ przytnij 40
+2150 5_lewy _dluzszy shamuj
+2230 od_szczytu_ wczesnie_ przytnij 5_prawy_ lewy
+2370 shamuj_ 7_lewy przez_ hopa_lewa ostroznie
+2510 120
+2560 krotki 5_prawy_ minus
+2650 4+_lewy _dluzszy lekki_zacisk
+2770 przechodzi_w_ 5_prawy_ _krotki zahacz 
+2850 do 5_lewy_ _dluzszy 40
+2900 shamuj spadanie_ minus 4_lewy_ zacisk zostan 
+3010 nie_tnij 2_prawy_ dlugi negat 
+3140 na_szczyt 50
+3160 5_lewy_ minus przez_szczyt bardzo dlugi odkleja zacisk _na_wyjsciu
+3300 do 4_prawy_ samp
+3380 minus 4_prawy_ negat zostan do 5_prawy_ _krotki
+3420 5_lewy_ _w_siodle
+3480 6_prawy_ _krotki hopa_prawa shamuj
+3530 krotki 4_prawy
+3580 przytnij krotki 5_lewy
+3660 krotki 6_lewy_ _prawy przytnij 30
+3750 4_lewy_ _prawy nie_tnij zostan 40
+3920 krotki 7_lewy 30
+3970 4_prawy 40
+4000 krotki 5_lewy_ i 5_prawy_ zahacz 40
+4060 krotki 5_prawy
+4150 5_lewy_ _szczytem 
+4260 za_szczytem_ 5_prawy_ _krotki
+4340 4_lewy_ odkleja nie_wypuszczaj
+4400 5_prawy_ minus 40
+4470 od_szczytu_ przytnij 5_lewy_ podwojny odkleja
+4670 5_prawy_ przytnij 30
+4730 4_lewy_ _dluzszy _szczytem przytnij 50
+4880 5_prawy_ przez_szczyt za_drzewkiem_ zacisk_do_ 4 _dluzszy odkleja 30
+5070 5_lewy_ _krotki przytnij 
+5100 4_prawy_ przytnij _krotki 20
+5130 7_lewy_ przytnij 30
+5190 3_prawy_ od_szczytu_ zacisk przytnij 20
+5280 4_lewy_ bardzo dlugi zostan
+5420 5_prawy 
+5470 5_lewy_ minus zostan _szczytem
+5530 z_uwaga_ przytnij 4_prawy_ lewy przez_szczyt samp
+5730 4_lewy_ zacisk przytnij nie_wypuszczaj 50
+5850 6_prawy 40
+5880 5_lewy_ przytnij zostan
+6000 5_prawy_ przytnij _wyjscie _szczytem 
+6150 lotna
+6180 100 _do_mety_stop

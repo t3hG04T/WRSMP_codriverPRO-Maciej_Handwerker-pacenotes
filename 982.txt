@@ -1,0 +1,59 @@
+#Hyppyjulma II (szuter)
+-5 3+_lewy przez_garb 60
+10 od_szczytu_ 5_lewy_ _krotki nie_ciac do 5_prawy_ minus zostan
+60 krotka 5_lewy_ nie_ciac zostan
+190 za_szczytem_ minus 4_prawy_ negat _dluzszy nie_ciac
+340 100 przytnij prawa shamuj ostroznie
+360 od_szczytu_ 4_lewy_ przyciac _dluzszy zostan 
+510 4_prawy_ _krotki odkleja
+580 5_lewy_ _krotki nie_ciac
+630 do 5_prawy_ minus dlugi _szczytem zacisk
+800 3+_lewy zacisk zahacz _podbija
+880 7_prawy_ przytnij 30
+920 4_lewy_ przez_szczyt 20 
+980 krotki 6_prawy_ do nie_ciac minus 4_lewy_ negat zostan 50
+1160 5_prawy_ dlugi za_szczytem_ lekki_zacisk
+1380 5_lewy_ _krotki zahacz
+1420 5_prawy_ _krotki zostan
+1470 5_prawy_ _dluzszy za_szczytem_ lekki_zacisk 40
+1560 5_lewy_ zahacz 30
+1700 4_prawy_ zahacz do 5_lewy
+1800 od_szczytu_ 4+_prawy odkleja 
+1870 do krotki 5_lewy_ 70
+1950 minus 5_lewy_ i 5_prawy
+2040 przy_drzewie 4_lewy_ _krotki 100 prostuj
+2100 szczyt_lewa do 4_lewy_prawy wypusc
+2220 do smialo krotki 6_lewy_ _prawy ciac_ 
+2350 krotki 5_prawy_ do od_szczytu_ lewy
+2460 ciac_ hopa_lewa ostroznie
+2510 krotki _prawy i 5_lewy
+2620 4_lewy_ minus negat _ciac
+2710 prostuj 70
+2750 5_lewy_ _krotki do 4_prawy_ _podwojny _szczytem negat bardzo dlugi zostan
+2920 shamuj_ 4_lewy_ pozny_ zacisk_do_2 bardzo dlugi zostan
+3085 4_prawy_ minus _dluzszy  
+3150 od_szczytu_ 4+_prawy 30
+3240 5_lewy_ _krotki do 5_prawy_ dlugi za_drugim_szczytem_ zostan
+3380 zahacz 5_lewy_ 100
+3520 6_prawy shamuj hopa i krotki zacisk_do_ 5
+3680 5_lewy_ _krotki przytnij 60
+3820 pozny_ 5_prawy_ _podwojny dlugi lekki_zacisk
+3950 ostroznie garb i 5_lewy_ _podwojny minus dlugi
+4100 5_prawy_ _krotki 50
+4150 krotki 6_prawy_ lewy _szczytem 50
+4250 shamuj 6_lewy_ przez_ mostek shamuj_ duza_hopa 
+4370 20 4_prawy_ _podwojny otwarty 70
+4600 od_szczytu_ 7_lewy_ _krotki
+4640 krotka i 6_lewy_ shamuj
+4700 do 5_prawy_ _ciac samp _wypusc 40
+4780 do minus 5_prawy_ _dluzszy 
+4910 do 5_lewy_ minus potrojny
+5100 do 5_prawy_ przyciac samp prostuj
+5220 5_prawy_ _ciac do 5_lewy_ _dluzszy wyjscie_szczytem
+5380 5_prawy_ minus nie_tnij 50
+5480 5_lewy_ _dluzszy zahacz 40
+5580 5_prawy_ minus lekki_zacisk _dluzszy 70
+5750 6_lewy_ do 4_prawy_ lekki_zacisk
+5900 do 4+_lewy dlugi zostan
+6120 lotna
+6130 4_prawy_ lewy prostuj  100

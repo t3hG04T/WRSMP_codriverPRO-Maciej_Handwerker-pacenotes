@@ -1,0 +1,101 @@
+#Fernet Branca
+
+-5 4_prawy_ _otwarty zostan
+10 2_lewy
+50 do 2+_prawy zostan
+90 pozny_ 1_lewy_nawrot potem_ zacisk
+180 7_prawy_ smialo przez_szczyt
+220 pozny_ 4_prawy_ zahacz zostan
+280 do 4_lewy_ zacisk_do_2
+420 za_szczytem_ 4_prawy_ zacisk nie_wypuszczaj
+470 120 prostuj ostroznie woda
+590 prawa do 2+_lewy_ _krotki
+690 do 4_prawy_ max
+710 100 smialo przez_szczyt
+730 hamuj_ nawrot_lewy _ciasny
+880 do 2_lewy_ minus
+910 od_szczytu_ 3_prawy
+930 za_szczytem_ _wybija_ 5_prawy_ max
+955 6_prawy_ do 5_lewy_ ostroznie woda
+1100 4_prawy_ zostan
+1160 shamuj_ pozny_ 2_lewy
+1230 do 2_prawy_ lekki_zacisk
+1290 2_lewy_ minus
+1340 5_prawy
+1355 3_prawy_ przez_szczyt _nie_wypuszczaj
+1400 3_lewy_ minus ciasno
+1485 7_prawy
+1510 pozny 2_lewy_ zacisk bardzo dlugi
+1590 _na_wyjsciu nie_ciac
+1640 shamuj_ od_szczytu_ 3_prawy _krotki _nie_wypuszczaj
+1700 ostroznie 2_prawy_ _krotki odkleja _nie_wypuszczaj
+1770 7_lewy
+1790 shamuj_ pozny_ 3+_lewy zacisk
+1890 shamuj_ za_drugim_szczytem_ ciasny_ 2_prawy_ _nie_wypuszczaj
+2010 5_prawy_ przez_ podwojny szczyt
+2080 shamuj_ za_szczytem_10 3_lewy
+2180 ostroznie od_szczytu_ 3_prawy_ _nie_wypuszczaj
+2250 7_lewy
+2265 do 3_prawy_ negat zostan
+2300 od_szczytu_ 2_lewy_ nawrot zacisk dlugi
+2380 do 2_lewy_ przez_szczyt _nie_wypuszczaj
+2420 do 3_prawy
+2450 za_drugim_szczytem_ 3_lewy
+2490 do 5_prawy
+2510 do 2_lewy_ _krotki
+2570 3_prawy_ przez_szczyt
+2620 120
+2650 shamuj_ od_szczytu_ 4_prawy_ _nie_wypuszczaj
+2710 do 5_prawy
+2735 hamuj_ nawrot_lewy _dluzszy
+2850 prostuj _pod_wiadukt
+2880 3_prawy_ _nie_wypuszczaj
+2940 3_prawy_ przez_szczyt zostan otwarty
+3000 2_lewy
+3075 do 2+_prawy zostan
+3110 pozny_ 1_lewy_nawrot potem_ zacisk
+3190 7_prawy_ smialo przez_szczyt
+3240 pozny_ 4_prawy_ zahacz zostan
+3300 do 4_lewy_ zacisk_do_2
+3420 za_szczytem_ 4_prawy_ zacisk nie_wypuszczaj
+3490 120 prostuj ostroznie woda
+3610 prawa do 2+_lewy_ _krotki
+3710 do 4_prawy_ max
+3730 100 smialo przez_szczyt
+3750 hamuj_ nawrot_lewy _ciasny
+3885 do 2_lewy_ minus
+3910 od_szczytu_ 3_prawy
+3940 za_szczytem_ _wybija_ 5_prawy_ max
+3970 6_prawy_ do 5_lewy_ ostroznie woda
+4120 4_prawy_ zostan
+4150 shamuj_ pozny_ 2_lewy
+4250 do 2_prawy_ lekki_zacisk
+4300 2_lewy_ minus
+4345 5_prawy
+4365 3_prawy_ przez_szczyt _nie_wypuszczaj
+4410 3_lewy_ minus ciasno
+4470 7_prawy
+4510 pozny 2_lewy_ zacisk bardzo dlugi
+4610 nie_ciac _na_wyjsciu
+4650 shamuj_ od_szczytu_ 3_prawy _krotki _nie_wypuszczaj
+4720 ostroznie 2_prawy_ _krotki odkleja _nie_wypuszczaj
+4790 7_lewy
+4810 shamuj_ pozny_ 3+_lewy zacisk
+4890 shamuj_ za_drugim_szczytem_ ciasny_ 2_prawy_ _nie_wypuszczaj
+5010 5_prawy_ przez_ podwojny szczyt
+5080 shamuj_ za_szczytem_10 3_lewy
+5190 ostroznie od_szczytu_ 3_prawy_ _nie_wypuszczaj
+5260 7_lewy do 3_prawy_ negat zostan
+5300 od_szczytu_ 2_lewy_ nawrot zacisk dlugi
+5400 do 2_lewy_ przez_szczyt _nie_wypuszczaj
+5430 do 3_prawy
+5460 za_drugim_szczytem_ 3_lewy
+5500 do 5_prawy
+5530 do 2_lewy_ _krotki
+5570 3_prawy_ przez_szczyt
+5620 120 shamuj_ od_szczytu_ 4_prawy_ _nie_wypuszczaj
+5720 do 5_prawy
+5740 hamuj_ nawrot_lewy _dluzszy
+5850 prostuj _pod_wiadukt
+5880 3_prawy_ _nie_wypuszczaj
+5930 lotna i 3_prawy_ przez_szczyt

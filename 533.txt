@@ -1,0 +1,20 @@
+# Karowa 2009
+0 90 2_lewy dlugi otwarty do plus 40
+150 4_prawy zacisk slisko 20 prostuj 1_prawy _pod_wiadukt 20
+300 hak_prawy _pod_wiadukt 20
+360 2_lewy dlugi otwarty smialo 
+400 znak lewa do 3_prawy zacisk 30
+500 _beczka lewa i nawrot_prawy podwojny 20
+600 2+_lewy podwojny 40
+650 4_prawy zacisk_do_1 wczesnie_ slisko ciasno _pod_wiadukt potem_ wypusc 50
+800 2_prawy zacisk dlugi negat 30
+900 2_prawy podwojny negat 40
+970 4_lewy zacisk zostan 
+1020 do _beczka lewa i hak_prawy
+1140 do 4_prawy 30
+1170 2_lewy podwojny negat 40
+1300 2_lewy dlugi zostan _pod_wiadukt lewa
+1400 2_lewy dlugi otwarty smialo
+1530 znak lewa do 3_prawy zacisk 30
+1650 _beczka lewa i nawrot_prawy dlugi 50
+1800 lotna

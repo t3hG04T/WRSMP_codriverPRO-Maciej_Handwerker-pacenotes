@@ -1,0 +1,47 @@
+#Tanner
+0 100
+20 _prostuj 6_lewy
+40 i ciac_ 4_prawy minus
+50 do przytnij 3_lewy_ zostan
+180 _prostuj lewy i ciac_ 2_prawy
+230 i ciac_ 2_lewy
+320 30 3_prawy_ minus _ciac
+400 50 2+_lewy_ mocno_ciac
+500 zostan szczyt_prawa
+570 szczyt_lewa 40
+580 3_lewy_ plus _ciac zostan
+670 20 ciac_ 5_prawy_ krotki
+700 30 ciac_ 4_lewy i 3_prawy
+900 50 6_prawy_ _szczytem
+950 mostek i ciac_ 4_prawy 20 1_lewy_ nawrot _ciac
+1150 10 i ciac_ 6_prawy i 6_prawy
+1180 szczyt 10 i 2_prawy_ podwojny nawrot
+1340 10 i ciac_ 4_lewy 40
+1400 5_prawy
+1470 przytnij _wyjscie do 3_lewy_ zacisk_do_2 ciac_ _wyjscie
+1630 do 3_prawy_ zacisk i 3_lewy_ minus
+1680 20 ciac_ 3_prawy 40
+1780 5_lewy 100 _prostuj
+1850 przytnij 3_lewy_ krotki 50
+2040 30 5_prawy_ wybija
+2100 za_szczytem_ 70 ciac_ hak_lewy
+2270 100 _prostuj
+2320 przytnij 5_lewy nie_spiesz_
+2330 do 6_lewy_ _tylko_przyciac i 3_prawy_ mocno_ciac
+2500 za_szczytem_ 50 i 5_lewy_ _szczytem do 7_prawy
+2650 100 za_szczytem_ ciac_ 5_prawy_ krotki
+2700 40 6_lewy_ _szczytem
+2900 hopa ostroznie
+2970 80 1_lewy_ nawrot _ciac zostan
+3200 do 6_prawy_ _prostuj i 6_lewy 30
+3220 ciac_ 2_prawy_ lewy i 2_prawy_ nawrot _ciac
+3430 20 2_lewy_ przytnij zostan
+3470 20 1_prawy_ _ciasny
+3510 5_lewy i 1_prawy do 6_lewy_ _ciac
+3600 do krotki 4_prawy_ lewy prawy
+3650 do 4_lewy 20 1_prawy
+3840 do 6_prawy
+3900 do 3_lewy_ mocno_ciac
+3930 do 4_prawy_ lewy
+4050 lotna
+4080 _do_mety_stop

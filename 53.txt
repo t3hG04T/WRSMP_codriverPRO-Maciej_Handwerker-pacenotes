@@ -1,0 +1,78 @@
+#Pirka Menoko
+0 20 4_lewy_ _dluzszy
+20 do 4_prawy_ minus
+70 40 ostroznie
+100 ciac_ 3_lewy
+130 do 2_prawy
+210 i 1_lewy_ _za_drzewo _dluzszy
+250 50 1_prawy_ nawrot
+380 za_szczytem_ 50
+430 shamuj_ 5_lewy i ciac_ 3_prawy
+550 50 7_prawy
+560 za_szczytem_ 2_prawy_ mocno_ciac zostan
+750 do 3_lewy 20
+780 ciac_ 3_prawy_ krotki
+840 40 wczesnie_ 5_lewy_ przytnij
+880 i 4_prawy
+1000 90 przytnij 6_lewy
+1080 do 5_prawy 30
+1150 5_lewy_ przez_szczyt
+1220 do 5_prawy 30
+1300 shamuj_ 4_lewy_ przez_szczyt 
+1400 20 2_prawy
+1530 do nie_ciac 6_lewy
+1550 120
+1600 nie_ciac 5_lewy do 7_prawy
+1660 50 5_prawy 
+1750 _prostuj 80 2_lewy
+1950 do 7_prawy 30
+1960 nie_ciac _ciasny 3_lewy
+2030 do ciac_ 5_prawy
+2060 do 2_lewy do 2_prawy
+2220 do 4_lewy_ _dluzszy
+2270 do 2_prawy_ nawrot zacisk
+2400 do 3_lewy_ nie_ciac dlugi
+2520 30 krotki 2_prawy do 6_lewy przytnij _wyjscie
+2620 do 1_prawy_ otwarty
+2770 30
+2800 3_lewy 40
+2850 1_lewy
+2950 20 3_prawy do 3_prawy_ _dluzszy minus
+3120 do krotki 4_lewy i 7_prawy
+3180 za_szczytem_ krotki 4_lewy_ zacisk_do_1
+3350 50 3_prawy_ dlugi
+3450 60 3_lewy
+3520 za_szczytem_ 20 4_prawy
+3730 50 5_lewy
+3840 60 za_szczytem_ przytnij 5_prawy
+3870 do 3_lewy_ zostan
+4000 do 4_prawy
+4100 do 5_lewy za_szczytem_ zacisk_do_2 plus dlugi zostan
+4280 do 2+_prawy_ nie_wypuszczaj
+4410 do ciac_ 6_lewy i pozny 5_prawy_ przez_szczyt
+4540 20 7_lewy 30
+4590 3_lewy
+4620 za_szczytem_ przytnij 3_prawy
+4720 40 3_lewy_ przytnij i 3_prawy
+4830 30 1_lewy_ _za_drzewo
+4990 30 4_prawy 30
+5020 ciac_ 4_lewy 40
+5100 nie_ciac 5_prawy i 4_prawy_ _dluzszy
+5200 50 minus 3_lewy
+5270 do 4_prawy
+5370 20 przytnij 5_lewy
+5480 120
+5520 2_prawy_ zostan
+5660 do 5_lewy_ zacisk
+5780 20 4_prawy
+5870 za_szczytem_ 7_prawy 20 przytnij 4_lewy
+5920 do 3_prawy
+6020 za_szczytem_ 7_prawy 40 2+_lewy
+6200 40 3_prawy zostan
+6230 30 2_lewy
+6350 20 3_prawy 20 4_lewy
+6420 80
+6450 5_lewy_ zacisk przytnij _wyjscie
+6600 do ciac_ 3_prawy lewy
+6740 20 2_prawy
+6760 lotna

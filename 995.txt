@@ -1,0 +1,149 @@
+# Kormoran II
+-5 pozny_ 3_prawy_ _dluzszy _przy_oponach nie_tnij
+70 6_lewy
+140 3_lewy_ _dluzszy _nie_wypuszczaj
+260 150
+290 hamowanie szykana_od_lewej
+440 100 prawy max
+470 120 przez_szczyt smialo
+510 5_prawy
+550 do 4_lewy_ minus
+680 6_prawy_ _z_drogi wybija
+780 200 _prostuj _wybija
+820 5_lewy_ zahacz
+930 300 _prostuj _wybija
+980 szczyt_prawa smialo
+1040 shamuj_ 3_prawy_ _ciac
+1200 5_lewy
+1260 do 5_lewy _z_drogi _wybija
+1320 5_lewy_ przez_szczyt
+1380 4_lewy_ zacisk na_szczyt
+1470 za_szczytem_ 2_lewy_ odkleja
+1570 100 _prostuj
+1620 3_prawy_ _nie_wypuszczaj 
+1680 4_prawy_ minus zahacz
+1720 7_lewy_ max
+1760 prostuj
+1800 5_prawy
+1830 do 5_lewy_ shamuj_ woda
+1900 5_prawy
+1940 garb
+2000 4_prawy_ _ciac
+2030 wybija
+2070 5_lewy_ zacisk_do_3
+2150 5_lewy
+2200 do 4_lewy_ zahacz
+2250 5_prawy_ dlugi
+2350 do wybija 5_lewy_ lekki_zacisk
+2430 5_prawy_ minus nie_tnij _nie_wypuszczaj
+2550 100 _prostuj
+2580 ostroznie 2_lewy_ _podwojny bardzo ciasno potem_ zacisk
+2790 5_prawy do 6_lewy
+2830 pozny 3_prawy_ minus zacisk
+2920 do pozny_ 4_lewy
+2980 6_prawy_ _podwojny
+3020 spadanie lewa
+3070 4_prawy_ _podwojny zahacz
+3150 do 4_lewy
+3260 3_prawy_ nie_tnij negat
+3350 3_prawy
+3400 garb
+3430 pozny_ 3_lewy_ zahacz
+3520 4_prawy_ zacisk_do_3 dlugi
+3620 5_lewy_ smialo
+3660 od_szczytu_ 5_prawy minus
+3750 pozny_ 2_lewy
+3860 4_prawy zahacz
+3900 150 podbija
+4010 200 prostuj
+4050 shamuj_ hopa
+4130 5_lewy_ prawy_lewy
+4250 3_prawy_ nie_tnij
+4350 3_lewy_ dlugi _otwarty
+4380 150
+4420 za_szczytem_ 4_prawy_ minus _ciac
+4520 6_prawy_ do 5_lewy nie_tnij
+4650 7_lewy max
+4680 5_prawy_ nie_tnij
+4700 4_lewy_ _dluzszy
+4800 200 prostuj
+4960 hamuj_ 1_lewy_ _na_asfalt
+5170 hak_prawy _na_szuter
+5230 3_prawy_ _dluzszy nie_tnij
+5280 2_lewy_ ostroznie bardzo _wybija
+5400 hamuj_ hak_lewy nie_tnij
+5490 7_lewy
+5510 do 3_prawy_ dlugi _otwarty
+5550 pozny 2_prawy
+5620 100
+5680 od_szczytu_ 4_lewy
+5730 5_prawy
+5800 za_szczytem_ 5_prawy_ zacisk_do_3
+5960 2_lewy_ _krotki zahacz
+6000 prawy do 5_lewy _bale
+6040 od_szczytu_ 7_prawy
+6080 6_lewy
+6190 5_lewy_ smialo
+6250 shamuj_ _wybija
+6290 5_lewy_ _za_bal
+6360 100
+6390 4_prawy_ lekki_zacisk dlugi
+6520 5_lewy
+6650 szczyt_lewa do 4_lewy_ _nie_spiesz
+6800 5_prawy_ _dluzszy nie_tnij
+6910 300 _prostuj
+7040 5_lewy samp
+7180 od_szczytu_ 5_lewy
+7250 pozny_ 5_lewy_ minus zahacz _nie_wypuszczaj
+7450 100
+7500 4_prawy_ minus nie_tnij _nie_wypuszczaj
+7570 4_prawy_ negat nie_tnij
+7700 5_lewy_ minus bardzo dlugi
+7780 do 5_prawy
+7880 5_lewy_ zahacz
+7950 4_prawy_ lekki_zacisk
+8070 za_szczytem_ 5_lewy_ bardzo dlugi zacisk_do_ 4
+8250 6_prawy
+8310 6_lewy
+8360 do 4_prawy_ zacisk_do_3
+8460 7_prawy_ max
+8500 bardzo shamuj_ hopa
+8580 za_hopa_ 50 2+_prawy _z_drogi
+8730 do 3_lewy
+8820 5_prawy_ przez_garb
+8880 3_prawy_ minus nie_tnij odkleja
+9000 4+_lewy _dluzszy
+9120 100
+9150 4_lewy_ nie_tnij przez_garb
+9200 do 6_prawy_ przez_szczyt
+9300 150 _prostuj _wybija
+9400 shamuj_ hopa_lewa
+9460 7_lewy_ do 4_lewy
+9600 do 4_prawy_ nie_tnij
+9650 5_lewy_ krzakiem_ zahacz
+9790 3_prawy_ zacisk dlugi _ostroznie ciasno
+9900 do 3_lewy_ _podwojny negat
+10000 5_lewy_ _wybija
+10060 5_prawy_ _ciac
+10110 shamuj_ 3_prawy_ odkleja _nie_wypuszczaj
+10230 do 5_lewy_ zahacz
+10310 shamuj_ od_szczytu_ 5_prawy_ zacisk_do_ 4
+10460 100 _wybija
+10500 pozny_ 3_prawy_ _wybija
+10570 6_lewy_ zahacz
+10640 150 _wybija
+10680 smialo przez_szczyt
+10720 5_lewy_ zahacz
+10770 3_lewy_ nie_tnij
+10900 3_prawy_ minus nie_tnij
+11000 3_prawy_ minus _krotki nie_tnij
+11070 do 3_prawy_ nie_tnij
+11135 4_lewy_ nie_tnij
+11200 shamuj_ za_szczytem_ 4_lewy_ minus
+11280 7_prawy_ max
+11330 300 _prostuj smialo
+11500 shamuj_ 5_lewy minus dlugi negat ciasno
+11600 zacisk
+11730 do 2_prawy bardzo dlugi zacisk
+11870 do 1_prawy_ _na_asfalt
+11935 lotna

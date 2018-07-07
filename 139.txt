@@ -1,0 +1,14 @@
+# RSI slalom Shonen
+-5 prawa od_znaku_ 2_prawy zostan
+30 _za_opony 4_lewy krotki
+70 2_prawy zostan do lewy krotki _za_opony hak_prawy krotki 30
+180 do 2_lewy krotki 30
+220 _za_opony 3_lewy zostan 30 _za_opony 2+_lewy dlugi wypusc
+330 przy_oponach_ zacisk i 2_prawy dlugi nie_wypuszczaj 30
+500 hak_lewy _bale 
+600 do 3_prawy i 2_lewy zostan zacisk 40
+650 3_prawy wypusc do 2_lewy lekki_zacisk przy_oponach_ prostuj 70
+820 od_tasm_ 3_prawy do nawrot_lewy do 2_prawy _z_drogi znak 30
+950 2_prawy dlugi
+1000 1_lewy _za_slup
+1080 lotna _stop

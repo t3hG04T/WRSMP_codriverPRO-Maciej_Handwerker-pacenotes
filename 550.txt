@@ -1,0 +1,80 @@
+# Foron
+0 prostuj za_szczytem_ 5_lewy_ przytnij
+50 6_prawy_ lewy przytnij
+60 shamuj_ ciasno 4_prawy_ do 2_lewy_ prawy
+300 i 2_lewy_ prawy
+340 4_lewy_ prawy prostuj 
+350 shamuj_ przy_drzewku_ 5_prawy_ negat do 5_lewy_ i 5_prawy
+500 5_lewy_ przez_szczyt shamuj_ hak_lewy _z_drogi
+720 z_uwaga_ ciasno 2_prawy_ _dluzszy do 2_lewy_ _dluzszy
+850 3_lewy_ negat na_glowna i prawy max
+930 150 prostuj 
+950 6_lewy
+990 5_lewy_ shamuj do 4_prawy_ nie_tnij przytnij
+1200 4_prawy_ przytnij krotka 5_lewy_ przytnij
+1360 shamuj_30 hak_prawy_zostan _na_glowna
+1480 za_szczytem_ 6_prawy_ do 2+_lewy_ zacisk
+1620 100
+1630 shamuj_ za_szczytem_20 ciac_ nawrot_prawy
+1770 5_lewy_ przechodzi_w_ ciac_ 1_lewy
+1880 7_prawy_ lewy 200
+1980 hamowanie ciac_ 2_prawy
+2140 60 7_prawy_ 150 prawa
+2230 3_lewy_ krotka i ciac_ 2_lewy
+2420 4_prawy_ przytnij do 5_lewy
+2450 i nie_tnij 4_prawy_ zacisk_do_3
+2590 5_lewy_ do 5_prawy_ przytnij
+2660 shamuj_30 i 2+_lewy_ _ciac _podwojny
+2800 120 
+2880 7_prawy_ hamowanie do 2_prawy_ _ciac
+3110 120
+3120 shamuj 5_lewy_ prawy nie_tnij do nawrot_lewy
+3330 7_lewy_ na_szczyt nawrot_prawy _ciac
+3440 za_szczytem_ 6_lewy_ prawy
+3500 nawrot_lewy przytnij
+3670 100 prostuj na_szczyt nawrot_prawy przytnij
+3800 5_lewy_ 6_prawy_ do 6_lewy_ przez_szczyt
+3860 7_prawy_ lewy i nawrot_lewy _ciac
+4030 100 za_szczytem_20 nawrot_prawy _ciac
+4180 200 prostuj przez_szczyt
+4250 5_prawy_ przez_szczyt _nie_wypuszczaj
+4300 spadanie 150 prostuj
+4400 6_lewy_ na_szczyt i 5_prawy
+4560 7_lewy_ 80
+4640 6_lewy_ prawy nie_tnij
+4720 6_lewy_ nie_tnij
+4800 6_prawy_ _ciac
+4850 7_lewy_ przez_szczyt
+4920 dlugi 5_lewy_ bardzo_wybija
+5080 7_prawy_ _ciac
+5160 4_prawy_  przechodzi_w_ 2_prawy_ na_mostek
+5320 7_lewy
+5370 120 za_szczytem_30 4_lewy
+5550 100 za_szczytem_ 5_lewy_ przytnij negat
+5650 7_prawy_ przytnij krotka
+5710 6_prawy_ na_szczyt _ciac i 7_lewy
+5780 100 shamuj_
+5830 przy_drzewku_ 5_prawy_ do 5_lewy_ do 5_prawy
+6100 5_lewy_ na_szczyt
+6200 6_prawy_ 150 prostuj przez_szczyt
+6350 7_lewy_ i 5_lewy_ negat
+6550 6_prawy_ _ciac do 3_lewy przytnij_wejscie_ zostan
+6750 7_lewy_ za_szczytem_20 3_prawy_ nie_tnij
+6970 4_lewy_ zacisk_do_2
+7070 6_prawy_ _podwojny przez_szczyt
+7110 spadanie 6_lewy_ shamuj_ do 4+_prawy przytnij
+7300 120 podbija 4_prawy_ do 3_lewy_ minus przytnij_wejscie_
+7550 6_lewy_ prawy shamuj_ szczyt i nawrot_lewy
+7780 krotka 5_prawy przechodzi_w_ nawrot_prawy przytnij
+7860 6_lewy_  prawy_lewy
+7930 shamuj_ za_szczytem_30 2_lewy_ nawrot _ciac
+8150 7_lewy_ _podwojny
+8220 shamuj_ 2+_prawy_ _podwojny przytnij
+8420 4_lewy_ prawy i 3_lewy
+8530 ostroznie shamuj_ prawa 2_lewy_ negat nie_tnij
+8680 hak_prawy nie_tnij na_glowna
+8750 hak_lewy nie_tnij _z_drogi
+8800 spadanie shamuj_ 2_prawy_ przytnij
+8890 60 1_prawy_ nie_tnij
+8980 prawa hak_lewy nie_tnij na_glowna
+9050 100 lotna 4_lewy

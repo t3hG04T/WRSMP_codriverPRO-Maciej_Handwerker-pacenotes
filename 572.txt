@@ -1,0 +1,88 @@
+# Castrezzato
+0 120 przy_oponach_ szykana_od_lewej szeroko
+150 120 hak_prawy _za_opony ciasno
+290 do 2_lewy 70
+345 4_prawy przy_oponach_ 100
+480 4_prawy krotki 30 4_lewy wypusc shamuj_20
+650 szykana_od_prawej smialo 
+770 120
+790 3_lewy krotki do 4_prawy krotki nie_wypuszczaj
+980 ciasno 4_prawy do 3_lewy dlugi
+1120 przechodzi_w_ 6_lewy _dluzszy 50
+1300 5_prawy lekki_zacisk
+1500 100
+1520 6_prawy hamowanie 40
+1600 hak_prawy _za_opony ciasno
+1730 do 2_lewy 250
+1760 szykana_od_lewej smialo
+2000 40 prawa
+2030 1_prawy ciasno 10
+2100 hak_lewy ciasny_ do 4_prawy 
+2140 50
+2150 6_prawy hamowanie 40
+2200 hak_prawy _za_opony
+2300 do 1_lewy krotki do 3_prawy 20
+2360 4_lewy 90
+2420 szykana_od_lewej smialo
+2550 150 prawa
+2565 hak_lewy _za_opony ciasno 20
+2780 hak_prawy _za_opony ciasno
+2830 100
+2850 przy_oponach_ szykana_od_lewej szeroko
+2950 120 hak_prawy _za_opony ciasno
+3120 do 2_lewy 70
+3165 4_prawy przy_oponach_ 100
+3250 4_prawy krotki 30 4_lewy wypusc shamuj_20
+3420 szykana_od_prawej smialo 
+3540 120
+3560 3_lewy krotki do 4_prawy krotki nie_wypuszczaj
+3760 ciasno 4_prawy do 3_lewy dlugi
+3900 przechodzi_w_ 6_lewy _dluzszy 50
+4070 5_prawy lekki_zacisk
+4280 100
+4290 6_prawy hamowanie 40
+4370 hak_prawy _za_opony ciasno
+4520 do 2_lewy 250
+4560 szykana_od_lewej smialo
+4800 40 prawa
+4810 1_prawy ciasno 10
+4870 hak_lewy ciasny_ do 4_prawy 
+4910 50
+4920 6_prawy hamowanie 40
+4970 hak_prawy _za_opony
+5070 do 1_lewy krotki do 3_prawy 20
+5140 4_lewy 90
+5220 szykana_od_lewej smialo
+5320 150 prawa
+5335 hak_lewy _za_opony ciasno 20
+5550 hak_prawy _za_opony ciasno
+5590 100 i_ostatnie_okrazenie
+
+5630 przy_oponach_ szykana_od_lewej szeroko
+5750 120 hak_prawy _za_opony ciasno
+5930 do 2_lewy 70
+5970 4_prawy przy_oponach_ 100
+6080 4_prawy krotki 30 4_lewy wypusc shamuj_20
+6250 szykana_od_prawej smialo 
+6370 120
+6390 3_lewy krotki do 4_prawy krotki nie_wypuszczaj
+6590 ciasno 4_prawy do 3_lewy dlugi 
+6730 przechodzi_w_ 6_lewy _dluzszy 50
+6900 5_prawy lekki_zacisk
+7100 100
+7120 6_prawy hamowanie 40
+7190 hak_prawy _za_opony ciasno
+7330 do 2_lewy 250
+7430 szykana_od_lewej smialo
+7620 40 prawa
+7640 1_prawy ciasno 10
+7700 hak_lewy ciasny_ do 3_prawy 
+7740 50
+7750 6_prawy hamowanie 40
+7800 hak_prawy _za_opony
+7900 do 1_lewy dlugi zostan znak lewa do 2_prawy
+7970 30
+8000 2_lewy
+8055 lotna
+8070 120 lewa
+8190 _stop

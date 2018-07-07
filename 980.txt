@@ -1,0 +1,27 @@
+# Rally Wis³a Zamarski
+-5 150 1_prawy_ _z_drogi zahacz _z_uwaga znak
+170 5_lewy 50 
+230 szczyt prostuj pozniej_  podbija 5_lewy_ zacisk_do_3 przy_drzewie
+350 krotka podbija pozny_ 3_prawy nie_tnij spadanie 40
+480 4_lewy zacisk hamowanie
+520 do 2_prawy ciasny_ wybija mostek
+600 widac_ 3_prawy przyciac 40 shamuj_
+570 2_lewy zacisk_do_1 nie_tnij ciasno 70
+750 5_prawy krotki zacisk_do_2 
+830 4_prawy _szczytem nie_spiesz_ zostan 30
+900 i wczesnie_ 3_prawy _ciac row
+970 do 3_prawy lewy_prawy _ciac prostuj 40
+1050 od_szczytu_ 6_prawy potrojny _na_spadaniu podbija shamuj_ 70 _na_asfalt
+1250 ciasny_ 1_prawy_ _nie_wypuszczaj 70
+1390 krotki 4_lewy 40 pozny_ nawrot_lewy nie_wypuszczaj ciasno 100 podbija
+1530 6_prawy krotki hamowanie 30 1_prawy_ _za_znak ciasny_ mostek 80
+1700 podbija _na_szuter 40
+1750 od_szczytu_ 1_prawy otwarty slisko 30 ciasno
+1880 1_prawy lewy_prawy ciasno 70 nie_spiesz_
+1950 ciasny_ 1_lewy nie_tnij _za_drzewo
+2020 krotki prawy lewy _szczytem prostuj _na_asfalt
+2120  5_prawy_ zacisk shamuj_50
+2200 ciasny_ 1_prawy przyciac ostroznie row
+2300 200
+2480 lotna 100 
+2550 i _stop 

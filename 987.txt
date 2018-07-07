@@ -1,0 +1,76 @@
+# Kolmenjarvet tarmac
+-20  20 3_lewy_ ciac_
+20 krotki 7_lewy_ ciasno 70
+95 do
+120 4_prawy_ _dluzszy zacisk zostan
+180 przechodzi_w_ 4_lewy_ przytnij
+220 6_prawy_  do 7_lewy
+370 shamuj 2_prawy _z_drogi
+450 5_lewy_ na_szczyt
+520 100 _w_siodle 
+570 od_szczytu_ 3_prawy spadanie_
+700 krotka i 6_lewy_ zacisk do 4_lewy_ _otwarty
+850 40 7_prawy_ _w_siodle 
+880 3_lewy_ _ciasny
+970 do 5_prawy_ _nie_wypuszczaj
+1003 do 3_lewy_ minus _dluzszy
+1110 do pozny_ 2_prawy
+1175 od_szczytu_ 5_lewy_ _otwarty
+1230 pozniej_ 4_prawy_ do 2_lewy_ zacisk
+1350 4_prawy_ zacisk_do_2 70
+1455 3_lewy_ prawy za_szczytem_30
+1550 2_prawy_ _krotki 
+1587 do 2_lewy_ _dluzszy zacisk 100
+1680 prostuj szczyt_lewa 40
+1750 4_prawy_ pozny
+1850 do 5_lewy_ _krotki 30
+1930 shamuj_ do _pozny_ 1_prawy
+2025 przechodzi_w_ 2_lewy_ minus _otwarty 30
+2100 5_prawy_ 30
+2140 3_prawy_ lewy zahacz 50
+2230 5_prawy_ 30 podbija
+2260 5_lewy_ przez_szczyt wybija 
+2340 4_lewy_ przez_garb _podbija_ 
+2408 5_lewy_ szczyt_lewa 
+2440 6_prawy_ dlugi _wypusc
+2550 do 5_lewy_ 100 
+2751 5_lewy_ _otwarty na_szczyt lewa
+2870 120
+2970 5_prawy_ do 6_lewy_ dlugi
+3127 5_lewy _szczytem
+3280 4_prawy_ zacisk 80
+3390 6_lewy_ 50
+3500 podbija 6_prawy_ 150 przez_szczyt 50
+3650 5_prawy_ _dluzszy zacisk _nie_wypuszczaj
+3730 do 5_lewy_ _prawy 30 przez_ szczyt shamuj
+3900 przy_drzewie hak_lewy _ciasny  przytnij 30
+3985 od_szczytu_ 5_lewy 30
+4080 4_prawy_ 30
+4177 4_prawy dlugi zacisk
+4285 do 5_lewy
+4330 do 3_prawy 100
+4430 od_szczytu_ _podbija_ shamuj_30 do
+4490 3_lewy_ nie_wypuszczaj 50
+4540 do 5_prawy
+4617 do 4_lewy_ zahacz potem_ prostuj
+4723 3_lewy_ samp 50
+4854 6_lewy_ 70
+4900 5_prawy_ 30 shamuj_ przez_ hopa _ostroznie
+5030 do 2_prawy_ dlugi _otwarty
+5140 70_
+5190 hak_prawy _ciasny zahacz podbija
+5280 3_lewy_ 30 przytnij
+5330 4_prawy
+5355 do 5_lewy_ dlugi 
+5440 7_prawy_ 
+5445  shamuj za_szczytem_ 3_prawy
+5580 70
+5647 4_lewy_ przytnij 100
+5737 7_lewy_ do 6_prawy_ dlugi _podbija
+5825 od_szczytu_ krotki 7_lewy 
+5915 podbija 6_prawy_ zacisk do 4_prawy
+6060 6_lewy_ do
+6080 2_prawy_ przez_szczyt
+6180 lotna
+
+ 

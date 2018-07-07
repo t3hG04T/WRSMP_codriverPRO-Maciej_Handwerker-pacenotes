@@ -1,0 +1,80 @@
+#Autiovaara
+0 100 prostuj
+40 6_prawy dlugi zacisk przy_drzewie 30
+150 4_lewy 20
+250 6_prawy 50
+350 4_lewy zacisk _kamien 40
+520 5_prawy 40
+600 od_szczytu_ krotki 4_lewy _w_siodle podbija 30
+650 5_prawy _dluzszy zacisk 40
+780 do 4_lewy samp 50
+900 i krotki 4_lewy
+990 do 5_prawy zacisk 30
+1110 4_prawy samp 30 4_prawy
+1180 do 4_lewy zostan samp
+1270 5_lewy 40
+1350 6_prawy krotki 50
+1420 6_prawy krotki ostroznie
+1480 _przy_drzewach 5_lewy szczyt _na_wyjsciu odkleja pozniej_
+1520 hopa prawa ostroznie _na_spadaniu
+1600 7_prawy dlugi na_mostek wybija
+1690 krotki 6_lewy 30
+1850 5_lewy 40 shamuj
+2000 4_prawy do  5_prawy nie_wypuszczaj
+2150 4_lewy_ przytnij 40
+2200 7_lewy _dluzszy shamuj
+2280 od_szczytu_ 20 i 4_prawy_ nie_tnij 
+2380 5_lewy minus 20
+2480 7_lewy przez_ hopa_lewa ostroznie
+2580 krotki 5_prawy minus zacisk
+2680 do 4_lewy _dluzszy zostan zacisk
+2750 do zahacz 5_prawy krotki
+2850 do 5_lewy _dluzszy 40
+2980 shamuj 4_lewy spadanie ciasno
+3030 do nie_tnij dlugi 2_prawy negat otwarty na_szczyt 50
+3200 5_lewy  ostroznie odkleja 
+3280 od_szczytu_ 4_prawy
+3350 6_prawy lewy
+3400 do minus 4_prawy krotka od_szczytu_ 5_prawy krotki
+3500 5_lewy _w_siodle 20
+3570 6_prawy krotki hopa_prawa shamuj
+3630 krotki 4_prawy
+3680 do przytnij krotki 5_lewy _w_siodle 30
+3780 krotki 5_lewy prawy 30
+3880 4_lewy prawy zostan 40
+3920 szczyt i krotki 7_lewy 30
+4000 4_prawy 40
+4120 krotki 5_lewy krotka 5_prawy zahacz 40
+4200 krotki 5_prawy
+4265 do 5_lewy _szczytem przechodzi_w_
+4350 krotki 5_prawy
+4390 do 4_lewy nie_wypuszczaj odkleja
+4490 5_prawy minus 40
+4570 od_szczytu_ 5_lewy podwojny
+4760 4_prawy 30
+4820 4_lewy _dluzszy _szczytem otwarty 50
+4960 5_prawy przez_szczyt zacisk odkleja 30
+5100 5_lewy krotki
+5180 do szczyt i 4_prawy krotki 20
+5220 7_lewy 30
+5290 3_prawy od_szczytu_ zacisk 20
+5380 4_lewy _dluzszy zostan
+5490 5_prawy 
+5575 5_lewy _szczytem
+5615 i z_uwaga_ 4_prawy szczyt _na_wyjsciu wypusc
+5650 do 5_lewy krotki 
+5830 4_lewy szczyt _na_wyjsciu nie_wypuszczaj row 50
+5970 6_prawy 40
+6000 5_lewy
+6100 5_prawy _wyjscie _szczytem 
+6200 lotna
+6230 100 _do_mety_stop
+
+
+
+
+
+
+
+
+

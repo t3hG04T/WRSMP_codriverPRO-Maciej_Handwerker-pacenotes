@@ -1,0 +1,71 @@
+# Swiss II (szuter)
+0 4_lewy krotki do 3_prawy_ ciac_ 30
+50 3_prawy krotki 10 2_lewy nie_tnij 50
+140 2_prawy_ ciac_ _za_znak
+200 4_lewy podwojny  prostuj 70
+255 od_znaku_ 4_prawy_ minus ciac_ 70 prostuj
+320 5_prawy krotki ciac_ 
+390 100 wybija _w_siodle
+450 hak_lewy ciasny_
+600 100 podbija
+610 od_znaku_ szczyt_lewa do hak_prawy ciasny_
+735 hopa_lewa smialo 60
+780 krotki 5_prawy 4_lewy prawy _dluzszy 70
+945 _od_znaku ciac_ 3_lewy nie_wypuszczaj 40
+1065 5_lewy przyciac 30
+1110 3_prawy zahacz zostan ciasno do 4_lewy podwojny
+1200 szczyt prostuj pozniej_ prawa
+1290 za_szczytem_ 3_lewy krotki 50
+1350 3_prawy_ plus krotki podwojny 
+1390 i 3_prawy_ plus krotki podwojny 50
+1470 przechodzi_w_ 3_lewy _dluzszy zacisk 20
+1600 3_prawy_ plus bardzo dlugi 20
+1670 3_lewy_ minus _dluzszy zacisk
+1770 od_znaku_ 2_lewy krotki _ciac 40
+1885 3_prawy_ plus _dluzszy wyjscie_hopa 40
+1970 krotki 4_lewy zacisk_do_2 40
+2080 krotki 4_prawy lewy 30 3_prawy otwarty 30
+2180 4_lewy_ minus zahacz
+2270 4_prawy _szczytem zacisk 20 
+2360 3_lewy pozny_ 10
+2430 3_prawy_ minus podwojny _nie_spiesz 40
+2510 5_lewy zacisk_do_3 wyjscie_szczytem prostuj 70
+2630 5_prawy_ przyciac_ krotki 60
+2730 4_lewy_ shamuj_ _wyjscie hopa_prawa ciasno 30
+2780 3_lewy spadanie 40
+2820 3_prawy_ plus krotki 70 prostuj 
+2890 od_szczytu_ 2+_lewy  podwojny nie_tnij 70
+3000 od_szczytu_ 3_prawy zacisk_do_2 20
+3150 3_lewy dlugi
+3210 do 3_prawy _szczytem zacisk przechodzi_w_ 4_lewy 50
+3330 5_prawy zacisk_do_3
+3420 do 4_lewy przyciac do 5_prawy krotki 30
+3490 2_lewy otwarty
+3510 za_szczytem_ 3_prawy dlugi 40
+3660 2+_lewy krotki ciac_ 30
+3740 3_lewy_ minus ciac_ do 4_prawy dlugi zacisk
+3900 3_lewy_ plus _dluzszy 10 
+3990 4_prawy potrojny 40
+4190 od_szczytu_ ciac_ krotki 3_lewy
+4260 pozniej_ prawy i szczyt_prawa
+4310 4_lewy nie_tnij 30
+4340 4_lewy do 2_prawy ciasno 40
+4440 5_lewy krotki  50
+4490 3_lewy_ minus  otwarty 70
+4595 5_prawy od_znaku_  zacisk_do_3
+4660 5_lewy prawy
+4700 szczyt_lewa 50 hamowanie
+4780 pozny_ hak_prawy zacisk 
+4920 120 podbija od_znaku_ hamowanie 
+4970 hak_lewy ciasny_
+5060 150 
+5080 krotki 5_prawy przytnij_krzakiem_
+5150 prostuj 100
+5210 4_prawy ciac_
+5255 50
+5290 krotki 4_lewy podwojny  hamowanie
+5340 2_prawy  samp 30
+5434 2_lewy do 4_prawy 30
+5530 4_prawy lewy
+5565 lotna 
+5665 _stop

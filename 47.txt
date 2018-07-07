@@ -1,0 +1,75 @@
+#Bisanne II
+0 6_prawy
+5 do 6_lewy_ przez_szczyt
+20 40 przytnij 4_lewy
+60 20 nawrot_prawy zostan
+220 do 2_lewy_ _dluzszy
+250 do 7_lewy i 6_prawy_ _ciac
+270 90 _prostuj
+320 3_prawy_ _ciac samp
+400 70 _prostuj
+440 5_lewy_ za_szczytem_ zacisk
+540 za_szczytem_ 6_lewy
+570 40 2_prawy_ _ciac samp
+700 do 5_prawy i 2_lewy_ zacisk
+780 do 2+_prawy_ _ciac
+860 do 3_lewy
+900 do 6_prawy za_szczytem_ 40 _prostuj
+940 6_lewy i ciac_ 6_prawy
+980 30 nawrot_lewy _ciasny
+1150 do 6_lewy prawy lewy
+1180 40 nawrot_prawy _ciasny
+1300 50
+1310 za_szczytem_ 7_lewy
+1330 do zahacz 5_prawy_ zostan i 6_lewy
+1460 do pozny_ 4_prawy_ przytnij
+1550 do 3_lewy prawy
+1580 do 4_lewy 40
+1670 3_lewy i 5_prawy
+1770 i 5_lewy 4_prawy nie_ciac
+1870 4_prawy nie_ciac
+1910 za_szczytem_ 10 wczesnie_ 2_lewy_ dlugi samp
+2050 do 5_prawy
+2070 do 7_prawy 30 5_prawy_ samp
+2100 50 6_prawy lewy za_szczytem_ 70
+2250 ciac_ 4_lewy do 3_prawy
+2300 30 6_lewy
+2390 4_prawy_ do krotki 3_lewy_ _podwojny
+2430 2_prawy i
+2520 3_prawy_ do 2_lewy_ zahacz
+2650 do 4_prawy przytnij 80 _prostuj
+2700 wczesnie_ 2+_lewy_ _ciac
+2800 30 5_prawy 30 szczyt_prawa do przytnij 3+_lewy
+2900 30 5_prawy 40 2_prawy_ krotki
+3030 do 4_lewy_prawy
+3080 za_szczytem_ 5_lewy i 3_prawy_ samp zostan
+3150 za_szczytem_ 70
+3230 6_lewy negat 30 za_szczytem_ 3_lewy
+3340 40 przytnij 4_prawy_ zostan i 5_prawy
+3410 60 nawrot_prawy _ciasny
+3570 40 6_lewy 20 nawrot_lewy _ciasny zostan
+3740 do 6_prawy_ lewy i 5_prawy przytnij
+3770 40 3_lewy 30 szczyt_lewa do 6_prawy 40
+3900 3_lewy przytnij i nawrot_prawy _ciac
+4060 30 2_lewy_ zacisk
+4120 do 3_prawy negat slisko bardzo dlugi
+4250 120 _prostuj nawrot_lewy
+4410 30 krotki 5_prawy_  i minus lewy
+4420 hamuj_ nawrot_prawy
+4550 30 szczyt_lewa przyciac 40
+4570 3_prawy zostan do 6_lewy
+4650 40 nawrot_lewy
+4790 nawrot_prawy
+4820 szczyt_prawa 6_lewy
+4830 do 6_prawy 30 nawrot_lewy
+5000 do 6_lewy do ciac_ 4_prawy i 5_lewy
+5050 za_szczytem_ 2+_prawy i 3_lewy_ dlugi negat
+5200 60
+5240 szczyt_prawa spadanie wczesnie_ 3+_lewy zostan
+5340 30 nawrot_prawy
+5450 30 3_prawy_ nie_ciac _ciasny
+5470 30 6_lewy_ _prostuj do 7_prawy 
+5500 70
+5550 3+_prawy
+5650 do 6_prawy do przytnij 3_lewy_ zacisk
+5760 lotna

@@ -1,0 +1,152 @@
+#Red Bull HC 
+0005 7_lewy do 6_prawy
+0010 7_lewy
+0074 2_prawy do 3_lewy nie_tnij
+0132 50
+0184 4_lewy do 4_prawy otwarty
+0270 200
+0387 za_szczytem_ 6_lewy zacisk 150
+0550 nawrot_prawy
+0714 150
+0860 przytnij_wejscie_ hopa_prawa 
+0965 5_lewy zacisk
+1204 6_prawy i
+1260 3_prawy _na_spadaniu
+1400 5_lewy zacisk do 4_prawy _szczytem
+1650 5_lewy za_szczytem
+1780 5_prawy _szczytem i 5_lewy
+
+1900 za_szczytem_ 5_lewy zacisk
+2050 4_prawy nie_tnij
+2097 150
+2200 nawrot_lewy ciasno
+2400 za_szczytem_50 7_prawy do 7_lewy dlugi
+2500 7_prawy 
+2600 za_szczytem_ 7_prawy 
+2700 7_lewy _szczytem
+2900 3_prawy lewy
+3098 3_lewy _szczytem zacisk
+3145 3_prawy minus
+3319 6_prawy do 5_lewy _szczytem
+3490 5_prawy zacisk_do_1
+3600 podbija_na_wyjsciu
+3638 4_prawy _szczytem 100
+3787 7_lewy
+3910 6_lewy na_szczyt
+3980 5_prawy _szczytem dlugi 200
+4100 7_lewy bardzo dlugi
+4327 5_prawy od_szczytu_ zacisk_do_3
+4568 do 4_lewy na szczyt
+4681 5_prawy 100
+4730 5_lewy do _szczytem 3_prawy
+4950 5_lewy 100
+5020 3_prawy _szczytem
+5070 shamuj _na_spadaniu
+5220 2_prawy do_2_lewy 150
+5327 4_prawy zacisk
+5500 5_lewy
+5585 4_prawy _szczytem
+5700 5_lewy zacisk_do_3
+5790 4_prawy zacisk
+5897 1_lewy 100
+6024 3_lewy 70
+6116 5_prawy zacisk
+6240 4_lewy _szczytem
+6358 4_prawy
+6447 3_lewy do 5_prawy
+6540 nawrot_prawy 100
+6686 5_lewy
+6709 3_prawy
+6849 5_lewy 200
+6930 6_lewy
+7086 5_prawy
+7226 nawrot_lewy
+7345 5_lewy smialo 200
+7500 5_prawy
+7650 4_prawy do 4_lewy zacisk
+7900 5_prawy
+8000 4_lewy nie_tnij
+8086 3_prawy
+8230 3_lewy _szczytem
+8350 4_lewy nie_tnij
+8415 3_prawy
+8529 4_lewy do 5_prawy dlugi
+8682 4_lewy _szczytem
+8798 nawrot_prawy 200
+9000 nawrot lewy 200
+9222 nawrot_prawy 150 szczyt
+9476 za_szczytem shamuj
+9565 3_prawy zacisk do 4_lewy _podwojny
+9833 4_prawy do 5_lewy
+9930 lewy_nawrot
+9980 hamuj_
+10073 5_prawy
+10113 do 5_lewy do 3_prawy
+10263 3_lewy 250
+10405 4_prawy podwojny
+10589 do 2_prawy przechodzi_W_
+10705 2_lewy do 5_prawy
+10750 5_prawy i
+10807 7_lewy do 6_prawy
+10861 za_szczytem 3_lewy do 5_prawy
+10976 7_prawy i nawrot_prawy
+11112 70
+11131 nawrot_lewy
+11235 4_prawy podwojny
+11280 7_lewy do nawrot_prawy
+11482 szczyt_lewa
+11558 7_prawy przechodzi_w_ 2_lewy otwarty
+11734 7_lewy
+11832 7_prawy i 7_lewy 100
+11993 6_prawy 100
+12130 7_lewy przechodzi_w_ 1_prawy
+12489 za_szczytem_ 100
+12577 7_prawy do 5_lewy
+12600 5_prawy
+12839 2_lewy zacisk
+13061 7_prawy do 6_lewy
+13215 4_prawy 100
+13335 5_lewy 150
+13487 2_prawy nawrot 200
+13702 3_lewy do 4_prawy _szczytem
+13790 lotna
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

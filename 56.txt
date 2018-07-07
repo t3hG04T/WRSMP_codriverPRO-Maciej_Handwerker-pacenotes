@@ -1,0 +1,53 @@
+#Tanner II
+0 prawy ciac_ _wyjscie
+1 do 3_lewy
+20 do pozny ciac_ 3_prawy
+80 do 5_lewy prawy
+120 10 1_lewy
+170 20 wczesnie_ ciac_ 3_prawy zostan
+200 _prostuj 30 krotki 5_lewy
+300 i przytnij 4_prawy
+360 20 1_lewy_ wypusc
+380 ciac_ 30 przy_drzewku_
+480 10 hak_lewy
+530 20 ciac_ 2_prawy
+600 20 ciac_ 2_lewy 
+630 i ciac_ 2_prawy
+650 i ciac_ 2_lewy
+730 do 6_prawy i przytnij 5_lewy
+770 do 2_prawy
+890 100 przytnij 6_prawy_ przez_szczyt
+930 do 7_lewy do 7_prawy
+1050 do przytnij 6_lewy szczyt_lewa 80
+1210 szczyt_lewa do szczyt_prawa 50
+1320 duza_hopa_ 40  ciac_ 4_lewy
+1450 do przytnij 6_prawy_ lewy
+1550 za_szczytem_ ciac_ 6_prawy
+1590 _prostuj 120
+1660 1_prawy_ nawrot _ciac
+1820 70
+1830 za_drugim_szczytem_ 10 przytnij 4_lewy_ _wybija
+1890 za_szczytem_ ciac_ krotki 3_prawy
+2000 przytnij szczyt_prawa 80 _prostuj do 4_prawy wybija
+2120 50 krotki 3_lewy
+2200 20 mocno_ciac 3_prawy
+2230 do ciac_ 4_lewy_ zostan
+2260 20 przytnij 2_prawy_ minus na_mostek
+2430 20 ciac_ 5_prawy_ lewy
+2480 30 nie_ciac 6_lewy
+2500 30 przytnij 3_prawy_ zostan
+2600 do 2_lewy_ nawrot
+2720 20 szczyt_prawa 20 i 3_lewy_ minus
+2710 20 1_prawy_ nawrot _ciac
+2880 do 6_lewy
+2920 za_szczytem_ 6_lewy
+2960 30 przytnij krotki 3_lewy i ciac_ 5_prawy
+3100 za_szczytem_ ciac_ 6_lewy do 5_prawy_ zacisk
+3280 30 za_szczytem_ 5_lewy prawy
+3380 40 2_prawy_ mocno_ciac
+3530 40 3_lewy_ przytnij zostan
+3600 30 mocno_ciac 3_prawy i przytnij 2_lewy
+3770 30 mocno_ciac 3_prawy
+3800 do ciac_ szczyt_lewa
+3870 do 6_prawy 200
+4060 lotna

@@ -1,0 +1,62 @@
+# Blanare I
+-5 4_lewy_ do 5_prawy
+40 30_ shamuj_ 4_lewy_ i 2_prawy_slisko
+248 50 5_lewy_ nie_wypuszczaj
+290 shamuj_ 3+_prawy _krotki na_szczyt 
+370 szczyt_lewa 120
+430  za_szczytem_30 4_lewy_ pozny do minus 3_prawy_ zostan
+630 4_lewy_ na_szczyt
+680 shamuj_ za_szczytem_20 5_prawy_ do 4_lewy_ zostan
+740 krotka i 3_lewy
+850 do 3_prawy_ dlugi otwarty _pod_wiadukt
+980 shamuj 3_lewy_ do 3+_prawy _na_spadaniu zostan
+1060 100 nie_spiesz_ 6_lewy 
+1080 60 _w_gore potem_ krotka i 5_lewy_ _prawy 
+1200 6_lewy_ _prawy minus zostan
+1240 do 4_lewy_ minus spadanie
+1420 hamuj_ 2_prawy_ _podwojny potem_ zacisk 
+1540 przechodzi_w_ 3_lewy_ do 3_prawy_ dlugi
+1720 3+_lewy _otwarty
+1750 200 hopa_smialo 
+1820 za_szczytem_ _na_spadaniu hamowanie 4_prawy_ minus
+2080 4_prawy_ zacisk _dluzszy do 3_lewy
+2270 3+_prawy  _dluzszy 50
+2370 hamuj_ 5_prawy_ _podwojny do 2_lewy_ _dluzszy negat
+2620 120 _w_siodle
+2690 5_lewy_ minus przez_szczyt
+2740 spadanie_ 80 i 5_lewy_ _w_siodle
+2820 hamuj_50_ od_szczytu_ 3_prawy
+3100 prostuj 100 pozniej_
+3150  shamuj_ krotki 4+_lewy przez_garb do 5_prawy
+3230  hamuj_ 2_lewy_ nawrot zacisk dlugi
+3420  pozny_ 3_prawy_ do 3_lewy_ zacisk dlugi 
+3550  od_znaku_ 2_prawy_ _dluzszy
+3660  90 3_prawy _otwarty _nie_spiesz
+3760  krotka minus 3_prawy_ pozny _w_dol negat 
+3900 50 hamuj_ 2_lewy_ nawrot dlugi zacisk
+4040 nie_spiesz_ 1_prawy_ zostan  do nie_tnij 1_lewy_ _za_opony _na_glowna 
+4120 100  szerzej_ 5_prawy_ smialo 
+4290 200 4_prawy_ minus samp zostan _na_wyjsciu _ostroznie
+4480 szczyt_prawa smialo za_szczytem_ 6_prawy
+4520 do 6_lewy_ minus _dluzszy na_szczyt
+4700 za_szczytem_ 6_prawy_ minus
+4740 5_lewy_ przez_garb zostan _dluzszy
+4970 5_prawy
+5020 150 za_szczytem_ 7_prawy_ do 6_lewy_ shamuj_ 5_prawy_ lewy
+5200 hamuj_ 2+_prawy _dluzszy
+5480  od_szczytu_ 3_lewy_ lekki_zacisk _dluzszy
+5560  50_ 4_lewy_ minus
+5700  hamowanie 2_lewy_ _dluzszy
+5815  3_prawy_ dlugi
+5910  do 3_lewy_  do nawrot_prawy zacisk dlugi
+6060  6_lewy_ zostan do minus 4_prawy_ przez_szczyt _nie_wypuszczaj
+6180  200 prostuj potem_ shamuj_ 3+_lewy
+6380  150 _w_siodle 5_prawy 
+6430 100 _w_gore i od_szczytu_ 5_prawy_ minus _nie_spiesz
+6620  200 potem_ _w_gore i shamuj_ 2_prawy_ nawrot _dluzszy
+6880  6_lewy 120  
+6920  shamuj_ 4_lewy_ zacisk_do_3 _dluzszy zostan
+7050 do 3_prawy_ minus
+7170 4_lewy_ _podwojny
+7200  100 przez_szczyt i minus 4_lewy_ _krotki
+7365  150 lotna potem_ ostroznie duza_hopa_ i 200 _do_mety_stop

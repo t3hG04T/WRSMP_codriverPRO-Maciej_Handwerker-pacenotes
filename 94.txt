@@ -1,0 +1,87 @@
+# Stryckovy Okruh
+0 5_prawy dlugi
+40 za_szczytem_ 6_lewy podwojny przytnij nie_wypuszczaj
+240 200
+360 6_prawy _szczytem
+500 100 
+550 szczyt 20 szykana_od_lewej
+780 30
+800 5_prawy dlugi
+900 ciac_ hopa_prawa 7_lewy_ 80
+1000 7_lewy_ 50
+1100 5_lewy zacisk przytnij wyjscie_hopa
+1350 100 _podbija
+1400 przytnij 6_lewy
+1480 i 6_prawy 30
+1510 5_prawy 30 przytnij 3_prawy 30 hak_lewy _ciasny
+1870 50
+1895 2_lewy_ _za_beczki
+1920 szczyt lewa i ciac_ 5_prawy_ lewy 50
+2010 7_prawy i 6_prawy_ przytnij _wyjscie
+2050 100 krotki 5_prawy_ _szczytem
+2250 30 5_lewy 50 ciac_ 3_prawy
+2480 do _prostuj 6_lewy
+2550 6_prawy do 6_lewy zacisk przyciac _wyjscie
+2710 70
+2720 6_prawy do ciac_ 6_lewy odkleja
+2950 80
+3000 4_prawy_ na_szczyt nie_Ciac
+3100 nie_ciac 5_prawy_ i przytnij 4_lewy
+3230 100
+3300 6_prawy podbija shamuj_40 syf 1_lewy nie_wypuszczaj row
+3500 30 
+3530 _na_szuter _prostuj 7_lewy_ _prawy
+3610 30 6_lewy do 5_prawy _tylko_przyciac _kamien
+3800 _na_asfalt 50 _prostuj
+3880 5_lewy na_szczyt _na_szuter
+3900 shamuj_50 3_prawy_ _ciasny
+4000 potem_ _wypusc
+4130 6_lewy wyjscie_szczytem
+4180 do 6_prawy _na_asfalt
+4230 100 6_lewy
+4320 za_szczytem_ 30 przytnij 5_prawy _na_szuter _wybija do 5_prawy
+4600 6_lewy _krotki 100
+4760 6_lewy podbija wyjscie_szczytem
+4860 20 4_prawy_ przytnij na_szczyt
+4970 za_szczytem_ lewa 20 5_prawy
+5100 70 _prostuj
+5110 4_lewy podwojny podbija _na_asfalt
+5270 shamuj_50 1_lewy negat
+5380 50 prawa
+5400 4_lewy_
+5450 40
+5500 5_prawy
+# koniec petli 1
+5560 za_szczytem_ 6_lewy podwojny przytnij nie_wypuszczaj   
+5758 200       
+5878 6_prawy _szczytem     
+6018 100       
+6068 szczyt 20 szykana_od_lewej     
+6298 30       
+6318 5_prawy dlugi      
+6418 ciac_ hopa_prawa 7_lewy_ 80   
+6518 7_lewy_ 50      
+6618 5_lewy zacisk przytnij wyjscie_hopa    
+6868 100 _podbija      
+6918 przytnij 6_lewy      
+7000 i 6_prawy 30    
+7010 5_prawy 30 przytnij 3_prawy 30 hak_lewy _ciasny 
+7388 50       
+7413 2_lewy_ _za_beczki      
+7438 szczyt lewa i ciac_ 5_prawy_ lewy 50
+7528 7_prawy i 6_prawy_ przytnij _wyjscie   
+7548 100 krotki 5_prawy_ _szczytem    
+7768 30 5_lewy 50 ciac_ 3_prawy   
+7998 do _prostuj 6_lewy     
+8068 6_prawy do 6_lewy zacisk przyciac _wyjscie  
+8228 70       
+8238 6_prawy do ciac_ 6_lewy odkleja   
+8468 80       
+8518 4_prawy_ na_szczyt nie_Ciac     
+8638 nie_ciac 5_prawy_ i przytnij 4_lewy    
+8748 100       
+8800 6_prawy podbija shamuj_40 syf przytnij 3_prawy
+9018 100
+9120 lotna
+#kóniec
+

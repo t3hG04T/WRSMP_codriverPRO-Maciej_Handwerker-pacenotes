@@ -1,0 +1,50 @@
+#RP 2009 Shakedown
+0 40 4_prawy zacisk
+50 do 4_lewy hamowanie od_szczytu_ 20
+120 do hak_lewy ciasny_ zostan 
+200 7_lewy 20 od_szczytu_ hamowanie
+300 2_prawy minus ciasno 30
+360 3_lewy plus 30
+410 od_szczytu_ 3_prawy plus krotki zostan
+470 40 od_szczytu_ 3_prawy podbija 30
+550 4_lewy 20
+635 5_prawy krotki 30
+690 4_lewy podbija
+760 krotka i 4_prawy podbija
+810 do 5_lewy zostan
+860 6_prawy _przy_drzewach wybija 30
+920 4_lewy_ _dluzszy 30 przez_garb wybija
+1040 3_prawy minus 30
+1100 6_lewy _szczytem smialo
+1160 do 7_prawy krotki
+1220 od_szczytu_ 4_lewy krotki 50
+1310 6_prawy 50
+1390 ostroznie hopa_lewa 50
+1480 krotki 5_lewy shamuj_20
+1570 do 2_prawy zostan
+1690 40 prostuj
+1720 pozny_ 3_lewy zostan wyjscie_hopa 30
+1800 szczyt_prawa 40 shamuj
+1870 3_prawy minus zacisk podbija
+1920 pozniej_ hopa_lewa przyciac 50
+2050 4_lewy_ zacisk wyjscie_szczytem prawa shamuj_30
+2150 2_lewy nie_tnij wypusc
+2200 do 3_prawy 
+2300 100 podbija shamuj
+2400 2_prawy zacisk 20 2_prawy nie_tnij _nie_wypuszczaj
+2550 5_lewy krotki shamuj
+2620 4_prawy 40
+2650 7_lewy dlugi smialo
+3050 50 5_prawy shamuj_30
+3150 3_lewy ciasno 30
+3230 5_prawy 
+3300 zacisk do 3_prawy shamuj
+3360 hak_lewy otwarty 100
+3500 7_prawy 70
+3600 5_lewy max 50
+3800 7_prawy 30
+3950 4_lewy plus _szczytem 30
+4030 4_prawy_ minus spadanie_ 50
+4200 7_prawy 100
+4440 lotna
+4460 200 _do_mety_stop

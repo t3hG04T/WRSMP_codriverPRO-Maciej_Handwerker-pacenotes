@@ -1,0 +1,75 @@
+# Prospect Ridge II
+-5 zaczynamy_ 7_prawy
+50 70 6_prawy krotki otwarty
+200 80 6_lewy minus
+350 50 6_lewy zostan shamuj
+400 krotka i 4_prawy plus krotki
+580 60 6_lewy _szczytem smialo
+700 40 7_prawy nie_wypuszczaj shamuj
+750 50 nie_tnij 4_lewy minus
+800 do 4_prawy otwarty zostan wyjscie_szczytem prawa smialo
+1000 7_prawy 
+1080 widac_ 300 dlugi 7_lewy przez_szczyt lewa max
+1200 40 7_lewy krotki 
+1310 30 pozny_ 4_prawy otwarty nie_wypuszczaj
+1620 przechodzi_w_ krotki 4_lewy negat zahacz
+1740 30 4_lewy krotki
+1800 60 4_prawy _w_siodle odkleja _na_wyjsciu
+2000 7_lewy bardzo dlugi widac_ 400 max
+2250 pozniej_ 6_prawy _szczytem hamowanie
+2380 50 za_szczytem_
+2430 2_lewy minus _z_drogi slisko
+2660 30 7_prawy pozniej_ ostroznie
+2720 5_lewy zacisk_do_3 odkleja
+2800 50 2_prawy plus negat slisko
+2950 50 3_lewy_ nie_tnij
+3070 200 shamuj 
+3150 od_tasm_ pozny_ 2_prawy plus slisko
+3350 60 3_lewy zahacz
+3500 70 4_prawy minus _dluzszy
+3650 20 4_lewy minus
+3700 szczyt 50 krotki 4_prawy shamuj 
+3780 do 2_lewy
+3940 30 za_szczytem_ krotki 3_prawy
+4030 krotka i 3_lewy minus
+4080 do 4_prawy otwarty zostan
+4180 do 3_lewy plus
+4270 100 szczyt_prawa max
+4370 krotki 4_prawy
+4400 50 za_szczytem_ shamuj 2+_lewy slisko
+4600 70 szczyt_lewa 
+4650 przechodzi_w_ 4_prawy _dluzszy zacisk
+4720 do od_tasm_ 3_lewy minus
+4880 50 ostroznie krotki 6_lewy shamuj wybija 
+4950 do 4_prawy
+5000 do krotki 6_lewy przytnij
+5070 pozniej_ szczyt_prawa
+5120 30 3_lewy
+5200 do 5_prawy spadanie prawa slisko
+5250 shamuj 4_prawy minus bardzo dlugi
+5400 krotka i _szczytem 7_lewy
+5550 50 3_lewy slisko
+5650 70 bardzo dlugi 4_prawy zacisk nie_tnij zostan
+5770 pozniej_ krotki 3_lewy _szczytem
+5940 40 5_prawy krotki
+6020 20 4_lewy odkleja smialo
+6100 20 krotki 6_prawy _szczytem zostan
+6200 do 4_lewy
+6200 za_szczytem_ 30 shamuj 3_lewy minus
+6380 krotka i 5_prawy dlugi shamuj _szczytem
+6450 3_prawy do 3_lewy mocno_ odkleja nie_tnij
+6600 20 4_lewy minus dlugi podwojny od_tasm_ szczyt wybija
+6800 do 4_prawy _w_siodle przytnij
+6850 do 5_lewy _szczytem
+6950 7_prawy przechodzi_w_ 5_prawy na_szczyt prawa otwarty
+7000 pozniej_ spadanie
+7070 krotki 5_prawy
+7150 7_lewy wyjscie_szczytem hamowanie
+7350 5_prawy plus krotka i zacisk_do_3 prawy_lewy podbija
+7600 100 4+_prawy _szczytem przechodzi_w_ 7_lewy dlugi
+7900 lotna 
+7950 200 hamowanie
+
+
+
+

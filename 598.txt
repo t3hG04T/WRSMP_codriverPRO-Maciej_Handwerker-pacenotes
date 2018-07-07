@@ -1,0 +1,150 @@
+# Pikes Peak
+0 5_prawy_ max nie_tnij _wypusc
+60 200
+80 5_prawy_ nie_tnij _wypusc
+240 120 6_prawy_ max nie_tnij
+360 100 5_lewy_ nie_tnij _wypusc
+590 150
+620 5_lewy nie_tnij _wypusc
+770 100 5_prawy_ minus zahacz _nie_wypuszczaj
+930 100
+960 5_prawy_ zostan zahacz
+1000 50 4_lewy_ nie_tnij
+1150 6_prawy_ do 5_lewy
+1250 krotka i 5_prawy_ max zahacz zostan
+1370 80_  4_lewy_ minus nie_ciac do 6_prawy_ _dluzszy
+1650 6_prawy_ i 4_lewy_ nie_tnij
+1810 krotka i minus 5_prawy_ zacisk nie_tnij _na_wyjsciu
+1950 80 5_lewy_ minus przechodzi_w_ 4_lewy_ minus nie_ciac zostan
+2160 krotka 4_prawy_ lekki_zacisk dlugi
+2320 150
+2370 4_lewy_ minus _dluzszy
+2550 90
+2570 smialo 5_prawy_ zahacz  przechodzi_w_ 6_prawy_ _wypusc
+2760 150
+2810 6_prawy_ do 6_lewy_  przechodzi_w_ 2_lewy nie_tnij
+3250 krotka i 3_prawy_ zacisk
+3300 90 5_prawy_ minus nie_tnij _wypusc
+3430 prawy max i  smialo 6_lewy_ max _wypusc _dluzszy
+3770 300
+3900 4_lewy_ minus nie_ciac zostan _na_szuter
+4120 6_prawy_ _dluzszy nie_tnij _na_wyjsciu
+4250 80_ 5_lewy_ _otwarty
+4360 100 i prawy max
+4420 4_lewy_ minus _nie_spiesz nie_ciac zostan
+4510 hamuj_ nawrot_prawy zahacz _wypusc
+4760 80 7_prawy_ nie_tnij 50
+4790 3+_lewy _dluzszy nie_tnij
+4920 100 6_prawy_ nie_tnij
+5060 150 3_prawy_ minus _dluzszy nie_tnij
+5280 50
+5300 3_lewy_ negat zahacz bardzo dlugi
+5420 3+_lewy zahacz krotka i 3_lewy_ zostan
+5580 4_prawy_ zostan nie_tnij _na_wyjsciu
+5640 5_lewy_ minus nie_tnij zostan
+5710 hamuj_ nawrot_prawy _wypusc nie_tnij
+5920 150 i 4_lewy_ minus zacisk dlugi nie_ciac
+6050 80 lewy i 5_prawy_ nie_ciac
+6220 300
+6280 7_prawy_ lewy
+6400 hamuj_ za_znakiem_ nawrot_lewy zahacz 
+6700 krotka i 6_prawy
+6740 hamuj_ ostroznie nie_tnij 2_prawy_ _nie_wypuszczaj _kamien
+6880 200
+6920 5_lewy_ nie_tnij do 5_lewy_ nie_tnij zostan
+6980 shamuj_  2_prawy_ _krotki nie_tnij zostan
+7210 6_lewy_ dlugi
+7290 150
+7330 dlugi 4_prawy_ zacisk_do_2 nie_tnij
+7610 80 i 3_lewy_ zacisk_do_2 nie_tnij bardzo dlugi
+7810 4_prawy_ _krotki zostan
+7840 5_lewy_ nie_tnij i 6_prawy
+7930 150
+7970 hamuj_ lewa nawrot_prawy nie_tnij
+8200 100
+8220 3_lewy_ zacisk_do_2 nie_tnij bardzo dlugi
+8430 150 prostuj
+8450 5_prawy_ _krotki zostan
+8490 100
+8510 4_lewy_ nie_tnij do 5_prawy_ _nie_wypuszczaj
+8640 150 _na_asfalt
+8710 potem_ lewa ciasno
+8880 200
+8900 4_prawy_ minus nie_tnij _wypusc
+9070 200 prostuj
+9130 hamuj_ prawa i nawrot_lewy _dluzszy
+9370 krotka i 6_prawy_ bardzo dlugi smialo
+9450 150 5_prawy_ _krotki
+9520 6_lewy_ potem_ shamuj_ przechodzi_w_ 3_lewy
+9780 lewy max i 6_lewy
+9830 6_prawy_ zajebiscie_ bardzo dlugi lekki_zacisk
+10270 hamuj_ lewa za_znakiem_ nawrot_prawy
+10550 do 5_lewy_ max
+10580 krotka i 6_lewy_ _wypusc
+10620 shamuj_ prawa i krotki 4_lewy_ minus zostan
+10800 300 potem_ prostuj
+10980 7_lewy_ do shamuj_ 5_prawy_ nie_ciac
+11200 hamuj_ prawa i nawrot_lewy
+11400 100 5_lewy_ zostan
+11420 potem_ hamuj_ lewa i nawrot_prawy dlugi nie_tnij
+11600 krotka i 6_prawy
+11630 80_ i 5_prawy_ nie_tnij
+11680 hamuj_ prawa i nawrot_lewy
+11880 60 i 5_prawy_ lekki_zacisk
+11970 150 prostuj
+12020 6_prawy_ max
+12080 150 prostuj
+12120 hamuj_ lewa nawrot_prawy
+12400 150
+12430 5_lewy_ max
+12470 100 i hamuj_ prawa nawrot_lewy
+12730 krotka i 6_prawy_ max dlugi
+12760 100 i hamuj_ lewa nawrot_prawy zahacz
+13010 70 i bardzo dlugi 6_lewy_ zacisk_do_ 4
+13130 80_ i 5_prawy_ nie_tnij
+13210 150 6_lewy_ prawy
+13280 hamuj_ prawa nawrot_lewy zahacz
+13560 200 prostuj
+13580 hamuj_ lewa nawrot_prawy zahacz
+13700 krotka i 5_lewy_ max lekki_zacisk
+13780 200 _na_szuter
+13900 5_prawy_ max nie_ciac 
+14030 300
+14100 shamuj_ 5_lewy_ minus zostan
+14370 100 i 6_lewy_ max
+14550 300
+14630 shamuj 3_prawy_ minus nie_tnij
+14900 200
+14950 7_prawy
+15050 200
+15100 5_lewy_ potem_ nie_ciac zacisk
+15380 200 5_prawy_ minus lekki_zacisk
+15680 150
+15730 4_lewy_ _dluzszy lekki_zacisk nie_tnij _nie_wypuszczaj
+15960 200
+16000 5_lewy_ zacisk _dluzszy nie_tnij
+16250 200
+16300 5_prawy_ nie_tnij _nie_wypuszczaj
+16550 300
+16600 hamuj_ lewa nawrot_prawy
+16850 krotka i 5_lewy
+16900 80_ i shamuj_ 2+_lewy zacisk nie_ciac
+17040 4_prawy_ nie_tnij
+17100 krotka i 2_lewy_ nie_tnij _nie_wypuszczaj
+17300 80 i 3_prawy_ minus zacisk nie_ciac
+17380 krotka i 5_prawy_ nie_tnij
+17500 krotka i 6_lewy_ nie_tnij
+17600 200
+17650 6_prawy_ nie_tnij _wypusc
+17850 400
+17950 shamuj_ 4_lewy_ _podwojny nie_tnij
+18350 200 lewy_prawy max
+18590 200
+18620 od_znaku_ hamuj_ prawa nawrot_lewy zahacz
+18900 150 prawy_lewy max
+18970 300
+19020 5_prawy_ minus _podwojny _nie_wypuszczaj
+19200 100 hamuj_ lewa nawrot_prawy zahacz
+19540 krotka i 6_lewy
+19570 60 i 4_lewy_ bardzo dlugi _nie_wypuszczaj
+19700 200 prostuj hamuj_ lotna

@@ -1,0 +1,93 @@
+# Sosnova
+0 150
+50 2+_lewy dlugi
+150 zostan do krotki 4_prawy_ _za_opony
+220 50 
+280 2+_lewy zostan
+310 do 2_prawy_ _na_szuter
+420 50 5_lewy_ wypusc
+540 70 5_lewy_ dlugi
+580 nie_wypuszczaj
+720 shamuj_50
+750 2+_lewy
+920 100
+950 wczesnie_ 3_prawy_ minus nie_wypuszczaj
+1150 100 prawa
+1200 5_lewy
+1300 120
+1350 2_lewy_ dlugi ciac_ _wyjscie
+1580 70
+1630 3_prawy_ przytnij _wyjscie
+1720 20 slisko 2_prawy_ zostan
+1780 30 2_lewy_ zacisk_do_1
+1870 50 przytnij prawa
+1920 4_lewy_ plus smialo
+1970 shamuj_50
+2000 1_lewy_nawrot
+2050 i 1_prawy_ na_mostek
+2130 za_szczytem_ 3_lewy
+2170 shamuj_30 3_lewy_ zacisk
+2300 do 2_prawy_ nie_wypuszczaj
+#koniec okrazenia
+2320 150
+2450 2+_lewy dlugi
+2550 zostan do krotki 4_prawy_ _za_opony
+2620 50 
+2680 2+_lewy zostan
+2710 do 2_prawy_ _na_szuter
+2820 50 5_lewy_ wypusc
+2940 70 5_lewy_ dlugi
+2980 nie_wypuszczaj
+3120 shamuj_50
+3150 2+_lewy
+3320 100
+3350 wczesnie_ 3_prawy_ minus nie_wypuszczaj
+3550 100 prawa
+3600 5_lewy
+3700 120
+3750 2_lewy_ dlugi ciac_ _wyjscie
+3980 70
+4030 3_prawy_ przytnij _wyjscie
+4120 20 slisko 2_prawy_ zostan
+4180 30 2_lewy_ zacisk_do_1
+4270 50 przytnij prawa
+4320 4_lewy_ plus smialo
+4370 shamuj_50
+4400 1_lewy_nawrot
+4450 i 1_prawy_ na_mostek
+4530 za_szczytem_ 3_lewy
+4570 shamuj_30 3_lewy_ zacisk
+4700 do 2_prawy_ nie_wypuszczaj 150
+#koniec okrazenia
+4720 i_ostatnie_okrazenie
+4750 2+_lewy dlugi
+4850 zostan do krotki 4_prawy_ _za_opony
+4920 50 
+4980 2+_lewy zostan
+5010 do 2_prawy_ _na_szuter
+5120 50 5_lewy_ wypusc
+5240 70 5_lewy_ dlugi
+5280 nie_wypuszczaj
+5420 shamuj_50
+5450 2+_lewy
+5620 100
+5650 wczesnie_ 3_prawy_ minus nie_wypuszczaj
+5850 100 prawa
+5900 5_lewy
+6000 120
+6050 2_lewy_ dlugi ciac_ _wyjscie
+6280 70
+6330 3_prawy_ przytnij _wyjscie
+6420 20 slisko 2_prawy_ zostan
+6480 30 2_lewy_ zacisk_do_1
+6570 50 przytnij prawa
+6650 4_lewy_ plus smialo
+6710 shamuj_50
+6750 1_lewy_nawrot
+6800 i 1_prawy_ na_mostek
+6850 za_szczytem_ 3_lewy
+6890 shamuj_30 3_lewy_ zacisk
+7030 do 2_prawy_ nie_wypuszczaj 150
+7050 2+_lewy dlugi
+7220 lotna
+7430 i_wyjezdzamy_w_prawo_w_brame_do_mety_stop

@@ -1,0 +1,85 @@
+#Jeux Plane II
+30 6_prawy przytnij
+90 do 6_prawy przytnij
+130 do 6_lewy
+160 do 5_prawy 20 4_lewy_ minus przyciac_ _otwarty
+380 do 6_prawy przytnij
+450 100
+530 4_prawy_ zacisk
+570 shamuj_ 10 2_lewy_ _ciac
+740 nawrot_prawy zostan
+780 do 2_lewy_ _dluzszy
+830 200 _prostuj
+980 6_lewy przytnij _wyjscie _szczytem
+1090 40 5_prawy przytnij
+1200 do 5_lewy_ minus
+1350 250
+1400 6_prawy_ _ciac do szczyt_lewa przytnij
+1450 do 7_prawy 40 6_prawy 
+1600 do za_szczytem_ 4_prawy nie_ciac
+1890 do 6_prawy 120
+2000 6_prawy krotki 40 5_prawy
+2090 do 4_lewy
+2240 do przytnij 4_prawy 120
+2460 za_szczytem_ 50 przytnij 4_lewy
+2480 do ciac_ 4_prawy
+2580 do 4_lewy
+2730 40 2+_lewy_ zacisk _ciac
+2880 60 2_prawy do 2_prawy wypusc
+3000 do krotki 6_lewy
+3010 do ciac_ 6_prawy krotki
+3030 za_szczytem_ 40 5_prawy
+3230 50 przytnij 5_lewy do 5_prawy
+3330 shamuj_20 nawrot_lewy
+3470 20 6_lewy do 5_prawy
+3550 krotki 5_lewy do 4_lewy
+3700 do za_szczytem_ 4_prawy ciac_ _wyjscie 
+3870 100 za_szczytem_ 50
+4000 przytnij 6_lewy
+4100 250 _prostuj
+4280 6_lewy_ minus nie_wypuszczaj
+4450 50 7_lewy do pozny 5_prawy_ _ciac
+4700 do 4_lewy_ dlugi na_szczyt zacisk
+5080 za_szczytem_ krotki 4_prawy
+5180 40 pozny 4_lewy_ przyciac
+5300 30 przytnij podbija 5_prawy i 6_lewy
+5420 do przytnij 6_prawy 150
+5650 pozny 4_prawy_ _dluzszy _ciac
+5800 50 5_lewy_ zostan
+5940 do ciac_ 6_prawy_ lewy zostan
+6070 do za_szczytem_ 5_prawy_ 
+6150 do 3_prawy_ _ciac
+6360 do pozny 6_lewy podwojny
+6590 200
+6700 4_prawy_ _ciasny przytnij do 6_lewy
+6830 100
+6900 6_lewy 50
+6980 za_szczytem_ 60 podbija 6_prawy_ _dluzszy
+7200 100 6_prawy_ minus
+7300 za_drzewkiem_ szczyt_prawa 80
+7400 100 szczyt_prawa
+7530 6_lewy dlugi podbija 
+7780 do 4_lewy
+7850 otwarty
+8000 do 6_lewy_ prawy 
+8080 szczyt_lewa 30 6_prawy
+8150 do 6_lewy_ negat 150
+8480 5_prawy_ przez_szczyt 40 4_prawy
+8660 za_szczytem_ 30 3_lewy zostan do 3_prawy_ _ciac
+8970 do za_szczytem_ krotki 6_lewy 30 4_lewy_ zacisk_do_2
+9100 zostan do 4_prawy_ zacisk
+9300 do za_szczytem_ 30 5_lewy_ zacisk_do_3
+9510 do 7_prawy 60
+9585 ciac_ 6_prawy do 6_lewy
+9780 150 5_prawy_ _ciac shamuj 3_lewy_ wypusc
+10000 70 _prostuj przytnij 5_lewy do 5_prawy pozny zacisk _ciac
+10200 do 4_lewy i 2+_prawy_ _ciac
+10400 do ciac_ 5_prawy
+10450 do 4_lewy
+10500 80 _prostuj ciac_ 4_prawy wypusc
+10660 do 5_prawy i 3_lewy_ _dluzszy
+10840 za_szczytem_ 5_lewy i ciac_ 3_prawy
+11000 60 5_lewy zacisk
+11100 80 pozny 5_prawy zacisk _ciac
+11160 do za_szczytem_ 3_lewy
+11370 lotna

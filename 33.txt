@@ -1,0 +1,86 @@
+# Mineshaft
+-5 lewy
+0 do 4_prawy krotki przytnij 40 prawa od_szczytu_
+40 4_lewy krotki 20
+80 3_prawy
+120 do 3_lewy zostan samp
+200 za_szczytem_ 3_prawy krotki odkleja
+270 do 3_lewy prawy_lewy
+320 widac_ 80 
+380 od_szczytu_ 5_prawy do 7_lewy 30 shamuj
+480 wczesnie_ 3_lewy dlugi zostan
+640 do 4_prawy _szczytem _nie_wypuszczaj 40
+730 4_lewy zostan prostuj 60
+800 od_szczytu_ 5_prawy_ krotki 50
+880 za_szczytem_ krotki 4_lewy ciasno zostan 30
+950 4_prawy 40 
+1020 szczyt_lewa widac_ 150 5_lewy samp hamowanie i za_szczytem_30
+1200 do 2_prawy przyciac _z_drogi 40
+1380 przytnij 5_lewy 60
+1450 krotki 4_prawy od_szczytu_ 4_lewy zostan 100 na_szczyt widac_
+1520 przytnij _z_uwaga krotki 5_lewy
+1620 do 3_prawy negat 10
+1760 4_lewy nie_wypuszczaj 30
+1900 4_prawy do 3_lewy zostan
+2000 5_prawy lewy_prawy 40 hamowanie i za_szczytem_  
+2100 ciasny_ 1_lewy_ _z_drogi 40
+2220 3_lewy za_szczytem_ krotki 4_prawy 
+2280 do nie_tnij 3_lewy krotki samp 50
+2390 5_lewy do 3_prawy nie_wypuszczaj 80
+2480 7_lewy krotki za_szczytem_ wczesnie_ 3_prawy minus 70
+2620 prostuj prawa za_szczytem_ 5_lewy zostan
+2770 do _szczytem 4_prawy_ _nie_wypuszczaj
+2880 do pozny_ 4_lewy
+2980 do 4_prawy _szczytem 40
+3000 5_lewy shamuj
+3060 do 3_prawy negat 40
+3200 4_lewy na_szczyt 50
+3280 4_prawy
+3350 pozniej_ za_szczytem_  40 krotki 5_lewy prawy
+3400 5_lewy 70
+3470 4_prawy szczyt_prawa 40 
+3570 5_lewy krotka shamuj
+3640 3_prawy_ zajebiscie_ dlugi podbija wyjscie_szczytem 50
+3900 krotki 6_prawy zostan szczyt_prawa 
+4040 do 4_lewy prawy zostan 20 4_lewy widac_ 70
+4180 4_prawy do nie_tnij 3_lewy odkleja 30 
+4320 4_prawy 30 krotki 5_lewy na_szczyt prawa
+4430 i 2_lewy ciasny_ 50 widac_
+4580 szczyt_lewa do 4_prawy krotki 50
+4700 3_lewy przytnij 10
+4750 5_prawy zostan szczyt_prawa 30
+4820 4_lewy krotki samp 50
+4900 za_szczytem_ 5_prawy 70
+4980 przytnij _z_uwaga 4_lewy hamowanie
+5020 za_szczytem_ 1_prawy _z_drogi
+5190 ciac_ 4_lewy zostan 30
+5290 za_szczytem_ 4_prawy 70
+5350 szczyt_prawa _z_uwaga 150
+5480 za_szczytem_ 4_prawy
+5650 krotki 4_lewy prawy za_szczytem_ lewa
+5860 3_lewy _dluzszy samp przytnij_row ostroznie
+5980 za_szczytem_ 20
+6070 4_lewy samp hamowanie 20
+6130 2_prawy _za_drzewo 50
+6240 na_szczyt prawa do 4_lewy ciasny_ 50
+6370 5_prawy szczyt_prawa
+6420 do 6_lewy 120
+6570 krotki 5_lewy _szczytem 50
+6650 6_prawy krotki od_szczytu_ krotki 4_lewy 100 hamowanie
+6930 ostroznie duza_hopa
+7050 3_lewy _dluzszy otwarty 50
+7150 5_lewy zacisk wyjscie_szczytem 30
+7270 4_prawy 100
+7400 krotki 4_prawy wyjscie_szczytem 
+7470 do wczesnie_ zacisk_do_2 40 
+7550 4_prawy krotka
+7600 3_lewy
+7660 4_prawy wyjscie_szczytem zostan 30
+7720 5_prawy lewy 70
+7810 za_szczytem_ 4_prawy
+7890 do 3_lewy zacisk
+7980 4_prawy krotki _wypusc szczyt_lewa
+8050 za_drugim_szczytem_ hamowanie 100
+8150 2_prawy przyciac 30
+8220 3_lewy _na_wyjsciu szczyt_prawa ostroznie
+8340 lotna

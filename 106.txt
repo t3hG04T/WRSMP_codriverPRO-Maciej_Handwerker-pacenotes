@@ -1,0 +1,64 @@
+# stryckovy-zadni
+
+0 5_prawy dlugi
+40 za_szczytem_ 6_lewy podwojny przytnij nie_wypuszczaj
+240 200
+360 ciac_ 6_prawy _szczytem
+500 100
+600 za_szczytem_ 6_lewy_ przytnij
+730 30 6_prawy
+900 ciac_ hopa_prawa 7_lewy_ 80
+1000 7_lewy_ 50
+1100 5_lewy_ zacisk przytnij wyjscie_hopa
+1350 100 _podbija
+1420 przytnij 6_lewy
+1500 i 6_prawy_ 30
+1550 5_prawy 30 przytnij 3_prawy_ 30 hak_lewy _ciasny
+1870 50
+1895 2_lewy_ _za_opony
+1920 szczyt lewa i ciac_ 5_prawy_ lewy 50
+2010 7_prawy i 6_prawy_ przytnij _wyjscie
+2050 100 krotki 5_prawy_ _szczytem
+2250 30 5_lewy 50 ciac_ 3_prawy
+2480 do _prostuj 6_lewy
+2550 6_prawy do 6_lewy_ zacisk przyciac _wyjscie
+2710 70
+2720 6_prawy do ciac_ 6_lewy_ odkleja
+2970 80
+3000 ciac_ 4_prawy_ na_szczyt
+3070 5_prawy_ i przytnij 4_lewy
+3210 100
+3230 6_prawy podbija shamuj_40 syf przytnij 3_prawy plus
+3380 100
+3540 za_szczytem_ 50 i 6_prawy_ zostan
+3630 70 przytnij 2_lewy_ _za_drzewo
+3880 50
+3910 za_drugim_szczytem_ 60 i 5_lewy_ _z_uwaga
+4020 50
+4030 za_szczytem_ 6_prawy
+4230 50 7_prawy _podwojny
+4250 do 7_lewy
+4290 podbija 50 4_lewy_ nie_ciac
+4580 do przytnij 2+_prawy
+4670 do 6_lewy
+4750 150 _prostuj
+4850 6_lewy
+4900 50 6_lewy
+5000 50 7_lewy_ do 6_prawy
+5170 do szczyt_lewa 120
+5340 hopa_smialo i 6_lewy
+5550 widac_ 80
+5650 krotki 6_lewy_ prawy
+5710 120 hak_prawy syf
+5980 do 7_lewy
+6000 200
+6050 7_lewy
+6130 50
+6150 pozno przytnij 4+_prawy_ _podwojny
+6270 50
+6430 za_szczytem_ 6_lewy_ _przy_oponach
+6500 200 
+6630 od_szczytu_ krotki 5_lewy
+6680 300 _prostuj wybija
+6940 lotna
+#koniec

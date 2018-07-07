@@ -1,0 +1,102 @@
+# Semetin 2010
+-10 3_prawy 30
+5 5_lewy krotki 40 syf 3_lewy _dluzszy zacisk_do_1 przez_garb 30
+150  2_prawy negat 40 
+230 6_lewy syf 100 prostuj szczyt_lewa shamuj 40
+370 szczyt_prawa ostroznie hopa 70 syf
+450 4_prawy na_szczyt 50
+540 krotki 5_prawy odkleja 30
+620 3_lewy krotki 50
+670 4_prawy wyjscie_szczytem 50
+750 szczyt_lewa smialo 50
+820 4_prawy otwarty 70
+870 przyciac_ 4_lewy podwojny shamuj
+920 3_prawy krotki 
+1020 od_szczytu_ 1_lewy _ciac przez_garb 70
+1120 ciasny_ 2_lewy krotki przez_garb nie_tnij
+1170 _szczytem 4_lewy krotki 70
+1250  zostan hopa_prawa od_szczytu_ zacisk  70
+1320 shamuj 4_prawy hopa 40
+1390 3_prawy nie_tnij 40
+1470 do nie_tnij 2_lewy dlugi potrojny odkleja
+1570 przyciac 3_prawy podwojny minus zostan 30
+1710 nie_tnij ciasny_ 2_lewy
+1770 4_prawy _ciac 30
+1820  szczyt_lewa krotka shamuj _z_uwaga
+1870 przy_drzewie lewa 3_lewy nie_tnij do 2+_prawy 40
+1950 krotki 4_prawy _szczytem zostan row 30 
+2020 3_lewy od_szczytu_ mocno_ _ciac odkleja
+2070 4_prawy przyciac podbija 
+2120 70 nie_tnij 5_prawy krotki 40
+2270 za_drugim_szczytem_ spadanie odkleja 3_prawy _dluzszy zostan
+2430 nie_tnij 6_lewy 50 hamowanie _z_uwaga
+2540 szczyt_prawa wybija ostroznie shamuj  40 za_szczytem_ 2_prawy odkleja nie_tnij 20
+2670 3_lewy od_szczytu_ zacisk_do_1 odkleja 30
+2770 4_prawy krotki syf  shamuj_30
+2820 1_prawy _za_znak spadanie ciasno
+2900 krotki 2_lewy do 3_prawy
+2930 krotki 2_lewy ostroznie
+2970 od_szczytu_ zajebiscie_ ciasny_ 1_prawy odkleja syf 90 prawa
+3110 krotki 4_prawy_ przyciac
+3160 zahacz 3_lewy odkleja szczyt_lewa shamuj_30
+3260 przyciac 3_prawy od_szczytu_ wypusc do 4_lewy krotki spadanie 50
+3400 ciasny_ 6_lewy slisko 50
+3570 za_szczytem_ 5_lewy krotki shamuj_40 syf
+3600 4_prawy negat _na_spadaniu krotka i
+3770 nie_tnij 3_lewy _dluzszy zacisk 50
+3870 pozny_ 3_lewy prostuj szczyt 20 shamuj spadanie
+3970 3_lewy krotki do 1_prawy syf smialo
+4140 prostuj 3_lewy prawy_lewy na_szczyt shamuj_20 syf
+4170 1_lewy  nie_tnij 150 syf
+4240 za_drzewkiem_ nie_tnij 4_prawy _dluzszy
+4370 do nie_tnij 4_lewy 40 prawa
+4470 ciac_ krotki 4_lewy do ciac_ 4_prawy podbija 
+4620 do ciac_ 5_lewy krotki 40
+4670 przyciac lewa 50 
+4750 4_prawy _dluzszy nie_wypuszczaj 40
+4970 krotki 4_prawy nie_tnij wypusc do nie_tnij 3_lewy plus
+5170 do przyciac 5_prawy krotki na_szczyt 
+5220 do 5_lewy nie_tnij 150 ostroznie
+5390 _przy_drzewach _z_drogi 3_lewy krotki wyjscie_szczytem zostan 50
+5570  3_prawy wyjscie_szczytem lewa 
+5620 za_szczytem_  ostroznie na_mostek podbija 30 syf
+5720 4_prawy krotki _na_asfalt 30
+5870 4_lewy zostan do przyciac_ 5_prawy
+5970 od_szczytu_ przyciac_ 5_lewy 50 
+6070 4_prawy ostroznie _na_wyjsciu podbija za_szczytem_20 ciasny_ mostek podbija
+6220 szczyt_prawa shamuj_20 nie_tnij 3_lewy krotki
+6390 50 szczyt_prawa pozniej_ 7_prawy 50
+6520 krotki 4_lewy przyciac na_szczyt prawa 100
+6620 przez_szczyt 4_prawy przyciac_ 40
+6850 od_szczytu_ 4_lewy otwarty 100
+6950 szczyt_prawa 50 7_prawy lewy 50
+7070 7_prawy 100 shamuj
+7170 za_szczytem_ syf _z_drogi 3_lewy _dluzszy otwarty nie_tnij nie_wypuszczaj
+7420 100 6_prawy ciasno syf 200
+7650 za_szczytem_ 6_lewy 200 prostuj lewa
+7820 shamuj 6_prawy zacisk_do_  4_prawy krotka
+8120 przyciac_ 3_lewy 30 duzy_syf
+8270 1_prawy _dluzszy 40
+8380 nie_tnij 3_lewy _dluzszy duzy_syf 40
+8470 6_prawy krotki przyciac do 6_lewy krotki
+8570 za_szczytem_30 syf shamuj podbija 6_prawy zacisk_do_ dlugi 4_prawy zacisk_do_3 widac_ szeroko
+8970 krotka 6_lewy dlugi nie_spiesz_ podbija za_drugim_szczytem_ zacisk_do_ 4 70
+9270 5_prawy krotki 40
+9350  5_lewy _dluzszy
+9570 7_prawy _dluzszy _od_znaku 4_prawy _dluzszy 50
+9770 4_lewy _szczytem 100
+9870 4_prawy krotki
+10020 od_szczytu_ 3_lewy nie_tnij mostek ciasno 70 syf
+10120 3_prawy nie_tnij mostek _na_wyjsciu 50
+10250 6_prawy krotki 80
+10340 6_lewy ciasno 100
+10420 4_lewy wypusc 80 widac_ duzy_syf
+10670 3_prawy 50
+10820 nie_tnij 3_lewy podwojny  szeroko 40
+10970 5_prawy 100 prostuj lewa 
+11050 od_szczytu_ 4_prawy 70
+11220 3_prawy przyciac 120
+11320 7_lewy  50
+11440 7_prawy  70 nie_tnij 4_lewy krotki wypusc
+11570 przy_drzewie 4_prawy nie_tnij 6_prawy
+11750 lotna 200 _do_mety_stop

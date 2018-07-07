@@ -1,0 +1,63 @@
+# Falstone II
+-5 ciasno 3_lewy prawy 70
+50 3_prawy nie_tnij
+130 do 4_lewy_ minus
+175 do 4_prawy podwojny
+250 krotka 4_lewy_ 30
+310 _dluzszy 7_lewy shamuj zacisk
+400 do 3_prawy_ plus _dluzszy zostan
+550 do 4_lewy_ samp 50
+630 3_prawy_ plus do 4_lewy _ciac
+800 80 shamuj 2_lewy _dluzszy 40
+950 1_prawy nie_tnij 30
+1050 ciac_ row 1_prawy max
+1110 4_lewy do 3_prawy_ podwojny zacisk
+1230 do ciac_ 4_lewy 50
+1370 5_lewy_ shamuj do krotki 4_prawy 
+1460 do ciac_ 4_lewy max
+1570 krotka i 5_lewy _ciac row
+1630 do ciac_ 4_prawy ciasny_
+1680 do 4_lewy samp 40
+1820 3_prawy_ ciasny_
+1900 do _dluzszy 3_lewy krotka 2_lewy_ _ciac 50
+2080 4_prawy_ krotki 50 prawa
+2150 szczyt_prawa krotka i 6_prawy nie_tnij 50
+2320 szczyt_prawa  ostroznie 
+2400 5_prawy_ plus shamuj 50
+2500 nie_tnij 4_lewy_ minus _dluzszy otwarty shamuj
+2650 do 2_lewy przytnij 80
+2760 3_prawy_ plus potrojny _nie_wypuszczaj przytnij row _na_wyjsciu 60
+3020 szczyt_lewa 40 4_lewy_ prawy nie_tnij 30
+3250 5_prawy do 5_lewy _dluzszy 70 shamuj
+3400 nawrot_lewy przytnij row 70
+3580 6_lewy dlugi za_szczytem_ 40 zacisk
+3710 do 4_prawy przytnij
+3850 za_drugim_szczytem_
+3900 6_lewy _dluzszy podbija shamuj
+4050 3_prawy_ minus ciac_ row
+4160 6_lewy prawy krotki shamuj
+4250 przytnij 2_lewy do 2_prawy krotka
+4390 2_lewy_ minus przytnij 20
+4420 2_prawy_ nie_tnij 30
+4500 6_prawy krotki 70
+4570 krotki 5_lewy do 3_prawy_ plus 30
+4700 krotki 4_prawy lewy_prawy 50
+4830 3_prawy_ plus 
+4900 do 4_lewy
+4950 do 4_prawy podwojny
+5080 do 4_lewy_ plus 40
+5150 4_lewy do 4_prawy _dluzszy zacisk
+5350 do ciac_ 4_lewy_ zostan samp 50
+5430 pozny_ 3_prawy
+5520 do 4_lewy max
+5600 zacisk od_tasm_ 3_lewy_ prawy _z_uwaga
+5750 przyciac_ 3_prawy ciasny_ mostek
+5850 do krotki 3_lewy przyciac_ prawy nie_tnij
+5900 do 3_lewy do 3_prawy krotki _z_uwaga mostek
+6000 krotki 3_prawy lewy samp
+6120 ciasny_ 4_prawy lewy nie_tnij 40
+6250 7_lewy 30 ostroznie
+6320 4_lewy prawy mostek
+6400 i 4_prawy do 4_lewy 40
+6630 lotna 
+

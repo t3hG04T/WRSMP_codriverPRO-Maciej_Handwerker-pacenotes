@@ -1,0 +1,82 @@
+#Bergheim
+0 50 2_prawy
+50 100 6_prawy_ _na_szuter
+150 100 do hak_lewy na_glowna 
+330 4_prawy_ dlugi do_6_lewy
+370 shamuj_30 3_lewy
+480 2_lewy_ _ciasny
+550 100
+570 szykana_od_lewej
+630 2_lewy_ nie_wypuszczaj
+720 100 6_prawy_ _na_szuter
+830 100 do hak_lewy na_glowna 
+980 4_prawy_ dlugi do_6_lewy
+1000 shamuj_30 3_lewy
+1130 2_lewy_ _ciasny
+1200 100
+1220 szykana_od_lewej
+1290 2_lewy_ nie_wypuszczaj
+1300 i_ostatnie_okrazenie
+1370 100 6_prawy_ _na_szuter
+1470 100 do hak_lewy na_glowna 
+1600 4_prawy_ dlugi do_6_lewy
+1640 shamuj_30 3_lewy
+1790 2+_prawy_ dlugi do 2_lewy_nie_ciac ciasno
+1860 100 7_prawy
+1970 4_lewy_ zacisk do 2_lewy_ przytnij
+2150 za_szczytem_ 3_prawy_ przytnij_wyjscie
+2220 100 4_lewy krotki nie_wypuszczaj
+2350 4+_prawy_ przytnij na_szczyt
+2410 prostuj
+2460 3_lewy_ przytnij
+2550 50 2_prawy_ na_glowna _nie_wypuszczaj
+2650 200 
+2700 za_szczytem_30 6_prawy_ do 3_lewy
+2800 do 4+_prawy_ na_szczyt
+2900 50 2_lewy_ przytnij
+3040 za_szczytem_ prawy_lewy przytnij_row
+3130 30 2_prawy_ dlugi do 4_lewy_ mocno_ciac
+3260 prostuj do 3_lewy_ shamuj_ 2_prawy_ na_glowna
+3400 5_lewy_ krotki do 6_prawy dlugi przez_szczyt
+3550 50 hamowanie hak_prawy
+3720 7_lewy_ widac_
+3760 przez_szczyt lewa do 7_prawy_
+3820 shamuj_ hak_lewy przy_slupie
+3950 100 5_prawy_ shamuj do hak_prawy 
+4100 syf
+4120 150 prostuj widac_
+4150 shamuj do hak_lewy za_znakiem_
+4240 5_prawy_ przytnij do 4_lewy_ podwojny
+4350 4_prawy mocno_ciac
+4410 do_2_lewy dlugi
+4560 5_prawy_ shamuj_20 do hak_prawy
+4650 przez_szczyt 4_lewy_ podwojny
+4700 za_szczytem_30 do 2_prawy podwojny
+4780 50 5_lewy_ do 5_prawy_ smialo
+4880 4_lewy_ przytnij
+4930 shamuj do 2_prawy_ 
+5140 przez_szczyt 4_lewy_ krotki do prawy_lewy z_uwaga_
+5200 2+_prawy_ _na_glowna
+5340 5_lewy_ 30 6_prawy
+5400 40 hamowanie hak_lewy za_barierke
+5540 prostuj widac_ 100
+5580 4_prawy_ nie_ciac 
+5630 4_lewy_ podwojny nie_tnij
+5700 100 
+5720 przez_szczyt 4+_prawy_ nie_tnij
+5780 5_lewy_ krotki max
+5820 4_lewy_ przy_drzewie
+5900 5_lewy_ krotki 
+5950 7_lewy_ prostuj hopa_smialo_
+6150 50 prostuj max
+6250 100 5_prawy_ przy_slupie
+6320 do 6_lewy_ przez_szczyt shamuj_ do 2+_lewy
+6530 7_lewy_ przez_szczyt 50 6_prawy
+6600 7_prawy_ przez_szczyt do przytnij 4_lewy_ dlugi
+6750 4_lewy_ przytnij zostan hamowanie_hak_prawy_ podwojny
+6980 150 przez_szczyt prostuj smialo
+7100 hamowanie 2+_prawy_ na_glowna wypusc 
+7230 7_prawy_ do 6_lewy
+7400 za_szczytem_ 6_prawy_ szeroko
+7480 do 7_lewy
+7760 lotna

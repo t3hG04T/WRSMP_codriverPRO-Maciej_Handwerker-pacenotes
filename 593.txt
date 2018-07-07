@@ -1,0 +1,88 @@
+# Slovakia Ring 2014 II
+0 120 hamuj_ 1_prawy_ _za_opony
+70 krotka 1_lewy_ _za_opony
+140 80 krotki 5_lewy_ _prawy ciasno opony
+190 100 krotki 6_prawy_ lewy
+290 120 5_lewy_ minus przytnij_wejscie_ potem_ nie_ciac opony
+500 do 4+_lewy nie_ciac dlugi zacisk
+650 krotka 4_prawy_ lewy minus
+800 150
+880 hamuj_ 1_lewy_ _za_opony
+1010 krotka 3_prawy_ minus _za_opony _wypusc do 6_lewy
+1080 shamuj_ hak_prawy do 2_lewy_ nie_ciac _szuter slisko
+1180 6_prawy_ lewy opony
+1230 100 hamuj_ 7_prawy_ do hak_lewy
+1380 do 2_prawy_ _krotki _za_opony
+1490 250
+1550 5_prawy_ bardzo dlugi lekki_zacisk nie_ciac
+1670 100 hamuj_ potem_ slisko _szuter 2_prawy_ bardzo dlugi _otwarty
+1950 do 5_lewy
+2050 100 shamuj_ 3_lewy_ minus szerzej_ bardzo dlugi
+2180 przechodzi_w_ 2_lewy_ _na_szuter
+2300 do 1_prawy_ _za_opony
+2400 200
+2430 5_lewy_ minus bardzo dlugi przytnij_wejscie_
+2500 potem_ nie_ciac
+2620 100 hamuj_ 1_prawy_ _za_opony _pod_wiadukt
+2880 70_ 1_lewy_ _za_opony
+2920 60 2+_lewy _ciac
+2970 do ciasny_ 3_prawy_ slisko _szuter do 2_lewy_ dlugi wypusc
+3080 300 smialo przez_szczyt
+3170 5_prawy_ zahacz dlugi lekki_zacisk
+3450 120 hamuj_ 2_lewy_ _za_opony
+3680 shamuj_ 3_prawy_ krotki slisko do 1_lewy
+3790 150 
+3820 6_lewy_ minus bardzo dlugi _ciac potem_ nie_ciac opony _nie_wypuszczaj
+4160 100 hamuj_ 1_prawy_ _za_opony _pod_wiadukt
+4380 krotka 1_prawy
+4440 krotka 4_lewy_ _krotki _za_opony zahacz
+4480 4_prawy_ _krotki _za_opony zahacz
+4570 300
+4630 shamuj_ 2_prawy_ _za_opony zahacz
+4880 300
+4930 6_prawy_ _krotki _ciac
+5000 shamuj_ _z_uwaga 7_prawy_ _z_drogi _szuter do slisko 2_prawy_ nie_ciac
+5370 200
+5400 6_lewy_ bardzo dlugi
+5700 300 szczyt_lewa
+5870 shamuj_ 4_prawy_ minus _ciasny _za_opony
+6070 krotka 4_lewy_ _za_opony
+6150 krotka 5_prawy_ _ciac do 5_lewy_ _ciac
+6260 150 shamuj_ ciasno 3_lewy_ minus _dluzszy zahacz _za_opony
+6540 150 4_lewy_ minus zahacz _za_opony
+6680 70_ 5_prawy_ minus _za_opony zostan
+6840 150 krotki 6_prawy_ lewy
+6940 200 hamuj_ nawrot_lewy _za_znak zostan
+7280 200 7_prawy_ lewy
+7380 200 hamuj_ nawrot_prawy
+7660 200
+7700 shamuj_ hak_lewy potem_ _szuter
+7800 100 wybija przez_garb
+7880 6_prawy_ do 2_lewy_ _dluzszy
+8000 80 5_prawy_ zacisk_do_ 4
+8100 80 shamuj_ 2_prawy_ _za_opony _wypusc
+8300 5_prawy_ do 1_lewy_ _za_opony _szuter
+8450 krotka 7_prawy
+8500 120 shamuj_ 1_prawy_ _ciasny _za_opony
+8650 200
+8700 5_lewy_ mocno_ciac
+8740 150 shamuj_ ciasno mostek 3_prawy_ lewy_prawy _barierki
+9020 7_prawy _z_drogi _na_szuter ciasno
+9070 4_lewy_ _za_opony _wypusc
+9190 300
+9290 shamuj_ od_tasm_ 5_lewy_ mocno_ciac 
+9400 krotka 3_prawy_ minus _za_opony _wypusc
+9580 70_ szerzej_ 7_prawy_ przechodzi_w_ 2_prawy_ _za_opony
+9740 150
+9770 5_prawy_ _z_drogi
+9810 krotka 5_lewy do 6_prawy_ mocno_ciac
+9900 do 6_lewy_ minus _dluzszy nie_ciac
+10020 120 6_prawy_ _ciac
+10090 100 shamuj_ 3_lewy_ _z_drogi szerzej_ zacisk_do_1 _za_opony
+10420 2_prawy_ do 2_lewy_ _za_opony
+10470 do 2_prawy_ do 4_lewy_ _za_opony
+10550 300
+10600 6_prawy_ zahacz smialo
+10700 120 lewa hamuj_ hak_prawy _za_opony
+10980 120 lotna
+11130 hamuj_ 2_lewy

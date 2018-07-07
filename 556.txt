@@ -1,0 +1,42 @@
+# Maton II
+0 nawrot_lewy
+20 od_szczytu_ nawrot_prawy
+80 przy_drzewku_ minus 4_prawy _ciac podbija
+150 za_szczytem_ pozny_ nawrot_lewy 20 i 2+_prawy _krotki
+300 prostuj 100 przy_drzewie nawrot_lewy
+420 prostuj 40 4_prawy_ lewy 50
+460 nawrot_prawy krotka prostuj
+540 od_szczytu_ 2_prawy_ _krotki hamuj_ i nawrot_lewy
+640 za_szczytem_ 5_prawy_ lewy shamuj
+700 2_prawy do  hak_lewy _z_drogi ciasno
+830 4_lewy_ i 2_prawy_ negat
+870 4_prawy_ przechodzi_w_ hak_prawy _za_znak 
+1000 nawrot_lewy do 4_prawy prostuj szczyt
+1040 3+_lewy zahacz _dluzszy
+1120 krotki 3_prawy 50 
+1250 na_szczyt prawa zostan i 3+_lewy krotki _ciac _za_drzewo
+1400 3_prawy i shamuj_ hopa_lewa
+1450 hamuj_ krotki 3_prawy do nawrot_lewy 50
+1640 pozny_ 1_prawy
+1720 2+_lewy bardzo dlugi negat
+1760 4_lewy_ do 3_prawy_ minus zahacz
+1840 lewy do nawrot_prawy
+1980 4_lewy_prawy 
+2040 shamuj_ nawrot_lewy
+2140 krotki 4_prawy_ do minus lewy
+2200 6_lewy i minus 4_prawy 40
+2350 nawrot_prawy negat
+2420 3+_lewy negat do 5_prawy krotki
+2480 za_szczytem_ 4_lewy_ do 3_prawy _ciac
+2580 do 3_lewy _dluzszy negat zostan
+2670 3+_lewy do 5_prawy_ wyjscie_szczytem
+2750 4_lewy_ lekki_zacisk
+2820 6_prawy_ _podwojny przez_szczyt
+2900 hamuj_  _w_dol 4_prawy_ minus 
+3040 nawrot_lewy do 3_prawy 50
+3170 krotki 4_lewy_ zacisk_do_2 przez_szczyt zostan
+3240 nawrot_prawy
+3260 4_lewy_prawy _ciac
+3310 hamuj_ krotki 2+_lewy prostuj 40 do 3+_lewy dlugi zacisk
+3555 lotna
+3600 i _stop

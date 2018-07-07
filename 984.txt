@@ -1,0 +1,56 @@
+#Hyppyjulma II (asfalt)
+-5 3+_lewy odkleja
+10 pozniej_ od_szczytu_ 5_lewy_ krotki do 5_prawy_ lewy zostan
+190 za_szczytem_ 4_prawy _dluzszy _przytnij_wyjscie
+340 100 przytnij prawa shamuj ostroznie
+360 od_szczytu_ 4_lewy ciac_ row zostan 
+530 4_prawy krotki odkleja
+590 5_lewy_ _krotki smialo
+630 do 4+_prawy dlugi _szczytem zacisk
+800 4_lewy_ zacisk zahacz wybija
+880 6_prawy przytnij 30
+920 4_lewy 20 
+980 krotki 6_prawy do nie_ciac minus 4_lewy_ negat zostan 50
+1160 5_prawy_ dlugi za_szczytem_ lekki_zacisk
+1330 5_lewy_ _krotki zahacz
+1400 5_prawy_ _krotki zostan
+1470 5_prawy _dluzszy za_szczytem_ lekki_zacisk 40
+1540 5_lewy zahacz 30
+1600 _szczytem 4_prawy zahacz do 5_lewy
+1780 od_szczytu_ 4+_prawy odkleja 
+1850 do krotki 5_lewy 70
+1950 5_lewy i _prawy przyciac
+2040 przy_drzewie 4_lewy_ krotki 100 prostuj
+2100 szczyt_lewa do 4_lewy_prawy wypusc
+2150 do smialo krotki 5_lewy_ prawy ciac_ 
+2350 krotki 5_prawy_ do lewy
+2460 ciac_ hopa_lewa ostroznie
+2510 krotki _prawy i 5_lewy
+2550 4_lewy_ minus negat _ciac
+2670 prostuj 70
+2770 krotki 5_lewy do 4_prawy dlugi _szczytem zostan
+2940 4_lewy_ zacisk_do_3 bardzo dlugi zostan
+3085 4_prawy _dluzszy  
+3150 od_szczytu_ 4+_prawy 30
+3250 5_lewy krotki do 5_prawy dlugi _wyjscie za_drugim_szczytem_ zostan
+3380 zahacz 5_lewy 100
+3520 6_prawy shamuj hopa i krotki zacisk_do_ 5
+3680 5_lewy krotki przytnij do 5_prawy dlugi podwojny lekki_zacisk
+3900 ostroznie wybija i 5_lewy_ podwojny minus
+4100 6_prawy krotki 50
+4150 krotki 6_prawy_ lewy _szczytem 50
+4250 shamuj 6_lewy_ przez_ mostek shamuj_ duza_hopa 
+4370 20 4_prawy podwojny otwarty 70
+4610 od_szczytu_ 6_lewy krotki podwojny shamuj
+4700 do 5_prawy ciac_ wypusc prostuj 40
+4780 do minus 5_prawy_ _dluzszy 
+4910 do 5_lewy_ minus potrojny otwarty
+5100 do 5_prawy przyciac samp prostuj
+5240 5_prawy krotki _ciac do 5_lewy wyjscie_szczytem
+5380 5_prawy_ minus nie_tnij 50
+5480 5_lewy_ zahacz 40
+5580 5_prawy_ minus 70
+5750 6_lewy do 4_prawy zacisk
+5900 do 4_lewy dlugi zostan
+6120 lotna
+6130 4_prawy lewy prostuj  100

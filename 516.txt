@@ -1,0 +1,78 @@
+# Hradek 1
+
+# dystans polecenie1 polecenie2 polecenie3 ...
+# kolumny rozdzielaæ spacjami
+# (moze byc wielokrtonie spacja, ale zadne inne znaki!)
+
+# WA¯NE! OPIS MUSI BYÆ U£O¯ONY ZGODNIE Z DYSTANSAMI DYKTOWANIA!
+
+0 2_lewy zacisk i 2_prawy
+60 do 4_prawy _na_asfalt
+100 za_szczytem_ 100 _prostuj
+200 2_lewy
+360 przyciac_ 2_prawy slisko
+410 szczyt lewa 20
+460 2_prawy
+520 50 6_prawy_ shamuj_ i 2_lewy _ciasny
+610 70 _prostuj
+660 5_lewy_ shamuj_ i szykana_od_lewej ciasno
+850 do 4_prawy _dluzszy
+900 i 3_lewy_ przez_garb
+970 30 _ciasny 3_prawy_ przyciac_
+1040 7_lewy_ shamuj_ nawrot_lewy syf
+1180 70 _prostuj
+1220 przyciac_ 5_prawy_ _dluzszy
+1250 40 _prostuj shamuj_ 2+_prawy_ nie_wypuszczaj row
+1420 6_prawy_ podbija
+1420 70 od_szczytu_ 5_lewy minus odkleja
+1530 50 od_szczytu_ 4_lewy minus odkleja zostan
+1730 2+_prawy_ podwojny
+1850 przyciac_ 6_lewy
+1930 70
+1970 szeroko 5_prawy_ shamuj_40
+2060 przyciac_ 2_lewy przez_garb
+2170 50
+2200 przyciac_ 5_prawy_ wypusc
+2290 od_szczytu_ przyciac_ 4_prawy
+2400 za_szczytem_ 40 
+2480 ciac_ 5_lewy_ do 4_prawy przyciac_
+2670 mostek potem_ 100 podbija
+2700 za_szczytem_ 40
+2730 szczyt i 5_lewy
+2820 shamuj_ i 1_prawy
+2900 do 6_lewy
+2920 za_szczytem_ ciac_ 2_prawy_
+3000 i ciac_ 2_lewy
+3060 i ciac_ 5_lewy
+3120 i 4_prawy_ _dluzszy
+3180 i krotki 5_lewy_ i 4_prawy zacisk przyciac_ _wyjscie
+3370 za_szczytem_ 1_lewy
+3480 7_lewy_ do przyciac_ 5_prawy
+3520 przyciac_ 5_lewy przez_szczyt
+3540 70 _prostuj lewa
+3670 nie_spiesz_ 5_prawy
+3700 shamuj_ i 3_prawy zacisk_do_2
+3900 przyciac_ krotki 5_lewy
+3940 za_szczytem_ 6_lewy_ podbija
+4050 120 _prostuj _podbija
+4100 4_lewy_ nie_spiesz_ do 3_prawy_ nie_ciac
+4330 do przyciac_ 4_lewy_ _dluzszy
+4450 za_szczytem_ 4_prawy_ _dluzszy
+4630 do 5_lewy
+4740 ciac_ 3_prawy_ _z_uwaga
+4840 80
+4870 przyciac_ 5_lewy 
+4920 i przyciac_ 5_prawy
+4980 i przyciac_ 4_lewy_ wyjscie_szczytem
+5060 potem_ nie_spiesz_ 5_prawy_ syf
+5110 shamuj_ _szczytem hak_prawy
+5270 za_szczytem_ 120 _prostuj
+5320 syf hamowanie 2_prawy_ _na_asfalt
+5480 6_lewy shamuj_ i hak_lewy _ciasny
+5610 2+_prawy _na_szuter
+5630 3_prawy_ _dluzszy otwarty
+5640 ciac_ 5_lewy_ przez_szczyt i
+5660 ciac_ 3_lewy_ i przytnij 2_prawy_ _na_asfalt
+5680 50 _na_szuter 80 _bale
+6010 lotna
+# i to koniec tego piêknego odcinka

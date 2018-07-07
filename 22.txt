@@ -1,0 +1,66 @@
+#Chirdonhead
+-5 6_lewy 
+50 6_prawy 50
+110 6_lewy 90
+220 przytnij 4_lewy
+340 do 4_prawy przytnij 
+400 bardzo dlugi 5_lewy max _nie_wypuszczaj
+650 5_prawy otwarty przez_szczyt 
+750 za_szczytem_ 80 hamowanie
+900 2_lewy _podbija_ _na_wyjsciu
+1010 20 szczyt i 6_prawy dlugi 150 prostuj 
+1100 szczyt_prawa 70
+1200 pozniej_ szczyt_lewa i _w_siodle
+1300 5_lewy na_szczyt wypusc 40
+1450 przytnij krotki 5_prawy 
+1500 do 5_lewy krotki 40
+1600 od_szczytu_ _w_siodle 5_prawy 
+1700 do 6_lewy odkleja
+1850 prostuj 150
+1950 shamuj _z_uwaga 4_lewy
+2000 do nie_tnij 5_prawy szczyt odkleja
+2100 7_lewy
+2200 do minus 6_prawy bardzo dlugi nie_wypuszczaj krotka
+2370 ciac_ 5_prawy _wybija_ 120
+2600 7_prawy 
+2650 do 6_lewy samp
+2750 100 prostuj szczyt prawa
+2850 5_lewy zacisk
+2900 wypusc do mocno_ciac 4_prawy 40
+3050 shamuj do plus 3_lewy odkleja 70
+3300 szczyt 40 szczyt 50 szczyt odkleja 50 hopa 100 
+3500 shamuj za_szczytem_ 3_lewy_ plus _ciac odkleja
+3700 20 6_lewy prawy 
+3800 od_szczytu_ 4_prawy odkleja samp
+3910 na_szczyt 4_lewy samp _z_uwaga do 7_lewy 50
+4020 za_szczytem_ 7_lewy prawy 70 hamowanie
+4170 ciac_ 2_prawy_ _z_drogi od_tasm_ 30
+4350 7_lewy
+4400 do 7_prawy lewy prostuj _szczytem 70
+4550 dlugi 7_prawy przez_szczyt prawa 50
+4700 od_szczytu_ nie_tnij krotki 5_lewy 30
+4800 7_prawy _dluzszy 
+4880 do ciac_ krotki 5_lewy _szczytem
+4950 do minus 4_prawy dlugi nie_wypuszczaj
+5200 120 podbija 
+5300 6_lewy bardzo bardzo dlugi zostan ostroznie szczyt odkleja
+5500 _w_siodle i szczyt odkleja
+5600 szczyt 100 _na_spadaniu hamowanie 
+5700 ciac_ 2_prawy minus _z_drogi 100
+5990 prostuj podbija
+6050 6_prawy _dluzszy 30
+6200 do 6_lewy shamuj_50
+6350 od_szczytu_ prawa _w_siodle
+6400 do 4_prawy_ minus zacisk na_szczyt
+6550 4_lewy_ minus _dluzszy samp
+6600 podbija 6_lewy
+6770 30 woda wybija 
+6850 slisko ciac_ 3_prawy 70
+6900 lotna 
+6950 4_lewy i _stop
+
+
+
+
+
+

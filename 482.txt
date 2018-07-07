@@ -1,0 +1,20 @@
+# Karlstad II
+0 150 przy_slupie 3_lewy_ minus otwarty dlugi 
+160 przy_oponach_ zacisk_do_2 minus
+250 20 hak_lewy ciasno
+310 do hak_prawy ciasny_ 100
+330 _pod_wiadukt hopa shamuj 
+370 3_lewy krotki do 2_prawy_ minus _za_opony zacisk 30
+520 1_lewy_ _za_opony przechodzi_w_ 3_lewy _dluzszy
+600 przy_slupie otwarty nie_spiesz_ pozniej_ lekki_zacisk
+820 do 7_prawy 250
+900 przy_slupie 3_lewy otwarty zajebiscie_ dlugi
+1200 przechodzi_w_ 5_lewy shamuj
+1270 przy_oponach_ hak_lewy ciasno
+1350 40 nie_spiesz_ za_hopa_ 2_prawy zacisk_do_1 50
+1500 ciasno krotki 4_prawy lewy dlugi 
+1630 przy_oponach_ zacisk_do_2 plus dlugi
+1750 pozniej_ otwarty smialo
+1920 200
+1990 lotna shamuj
+2100 _stop

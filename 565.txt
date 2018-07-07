@@ -1,0 +1,97 @@
+# Undva Reversed
+-15 150
+75 hamowanie hak_prawy _za_bal
+145 500
+630 6_lewy_ do 5_prawy
+680 300
+1105 4+_lewy nie_ciac
+1230 6_lewy_ do 4_prawy otwarty
+1250 100 prostuj
+1480 6_lewy_ zacisk
+1685 5_prawy_ 50
+1775 5_lewy plus
+1805 150
+1880 6_prawy_ bardzo dlugi nie_tnij
+2080 300
+2340 6_prawy_ lewy nie_spiesz_ 100
+2510 5_lewy_ plus nie_wypuszczaj
+2580  400
+2820 mocno_ shamuj do hak_lewy
+3000 70_
+3050 2_prawy _dluzszy
+3100 60 3_prawy
+3185 40 3_lewy nie_ciac
+3250 6_prawy_ bardzo dlugi
+3340 100
+3375 4_lewy_ nie_tnij
+3435 30_ nawrot_prawy
+3520 100
+3580 5_lewy nie_tnij
+3620 6_prawy_ do 7_lewy
+3712 30_ 4+_prawy_ do 5_lewy_ do 4_prawy ciac_
+3890 150
+3990 shamuj pozny 3+_prawy
+4120 5_lewy
+4200 60 7_prawy
+4285  shamuj 3_lewy _dluzszy
+4430 70_ 6_lewy
+4470 90
+4545 5_lewy_ nie_tnij
+4590 50_ 6_prawy 300
+4850 shamuj_ do 3_prawy
+4990 120
+5080 pozny 5_prawy do 6_lewy
+5180 50_ 5_prawy
+5255 100 prostuj
+5340 5_prawy
+5390 50_ 3_lewy
+5460 70
+5500 nie_spiesz_ 6_prawy_ do 4_lewy
+5620 100 prostuj
+5720 6_prawy _dluzszy do
+5790 4_lewy_ zacisk do 2
+5920 100 prostuj
+5965 4+_lewy
+6050 60
+6090 shamuj 2_prawy_ bardzo dlugi
+6180  do_2_lewy bardzo dlugi
+6290 120 prostuj
+6380 7_prawy_ dlugi
+6440 80
+6490 4_lewy_ do 4_prawy
+6635 100
+6700 6_lewy_ nie_tnij _kamien
+6770 70_ 6_lewy _szczytem nie_spiesz_
+6870 120
+6950 4+_prawy_ bardzo dlugi
+7100 100
+7150 5_lewy
+7250 60
+7265 6_lewy_ do 6_prawy
+7345 shamuj 3_lewy
+7410 50_ 4+_lewy
+7475 5_prawy_ 90
+7560 shamuj 3_prawy
+7650 70
+7675 4_lewy nie_ciac
+7750 50_ 5_lewy
+7840 30_ 4+_prawy _dluzszy
+7935 70_prostuj
+7980 5_lewy_ 70
+8050 5_lewy_ 60
+8120 4+_prawy_ bardzo dlugi otwarty
+8310 70
+8345 7_lewy_ 250
+8565 shamuj 5_lewy_ plus
+8640 100
+8685 pozny 4_prawy zostan do 6_lewy
+8825 120
+8865 nie_spiesz_ 6_lewy_ ciasno
+8950 200
+9050 6_lewy _hopaa
+9120 250
+9335 6_lewy_ 150
+9470 6_prawy _dluzszy zacisk
+9570 6_lewy_ nie_tnij
+9650 200
+9875 lotna i 150 _do_mety_stop

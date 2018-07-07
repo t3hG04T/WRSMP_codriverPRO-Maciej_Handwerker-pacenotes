@@ -1,0 +1,47 @@
+# Livadija II
+-20 2_lewy 30
+40 3_prawy zacisk 30 4_lewy_ pozny
+130 do 3_prawy zacisk 50
+220 2_lewy nie_tnij 50
+280 przytnij 5_prawy lewy hamowanie 30 2_prawy nawrot zahacz 100
+480 2_lewy nawrot otwarty nie_tnij 100
+600 minus 4_lewy_ _podwojny i 2_prawy ciasno nie_tnij 
+800 przechodzi_w_ 4 minus zostan
+850 3+_lewy garb 
+920 do 4_prawy_ lewy prostuj smialo 40
+1000 hamowanie nawrot_prawy dlugi otwarty 50
+1120 nawrot_lewy ciasny_
+1230 6_prawy lewy smialo 50
+1330 6_prawy zostan samp za_szczytem_ prawa prostuj 70
+1450 5_prawy 50
+1580 4+_lewy do 3+_prawy potem_ prostuj 70
+1800 krotki 4_lewy prawy 80
+1910 hamowanie_hak_prawy_ _z_drogi przy_murku
+2020 120 szczyt_lewa nie_spiesz_
+2070 nawrot_lewy _dluzszy nie_ciac  zacisk zostan 50
+2100 nawrot_prawy _dluzszy 80
+2280 2_lewy_ minus nie_ciac
+2350 6_prawy 150  
+2380 slisko 3+_prawy dlugi zacisk_do_2
+2600 150 prostuj
+2650 hamowanie nawrot_lewy dlugi nie_tnij
+2800 200 prostuj prawa
+2880 6_lewy_ krotki 30 
+2920 4_lewy_ 50 i 4_lewy nie_spiesz_ 50
+3180 2_prawy_ nawrot 70
+3410 4_prawy_ krotki 50
+3510 5_prawy krotki 50 3_lewy_ zostan
+3720 5_prawy _dluzszy zostan podbija
+3800 do 6_lewy_  zacisk do 4_lewy_ krotki _w_siodle
+4020 smialo 5_prawy_ dlugi otwarty
+4150 nie_spiesz_ 6_lewy do 4_prawy_ lewy krotki
+4380 5_prawy_ przez_ szczyt nie_wypuszczaj potem_ prostuj 100
+4530 shamuj_ minus 5_prawy_ krotki odkleja garb 150
+4700 pozniej_ prostuj 50 shamuj
+4740 4_lewy_ krotki
+4920 6_prawy_ do 5_lewy prawy otwarty
+5140 za_szczytem_ shamuj_50 5_prawy _szczytem 70
+5360 6_lewy nie_ciac 70
+5590 lotna 70
+5600 3_prawy 
+5700 _do_mety_stop

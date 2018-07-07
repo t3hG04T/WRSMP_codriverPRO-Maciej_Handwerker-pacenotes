@@ -1,0 +1,35 @@
+#Versme
+0 krotka i 6_prawy
+40 3_lewy _dluzszy zacisk 30
+110 krotki 4_prawy podwojny _nie_wypuszczaj zacisk
+200 przechodzi_w_ 5_lewy 70 shamuj
+330 dlugi 1_prawy nawrot
+450 krotka i pozny 3_lewy 80
+600 2_prawy smialo 20
+700 7_lewy 80
+750 6_prawy 30 shamuj
+800 do ostroznie wybija 3_prawy_ minus przez_szczyt odkleja
+950 5_prawy zacisk do pozny 2_prawy
+#drugie kó³ko
+1050 3_lewy _dluzszy zacisk 30
+1120 krotki 4_prawy podwojny _nie_wypuszczaj zacisk
+1260 przechodzi_w_ 5_lewy 70 shamuj
+1390 dlugi 1_prawy nawrot
+1490 krotka i pozny 3_lewy 80
+1620 2_prawy smialo 20
+1750 7_lewy 80
+1800 6_prawy 30 shamuj
+1860 do ostroznie wybija 3_prawy_ minus przez_szczyt odkleja
+2010 zacisk do pozny 2_prawy  i_ostatnie_okrazenie
+#trzecie kó³ko
+2130 3_lewy _dluzszy zacisk 30
+2200 krotki 4_prawy podwojny _nie_wypuszczaj zacisk
+2350 przechodzi_w_ 5_lewy 70 shamuj
+2450 dlugi 1_prawy nawrot
+2550 krotka i pozny 3_lewy 80
+2700 2_prawy smialo 20
+2790 7_lewy 80
+2850 6_prawy 30 shamuj
+2900 do ostroznie wybija 3_prawy_ przez_szczyt odkleja zostan
+3000 shamuj do 2_lewy nie_tnij
+3200 lotna 30

@@ -1,0 +1,80 @@
+#NewBobs II
+0 4_lewy do shamuj 5_prawy zacisk_do_2 _z_drogi 50
+120 5_prawy _szczytem _ciac 70 shamuj
+250 2_prawy przytnij 90
+380 6_lewy na_szczyt prawa 50
+600 7_lewy na_szczyt prawa shamuj
+800 przytnij krotki 4_prawy do 4_lewy _ciasny
+950 od_szczytu_ 6_lewy widac_
+1120 nie_tnij 5_prawy
+1230 do 6_lewy dlugi 100
+1400 od_szczytu_ _nie_spiesz 5_prawy  dlugi zostan 40
+1570 do przyciac 5_lewy 40
+1700 od_szczytu_ 4_prawy dlugi otwarty 50
+1950 5_prawy zacisk wyjscie_szczytem 60
+2050 5_lewy wyjscie_szczytem odkleja 150
+2300 6_prawy ciac_ smialo 70 shamuj
+2400 za_szczytem_20 3_lewy 40
+2640 4_prawy nie_tnij shamuj
+2770 za_szczytem_ 40 2_lewy dlugi negat przechodzi_w_ 6_lewy 40
+2930 nie_tnij krotki 4_prawy lewy samp 100
+3070 5_prawy _dluzszy nie_tnij 40 shamuj
+3200 do 2_lewy 40
+3420 3_prawy nie_tnij zostan 40
+3520 3_prawy nie_tnij 80
+3650 4_lewy zahacz 60
+3800 nie_tnij 3_prawy do 4_lewy 100
+3840 4_prawy nie_tnij hamowanie 30
+4000 1_lewy przytnij 30
+4070 1_prawy nie_tnij 20
+4170 3_prawy przytnij_wyjscie 30
+4230 5_lewy krotki hamowanie zacisk_do_2 _z_drogi 100
+4400 4_prawy nie_tnij 100
+4530 nie_tnij krotki 4_prawy do krotki 3_lewy podwojny 30
+4710 przytnij_krzakiem_4_prawy 30
+4810 4_prawy ciac_ _z_uwaga 60
+4900 3_lewy nie_tnij 40
+4990 3_prawy nie_tnij 50 hamowanie podbija
+5080 1_lewy 70
+5230 4_lewy 50
+5350 ciac_ 4_prawy krotki 200
+5450 7_prawy 70
+5700 3_prawy _ciac przy_drzewie shamuj 30
+5800 3_lewy dlugi 40
+6020 4_prawy _dluzszy przytnij 150
+6120 4_lewy nie_tnij 70 
+6300 4_lewy ostroznie przyciac 100
+6450 6_lewy do 5_prawy nie_tnij wyjscie_szczytem zostan 40
+6620 7_prawy widac_ 70 
+6720 nie_tnij 4_lewy zacisk 30
+6820 4_lewy nie_tnij 30
+6930 5_prawy zahacz ostroznie shamuj_30
+7020 przytnij 2_lewy _z_drogi otwarty do 4_lewy _dluzszy zostan
+7170 5_prawy nie_tnij 40
+7250 4_prawy przytnij_wyjscie 50
+7410 4_lewy nie_tnij 100
+7520 nie_tnij 3_prawy zacisk 20
+7600 4_lewy krotki 100
+7730 nie_tnij 4_prawy shamuj zacisk_do_1 _z_drogi _ciac 200
+7960 7_prawy 100
+8250 6_lewy nie_tnij _baner 50
+8470 hopa_lewa pozniej_ 6_lewy nie_tnij 30 shamuj
+8550 nie_tnij 5_lewy 40
+8750 pozny_ 4_prawy ostroznie _wypusc do ciac_ 5_lewy krotki 100
+8950 5_prawy _dluzszy shamuj_50
+9150 od_szczytu_ nie_tnij 3_lewy odkleja
+9250 do 4_prawy 80 podbija ostroznie
+9380 6_lewy _dluzszy nie_tnij 50
+9650 6_prawy _dluzszy 50
+9780 4_prawy krotka i 4_lewy 
+10100 lotna 100 _do_mety_stop
+
+
+
+
+
+
+
+
+
+

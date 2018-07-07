@@ -1,0 +1,49 @@
+# Diamond Creek
+-5 6_lewy dlugi 
+100 zacisk do 4_lewy wyjscie_szczytem lewa odkleja 30
+250 szczyt_prawa max 40
+300 5_prawy dlugi 
+380 za_drugim_szczytem_ 5_lewy dlugi zostan pozniej_ zacisk
+650 pozniej_ 20 
+680 4_lewy
+770 40 zahacz 3_prawy plus otwarty 30
+920 5_lewy plus _dluzszy wyjscie_szczytem odkleja
+1150 widac_ 300 max
+1400 pozniej_ za_szczytem_ 3_prawy przytnij max
+1650 za_hopa_ 7_prawy_ _dluzszy wyjscie_szczytem wypusc
+1850 do 7_lewy _szczytem smialo
+2050 do widac_ 7_prawy
+2150 za_szczytem_ 5_lewy plus _na_wyjsciu negat
+2450 100 szczyt_lewa
+2550 80 5_prawy lewy_prawy ciasno
+2680 30 od_szczytu_ przytnij odkleja do 4_prawy otwarty
+2980 200 od_szczytu_ 6_lewy krotki zostan
+3250 prostuj 200 lewa
+3350 _w_siodle pozniej_ 7_prawy
+3550 do szczyt i 6_lewy_ zacisk wyjscie_szczytem prawa
+3700 50 szczyt smialo
+3950 od_szczytu_ 7_lewy_ krotki
+4050 70 7_prawy do 6_lewy_ wypusc szczyt prawa
+4200 50 7_prawy za_szczytem_10 4+_prawy
+4420 100 shamuj za_szczytem_20 3_lewy zacisk
+4620 do przytnij 5_prawy wyjscie_szczytem
+4720 70 4_prawy max
+4900 70 szczyt_lewa 
+4950 pozniej_ 6_lewy krotki
+5110 przechodzi_w_ 5_prawy zacisk
+5200 do 5_lewy krotki 
+5350 za_szczytem_20 i 4_prawy _dluzszy max
+5500 70 szczyt_prawa smialo
+5600 70 7_lewy _szczytem
+5800 prostuj lewa 200
+5970 pozniej_ krotki 5_prawy zacisk
+6120 przechodzi_w_ 5_lewy_ zacisk wyjscie_szczytem
+6300 100 szczyt_prawa
+6400 100 szczyt_prawa
+6500 50 7_prawy 
+6650 krotka i nie_tnij 6_lewy _dluzszy otwarty
+6850 za_szczytem_ 4_prawy nie_tnij 
+6950 prostuj 200
+7100 lotna
+7150 80 lewa 3_lewy _do_mety_stop
+

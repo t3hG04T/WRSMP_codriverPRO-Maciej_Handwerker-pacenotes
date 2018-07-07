@@ -1,0 +1,96 @@
+#Peklo
+0 7_prawy
+10 150
+70 7_lewy
+120 120
+200 przy_drzewku_ 6_prawy 100
+310 7_prawy 10 i 2_lewy_ nie_ciac
+530 przytnij 4_prawy
+550 pozny 2_prawy nawrot przez_garb
+700 4_lewy_ _dluzszy i 5_lewy
+800 60 _prostuj 2_prawy_ nawrot
+950 60
+970 3_lewy_ plus
+1020 2_lewy_ nawrot przez_garb
+1140 do krotki 3_prawy 90
+1180 5_lewy nie_ciac do 4_prawy_ zostan
+1300 do krotki 5_lewy
+1360 100 _prostuj
+1400 syf 2_prawy_ nawrot negat
+1530 30 przytnij 5_lewy do
+1550 3_prawy do
+1630 3_lewy do 5_prawy_ nie_ciac
+1700 do pozny 1_lewy_ nawrot
+1820 30 6_prawy do
+1870 krotki 5_lewy 40
+1900 5_prawy do krotki 5_prawy
+1930 do 5_lewy podbija do minus 5_prawy
+2100 do 7_lewy 30 2_prawy_ nawrot
+2310 70
+2320 5_lewy 50
+2340 _z_uwaga przytnij 3_prawy
+2420 do 4_lewy
+2480 4_lewy 
+2540 szczyt potem_ 50
+2610 6_prawy_ przytnij do krotki 6_lewy nie_wypuszczaj
+2780 100
+2810 2_lewy_ nawrot _w_gore
+3010 20 przytnij 5_prawy
+3050 do 6_lewy za_szczytem_ 80
+3150 4_prawy_ zacisk 
+3300 30 6_lewy_ prawy
+3350 lewy
+3370 za_szczytem_ 4_prawy_ _ciasny 50
+3530 4_lewy_ _szczytem lekki_zacisk
+3640 40
+3670 przytnij 5_prawy do 6_lewy
+3710 100
+3780 _prostuj 5_prawy do 5_lewy
+3900 100
+3960 3_lewy
+4100 40 krotki 2+_lewy_ 
+4120 i 4_prawy_ zacisk
+4260 do 5_lewy 30 ciac_ 2+_prawy
+4380 100
+4410 4_lewy 
+4520 100
+4580 5_lewy_ zacisk_do_3 plus
+4720 60
+4780 pozny 2_prawy_ syf
+4920 do 5_lewy 30 2_prawy syf
+4980 _z_uwaga 2+_lewy_ _dluzszy
+5100 30 pozny 1_prawy
+5110 50 za_szczytem_ 40 ciac_ 4_prawy
+5140 do slisko pozny 3_lewy_ minus
+5300 50
+5370 ciac_ 3_prawy_ _dluzszy otwarty
+5470 60 krotki 6_lewy 120 _prostuj
+5620 6_lewy_ bardzo dlugi shamuj
+5680 do _ciasny 4_prawy_ syf
+5950 60 5_lewy przytnij do
+5970 6_prawy
+6200 150 7_lewy
+6250 shamuj do 2+_lewy_ _na_szuter
+6300 ostroznie slisko
+6430 do 5_prawy
+6500 podbija 50 woda za_szczytem_ 7_lewy
+6570 i 3_prawy do 5_lewy _na_asfalt
+6650 do 6_prawy 100
+6710 przytnij 5_lewy_ minus shamuj_50
+6800 2+_prawy_ _dluzszy
+6940 120 
+7000 2+_lewy_ przytnij
+7120 i 6_lewy
+7170 30 6_prawy_ zacisk_do_2 krotki
+7320 30 5_lewy
+7370 60 pozny 3_prawy_ minus
+7500 70 6_lewy_ i 2+_lewy
+7660 40
+7690 2+_prawy_ _dluzszy
+7730 40 pozniej_ 2+_lewy
+7860 30 3_prawy_ minus _dluzszy zostan
+7910 do 2+_lewy_ ciac_ _wyjscie
+8080 30 6_lewy 150
+8150 przytnij 6_prawy 50
+8220 7_lewy
+8400 lotna

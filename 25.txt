@@ -1,0 +1,57 @@
+# Chirdonhead II
+0 zaczynamy_ 5_prawy smialo
+20 shamuj za_szczytem_ 40
+50 3_lewy_ minus zahacz _ostroznie _na_wyjsciu woda _wybija 70
+200 podbija 5_prawy_ do 5_lewy_ shamuj
+380 do 3_prawy_ plus
+450 do nie_tnij 3_lewy_ plus _w_siodle 50
+600 6_prawy_ 50
+750 _podbija
+800 7_lewy_ dlugi 50
+900 shamuj_ _wybija_ i krotki 7_lewy 
+1000 krotka i 2_lewy_ _ciac odkleja
+1180 _dluzszy szczyt_prawa _wybija
+1280 i 6_prawy_ dlugi _ostroznie _w_siodle
+1370 pozniej_ za_szczytem_ 6_prawy_ zajebiscie_ dlugi podbija
+1650 shamuj_50 z_uwaga_ _podbija za_drugim_szczytem_
+1800 nie_tnij _dluzszy 4_lewy_ zacisk
+1950 pozniej_ _wypusc do 5_prawy_ _ciac zostan
+2020 _dluzszy 6_lewy_ _otwarty 
+2100 od_szczytu_ 6_prawy_ _ciac row smialo 100
+2300 dlugi 7_lewy_ przez_ szczyt_lewa smialo
+2400 od_szczytu_ lewa 6_lewy_ 50
+2550 6_prawy_ hamowanie 30 do 1_lewy_ plus _ciac 70
+2750 krotki 7_lewy 
+2800 do krotki 6_prawy samp
+2900 podbija i 4_prawy spadanie
+3000 4_lewy na_szczyt zostan odkleja 50
+3150 krotki 7_lewy prawy shamuj
+3280 do przytnij ciasny_ 3_prawy samp 100
+3450 hopa 50
+3550 hopa 70
+3650 za_drzewkiem_ 30 shamuj garb 70 do przytnij 3_prawy_ plus 20
+3900 ciac_ 4_lewy smialo
+3980 5_prawy max 150 lewa
+4100 pozniej_ za_szczytem_ 
+4160 krotki 6_lewy prawy_lewy smialo 150
+4400 przytnij z_uwaga_ 5_lewy nie_wypuszczaj 40
+4500 _dluzszy szczyt 6_lewy dlugi
+4700 do 6_prawy shamuj
+4800 pozniej_ lewa od_szczytu_ 4_lewy prawy ciasno
+5000 150 prostuj 
+5150 krotki 6_prawy _szczytem odkleja
+5200 do krotki 5_lewy_ plus wyjscie_szczytem
+5300 do 5_prawy_ minus zostan
+5400 do 5_lewy przytnij_wejscie_
+5500 do 6_prawy wyjscie_szczytem
+5600 70 _prostuj
+5700 30 do 5_lewy dlugi samp
+5800 shamuj _baner podbija 30
+5850 ciasny_ 2_prawy_ _ciac 
+6000 30 7_lewy 
+6100 30 dlugi 5_lewy max zostan
+6250 do 5_prawy_ plus bardzo dlugi zostan
+6500 krotka przytnij 4_lewy prawy _wyjscie szerzej_
+6700 50 7_prawy 
+6850 do 7_lewy krotki
+7000 lotna hamowanie

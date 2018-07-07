@@ -1,0 +1,78 @@
+#Osli-Stryckovy
+0 70
+5 3_lewy_ plus nie_wypuszczaj
+70 200
+150 6_prawy
+270 do 6_prawy dlugi
+350 shamuj przy_drzewie 3_prawy_ _na_szuter
+500 do 5_lewy slisko
+600 150 _prostuj
+700 3_lewy_ nie_wypuszczaj
+830 20
+860 2_prawy_ _na_asfalt przez_garb przytnij
+940 30
+960 za_szczytem_ 100
+1010 za_szczytem_ 150 6_prawy podwojny
+1150 40 tory i 6_lewy_ przytnij
+1400 70 przytnij 6_prawy
+1500 100 szczyt_prawa 80 hak_lewy syf
+1820 do 4_prawy
+1840 do 6_lewy_ przez_szczyt 50
+1880 za_szczytem_ 6_lewy_ podwojny
+2050 100 przytnij hopa_lewa potem_ 7_prawy
+2100 80 6_prawy_ minus przez_garb
+2300 250
+2400 5_prawy_ plus _za_opony 100
+2720 5_lewy_ zacisk _ciac podbija
+2850 do 7_prawy 150
+2950 szczyt_prawa shamuj_ 80 hak_lewy syf
+3320 100
+3350 7_lewy do 6_prawy_ bardzo dlugi
+3520 7_prawy hopa smialo
+3600 100 7_prawy do 6_lewy
+3900 do 6_prawy podwojny
+4050 80 _prostuj krotki 6_prawy 150
+4150 7_lewy do przytnij shamuj_ 5_prawy do 2+_lewy_ przytnij
+4470 do 4_prawy przytnij _wyjscie otwarty
+4600 50 7_lewy i 50 7_lewy
+4700 120 6_lewy wyjscie_szczytem 70
+4900 4_prawy zacisk
+5050 za_drugim_szczytem_ shamuj_ 7_lewy i ciac_ 1_prawy
+5380 70
+5400 za_szczytem_ 6_lewy_ przytnij 30
+5450 za_szczytem_ 200
+5570 za_szczytem_ _na_szuter 7_lewy prawy
+5620 do 6_lewy_ minus
+5810 do 3_prawy shamuj_30 hak_lewy _na_asfalt
+6140 do ciac_ 4_lewy do ciac_ 4_prawy
+6190 do 7_lewy do 6_prawy_ shamuj 2_lewy
+6370 do 1_prawy _na_szuter
+6380 ciac_ szczyt_lewa do przytnij 2+_prawy_ _na_asfalt 30
+6450 2_prawy i 2+_lewy
+6580 za_szczytem_ 6_prawy ciac_ _wyjscie
+6620 do 6_lewy ciasno za_szczytem_ 7_lewy do 5_prawy_ plus ciac_ _wyjscie
+6900 do 5_lewy i 5_prawy_ _ciac
+6950 shamuj_20 2+_lewy_ przytnij
+7190 7_lewy do 6_prawy do 7_lewy
+7230 shamuj hopa lewa
+7350 wybija 100 5_lewy_ plus przytnij _wyjscie 
+7450 60 przytnij 5_prawy lewy za_szczytem_ 40 1_prawy
+7700 do przytnij 2_prawy szczyt_prawa 30 6_lewy_ przytnij _wejscie
+7770 50 przytnij 6_lewy do 7_prawy
+8000 120 podbija od_szczytu_ przytnij 5_prawy_ plus otwarty
+8250 50 7_prawy i 7_lewy hopa potem_ 6_lewy przytnij
+8500 do 6_prawy 50
+8800 6_lewy wyjscie_szczytem przytnij 150
+9100 7_lewy do 6_prawy do 6_prawy minus szczyt_prawa
+9250 30 5_lewy_ shamuj
+9300 3_lewy 20 1_prawy_ _ciac
+9640 do 4_lewy
+9700 do przytnij 2+_prawy
+9750 30 6_prawy_ _na_szuter dlugi
+9800 do 6_lewy do 4_prawy_ plus do szczyt i wybija 3_lewy_ plus
+10080 30 6_prawy
+10250 100 _prostuj
+10300 6_prawy i ciac_ 5_lewy_ podwojny
+10500 80
+10550 5_prawy
+10670 lotna

@@ -1,0 +1,29 @@
+# Tavia
+-20 6_lewy_ 100
+45 5_prawy_ ciac_ 200
+235 6_lewy_ do shamuj_ 4_lewy
+370 30_ i 2_prawy_ slisko przez_garb
+460 30 do 3_lewy_ 150 prostuj prawy_lewy
+630  za_szczytem_ 70_ 2_prawy
+810 120
+910 5_prawy_ przez_garb 50
+965 shamuj 3_lewy
+1050 70
+1080 6_prawy _dluzszy zacisk do 5_lewy
+1200 100
+1280 7_prawy_ przez_szczyt 100
+1350 shamuj 4_lewy _dluzszy _otwarty
+1545 50 5_prawy do 5_lewy przez_szczyt ciac_ 120
+1750 5_lewy_ 200
+1920 4_prawy_ zahacz 150
+2120 6_lewy_ zacisk do 4 zahacz 60
+2252 4_prawy do 5_lewy_ 200
+2500 shamuj_ 4+_prawy podbija _dluzszy zacisk_do_3
+2730 50_ 3+_lewy 150
+2900 6_prawy_ podbija 120
+3025 shamuj_ za_szczytem_30 2_lewy
+3150 50 4_lewy_ do 2_prawy_ przez_szczyt
+3285 100 prostuj
+3300 4_prawy_ przez_szczyt nie_tnij 50
+3380 6_lewy_ do 3_prawy_ przez_garb 250 prostuj 6 prawy_lewy
+3780 lotna 150 _do_mety_stop

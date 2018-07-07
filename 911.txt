@@ -1,0 +1,88 @@
+# Torre Vecchia
+-0012 5_prawy do  4_lewy _dluzszy
+0080  70  4_lewy pozny
+0180 30  3_lewy przyciac do 6_prawy dlugi
+0300 5_lewy _krotki
+0380 70 4_prawy _krotki
+0530 70 5_lewy nie_tnij
+0615 60 4_prawy _krotki 50
+0715 4_lewy_ i hamuj_ 2_prawy dlugi
+0885 80_ za_szczytem_10 3_prawy _krotki
+0995 70 6_prawy_ do 4_lewy_ zacisk
+1170 5_prawy przechodzi_w_ 5_lewy_ zacisk do  hak_lewy
+1337 70_ 5_prawy do 4_lewy
+1465 80 5_prawy przechodzi_w_ 6_lewy zahacz
+1615 shamuj_ do 4_lewy_ zacisk
+1700 100
+1750 3+_prawy do zahacz 3_lewy
+1850 4_prawy zajebiscie_ dlugi zacisk
+2010 30 4_lewy_ do 3_prawy _kotki
+2145 70 5_lewy na_mostek
+2220 80
+2270 4_lewy do 3_prawy nie_spiesz_
+2385 20_ 4_lewy_ dlugi podbija
+2505 2_prawy_ 4_lewy
+2600 50 3_prawy_ odkleja
+2680 120  5_prawy_ pozny nie_spiesz_
+2800  70_ 3_lewy zahacz
+2890 200
+2999 hamuj_ 6_lewy_ zacisk do hak_lewy
+3150 60 nawrot_prawy otwarty
+3235 6_prawy_ dlugi smialo _przy_drzewach przechodzi_w_ 
+3324 6_lewy_ _pod_wiadukt
+3400 100 prostuj  lewy_prawy podbija
+3520 shamuj_ 30_ prawy do 5_lewy do 2_prawy
+3700 30 4+_lewy
+3748 5_prawy_ do 5_lewy potem_ prostuj 150
+3920 hamowanie nawrot_lewy _dluzszy
+4045 50_ 5_prawy przechodzi_w_ 5_lewy dlugi zacisk do 3
+4215 50 hak_prawy pozny
+4270 30 5_lewy zacisk do 3_lewy podwojny
+4370 60 nawrot_prawy nie_tnij
+4465  smialo 6_lewy_ do 6_prawy
+4560 120 5_prawy
+4705 80 shamuj 5_lewy zacisk 4_lewy przechodzi_w_ 4_prawy_ nie_tnij
+4900 200
+4980 5_prawy_ nie_tnij smialo
+5090 120
+5160 hamowanie 2_lewy
+5300 30 4_prawy_ do 6_lewy_ hak_prawy pozny
+5500 50 2_lewy_ zahacz do 3_prawy _dluzszy
+5645 70_ 4_prawy
+5723 50_ 5_lewy do shamuj hak_lewy pozny
+5875 50_ 3_prawy
+5930 50_ 4_lewy _dluzszy
+6060 120 prostuj
+6175 shamuj_ do 4_prawy
+6220 shamuj ciac_ 2_prawy do 4+_lewy zahacz
+6340 80_ 5_lewy_ ciac_
+6460 4_prawy
+6505 50 5_prawy_ do 6_lewy 60 i 5_lewy ciac_
+6710 prostuj lewy_prawy lewy smialo
+6815 100 6_prawy potem_ hamowanie szykana_od_lewej
+7077 40 6_prawy ciac_
+7120 60 6_lewy
+7194 90 5_lewy i shamuj  nawrot_lewy
+7404 70
+7425 3_prawy _dluzszy nie_tnij potem_ otwarty
+7563 150 6_lewy_ do 5_prawy smialo zahacz
+7805 100
+7840 shamuj 4_prawy
+7930 50 5_lewy
+7970 80 6_lewy
+8030 70 shamuj 4_lewy
+8132 80 3_prawy przytnij _przy_drzewach
+8230 120 4_lewy_ zacisk do 3
+8408 90
+8440 5_prawy _dluzszy
+8555 5_lewy_ ciac_ potem_ 6_prawy
+8692 90 6_prawy_ hamuj_50_ nawrot_lewy
+8960 6_lewy 150
+9090 hamowanie 2_lewy_  do nawrot_prawy
+9275 50_ 4_prawy
+9325 30_ 5_lewy
+9375 hamuj_ 70 do hak_lewy
+9489 6_lewy 50
+9550 5_prawy_ 120
+9645 hamowanie do nawrot_prawy
+9760 70_ lotna i 6_lewy_ 150 _do_mety_stop

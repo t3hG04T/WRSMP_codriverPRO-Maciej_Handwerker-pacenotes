@@ -1,0 +1,80 @@
+#Harwood Forest II
+-5 6_lewy 30 przytnij od_tasm_ 2_lewy
+60 do 5_prawy przytnij
+120 do podbija 4_lewy _szczytem
+170 do 4_prawy_ minus nie_tnij
+220 do 4_lewy _dluzszy
+270 do przyciac _szczytem 4_prawy_ minus odkleja
+350 przyciac _z_uwaga 7_lewy
+410 do 2_prawy zahacz 80
+480 4_prawy_ krotki _szczytem
+560 do 5_lewy krotki 80
+620 podbija 5_lewy 20
+670 _z_uwaga przytnij 4_prawy zacisk zostan 20
+770 5_lewy 40
+870 shamuj krotki 5_prawy samp 30
+970 2_prawy przytnij 50
+1070 podbija mostek 30
+1120 6_prawy wypusc szczyt_lewa
+1200 pozny krotki 5_prawy 30
+1270 4_lewy odkleja _przy_drzewach nie_tnij
+1420 6_prawy dlugi podbija 
+1480 shamuj _szczytem wczesnie_ 4_lewy_ plus krotki zostan
+1570 krotka i mostek
+1650 do 4_prawy lewy
+1770 shamuj_40 do 2+_lewy _ciac 
+1920 do ostroznie przytnij 4_prawy lewy
+2030 krotki 7_prawy podwojny
+2060 shamuj od_szczytu_ lewa 50
+2140 do ciac_ 2_lewy _z_drogi 30
+2340 krotki 6_prawy
+2380 za_szczytem_30 do 5_lewy
+2450 szczyt_prawa wybija do 4+_prawy _szczytem odkleja
+2550 krotki 4_lewy
+2600 5_prawy _dluzszy przytnij_krzakiem_ _wyjscie
+2720 krotki 4_lewy prawy prostuj
+2800 5_lewy przytnij zostan
+2900 i hopa_lewa 20 hopa
+2950 krotki 6_prawy
+3000 hopa lewa do 7_lewy 50 shamuj
+3100 4_lewy_ plus zostan podbija 70 prostuj
+3250 4_prawy otwarty 
+3350 80
+3420 shamuj do 2_prawy_ _ciac smialo 30
+3550 garb prawa odkleja 40
+3580 do 6_lewy wypusc _szczytem
+3660 do 7_prawy podwojny
+3710 7_lewy 40 szczyt shamuj 
+3770 4+_prawy _ciac smialo zostan
+3920 krotka 5_lewy nie_tnij
+4020 do ciac_ 6_prawy krotki szczyt_lewa 
+4150 pozniej_ 100 prostuj
+4180 5_prawy lewy shamuj
+4220 pozny_ 4_prawy_ ciac_ _wyjscie smialo
+4420 do 5_lewy wypusc szczyt_prawa widac_ 80 prostuj prawa
+4570 do 6_prawy_ _ciac samp
+4630 40 6_prawy_ lewy _w_siodle
+4740 6_prawy _szczytem zostan 30
+4840 6_lewy shamuj 30
+4880 woda prawa wybija 50
+4970 hamowanie ciac_ 2_lewy _z_drogi 50
+5060 krotki 5_lewy_ _szczytem 50
+5160 5_prawy_ _ciac 
+5220 do od_szczytu_ 4_lewy _dluzszy nie_tnij
+5350 do 5_prawy zostan krotka i szczyt_prawa zostan
+5430 krotka i 4_lewy 50
+5580 hamowanie
+5620 2+_lewy przyciac 20
+5680 nie_tnij 6_prawy _szczytem
+5710 do 4_lewy 
+5780 do 5_prawy
+5850 do krotki 5_lewy _ciac row
+5900 do ciac_ _szczytem 5_prawy 
+5950 do shamuj 2_prawy_ minus samp
+6070 lotna
+
+
+
+
+
+

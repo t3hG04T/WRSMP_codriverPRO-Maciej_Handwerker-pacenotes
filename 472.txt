@@ -1,0 +1,137 @@
+# Muxarello
+0 30 1_lewy 30
+50 4_prawy 40 5_prawy krotki do 2_lewy
+180  6_prawy _dluzszy do 6_lewy krotki 40
+300 5_prawy lewy prostuj
+400 5_prawy samp
+500 od_szczytu_ 4_lewy spadanie wypusc 
+600 przy_drzewie 5_prawy dlugi  nie_wypuszczaj
+750 do 6_lewy zacisk 50 
+900 6_prawy zacisk zostan  shamuj do 5_lewy _szczytem 50
+1020 3_lewy otwarty dlugi
+1170 przechodzi_w_ 5_prawy 100
+1270 6_prawy zostan wyjscie_hopa ostroznie
+1400 do 6_lewy 70 ostroznie
+1550 3_prawy ciasno przez_garb  50
+1650 pozny_ 5_lewy krotki 30
+1760 3_prawy krotka 2_lewy dlugi zacisk 100
+1900 4_prawy _dluzszy zostan wyjscie_szczytem
+2090 300 7_prawy _szczytem 200
+2250 shamuj _brame 6_lewy krotki zacisk_do_2 100
+2750 5_prawy krotki zacisk_do_2 dlugi 30
+2900 2+_lewy nawrot zacisk 30
+3000 3_prawy zacisk_do_2 garb 120
+3120 4_lewy zacisk nie_tnij 150
+3270 3_prawy 30 6_lewy krotki 50
+3480 3+_lewy 30
+3550 3_prawy _szczytem zacisk przy_tasmie 2_lewy 30
+3640 2_prawy 50
+3730 5_lewy krotki potrojny 150 smialo
+3870  od_szczytu_ 4_prawy zacisk przyciac 50
+4070 za_szczytem_ 4_lewy krotki 50
+4170 4+_prawy _w_siodle 30 
+4250 3_lewy podwojny otwarty 30
+4370 5_prawy
+4420 od_szczytu_ nie_tnij 4_lewy 100 7_prawy wypusc
+4500 szykana_od_lewej ciasno
+4710 7_prawy hamowanie 40 hak_lewy podbija ciasno 50
+4915 4_prawy zacisk_do_2 przy_drzewie 50
+4980 6_prawy pozniej_ od_tasm_ 4_lewy hamowanie 40
+5100 hak_prawy ciasno
+5250 3_lewy 40 5_prawy zacisk 40
+5300 5_lewy krotki zacisk_do_3 _szczytem podbija 40 shamuj wybija
+5460 2+_prawy nie_tnij 
+5500 6_prawy
+5570 6_lewy prawy krotki 
+5680 4_lewy 3_prawy zacisk 30
+5850 1_lewy _dluzszy zacisk garb 50
+5930 pozny_ 4_prawy 100 nie_tnij 
+6050 od_szczytu_ 5_lewy krotki spadanie 150
+6130 6_prawy  przy_murku zacisk_do_3 ciasno
+6250 do 3_lewy  przechodzi_w_ 5_lewy zacisk _szczytem zostan 30
+6385 2+_prawy nie_tnij
+6450 za_szczytem_ nawrot_lewy ciasny_ garb nie_tnij
+6495 7_prawy zacisk_do_ 4
+6600 za_szczytem_ 4_lewy krotki pozniej_
+6700 od_szczytu_ 4_prawy dlugi shamuj 40
+6840 4_lewy przy_drzewie otwarty 70
+6930 3_prawy lekki_zacisk 20
+7000 3_lewy nie_tnij 50
+7090 pozny_ 4_prawy za_szczytem_ przechodzi_w_ 6_prawy  
+7180 od_szczytu_ 5_lewy krotki przechodzi_w_ 7_lewy 
+7270 5_prawy nie_tnij 
+7330 za_szczytem_ 3_lewy zacisk wybija ciasno 10
+7400 3_prawy krotki 50
+7460 pozny_ 3_prawy otwarty _dluzszy
+7530 za_szczytem_  2_lewy krotki 20
+7620 od_szczytu_ 5_prawy krotki zostan 20
+7690 za_szczytem_ 40 6_lewy nie_tnij 100
+7780 od_szczytu_ 4_lewy zostan za_drugim_szczytem_ 30 
+8000 3_prawy krotki przechodzi_w_ 6_prawy
+8100 _przy_drzewach zacisk_do_3 _szczytem odkleja
+8200 krotka i 5_lewy dlugi
+8320 przy_tasmie zacisk_do_2 garb nie_tnij slup
+8450 6_prawy przy_murku
+8500 _przy_drzewach hak_prawy _w_gore podbija pozniej_ otwarty 50
+8640 6_lewy _dluzszy wyjscie_szczytem nie_wypuszczaj 250
+8800 7_prawy smialo 70
+9000 przy_murku 5_prawy shamuj do 2_lewy dlugi nie_tnij
+9200 4_prawy 
+9310 6_lewy zostan shamuj 30
+9370 2_prawy nawrot
+9480 przy_tasmie 4_prawy krotki zacisk_do_2 30
+9560 3_lewy zacisk_do_2 70
+9670 4+_prawy zacisk_do_ minus nie_tnij 20
+9780 do 4_lewy i 4_lewy krotki podwojny 50
+9950 2_prawy zacisk 30
+10045 od_znaku_ shamuj 4_lewy krotki 20
+10070 1_lewy _z_drogi do 1_prawy
+10150 do hak_lewy do 1_prawy
+10200 10 2_lewy nie_tnij 20
+10250 3_prawy krotki do 4_lewy minus 30
+10310 przy_tasmie 4_prawy  do 3_lewy
+10410 6_prawy zacisk_do_2 nie_tnij 30
+10550 4_lewy minus podwojny 100
+10700 2+_prawy 
+10870 od_szczytu_ 5_lewy zostan do 7_prawy
+11000 shamuj_ 70
+11100 od_znaku_ 4_lewy zacisk 70 prostuj
+11300 przy_drzewie 4_prawy zacisk 30
+11400 przy_tasmie 2+_prawy 50
+11520 2_lewy zacisk_do_1 200
+11650 7_prawy
+11780 shamuj_ 80 3_prawy zacisk 30
+12000 do 3+_lewy 40
+12090 4_prawy przy_drzewie
+12150 do 4_lewy _dluzszy 70 ostroznie
+12200 5_prawy zacisk krotki podwojny
+12380 hamowanie _szczytem prawa 50
+12450 2+_lewy zacisk 20
+12585 za_szczytem_ 10 2_prawy zacisk garb 70
+12710 pozny_ 4_lewy zostan nie_tnij slisko 20
+12830 do od_znaku_ 5_prawy krotki 50
+12920 przy_slupie 6_lewy zostan samp
+13070 hamowanie _przy_drzewach 1_lewy _z_drogi
+13180 do hak_prawy do 1_lewy 30
+13230 5_prawy shamuj_30 1_lewy plus garb
+13380 5_prawy 10 i 2_lewy minus 20
+13450 2_prawy nie_tnij do 3_lewy
+13500 przy_drzewie 5_prawy krotki 70
+13600 2_lewy 30
+13700 i 2_lewy
+13730 prostuj 70 4_prawy przy_tasmie zacisk_do_3
+13870 4_lewy prawy krotki i 3_lewy
+14000 5_prawy lewy
+14170 _szczytem 6_prawy 150
+14300 dlugi szczyt shamuj 3_lewy _na_spadaniu 30
+14480 3_prawy minus  do  5_lewy dlugi lekki_zacisk shamuj_30
+14640 4_prawy do 3+_lewy garb zostan 10
+14840 2_prawy 
+14880 3_lewy 40
+14970 4_prawy minus 30
+15050 ciasno 2+_lewy zacisk_do_ 2_prawy i 1_lewy garb
+15200 2_prawy _dluzszy
+15250 i 2_lewy garb
+15305 2_prawy 10
+15340 3_lewy do 3_prawy otwarty dlugi
+15445 lotna

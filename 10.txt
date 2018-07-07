@@ -1,0 +1,80 @@
+#Kaihuavaara
+0  20 3_lewy_ 40
+20 krotki 7_lewy_ ciasno 70
+95 do
+120 4_prawy_ _dluzszy zacisk zostan
+180 przechodzi_w_ 4_lewy_ przytnij
+230 do 6_prawy_ 
+270 krotka shamuj_ 6_lewy_ _krotki
+330 do przytnij 2_prawy_ _z_drogi
+480 5_lewy_ na_szczyt
+520 100 _w_siodle 
+570 od_szczytu_ 3_prawy spadanie_
+700 krotka i 6_lewy_ zacisk do 4_lewy_ _otwarty
+850 40 7_prawy_ _w_siodle 20 
+890 3_lewy_ _ciasny
+970 do 3_prawy_ _nie_wypuszczaj
+1050 do 3_lewy_ minus _dluzszy
+1110 do pozny_ 2_prawy
+1190 od_szczytu_ 3_lewy_ _otwarty
+1230 pozniej_ 4_prawy_ do 2_lewy_ zacisk
+1350 4_prawy_ zacisk_do_2 70
+1460 3_lewy_ prawy shamuj_ _szczytem
+1550 2_prawy_ _krotki 
+1600 do 2_lewy_ _dluzszy zacisk 100
+1680 prostuj szczyt_lewa 40
+1750 4_prawy_ zacisk
+1880 do 5_lewy_ _krotki 30
+1950 shamuj_ do _pozny_ 1_prawy
+2040 przechodzi_w_ 2_lewy_ minus _otwarty 30
+2100 5_prawy_ 30
+2150 3_prawy_ lewy zahacz 50
+2230 5_prawy_ 30 podbija
+2280 5_lewy_ przez_szczyt wybija do
+2360 5_lewy_ przez_garb _podbija_ do
+2420 5_lewy_ szczyt_lewa odkleja
+2440 6_prawy_ dlugi _wypusc
+2550 do 5_lewy_ 100 hopa 30
+2690 4_lewy_ _otwarty na_szczyt lewa
+2850 6_prawy_ _krotki zahacz 70
+3050 krotki 5_lewy_ _prostuj na_szczyt przy_drzewie
+3010 od_szczytu_ 5_lewy_ _otwarty przez_garb lewa odkleja
+3280 4+_prawy_ zacisk 80
+3390 6_lewy_ 50
+3500 podbija 6_prawy_ 150 przez_szczyt 50
+3650 5_prawy_ _dluzszy zacisk _nie_wypuszczaj
+3730 do 5_lewy_ _prawy 30 przez_ szczyt shamuj
+3900 przy_drzewie hak_lewy _ciasny  przytnij 30
+4020 od_szczytu_ 5_lewy 30
+4080 4_prawy_ samp 30
+4120 4_prawy_ _dluzszy zacisk
+4150 do 5_lewy
+4240 do 3_prawy_ przez_garb nie_wypuszczaj 50
+4430 od_szczytu_ _podbija_ shamuj_30 do
+4490 3_lewy_ nie_wypuszczaj 50
+4590 do 5_prawy
+4650 do 3_lewy_ prawy_lewy krotki _prostuj
+4770 4_lewy_ samp 50
+4870 6_lewy_ 70
+4910 5_prawy_ 30 shamuj_ przez_ hopa _ostroznie
+5030 do 2_prawy_ przechodzi_w_ 5_prawy_ wyjscie_szczytem shamuj 30
+5170 hak_prawy _ciasny zahacz podbija 50
+5340 3_lewy_ 30 przytnij
+5390 4_prawy
+5400 do 5_lewy_ dlugi 
+5470 do 7_prawy_ 30
+5500 na_szczyt lewa shamuj
+5520 do zahacz 3_prawy_ 70
+5700 4_lewy_ przytnij 100
+5800 7_lewy_ do 6_prawy_ dlugi shamuj_ _podbija
+5880 od_szczytu_ krotki 7_lewy 
+5980 podbija 6_prawy_ zacisk do 4_prawy
+6070 4_lewy_ do
+6100 2_prawy_ przez_szczyt
+6220 lotna
+
+ 
+
+
+
+

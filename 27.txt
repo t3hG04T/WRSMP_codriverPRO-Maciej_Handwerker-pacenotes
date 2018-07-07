@@ -1,0 +1,48 @@
+#Shepherd Shield II
+-5 100 5_prawy nie_tnij 70
+70 przyciac_ 5_lewy szczyt_prawa ostroznie 
+160 do przytnij krotki lewy shamuj _na_wyjsciu szczyt_prawa
+220 do 3_prawy_ plus dlugi otwarty 30
+390 4_lewy samp zostan 20
+460 ciasny_ mostek lewa 50
+560 5_lewy ciac_ row 40
+660 5_prawy przytnij 40 zacisk 
+770 do przytnij 3_prawy_ plus zostan 30
+870 3_lewy _dluzszy zacisk 30
+950 4_prawy zostan shamuj_30
+1050 wczesnie_ 3_lewy_ przytnij do krotki 3_prawy 100
+1200 za_szczytem_ 6_prawy dlugi ostroznie _bale ciasno 30
+1450 4+_prawy 50 
+1550 ostroznie _ciasny mostek shamuj
+1600 do 4+_prawy _ciac
+1680 do 4_lewy_ ciasny_ 50
+1820 4_prawy_ minus przyciac_ _wyjscie
+1950 4_lewy nie_tnij 20 
+2020 od_szczytu_ 5_prawy
+2100 do 5_lewy krotki _szczytem max 70
+2250 6_lewy nie_wypuszczaj _na_wyjsciu _bale ciasno
+2350 od_szczytu_ 7_prawy kaszel
+2540 shamuj_ _przy_drzewach 4_prawy_ minus _ciac row 50
+2770 szczyt_prawa 40
+2830 przytnij 4_prawy zostan krotka
+2930 podbija do 4_lewy nie_tnij
+3000 od_szczytu_ hamowanie mostek i 3_prawy_ minus slisko 40
+3130 1_lewy nie_tnij 40
+3200 5_lewy krotki 50
+3250 6_lewy _na_wyjsciu szczyt_lewa 100
+3350 3_prawy zahacz  zostan krotka
+3550 3_lewy potrojny ciac_ _wejscie zostan 30
+3650 szczyt_lewa pozniej_ 6_prawy 50
+3750 shamuj_ mostek 
+3810 do 4_prawy _ciac
+3920 do nie_tnij 4_lewy otwarty 50
+4000 7_lewy 50 shamuj _baner
+4080 za_szczytem_ 40
+4150 3_prawy ciac_ przy_slupie 40
+4280 od_tasm_ przytnij 2+_prawy shamuj
+4350 do 1_lewy ciasny_ _z_drogi ostroznie woda
+4450 do slisko 2_prawy_ przytnij wypusc
+4500 ciac_ 2_lewy otwarty do 7_lewy
+4600 80_ 5_prawy _ciac
+4780 do 7_lewy 120
+4950 lotna

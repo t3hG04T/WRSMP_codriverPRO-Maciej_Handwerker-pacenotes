@@ -1,0 +1,32 @@
+#Jirkovicky II
+-5 6_prawy krotka
+50 5_prawy hamowanie zostan
+100 do 1_lewy_ _z_drogi _na_szuter
+200 4_prawy_ zacisk 
+250 od_szczytu_ 4_lewy
+350 do 4_prawy dlugi ostroznie hopa _na_wyjsciu shamuj pozniej_ 30
+500 3_lewy do 3_prawy
+650 do 3_lewy_ dlugi nie_tnij
+730 do 3_prawy zostan shamuj
+780 do nie_tnij 1_lewy _z_drogi _za_drzewo 30
+860 pozny_ 3_prawy 80 lewa
+900 przytnij krotki 5_prawy _wypusc pozniej_
+980 krotki 4_lewy ciac_ do 3_prawy ciac_ 30 i 3_lewy _dluzszy ciac_ z_uwaga_ 40
+1200 4_prawy _dluzszy przyciac z_uwaga_ _bale _na_wyjsciu krotka 
+1300 za_szczytem_ nie_tnij 4_lewy _dluzszy negat
+1400 do 4_prawy _dluzszy zacisk przyciac _z_uwaga _bale 70
+1620 4_lewy dlugi otwarty 30
+1870 4_prawy zacisk nie_tnij _kamien 30
+2000 4_lewy _dluzszy zacisk_do_3 przyciac 50
+2150 nie_tnij _ciasny 3_lewy zacisk 30
+2250 krotki 4_prawy podwojny zacisk nie_tnij od_szczytu_ zacisk
+2400 pozniej_ 50 ciasno shamuj 3_lewy _dluzszy zostan odkleja szczyt _na_wyjsciu _wypusc 50 _prostuj lewa
+2550 3_prawy nie_tnij do 5_lewy przyciac
+2650 za_szczytem_30 nie_tnij 2_prawy zostan
+2870 70 _prostuj
+2840 3_prawy nie_tnij do nie_tnij 3_lewy _dluzszy shamuj_30
+2980 ciasny_ 1_prawy _na_glowna _na_asfalt
+3050 120 prawa 
+3100 za_szczytem_ 2_lewy negat krotka 
+3280 od_szczytu_ 3_prawy _dluzszy otwarty 50
+3499 lotna

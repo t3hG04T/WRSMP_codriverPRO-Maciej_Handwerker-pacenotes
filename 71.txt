@@ -1,0 +1,30 @@
+# Rally School
+0 80
+10 wczesnie_ ciac_ 4_lewy_ _prawy
+80 50
+120 woda podbija i 4_lewy_ _ciac 
+170 do 3_prawy_ plus
+350 30
+380 za_szczytem_ przytnij 5_prawy
+430 do 6_lewy
+510 do 7_prawy 
+530 60 przytnij 4_lewy
+740 szczyt_lewa do ciac_ 5_prawy
+860 70
+890 wczesnie_ 3_lewy przytnij
+1000 50
+1050 za_szczytem_ 7_lewy
+1120 100
+1150 2_prawy_ _tylko_przyciac
+1330 100
+1380 przyciac_ 4_prawy
+1470 do 6_lewy_ _prawy
+1500 woda wybija
+1520 woda i ciac_ 4_lewy
+1680 do 4_prawy_ zostan
+1750 do ciac_ 4_lewy_ plus
+1840 70
+1900 ostroznie ciac_ 4_prawy_ lewy
+1980 woda wybija
+2020 30 3_prawy_ zostan
+2260 lotna

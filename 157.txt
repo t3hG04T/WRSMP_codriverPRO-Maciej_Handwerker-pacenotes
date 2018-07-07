@@ -1,0 +1,36 @@
+#Grand Canaria
+0 5_prawy_ krotka
+20 4_lewy_ minus bardzo dlugi zacisk_do_3
+250 4_prawy_ przytnij samp
+310 6_prawy
+390 3_prawy i garb
+500 5_lewy
+550 krotka _w_siodle i 7_prawy
+620 smialo na_szczyt prawa
+750 100 
+800 bardzo dlugi 6_lewy_ zacisk_do_2
+1120 7_lewy
+1130 60 _w_siodle ostroznie ciasno 5_lewy _pod_wiadukt
+1300 5_prawy_ 50
+1430 6_prawy_ 50
+1480 minus 5_lewy_ do 5_prawy
+1640 100 _na_asfalt
+1700 3_lewy _nie_wypuszczaj
+1830 100
+1890 4+_prawy_ 100
+1960 4_lewy_ minus bardzo dlugi zacisk_do_2
+2200 za_szczytem_ 4_prawy_ zostan
+2250 4_lewy_ 50
+2310 3_prawy_ plus przytnij _dluzszy
+2420 krotka 5_lewy_ _podwojny
+2550 7_prawy_ smialo przez_ potrojny garb
+2750 krotka 6_lewy_ zacisk_do_2
+3120 5_prawy_ 80
+3160 7_prawy_ na_mostek
+3250  za_drugim_szczytem_ 5_lewy_ podbija
+3360 5_prawy
+3390 5_lewy_ przez_ garb 
+3420 do 4_prawy_ _na_asfalt
+3610 3_lewy_ zacisk
+3760 100
+3830 lotna

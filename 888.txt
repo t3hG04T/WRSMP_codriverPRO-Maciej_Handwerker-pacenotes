@@ -1,0 +1,40 @@
+# Shakedown Rally del Salento 2014
+-17 70
+20 3_prawy 50
+65 hak_lewy _z_drogi
+125 50_ 6_prawy_ dlugi zacisk
+231 shamuj_30 4_lewy
+270 4_prawy_ otwarty
+325 40 3_lewy_ zahacz 70
+445 3+_prawy 70
+500 shamuj_ 2_lewy _przy_drzewach zahacz
+565 70
+615 6_prawy dlugi
+700 100 _przy_drzewach 6_lewy_ 50
+785 shamuj 4_prawy z_uwaga_
+905 300
+1110 6_prawy_ 120
+1215 hamuj_ do 2_lewy _z_drogi ciac_
+1315 200
+1455 5_prawy _z_uwaga
+1480 80_ 7_lewy_  ciac_ 
+1655 80 6_lewy_ ciasno
+1760 250
+1935 hamowanie 3_lewy _za_drzewo do nawrot prawy _z_drogi
+2090 40 6_prawy _dluzszy
+2135 70_ 5_lewy_ 40
+2210 shamuj 2_prawy_ mocno_ ciac_ 120
+2375 hamuj_ do 2_lewy bardzo ciasno
+2450 4_prawy_ 60
+2495 4_lewy_ zahacz
+2543 60
+2540 7_lewy_ do 6_prawy_ dlugi
+2660 hamuj_50_ 2_prawy ciasno
+2725 250
+2935 6_lewy_ zahacz
+2960 80_ shamuj do 2_prawy _z_drogi ciasno
+3075 400
+3415 7_lewy_ 250
+3660 shamuj 6_lewy przy_murku 90
+3750 shamuj do 2_lewy _z_drogi ciasno
+3864 lotna 120 _do_mety_stop

@@ -1,0 +1,198 @@
+# Vieux Moulin-Perrancey
+-15 150 prostuj
+60 shamuj 2_lewy _z_drogi
+130 5_lewy _szczytem
+160 70_ 6_lewy _dluzszy
+280 50
+325 3_prawy _dluzszy 60
+451 5_lewy smialo
+500 120
+600 lewy_prawy prostuj 70
+670 6_lewy _dluzszy 70
+790 shamuj 4_prawy_ zacisk do 2
+890 4_lewy 40 4_lewy_ 70
+975 shamuj do nawrot_prawy _z_drogi
+1056 150
+1130 7_prawy_ 300
+1450 7_lewy
+1540 shamuj 4_lewy _z_drogi
+1675 60
+1700 5_lewy_ dlugi
+1785 80
+1845 3_lewy dlugi
+1965 4_lewy _z_uwaga
+2000 80
+2040 6_prawy dlugi lekki_zacisk
+2150 120
+2230 shamuj do 4_prawy zajebiscie_ dlugi  otwarty
+2465 5_prawy _dluzszy _z_uwaga
+2615 150 prostuj _podbija
+2750 hamowanie hak_lewy _z_drogi
+2830 250
+3055 shamuj 6_prawy_ do 5_lewy
+3120 60
+3155 3_lewy _kamien
+3215 6_prawy
+3250 150
+3370 shamuj 4_lewy_ 80
+3490 4_prawy _dluzszy
+3570 500
+4050 shamuj do lewy_prawy do 4_lewy_ do 4_prawy bardzo dlugi zacisk do 2
+4270 2_lewy
+4300 60 
+4360 6_prawy_ 80 prostuj
+4420 shamuj do 3_lewy przechodzi_w_ hak_prawy _z_drogi
+4590 50_ 5_lewy
+4640 100
+4710 6_prawy zacisk _szczytem
+4760 50_ 6_prawy
+4810 50_ 5_prawy _dluzszy
+4900 100
+4980 6_prawy_ do 6_lewy bardzo dlugi _z_uwaga
+5490 150
+5570 5_prawy_ 400
+6015 shamuj 6_lewy_ dlugi
+6150 100
+6195 pozny_ 4_prawy
+6260 150
+6410 5_prawy _dluzszy
+6480 300 50
+6765 7_prawy przy_drzewie 150
+6950 6_lewy _dluzszy 120
+7090 shamuj 5_prawy_ nie_ciac 150
+7350 shamuj 3+_lewy
+7400 40 5_lewy
+7490 100
+7535 5_prawy pozny
+7590 200
+7650 6_lewy_ zacisk do hak_lewy _z_drogi
+7810 30_ 3_prawy
+7840 150
+7960 6_lewy_ 500
+8410 shamuj 5_prawy_ do 3+_lewy
+8640 50
+8660 3_lewy_ 300
+8970 shamuj 5_prawy nie_ciac
+9095 120
+9175 4+_prawy _dluzszy lekki_zacisk
+9295 300
+9490 za_szczytem_ 6_lewy _hopaa
+9560 60 4_prawy_ 120
+9750 4+_lewy 150
+9930 5_lewy_ nie_ciac do 5_prawy_ nie_ciac
+9985 150
+10070 hamowanie lewy do hak_prawy _z_drogi
+10240 90
+10270 2_prawy _z_drogi
+10310 70
+10360 hak_lewy
+10400 70
+10425 2_prawy _z_drogi do 4_lewy
+10480 2_prawy _za_bal _na_asfalt
+10525 3_lewy zacisk do 2
+10600 50
+10640 5_prawy_ nie_tnij
+10690 5_lewy_ ciac_
+10700 3_lewy _w_gore zahacz
+10790 100
+10835 4_lewy _na_szuter zacisk do 1
+10975 6_prawy_ ciac_
+11020 120
+11135 6_lewy_ 50
+11170 5_prawy_ do shamuj nawrot_prawy _z_drogi
+11300 200
+11420 przy_drzewie 6_prawy_ nie_tnij 90
+11545 7_lewy_ 120
+11640 6_lewy_ 200
+11855 przy_drzewie 6_lewy_ do 6_prawy
+11970 120
+12000 3+_prawy podbija 
+12070 200
+12260 4_lewy
+12340 za_szczytem_30 6_lewy
+12425 120
+12535 3_prawy
+12600 200
+12740 shamuj 6_prawy do 6_lewy _dluzszy
+12890 120
+12990 5_lewy _dluzszy
+13045 100
+13115 przy_drzewie 6_lewy
+13150 200
+13335 hamowanie hak_lewy
+13460 120
+13515 6_prawy_ zacisk do 2
+13620 6_lewy
+13675 200
+13787 6_prawy do 6_lewy nie_ciac
+13820 5_prawy _szczytem nie_tnij
+13950 400
+14218 shamuj_ 6_prawy_ do 4_lewy nie_ciac
+14395 6_prawy nie_tnij
+14450 200 50
+14605 shamuj 3_lewy
+14730 40 6_prawy
+14785 100
+14825 5_lewy_ 120
+14925 6_prawy_ zacisk nie_tnij _kamien
+15000 120
+15090 7_lewy _szczytem 120
+15170 5_lewy do 4_prawy
+15300 6_prawy_ ciac_ hamowanie hak_lewy
+15430 100
+15485 5_lewy _z_drogi
+15525 6_lewy _dluzszy do 6_prawy
+15615 150
+15770 5_prawy do 4_lewy nie_ciac
+15900 70
+15935 4_lewy
+16000 80
+16035 4+_prawy_ podbija
+16110 500
+16495 6_prawy _z_uwaga
+16655 200
+16795 5_prawy
+16900 120
+16980 6_prawy _dluzszy
+17090 100 80 prostuj
+17190 6_prawy
+17275 150
+17325 3_lewy _z_uwaga
+17485 6_lewy_ przechodzi_w_ hak_prawy
+17590 7_prawy_ do 5_lewy
+17670 100
+17720 6_prawy
+17780 60
+17807 6_prawy_ podwojny przy_drzewie
+17895 5_lewy
+17990 150
+18070 7_prawy_ przy_drzewie
+18170 120
+18225 5_lewy _przy_drzewach 
+18330 70
+18340 5_lewy pozny do 3+_prawy nie_tnij
+18490 120
+18525 przy_drzewie 5_prawy
+18605 i 6_lewy_ dlugi otwarty
+18700 120
+18760 2+_prawy_ nie_ciac _kamien
+18890 120
+18915 6_lewy_ zacisk
+18980 shamuj_ 3+_prawy przechodzi_w_ hak_lewy _z_drogi
+19120 150
+19215 6_lewy_ ciac_ i hamowanie 3_prawy _z_drogi
+19350 50 4_lewy_ do 3_prawy
+19450 120
+19500 6_lewy do 4_prawy do 4+_lewy do 3_prawy nie_ciac
+19680 90
+19720 6_prawy do 6_lewy _dluzszy
+19870 6_prawy_ do 4+_lewy
+19975 4_prawy
+20080 100
+20110 hamuj_ 2+_prawy _z_drogi nie_ciac
+20200 50_ 6_lewy_ nie_tnij
+20270 120
+20330 5_lewy pozny
+20400 150
+20480 4_lewy shamuj
+20570 lotna 100 _do_mety_stop

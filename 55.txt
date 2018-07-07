@@ -1,0 +1,117 @@
+#Noiker II
+0 70
+10 5_lewy zostan
+50 30 3_prawy podbija
+170 100
+210 pozniej_ 3_lewy_ minus
+370 za_szczytem_ 3_prawy_ dlugi
+420 20 przytnij 6_lewy
+520 100 
+550 pozniej_ 3_lewy do 2+_prawy
+800 250
+870 szczyt_prawa
+920 150
+1100 podbija i 5_lewy 
+1200 do 6_lewy
+1400 za_szczytem_ 50 5_prawy_ przytnij podwojny
+1580 50 6_prawy_ lewy
+1700 do 4_lewy_ negat
+1840 za_szczytem_ przytnij 3_prawy_ plus
+2050 30 4_lewy_ negat zacisk
+2100 50
+2180 za_szczytem_ 90 krotki 5_prawy 50
+2250 szczyt smialo 
+2300 widac_ 90
+2450 3_prawy do 2_lewy_ nawrot
+2780 do 4_prawy
+2820 80
+2830 pozniej_ 5_prawy_ podwojny
+2950 30 4_prawy
+3010 40 2+_lewy_ dlugi
+3250 40 pozniej_ 4_lewy_ _ciac i 7_prawy
+3340 do 6_lewy
+3450 do pozny 5_prawy_ zacisk_do_3 dlugi
+3730 150
+3750 za_szczytem_ 6_prawy_ spadanie
+3850 40 5_lewy do 6_prawy
+3950 za_szczytem_ 6_prawy_ spadanie
+4070 50 5_prawy 
+4110 ostroznie szczyt_prawa i ciac_ 4_lewy_ spadanie
+4380 shamuj_ 70 2_prawy
+4580 za_szczytem_ nie_ciac 3_lewy
+4610 60 4_prawy_ _dluzszy
+4770 70 7_lewy 120
+4850 3_lewy_ zacisk_do_2 plus nawrot
+5120 100
+5150 7_prawy 50
+5210 ciac_ 6_prawy do 5_lewy
+5250 do 6_prawy 30
+5400 7_prawy 200
+5470 3_prawy_ minus przez_garb
+5680 30 przytnij krotki 6_lewy do 4_lewy_ minus
+#5800 zatoczka 40 1_prawy
+5800 40 za_szczytem_ ostroznie 5_prawy_ zacisk_do_1 _z_drogi
+6020 do 6_prawy
+6050 do przytnij 5_lewy
+6070 90
+6120 za_szczytem_ 6_prawy
+6180 80 5_prawy
+6270 szczyt i przytnij minus 5_lewy_ _ciasny 70
+6520 przytnij 5_prawy_ minus za_szczytem_ 40
+6630 7_prawy 50
+6640 7_lewy przez_szczyt 40
+6770 do 6_prawy za_drugim_szczytem_ 4_lewy
+7140 do 3_prawy_ negat dlugi
+7320 do 3_prawy i 3_lewy_ negat
+7500 80 za_szczytem_ spadanie 50
+7600 ciac_ 3_prawy
+7730 30 ciac_ 3_lewy_ plus negat
+7950 20 szczyt smialo
+7970 i ciac_ 6_prawy
+8020 do 6_lewy 
+8100 70 ciac_ dlugi podbija slisko 5_prawy do 4_lewy_ minus
+8400 120
+8450 3_prawy_ plus dlugi
+8550 szczyt_prawa
+8800 30 4_lewy
+8900 120 podbija 4_lewy_ minus
+9100 30 3_lewy 30
+9200 4_prawy
+9280 do przytnij 5_lewy krotki 30
+9330 3_prawy_ otwarty 
+9400 dlugi szczyt smialo
+9520 20 ciac_ 3_prawy
+9600 do 4_lewy_ dlugi zostan
+9700 20 3_prawy_ zacisk minus
+9850 do 3_lewy 30
+9900 do 3_prawy_ minus _dluzszy otwarty
+10000 80 pozny 2_lewy
+10150 do 3_lewy
+10170 i ciac_ krotki 4_prawy 30
+10280 do przytnij krotki 5_lewy 60
+10370 slisko 3_prawy
+10450 do 4_lewy_ podwojny 40 wczesnie_ 1_prawy
+10670 40 
+10690 przytnij 6_prawy do 6_lewy
+10730 90
+10900 ciac_ 4_prawy
+10950 do pozny 5_lewy nie_ciac
+10990 za_szczytem_ 40 przytnij 3_prawy
+11170 do 6_lewy_ pozny zacisk do 4_lewy
+11340 20 3_prawy_ _ciasny
+11470 30 5_lewy i 4_prawy
+11520 20 3_lewy_ krotki zacisk_do_1
+11680 za_szczytem_ 2+_prawy
+11730 120 hopa_lewa mocno_ciac
+11850 do przytnij 6_prawy_ lewy
+12000 7_prawy 120
+12060 6_lewy za_szczytem_ 5_lewy 
+12230 spadanie 100
+12370 krotki 6_prawy podbija za_szczytem_ 7_prawy podwojny
+12560 70 za_szczytem_ 50 6_lewy
+12630 do przytnij 6_prawy 250
+13000 za_szczytem_ 7_prawy 
+13200 70 6_prawy_ dlugi
+13420 ostroznie shamuj_ podbija i 7_prawy
+13500 do przytnij 6_lewy_ prawy
+13850 lotna

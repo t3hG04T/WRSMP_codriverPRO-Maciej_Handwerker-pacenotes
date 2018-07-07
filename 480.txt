@@ -1,0 +1,76 @@
+# Shomaru Pass II
+0 2_lewy dlugi przechodzi_w_ 5 ciasno zostan
+75 3_prawy dlugi otwarty 40
+180 pozny_ 2_lewy dlugi otwarty 
+280 5_prawy_ minus
+350 hamuj_ 2_prawy 
+520 4_lewy krotki
+550 szczyt_prawa 40 2_lewy nawrot otwarty 40
+690 krotki 3_prawy do lewy _dluzszy do 2_prawy zostan
+820 4_lewy krotki zostan do 3_prawy krotki 50
+920 3_prawy 50
+985 krotki 3_lewy zacisk_do_2 50
+1060 2_prawy do 4_lewy krotki 70
+1150 ostroznie podbija i 3_prawy podwojny 70
+1260 3_prawy podwojny 50
+1440 2+_lewy 50 prostuj
+1540 3_lewy przechodzi_w_ 4 _dluzszy
+1615 pozniej_ zacisk zostan 20
+1670 pozny_ 2_prawy _dluzszy
+1750 4_lewy 50 
+1800 3_lewy podwojny zostan 
+1880 2_prawy
+1940 za_szczytem_ 2+_lewy do 2_prawy
+2020 3_lewy krotki 40 i 2_prawy 20
+2120 2_lewy za_baner krotka 
+2230 i 2_prawy garb 
+2265 lewy_prawy prostuj 20
+2280 od_szczytu_ 2+_lewy 20
+2370 3_prawy krotki
+2400 4_prawy lewy 70
+2460 4_prawy 
+2520 1_lewy nawrot 20
+2615 2+_prawy _dluzszy 50
+2670 2_lewy nawrot 50
+2740 3_prawy _dluzszy lekki_zacisk 30
+2840 4_lewy krotki zostan do 3_prawy  20
+2900 3_lewy krotka i 2_prawy 20
+3000 2_lewy _dluzszy 20
+3050 3_prawy krotki 30
+3100 2_lewy 20 
+3150 4_prawy zacisk 20
+3220 3_lewy 50
+3260 2+_prawy dlugi 30
+3400 3_lewy zacisk_do_2 
+3450 przechodzi_w_ 4_lewy hamowanie ciasno wypusc podbija 
+3500 2+_prawy podwojny 10  3_lewy krotki
+3670 nawrot_prawy zacisk
+3750 od_szczytu_ 3_lewy zacisk_do_2 podwojny 20
+3850 nawrot_prawy 20
+3885  2_lewy krotki 30
+3920 2_prawy krotka i nawrot_lewy
+4000 i 2_lewy 30
+4040 3_prawy _dluzszy
+4110 3_lewy podwojny 20
+4180 2_prawy otwarty 50
+4220 4_lewy do 5_prawy 70
+4350 3_lewy zacisk 20
+4460 5_prawy zacisk_do_3
+4500 przechodzi_w_ 4_prawy nie_spiesz_ zostan
+4550 do 2+_lewy
+4680 do 3_prawy zacisk 
+4760 2+_lewy 30
+4780 3_prawy zacisk 70
+4850 3_lewy dlugi 40
+4970 3+_prawy zacisk_do_ minus 50
+5080 4_lewy zacisk_do_2 20
+5180 2_prawy krotki do 5_lewy
+5230 do nawrot_prawy ciasny_
+5310 4_lewy 50 pozny_ 2_lewy
+5430 przechodzi_w_ 4_lewy 30
+5480 3_prawy  40
+5530 krotki 3_lewy prawy _dluzszy 30
+5600 1_prawy nie_tnij
+5680 4_prawy nie_tnij do 5_lewy
+5765 lotna 
+5860 _stop

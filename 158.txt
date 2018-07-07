@@ -1,0 +1,39 @@
+#Sweet Lamb
+0 garb i 7_prawy 
+20  podbija na_szczyt zostan
+100 podbija 7_lewy_ prawy lewy shamuj_ lewa
+150 do 2_prawy_ _podwojny _ciac _podbija_ wypusc
+330 5_lewy_ prawy szeroko _podbija_ 100
+450 shamuj krotki 5_lewy_ zacisk_do_2 _dluzszy zahacz _podbija_ _na_wyjsciu
+650 40 przytnij krotki 7_lewy samp 100
+800 hopa_prawa 150
+900 7_lewy 100
+1000 hamuj_ szczyt_prawa i 2_prawy_ _otwarty _podbija 
+1200 3_lewy _ciasny zostan do 2_lewy_ dlugi _podbija_ odkleja
+1400 2_prawy_ przytnij _podbija_ _na_wyjsciu
+1550 6_prawy i za_szczytem_ 4_prawy_ szeroko _ostroznie podbija
+1600 7_prawy 100 _z_uwaga _podbija
+1660 100 z_uwaga_ od_szczytu_ shamuj pozniej_ _w_siodle mocno_ _wybija na_mostek 
+1900 3_prawy _podbija
+2000 krotki 4_lewy_ prawy ciasno
+2100 3_lewy_ _dluzszy shamuj_ i za_szczytem_
+2170 ciasny_ hak_lewy samp 30
+2330 5_prawy_ dlugi _otwarty zostan
+2400 200 przez_garb 100
+2600 7_lewy 150
+2700 shamuj 4_prawy 
+2820 krotka zacisk_do_2 prawy _podbija
+3000 6_prawy_ przez_szczyt shamuj_40
+3100 4_prawy_ szeroko
+3180 7_lewy_ _dluzszy przez_szczyt 200 
+3250 pozniej_ szczyt_prawa i shamuj spadanie 
+3500 3_prawy_ nie_tnij 50
+3700 5_lewy 100
+3750 ciasny_ 4_lewy_ prawy szerzej_ 
+4000 shamuj_ slisko 5_prawy _wybija do hak_lewy nie_tnij
+4220 200 prostuj i za_szczytem_ 6_prawy przytnij
+4440 200 _podbija_ 6_prawy 100
+4600 4_prawy_ negat samp za_szczytem_ shamuj_30
+4800 hak_prawy zostan
+4950 nie_tnij 2_lewy_ _podwojny 
+5100 garb prawa i lotna

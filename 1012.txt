@@ -1,0 +1,40 @@
+# Puy du Lac
+0 6_prawy 50
+50 nie_tnij 3+_prawy zacisk samp 100
+200 od_szczytu_ 1_prawy ciasno shamuj do hak_lewy 10 
+370 i hak_lewy do 3_prawy otwarty 200 smialo
+450 7_lewy 70 hamowanie
+550 1_lewy _z_drogi widac_ _baner nie_tnij
+800 200 7_lewy _dluzszy ostroznie podbija
+900 hamowanie za_szczytem_ spadanie 20 1_lewy ciasno 100
+1185 _z_drogi hak_prawy krotki nie_tnij 
+1260 200 podbija
+1290 _szczytem przyciac 5_prawy_ plus odkleja 200 70
+1500 przy_drzewie 1_prawy_ plus przyciac 30
+1750 5_prawy dlugi lekki_zacisk 
+1820 przy_drzewie 2+_lewy otwarty nie_tnij 
+1980 od_szczytu_ 6_prawy _dluzszy smialo 70
+2100 6_prawy_ krotki podwojny nie_tnij lekki_zacisk
+2250 prostuj 100 6_lewy minus zacisk hamowanie 50
+2400 hak_prawy 50
+2590 5_prawy _dluzszy zacisk 30
+2670 6_lewy 40 od_tasm_ 5_lewy ciac_ _z_drogi pozniej_ prostuj na_szczyt
+2900 za_szczytem_ 50 6_lewy krotki 70 podbija
+3050 5_prawy_ do _z_drogi 4_lewy_ podwojny ostroznie podbija ciasno 
+3320 5_lewy_ bardzo dlugi
+3390 5_lewy ostroznie nie_tnij 100 podbija
+3500 hamuj_ 2_lewy minus ostroznie nie_tnij 40 
+3700 nie_tnij 3_prawy 100 ostroznie podbija 
+3815 4+_prawy nie_tnij krotka 5_lewy podwojny nie_tnij 70
+4070 4_lewy nie_tnij 50
+4140 4_prawy_ podbija hamuj_
+4180 2_prawy_ lewy _w_belach
+4300 przechodzi_w_ 5_lewy dlugi 
+4360 pozny_ zacisk_do_3 podbija 40
+4500 6_prawy krotki 70
+4580 5_prawy_ zacisk_do_ 4 _bale
+4720 krotki 3_lewy_ minus nie_tnij
+4830 5_prawy lewy prostuj 70 ciasno
+4870 hak_prawy nie_tnij
+4999 5_lewy
+5055 lotna 4_prawy 

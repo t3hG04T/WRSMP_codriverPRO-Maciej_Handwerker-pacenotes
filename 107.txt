@@ -1,0 +1,86 @@
+# PTD RallySprint
+
+# dystans polecenie1 polecenie2 polecenie3 ...
+# kolumny rozdzielaæ spacjami (moze byc wielokrtonie spacja, ale zadne inne znaki!)
+
+# WA¯NE! OPIS MUSI BYÆ U£O¯ONY ZGODNIE Z DYSTANSAMI DYKTOWANIA!
+
+-1  3_prawy i przyciac_ 4_lewy za_szczytem_30
+20 2_lewy_nie_ciac _na_asfalt row 
+120 70
+130 krotki_7_prawy
+190 za_szczytem_ przyciac_ 7_prawy
+240 50_ _podbija_ 5_prawy
+350 do ciac_ 4_lewy
+450 30 nie_ciac 1_prawy
+560 do_6_lewy_na_szuter
+570 50 2_prawy_nie_wypuszczaj_row
+660 podbija
+670 za_hopa_ _podbija_ 50
+700 nie_ciac 5_prawy
+760 80
+820 nie_spiesz_ za_szczytem_ hamuj_50_ 3_lewy_zacisk_do_1 nie_ciac
+1000 50 ciac_ 2_prawy_slisko
+1050 50
+1060 przytnij_6_prawy_przez_szczyt
+1110 50
+1130 7_prawy podbija hamuj_20_1_prawy_na_asfalt_ przytnij_row
+1310 ciac_ 3_lewy
+1340 80
+1360 przytnij_6_lewy_ _podwojny
+1470 80
+1500 przyciac_ 4_prawy_ _dluzszy nie_wypuszczaj
+1650 100
+1700 hamowanie_hak_prawy_ _na_szuter
+1820 80_ _prostuj
+1870 ciac_ 3_lewy _podbija
+1930 30
+1960 za_szczytem_ 50
+1990 7_prawy 50
+2040 ciac_ 3_lewy _podbija_ 30 2_prawy_ ciac_ nie_wypuszczaj
+2250 do_6_lewy
+2260 20_4_prawy_zacisk_do_1_przytnij_na_asfalt
+2410 przyciac_ 2_lewy
+2440 30 przytnij_4_prawy_i_przytnij_4_lewy_nie_wypuszczaj
+2560 100
+2630 krotki_7_prawy
+2710 za_szczytem_ przyciac_ 7_prawy
+
+# zaczynamy petle nr 2
+2789 50_ _podbija_ 5_prawy     
+2899 do ciac_ 4_lewy     
+2999 30 nie_ciac 1_prawy     
+3109 do_6_lewy_na_szuter       
+3119 50 2_prawy_nie_wypuszczaj_row      
+3209 podbija       
+3219 za_hopa_ _podbija_ 50     
+3249 nie_ciac 5_prawy      
+3309 80       
+3369 nie_spiesz_ za_szczytem_ hamuj_50_ 3_lewy_zacisk_do_1 nie_ciac   
+3549 50 ciac_ 2_prawy_slisko     
+3599 50       
+3609 przytnij_6_prawy_przez_szczyt       
+3659 50       
+3679 7_prawy podbija hamuj_20_1_prawy_na_asfalt_ przytnij_row    
+3859 ciac_ 3_lewy      
+3889 80       
+3909 przytnij_6_lewy_ _podwojny      
+4019 80       
+4049 przyciac_ 4_prawy_ _dluzszy nie_wypuszczaj    
+4199 100       
+4249 hamowanie_hak_prawy_ _na_szuter      
+4369 80_ _prostuj      
+4419 ciac_ 3_lewy _podbija     
+4479 30       
+4509 za_szczytem_ 50      
+4519 7_prawy 50      
+4579 ciac_ 3_lewy _podbija_ 30 2_prawy_ ciac_ nie_wypuszczaj 
+4799 do_6_lewy       
+4809 20_4_prawy_zacisk_do_1_przytnij_na_asfalt       
+4959 przyciac_ 2_lewy
+4985 za_szczytem_ 1_lewy_ _na_szuter
+5040 30 podbija 2+_prawy nie_wypuszczaj
+5130 lotna
+
+
+# i to koniec tego piêknego odcinka

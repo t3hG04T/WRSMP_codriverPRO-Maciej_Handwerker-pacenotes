@@ -1,0 +1,72 @@
+# Gestel
+-15 80
+10 2_prawy _z_drogi
+50 6_lewy_ nie_tnij
+70 150
+200 6_prawy_ ciac_
+250 250
+460 7_prawy_ 120
+560 6_prawy_ ciac_ 90
+650 shamuj_ 4+_prawy nie_tnij
+740 100
+800 shamuj_ 4_lewy do 5_prawy _z_uwaga
+870 120
+925 shamuj_ 4_prawy zahacz
+980 70_ 6_lewy_ 100
+1120 5_lewy _z_drogi nie_ciac
+1160 70
+1184 5_prawy_ ciac_ smialo
+1215 150
+1350 hamowanie 2_prawy _z_drogi nie_tnij
+1440 150
+1540 hamuj_ 2+_lewy _z_drogi nie_ciac
+1600 100
+1665 5_prawy_ ciac_ do 6_lewy_ nie_tnij
+1730 200
+1835 mocno_ hamuj_ do 2_prawy _przy_drzewach
+1960 30_ 5_lewy
+2000 50_ 7_prawy_ ciac_ 120
+2095 hamuj_ do 3_lewy
+2175 70
+2215 3_prawy_ nie_ciac _z_drogi
+2250 150
+2315 shamuj do 3_lewy _z_drogi zahacz syf
+2400 250
+2568 shamuj_ 4_prawy_ zahacz podbija
+2655 70_ 6_prawy_ do 4_lewy nie_tnij
+2748 120
+2785 shamuj_ 3_prawy_ przy_drzewie syf
+2830 50_ 5_prawy_ zahacz smialo 150
+3020 5_lewy_ zahacz smialo 90
+3105 5_lewy_ zahacz potem_ hamowanie do 2_prawy ciac_ syf
+3300 6_prawy_ lewy
+3345 150 prostuj
+3470 shamuj 4_lewy do 4_prawy_ nie_ciac
+3565 90
+3605 shamuj 3_lewy _z_drogi nie_ciac
+3660 70_ 6_lewy_ do 7_prawy
+3740 90
+3780 6_prawy_ do 6_lewy _z_uwaga
+3890 150
+3965 hamowanie 3_lewy _z_drogi
+4072 200
+4195 shamuj 4_prawy do 5_lewy do 5_prawy
+4350 150
+4450 shamuj 4+_lewy podbija
+4525 300
+4760 hamowanie 3_lewy_ podbija zahacz syf
+4880 50_ 7_lewy_ 200
+5060 5_lewy _z_drogi 40 _w_brame
+5160 200 prostuj ciasno
+5325 6_lewy _w_brame
+5375 300 70
+5665 hamowanie 4_prawy zahacz ciasno
+5760 200
+5875 nie_spiesz_ 5_lewy_ do 6_prawy row syf
+5985 hamowanie 2_prawy_ na_glowna nie_tnij szeroko
+6105 200 prostuj max
+6305 6_lewy_ ciac_ max do 7_prawy_ max
+6465 400 prostuj
+6760 hamowanie 3_prawy _z_drogi nie_tnij
+6905 250
+7153 lotna i 150 _do_mety_stop

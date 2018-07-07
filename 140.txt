@@ -1,0 +1,23 @@
+#RSI slalom gegeWRC
+0 1_lewy_ _prawy _nie_wypuszczaj
+40 100
+60 3_prawy_ _otwarty do 1_prawy
+180 3_lewy_ _ciasny
+240 2_lewy_ do hak_lewy
+300 hak_prawy
+350 krotka hak_prawy _nie_wypuszczaj
+400 2_lewy_ do 2_prawy_ do 2_lewy_ _ciasny minus
+500 hak_lewy
+550 2_prawy_ do hak_lewy i hak_prawy ciasno
+640 2_prawy_ i 3_lewy zostan
+680 2_prawy_ zacisk _dluzszy
+750 3_lewy_ dlugi przechodzi_w_ 2
+850 2_prawy_ _dluzszy _przy_oponach 
+1000 krotka 3_lewy_ przytnij_wejscie_ przechodzi_w_ 2 dlugi
+1250 2_prawy_ dlugi
+1400 2_lewy_ minus _podwojny
+1480 szykana_od_lewej
+1550 3_prawy_ _ciac
+1600 2_lewy_ plus
+1680 100 prawa hak_lewy
+1840 lotna

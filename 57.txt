@@ -1,0 +1,84 @@
+#Pirka menoko
+0 wczesnie_ 2_lewy
+20 3_prawy lewy przytnij
+80  4_prawy _dluzszy przytnij_wyjscie
+180 krotki 7_lewy 
+220 do 3_prawy przytnij zostan
+310 do 2_lewy zostan 
+390 20 3_prawy
+430 do 4_lewy otwarty
+510 30 ciac_ 3_prawy
+600 6_lewy shamuj szczyt i ciac_ 3_lewy_ _krotki 
+720 30 krotki 6_prawy lewy samp shamuj 
+800 za_szczytem_20 i 3_lewy zostan
+880 _dluzszy 5_prawy zacisk_do_3 przy_drzewie zostan
+1050 do wczesnie_ 2_lewy_ _otwarty
+1150 100 3_prawy 
+1200 do 3_lewy
+1250 do ostroznie 3_prawy _dluzszy zacisk
+1400 50 _dluzszy 5_lewy zacisk samp
+1550 30 krotki 3_prawy zahacz
+1650 30 3_lewy zostan
+1700 do _ciasny 2_prawy otwarty 
+1750 krotki 4_lewy_ _ciac
+1850 do krotki 3_prawy
+1910 pozny 3_lewy negat
+2000 3_prawy krotka podbija
+2100 shamuj krotki lewy zacisk
+2150 do krotki 3_lewy podwojny spadanie
+2220 do krotki 3_prawy _ciac shamuj
+2250 do 2_lewy _dluzszy zahacz
+2330 3_prawy przez_ dlugi szczyt zacisk odkleja
+2450 krotki 2_prawy
+2500 20 krotki 3_prawy
+2550 do 4_lewy _dluzszy zostan
+2600 do ciasno 2+_prawy lewy i spadanie
+2800 50 nie_tnij 4_prawy 
+2900 50 5_lewy _szczytem zacisk_do_3
+3100 20 4_prawy otwarty 
+3200 20 nie_tnij 3_lewy dlugi
+3350 shamuj mostek i nawrot_prawy _za_drzewo otwarty
+3400 szczyt i 7_lewy 
+3450 _w_siodle shamuj do 3_prawy
+3550 3_lewy dlugi
+3600 krotka i 3_lewy
+3750 4_prawy zacisk_do_1 ciac_
+3800 40 3_prawy
+3900 do 3_lewy zacisk_do_1 nie_tnij
+3950 do podwojny krotki 4_prawy
+4100 40 przytnij 2_lewy
+4150 4_prawy nie_tnij zacisk zostan
+4300 do dlugi 2_lewy
+4400 do 3_prawy nie_tnij
+4500 20 2_lewy do 2_prawy
+4550 4_lewy
+4600 4_prawy
+4700 krotki 7_lewy
+4750 2_prawy
+4800 50 do krotki 5_lewy
+4900 wybija 30 
+4950 krotki 4_prawy 
+5000 50 shamuj 3_prawy
+5150 do 2_lewy_ minus
+5200 3_prawy przez_ dlugi szczyt
+5300 30 5_lewy
+5400 10 i 4_prawy nie_tnij
+5450 5_lewy
+5500 30 krotki 5_prawy ciasno
+5600 zostan 3_lewy negat
+5700 do 4_prawy _ciac
+5800 30 3_lewy 
+5900 20 3_prawy zacisk_do_2
+5950 10 1_lewy wczesnie_ _ciac
+6000 50 prostuj shamuj
+6100 do 1_lewy mocno_ciac
+6150 do 5_prawy
+6200 prostuj podbija
+6250 50 shamuj garb do 1_lewy mocno_ciac
+6350 30 podbija 2_prawy  na_mostek
+6450 i 2_prawy _za_drzewo
+6480 _w_gore 3_lewy
+6530 do 4_prawy_ przytnij
+6580 mostek i 3_lewy 
+6650 lotna 
+6700 3_prawy

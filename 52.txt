@@ -1,0 +1,82 @@
+#Sipirkakim
+0 50
+10 6_prawy
+30 100
+70 za_drugim_szczytem_ 5_prawy
+250 100
+320 5_lewy_ _dluzszy widac_ zacisk_do_2
+620 30 krotki 4_prawy_ przytnij
+720 50 za_szczytem_ 10 i 5_prawy i 4_prawy
+850 30 krotki 5_lewy do za_szczytem_ 5_prawy
+970 30 za_szczytem_ minus 5_lewy 70
+1130 6_lewy_ od_szczytu_ zacisk do 4_lewy_ przytnij _wyjscie
+1340 i 4_prawy krotki 120 _prostuj
+1470 4_prawy negat 70
+1600 6_prawy 70
+1700 shamuj_ 5_prawy 20 2_lewy_ _dluzszy
+1950 40
+1980 ciac_ 3_lewy do 4_prawy
+2050 do 6_prawy 50
+2120 5_prawy_ zacisk negat
+2300 50
+2380 przytnij 6_lewy do 6_prawy 40
+2500 4_lewy do 6_prawy
+2530 50 7_lewy i shamuj_ 4_prawy
+2700 do 2_lewy na_mostek
+2840 60
+2870 szerzej_ 4_lewy podwojny i 3_prawy
+2950 wypusc do 2+_prawy
+3100 do 4_lewy_ _ciac
+3120 od_szczytu_ prostuj 6_lewy i 3_prawy
+3300 40 7_lewy szczyt_prawa
+3370 40 3_lewy
+3430 za_szczytem_ 50
+3590 4_lewy 50
+3650 6_lewy_ przez_szczyt 
+3680 50 podbija 7_prawy 70
+3720 7_lewy i 4_prawy
+3820 do 5_lewy 50 7_lewy 100
+4100 podbija wczesnie_ 2+_prawy_ _ciac
+4290 40 7_prawy szczyt_lewa
+4330 za_szczytem_ 5_prawy
+4400 za_szczytem_ 40 4_lewy podwojny
+4560 40 4_prawy_ _szczytem nie_ciac
+4700 40 5_lewy 50
+4810 4_lewy 50
+4820 za_szczytem_ 5_prawy podwojny
+4830 i mocno_ciac 4_lewy
+5100 80 6_prawy
+5170 za_szczytem_ 20 5_prawy_ dlugi nie_wypuszczaj
+5380 50 4_lewy_ nie_ciac
+5530 30 3_lewy_ plus _ciac 30
+5650 4_prawy_ minus przytnij 120
+5800 2+_lewy_ nie_wypuszczaj
+6000 30 7_prawy 30
+6040 5_lewy
+6050 za_szczytem_ 20 3_prawy_ plus
+6260 80
+6290 5_prawy na_szczyt nie_ciac odkleja
+6370 30 przytnij 7_lewy 80
+6450 6_prawy_ lewy 
+6500 za_szczytem_ nie_ciac 4_prawy
+6750 40 ciac_ 4_prawy
+6870 za_szczytem_ 30 ciac_ minus 2_lewy
+7010 za_szczytem_ 30 4_lewy
+7120 do wybija 5_prawy do 5_prawy
+7250 40 7_lewy 
+7300 do 5_prawy_ wybija
+7400 za_szczytem_ 5_lewy _ciasny
+7500 100
+7630 1_prawy_ otwarty
+7770 20
+7790 2_lewy_ slisko nie_wypuszczaj
+7870 do 7_prawy
+7900 30 6_lewy 40
+7950 wypusc 5_prawy
+7970 shamuj_40 2+_prawy_ przytnij
+8190 30 5_lewy_ _dluzszy
+8230 50 przytnij 6_prawy do 6_lewy
+8400 80 6_lewy minus
+8600 50 5_prawy_ _ciasny slisko
+8620 60 2_prawy 
+8830 lotna

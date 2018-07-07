@@ -1,0 +1,60 @@
+# Snekovice
+-5 70 krotki 7_lewy
+30 40 7_prawy zacisk
+220 200 od_szczytu_ 7_prawy krotki
+280 30 6_lewy podbija
+370 100 podbija
+450 7_prawy shamuj
+530 _dluzszy szczyt shamuj do 4_prawy minus zahacz odkleja
+720 50 5_lewy
+900 300
+1100 za_szczytem_ krotka 4_prawy_ _baner
+1250 30 5_lewy zahacz
+1450 30 krotki 7_prawy
+1550 200 smialo
+1650 za_szczytem_ 70 shamuj 4+_lewy
+1800 do 5_prawy_ otwarty nie_tnij
+1900 7_prawy _dluzszy
+2000 szczyt_prawa max
+2100 pozniej_ widac_ 7_prawy
+2200 300 szczyt
+2300 70 prawa
+2450 pozniej_ szczyt_lewa
+2550 prostuj 70 7_lewy bardzo dlugi ostroznie zajebiscie_ _wybija
+2900 70 6_prawy smialo
+3050 150 6_lewy _szczytem odkleja
+3200 400 prostuj 
+3450 szczyt_prawa shamuj_30 5_lewy
+3650 80 4_prawy dlugi otwarty
+3900 ostroznie 4_lewy zacisk odkleja
+3970 za_szczytem_50 3_prawy minus
+4100 szczyt_lewa
+4150 pozniej_ 6_lewy krotki od_tasm_ 3_lewy odkleja
+4400 krotka i 3_prawy 
+4500 100 7_lewy
+4600 40 5_prawy_ od_szczytu_ przechodzi_w_ 6_prawy _dluzszy zacisk
+4950 30 5_lewy minus samp
+5100 200 7_lewy dlugi
+5250 przy_drzewku_ 6_lewy_ minus zostan bardzo dlugi
+5550 za_szczytem_10 3_prawy negat minus przechodzi_w_ 7_prawy smialo
+5700 120 krotki 7_prawy 
+5750 do 3_lewy minus nie_tnij
+5950 20 krotki 7_lewy przez_garb
+6000 80 za_szczytem_50 3_prawy minus zahacz
+6200 widac_ 6_lewy
+6300 szczyt_prawa 30
+6350 krotki 6_prawy _szczytem odkleja
+6500 400 max podbija
+6660 70 5_lewy_ minus do 6_prawy_ krotki
+6930 30 4_prawy zahacz
+7130 przechodzi_w_ 7_lewy
+7230 50 7_prawy_ _szczytem pozniej_ wypusc
+7500 7_lewy hopa 
+7540 i hopa
+7600 7_prawy bardzo dlugi zostan
+7700 hopa_prawa 200 
+7900 pozniej_ ostroznie garb prawa odkleja zacisk
+7950 do 6_prawy
+8270 100 nie_tnij 3_lewy minus zacisk 
+8500 150
+8650 lotna 150 _do_mety_stop

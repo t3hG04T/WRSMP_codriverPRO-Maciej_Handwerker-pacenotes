@@ -1,0 +1,68 @@
+#New Bobs
+1 100 5_prawy nie_tnij zostan
+100 do 4_lewy zacisk 50
+250 7_Lewy
+400 do dlugi 6_prawy 70 podbija
+650 4_lewy _w_gore
+700 do nie_tnij 3_prawy odkleja
+800 7_lewy 80
+950 pozniej_ zahacz krotki 5_prawy do nie_tnij 4_lewy ciasny_ 30
+1200 7_lewy do 6_prawy _dluzszy wyjscie_hopa
+1500 i za_hopa_ krotka i 7_prawy 70
+1700 7_lewy _dluzszy 150
+2000 hamowanie 2_lewy przytnij _z_drogi otwarty
+2250 do 5_lewy _dluzszy 40
+2350 4_prawy ciasno nie_tnij do 3_lewy 70 
+2600 4+_prawy do 4_lewy zahacz 40
+2800 nie_tnij krotki 4_lewy do shamuj 4_prawy zacisk_do_2 30
+3070 _dluzszy 6_lewy 40
+3160 4_prawy minus ciasno 30 4_prawy 40
+3300 7_lewy wypusc 
+3400 za_drugim_szczytem_ przyciac_ 5_lewy 70
+3600 4_prawy samp 50
+3750 wczesnie_ 4_prawy minus 70
+3900 4_lewy przytnij krotka
+4100 4_prawy dlugi zacisk_do_3 30
+4250 ciac_ 4_lewy 30
+4400 _dluzszy 7_lewy 150 prostuj podbija
+4600 przytnij 4_lewy 30 krotki 4_prawy _z_uwaga 50
+4800 hamowanie ciasny_ 1_prawy _z_drogi od_tasm_ nie_tnij 40
+5025 ciac_ 3_lewy 40
+5100 3_prawy 70
+5200 przytnij 4_lewy
+5280 krotka i przytnij_krzakiem_ krotki 4_lewy
+5360 do krotki 4_prawy i krotki 4_prawy lewy nie_tnij 70
+5490 4_lewy nie_tnij 50
+5600 shamuj 2+_prawy wczesnie_ _z_drogi otwarty 40
+5820 ostroznie 3_lewy zostan zacisk_do_1 20
+6000 wczesnie_ 1_prawy zahacz 30
+6080 nie_tnij 5_lewy 50
+6140 krotki 4_prawy lewy ciasno nie_tnij 50
+6280 wczesnie_ 4_prawy ciasny_ 100
+6400 4_lewy shamuj_50
+6520 3_lewy shamuj_20
+6580 do 2_prawy negat _na_wyjsciu 30
+6710 _dluzszy 6_lewy przytnij 30
+6860 4_prawy lewy ciasno nie_tnij 40
+7080 7_prawy shamuj_30 do 2+_prawy _dluzszy zostan 30
+7300 od_szczytu_ 4_lewy przytnij 40
+7400 3_prawy 100
+7500 6_lewy mocno_ciac
+7650 250
+7700 od_szczytu_ prawa nie_tnij 5_prawy odkleja 30
+7900 za_szczytem_20 i 6_lewy 50 nie_tnij
+8020 od_szczytu_ nie_tnij 5_lewy _dluzszy otwarty 50
+8200 krotki 6_prawy
+8330 krotka i od_szczytu_ nie_tnij 5_lewy otwarty 50
+8600 dlugi 6_prawy pozny zacisk zostan do 6_lewy
+8900 7_prawy dlugi _z_uwaga na_szczyt
+9000 przy_drzewie zacisk do 5_prawy_ lewy krotki przytnij 200
+9200 7_prawy 150
+9350 7_lewy podbija przez_ dlugi szczyt
+9470 80 6_prawy ostroznie hamowanie _na_wyjsciu 100
+9650 2_lewy _z_drogi od_tasm_ 30
+9800 przytnij 6_lewy hamowanie 40
+9900 2_lewy _z_drogi _ciac
+10050 5_lewy do 5_prawy 20
+10220 lotna 
+10230 100 hamowanie

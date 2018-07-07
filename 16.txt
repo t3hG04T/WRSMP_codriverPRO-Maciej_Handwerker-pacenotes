@@ -1,0 +1,100 @@
+#Sikakama II
+1 200
+100 6_lewy
+140 do 4_prawy zacisk
+240 do 4_lewy otwarty 100
+400 4_lewy dlugi 20
+550 4_prawy dlugi otwarty _na_wyjsciu
+630 do krotki 6_lewy 250
+850 4_prawy zostan 20
+1000 na_szczyt hopa_prawa 100
+1100 3_lewy 30
+1150 3_prawy wyjscie_szczytem zacisk 20
+1300 3_lewy zostan
+1350 do krotki 3_prawy
+1400 50 na_szczyt _z_uwaga 30
+1480 od_szczytu_ 4_lewy 10
+1530 3_prawy plus _dluzszy zacisk zostan
+1580 do 3_lewy 70
+1750 6_lewy
+1800 7_prawy prostuj
+1850 do _dluzszy 5_lewy_ zacisk do 4 40
+2000 3_lewy 30
+2100 5_prawy 50
+2200 5_prawy zacisk zostan 20
+2250 do 4_lewy krotki 150
+2400 3_lewy nie_tnij
+2550 6_prawy _szczytem 50
+2650 krotki 4_lewy ostroznie przez_garb
+2700 do 4_prawy _szczytem zostan zacisk 
+2770 do 4_lewy krotki 70
+2900 6_lewy _dluzszy
+2940 za_szczytem_ 7_prawy _dluzszy 40
+3050 ostroznie wybija 50
+3200 5_prawy krotka
+3250 i 5_lewy krotki
+3300 4_prawy dlugi przez_szczyt podwojny samp 30 shamuj
+3400 4_prawy krotki
+3450 do 4_lewy krotki 20
+3500 5_lewy krotki shamuj szczyt 20
+3580 do 4_lewy 30
+3650 5_lewy 70
+3880 ostroznie garb i 5_prawy przez_szczyt 50
+4000 krotki 3_lewy plus negat
+4100 do 3_prawy lewy 50
+4220 7_lewy shamuj od_szczytu_
+4250 6_prawy szczyt _na_wyjsciu shamuj 60
+4400 4_prawy zacisk do 4_lewy krotki 80
+4650 za_szczytem_ 4_lewy podwojny 20
+4800 4_prawy 30
+4880 5_lewy 20
+4980 do 3_prawy plus samp prostuj 40
+5050 3_prawy samp 20 3_prawy
+5200 do 3_lewy plus podwojny 10
+5300 i 5_prawy 30
+5400 na_szczyt _z_uwaga pozniej_ spadanie 30
+5450 5_lewy zacisk do 4_lewy bardzo dlugi 20
+5700 4_prawy nie_tnij 80
+5850 5_prawy 20
+5900 6_lewy
+6000 do 5_prawy zacisk 50
+6150 krotki 6_prawy do 5_lewy nie_tnij 40
+6300 5_lewy 50
+6450 5_lewy wyjscie_szczytem 40
+6550 od_szczytu_ 10 6_lewy prawy bardzo krotki shamuj_30
+6680 3_lewy podwojny do 3_prawy otwarty 20
+6850 3_prawy otwarty odkleja
+6880 ostroznie _na_wyjsciu hopa_lewa do 4_lewy 50
+7000 hopa 50
+7100 6_prawy do 5_lewy krotki 50
+7250 5_prawy krotki 50
+7400 5_lewy dlugi _na_wyjsciu podwojny szczyt 50
+7600 4+_prawy_ 70 
+7800 7_lewy _z_uwaga wybija 100
+7950 3_prawy zacisk spadanie _na_wyjsciu
+8080 od_szczytu_ 10 4_lewy 40 4_prawy 20
+8120 7_lewy 20
+8210 3_prawy _dluzszy zostan
+8300 do 3_lewy podwojny 20
+8400 5_prawy _ciasny 100 hopa 50
+8550 5_lewy shamuj _w_siodle do plus 3_lewy bardzo dlugi
+8800 do 3_prawy krotki 40
+8900 3_prawy zahacz 30
+9000 3_prawy _nie_wypuszczaj
+9070 do 4_lewy otwarty 70
+9170 od_szczytu_ krotki 4_lewy do 5_prawy krotki 50
+9300 3_lewy _dluzszy 
+9400 do przytnij_krzakiem_4_prawy 20
+9450 4_prawy zahacz 40 do 5_prawy
+9500 krotka i 6_lewy 50 przez_garb
+9550 5_lewy zacisk odkleja shamuj_50
+9720 2_lewy 40
+9800 4_prawy _dluzszy zacisk 70
+9950 i ostroznie 4_prawy minus przez_szczyt krotka
+10000 5_lewy 70 
+10200 lotna
+10220 i 150 _do_mety_stop
+
+
+
+

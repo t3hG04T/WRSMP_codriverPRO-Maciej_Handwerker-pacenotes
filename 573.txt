@@ -1,0 +1,40 @@
+# Daniel Bonara
+0 150 shamuj_ szykana_od_lewej
+110 150 hamowanie_hak_prawy_ _za_opony do 2_lewy_ _za_opony
+330 100 4_prawy_ minus przytnij _wypusc
+490 100 lewa 4_prawy_ do 4+_lewy przytnij
+740 150 prawa 3_lewy_ minus do 3_prawy_ przytnij
+970 6_prawy_  przechodzi_w_ 4
+1050 lewy max hamowanie hak_lewy _za_opony bardzo _ciasny
+1220 hak_prawy _za_opony _nie_wypuszczaj
+1290 120 hamowanie 6_prawy przechodzi_w_ hak_prawy _za_opony
+1440 1_lewy_ _ciasny _za_opony do 4_prawy
+1500 4_lewy_ przytnij _wypusc
+1600 80 shamuj_ szykana_od_lewej
+1720 120 prawa hamowanie hak_lewy _za_opony
+1880 do hak_prawy _za_opony
+1960 100 shamuj_ szykana_od_lewej
+2090 150 hamowanie_hak_prawy_ _za_opony do 2_lewy _za_opony
+2290 100 4_prawy_ minus przytnij _wypusc
+2410 100 lewa 4_prawy_ do 4+_lewy przytnij
+2660 150 prawa 3_lewy_ minus do 3_prawy_ przytnij
+2890 6_prawy_  przechodzi_w_ 4
+2970 lewy max hamowanie hak_lewy _za_opony bardzo _ciasny
+3180 hak_prawy _za_opony _nie_wypuszczaj
+3250 120 hamowanie 6_prawy przechodzi_w_ hak_prawy _za_opony
+3400 1_lewy_ _ciasny _za_opony do 4_prawy
+3460 4_lewy_ przytnij _wypusc
+3560 80 shamuj_ szykana_od_lewej
+3680 120 prawa hamowanie hak_lewy _za_opony
+3840 do hak_prawy _za_opony
+3860 i_ostatnie_okrazenie
+3920 100 shamuj_ szykana_od_lewej
+4050 150 hamowanie_hak_prawy_ _za_opony do 2_lewy _za_opony
+4250 100 4_prawy_ minus przytnij _wypusc
+4390 100 lewa 4_prawy_ do 4+_lewy przytnij
+4640 150 prawa 3_lewy_ minus do 3_prawy_ przytnij
+4870 6_prawy_  przechodzi_w_ 4
+4950 lewy max hamowanie hak_lewy _za_opony bardzo _ciasny
+5140 hak_prawy _za_opony _nie_wypuszczaj
+5210 120 hamowanie 6_prawy przechodzi_w_ szerzej_ 2+_prawy
+5360 2+_lewy_ lotna

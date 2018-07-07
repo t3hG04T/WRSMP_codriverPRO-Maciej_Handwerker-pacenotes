@@ -1,0 +1,129 @@
+# Berica
+-10 200
+120 6_lewy
+180 200
+285 shamuj lewa do 4_prawy _dluzszy
+420 3_prawy_ lewy ciac_
+500 120
+570 6_prawy podbija 80
+675 4_lewy
+725 70
+775 5_prawy
+825 300 prostuj
+1050 6_lewy podbija
+1170 200 prostuj
+1290 6_lewy do 6_prawy przez_szczyt
+1445 70
+1480 6_lewy
+1545 hamowanie 4_prawy za_szczytem_
+1725 50
+1752 5_lewy
+1810 50_ 5_prawy podbija do 5_lewy na_szczyt
+1990 5_prawy_ przez_szczyt
+2050 70 5_lewy_ shamuj do 2_lewy
+2235 50_ 4_prawy _szczytem
+2275 120
+2355 5_lewy_ do 3_prawy_ przechodzi_w_ 2_lewy
+2510 30_ nawrot_prawy _dluzszy
+2590 30_ 4_lewy_ do 4_prawy
+2687 50 nawrot_lewy
+2746 5_prawy przechodzi_w_ 2_lewy _dluzszy
+2890 90
+2935 2_prawy_ 50
+3020 2_prawy_ 60 do
+3070 3_lewy_ do 6_prawy _szczytem
+3215 70_ 6_lewy_ do 5_prawy _dluzszy
+3400 90
+3440 4_lewy_ 70
+3480 shamuj 2_prawy_ do 5_lewy_50
+3642 3_lewy_ do 4_prawy_ 120
+3800 hamuj_ 6_lewy_ zacisk do 3
+3900 90 prostuj
+3970 za_szczytem_20 3_prawy
+4075 60 6_lewy _szczytem spadanie
+4140 80 5_prawy_ 70
+4260 7_lewy_ do 6_prawy 200
+4490 5_prawy 90
+4585 4_prawy
+4690 shamuj_ 3_lewy_ 40 i 5_lewy _szczytem
+4800 150
+4900 hamowanie do 3_prawy
+5000 50_ 5_lewy_ 100
+5110 shamuj 4_prawy
+5183 6_prawy_ 120
+5300 5_lewy_ do 4_prawy
+5400 80
+5440 4_lewy_ 90
+5550 5_prawy_ 150
+5690 5_lewy_ 100
+5790 shamuj 4_lewy_ 70
+5890 5_lewy_ 70
+6005 5_lewy _pozny_ do 4_prawy
+6095 prawy zacisk do 2
+6190 50 7_lewy
+6235 200 prostuj lewy_prawy
+6360 6_lewy_ 200
+6560 hamowanie hak_prawy
+6695 150
+6775 6_lewy_ 150
+6885 za_szczytem_ 6_lewy_ smialo
+7050 70_ 6_prawy
+7139 150
+7240 5_prawy_ ciac_ 120
+7360 6_lewy_ przez_szczyt
+7430 150 prostuj
+7505 shamuj 5_lewy_ zacisk do 3
+7660 100 prostuj
+7730 hamuj_ do 2_lewy
+7785 40 4_prawy_ 150
+7930 6_prawy_ 50
+7970 shamuj 4_prawy_ 100
+8108 hamuj_ 3_lewy
+8185 150
+8320 6_prawy_ 70
+8375 shamuj do 4_lewy do 5_prawy_ 50
+8535 4_lewy_ 50
+8585 6_prawy_ 200
+8705 shamuj 6_lewy_ zacisk do 4 przechodzi_w_ 4_prawy krotki
+8890 100
+8930 hamuj_ 3_prawy _dluzszy otwarty
+8985 50 6_lewy_ zacisk do 4_prawy_ z_uwaga_
+9135 200
+9255 7_prawy
+9340 100
+9320 6_lewy_ do 5_prawy_ smialo 100
+9500 5_lewy_ 100
+9645 7_prawy_ 300 prostuj
+9930 7_lewy_ 100
+10060 6_prawy do 5_lewy _dluzszy
+10200 150
+10290 shamuj_ 5_prawy_ do 4_lewy_ przechodzi_w_ 3_prawy
+10480 300
+10729 5_lewy_ pozny do 5_prawy_
+10890 hamuj_ 3_lewy_ do 4_prawy
+11040 150
+11105 6_prawy_ ciac_ 100
+11250 6_lewy _szczytem _dluzszy
+11347 150
+11390 6_prawy _dluzszy zacisk
+11570 5_lewy_ 200
+11718 4_prawy_ do 4_lewy ostroznie prostuj
+11945 6_prawy lekki_zacisk
+12065 7_lewy_ 200 prostuj
+12340 7_prawy_ 120
+12415 shamuj 5_prawy_ zahacz przy_drzewie podbija 70
+12555 5_lewy_ dlugi
+12675 150
+12750 6_prawy_ do 5_lewy_ 100
+12950 hamuj_ 3_prawy przy _kamien podbija
+13040 30_ 4_lewy _dluzszy 120
+13190 5_prawy_ do_6_lewy _dluzszy
+13300 5_prawy przez_szczyt 100
+13500 6_lewy_ 150
+13620 shamuj 5_lewy_ 300
+13825 za_szczytem_50 6_lewy_ do hamuj_ 5_prawy
+14090  250
+14275 7_prawy_ 300
+14480 hamuj_ mocno_ do 4_lewy_ przechodzi_w_ 2_prawy _kamien nie_wypuszczaj
+14700 70
+14805 lotna i 200 _do_mety_stop

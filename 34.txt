@@ -1,0 +1,125 @@
+#East-West
+-5 nie_spiesz_ 1_prawy _ciasny 40
+70 nie_tnij 5_lewy otwarty 
+150 nie_tnij 5_prawy otwarty 150 prostuj lewa
+260 1_prawy 30 _ciasny nie_tnij 30
+430 2_lewy zahacz _z_uwaga
+500 do 3_prawy krotki nie_tnij 40
+550 przytnij_wejscie_ do 4_lewy bardzo dlugi 100 shamuj
+680 4_prawy_ minus 40
+900 4_lewy _ciac krotka
+960 do 4_prawy 70
+1050 4_lewy _przytnij_wyjscie _przy_drzewach 150 podbija
+1180 4_lewy zostan samp podbija _na_wyjsciu 100
+1370 ostroznie wybija 100 4_prawy krotki 30
+1600 ciac_ 3_lewy przechodzi_w_ 5_lewy zostan
+1800 do krotki 4_prawy nie_tnij 70
+1920 2_lewy za_baner 50
+2045 zahacz 3_lewy krotki do 3_prawy krotki nie_tnij 20
+2100 przytnij 2_lewy 40
+2180 3_prawy dlugi nie_wypuszczaj 50
+2280 przytnij krotki 5_lewy shamuj 30
+2350 3_prawy od_tasm_ zacisk 70
+2550 2_lewy zahacz
+2600 do 3_prawy krotki nie_tnij 50
+2700 6_lewy shamuj 30
+2780 ciasny_ 4_prawy krotki nie_wypuszczaj
+2850 do przytnij 5_lewy _dluzszy zostan 100
+2930 pozny_ 1_prawy za_drzewkiem_ _ciac 20
+3050 ciac_ 2_lewy zostan
+3120 do ciac_ 3_lewy shamuj przy_drzewie 20
+3160 do 1_prawy _ciasny 20
+3240 2_lewy _ciac 10
+3260 1_prawy nie_tnij 40
+3300 3_prawy 30
+3380 przytnij 2_lewy otwarty 70 prostuj
+3450 5_lewy krotki ciac_ _z_uwaga 30
+3540 4_lewy krotki ciac_ shamuj
+3590 1_prawy _ciasny 30
+3700 4_lewy ciac_ za_baner 30
+3750 3_prawy otwarty 50
+3830 ciac_ krzakiem_ 2_lewy podbija shamuj
+3880 do 1_prawy
+3930 do przytnij 1_lewy 30
+3980 1_prawy _ciasny 50
+4020 2_lewy przyciac 50
+4110 3_lewy _dluzszy zostan hopa _na_wyjsciu 50
+4300 hamowanie krotki 7_lewy zacisk_do_3 _dluzszy 50
+4500 ciasno 3_lewy krotka i 3_prawy otwarty nie_tnij 40
+4640 5_lewy zacisk_do_3 nie_tnij shamuj krotka
+4730 do 2_prawy do 4_lewy nie_tnij widac_ 80 prostuj
+4820 1_lewy _dluzszy 40
+4930 pozny_ 2_prawy 100
+5030 ostroznie 7_lewy zostan shamuj wybija 30
+5120 krotki 4_prawy _ciasny 60
+5230 przytnij _z_uwaga 4_lewy 150 ciac_ lewa shamuj
+5320 od_tasm_ 3_prawy zacisk 100
+5520 4_lewy przyciac ostroznie 20
+5650 4_prawy krotki nie_tnij 70 shamuj
+5720 1_lewy zahacz
+5830 przytnij krotki 3_lewy do nie_tnij 3_prawy 20
+5900 3_lewy krotki slisko 30
+6000 6_lewy shamuj
+6060 do ciasny_ 4_prawy podbija 20
+6120 5_lewy krotki shamuj 20
+6170 2_prawy otwarty smialo 100 prostuj
+6250 1_lewy _dluzszy zacisk 50
+6450 krotki 4_prawy zacisk_do_2 otwarty nie_tnij 80
+6570 2_lewy zostan nie_tnij _baner
+6680 do 3_prawy krotki 100
+6800 ciasno 5_prawy krotki 100 prostuj
+6920 _dluzszy 3_prawy otwarty 30
+7100 1_lewy nie_tnij 20
+7160 krotki 3_prawy od_tasm_ zacisk_do_1 10
+7250 1_lewy przytnij
+7290 do wczesnie_ 1_prawy 50
+7340 zostan 4_lewy zacisk 20
+7410 do krotki 3_prawy ciasno 50
+7510 hopa_lewa 50 5_lewy _ciac shamuj 30
+7570 3_prawy zacisk 100
+7780 5_lewy _dluzszy przyciac 50
+7950 5_prawy otwarty 70
+8050 zahacz 5_lewy shamuj 30
+8150 1_prawy 40
+8250 przytnij 2_lewy _z_uwaga zostan
+8300 do 2_prawy nie_tnij 40
+8350 2_prawy smialo wyjscie_szczytem nie_wypuszczaj 50
+8450 1_prawy nie_tnij krotka
+8500 3_lewy _dluzszy 50
+8630 1_prawy nie_tnij przechodzi_w_ 4_prawy 50
+8700 3_lewy krotki 70
+8800 1_lewy zacisk 30
+8930 4_lewy krotki _wypusc
+9010 do 3_prawy przytnij 50
+9060 6_lewy krotki 30
+9120 od_tasm_ przytnij 2_prawy do 1_lewy nie_tnij 200
+9180 przytnij 4_prawy zostan do 5_lewy otwarty 100
+9350 pozny_ 3_lewy zacisk do 2_prawy lewy
+9680 lotna 100
+9890 i _stop
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

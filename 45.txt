@@ -1,0 +1,88 @@
+#Joux Verte II
+0 30 7_prawy_ lewy
+10 do ciasno 5_prawy
+70 50 ostroznie nawrot_prawy
+250 20
+260 6_lewy 50
+290 4_lewy_ zacisk_do_2 plus przytnij
+420 30 5_prawy
+500 za_szczytem_ przytnij 4_prawy do 4_lewy 
+600 do przytnij 5_prawy
+640 30 za_szczytem_ przytnij 4_prawy _dluzszy
+730 do 5_lewy 20 2+_lewy
+960 20 przytnij 5_prawy
+1010 za_szczytem_ 4_prawy_ do szerzej_ 4_prawy
+1100 40 nawrot_lewy przytnij
+1290 70
+1310 4_prawy do minus 3_lewy
+1380 10 nawrot_prawy
+1510 do 6_prawy
+1530 za_szczytem_ 10 nawrot_lewy
+1650 do 6_prawy za_szczytem_ ciac_ 4_lewy
+1700 do 4_lewy 20 nawrot_prawy
+1880 do 6_prawy
+1900 40 za_szczytem_ 70 5_prawy_ minus
+2070 70 nawrot_lewy _ciasny
+2250 100
+2305 nawrot_prawy odkleja
+2360 do nawrot_lewy nie_ciac
+2460 do 6_prawy_ zacisk_do_2 _na_glowna _ciac
+2540 za_szczytem_ 40 6_lewy
+2630 do 6_lewy 50
+2700 ciac_ 6_lewy do 6_prawy i 5_lewy
+2900 za_szczytem_ 30 4_prawy
+3070 50
+3110 5_lewy _dluzszy
+3200 150
+3320 6_lewy_ minus przez_szczyt 50 4_prawy_ minus
+3620 do 4_prawy_ plus do 5_lewy do za_szczytem_ 5_lewy
+3740 do 6_prawy_ minus nie_wypuszczaj
+3900 120
+4000 ciac_ 6_lewy do 5_prawy
+4120 za_szczytem_ 20 hak_lewy _z_drogi
+4420 50
+4430 nawrot_prawy _ciasny
+4540 50 nawrot_lewy
+4620 30 6_lewy 10 nawrot_prawy
+4740 do 6_prawy
+4770 50 za_szczytem_ 20 nawrot_lewy _ciasny
+4930 40 6_lewy 10 nawrot_prawy
+5040 do 6_prawy
+5080 50 nawrot_lewy
+5180 do 7_prawy
+5200 do 5_lewy 30
+5230 5_prawy 20 nawrot_prawy
+5240 szczyt_prawa
+5460 do 6_lewy_ _ciac
+5500 do 5_prawy_ minus
+5560 do 6_prawy za_szczytem_ 20 nawrot_lewy
+5800 80
+5830 przytnij 6_lewy 
+5840 do ciac_ 6_prawy i 5_lewy i nawrot_prawy
+6080 80
+6130 za_szczytem_ 6_prawy
+6180 100
+6280 za_szczytem_ 6_prawy_ krotki
+6320 100
+6350 nawrot_lewy
+6570 do 6_prawy
+6620 30 6_lewy
+6650 60 7_lewy 10 nawrot_prawy
+6840 do 6_prawy
+6890 120
+6920 nawrot_lewy
+7050 40
+7080 7_lewy 10 nawrot_prawy
+7150 do za_szczytem_ 6_prawy przytnij
+7180 80
+7210 nawrot_lewy
+7320 i 6_prawy przytnij
+7380 30 5_lewy_ zostan
+7420 do przytnij 6_prawy do 6_lewy
+7450 40 7_lewy 10 nawrot_prawy _ciasny
+7710 do 6_prawy
+7760 80
+7800 za_szczytem_ 20 nawrot_lewy
+7920 40
+7940 7_lewy 10 nawrot_prawy
+7990 lotna

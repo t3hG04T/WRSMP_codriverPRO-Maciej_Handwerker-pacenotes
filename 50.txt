@@ -1,0 +1,101 @@
+#Sipirkakim II
+0 3_lewy
+10 40
+20 przytnij 6_lewy
+50 50 6_prawy_ dlugi
+200 70
+220 krotki 6_prawy
+230 do przytnij 6_lewy_ minus 40
+300 4_prawy_ zostan
+540 40 przytnij 3_lewy
+650 40 przytnij 6_lewy
+700 40 krotki 6_prawy
+780 do 7_lewy 20 1_prawy_ slisko
+970 i 4_lewy_ slisko zacisk_do_2 nie_ciac
+1070 90
+1120 zajebiscie_ ostroznie nie_spiesz_
+1170 4_prawy do 6_prawy_ lewy 
+1300 do 5_prawy 50
+1350 przytnij 5_lewy do
+1370 za_szczytem_ 4_lewy_ _ciac krotki
+1500 60 krotki 4_prawy
+1570 40 szczyt_lewa 30 ciac_ 1_prawy
+1780 za_szczytem_ 30
+1800 ciac_ 3_lewy_ plus smialo
+1820 80 nie_spiesz_ nie_ciac 4_lewy_ _ciasny
+1920 150
+2080 za_szczytem_ 5_prawy 70
+2170 nie_spiesz_ za_szczytem_ nie_ciac 4_lewy_ otwarty
+2330 80
+2350 za_szczytem_ 30 3_lewy_ negat nie_ciac
+2500 50 przytnij 5_prawy 20
+2520 za_szczytem_ krotki 5_lewy 50 3_prawy_ _dluzszy
+2810 120
+2840 4_lewy_ _dluzszy lekki_zacisk
+3020 30 przytnij 4_prawy 40
+3050 _ciasny 5_prawy_ slisko
+3170 50 szczyt_prawa
+3200 do 6_lewy i za_szczytem_ 4_lewy
+3400 do 7_lewy_ prawy 
+3430 i 7_lewy
+3540 za_szczytem_ 3_prawy
+3620 30 5_lewy 50
+3740 przytnij 4_prawy
+3760 80 4_prawy przez_szczyt odkleja _ciac
+3900 50 4_lewy
+4000 100
+4020 krotki 5_prawy_ _ciac
+4130 30
+4180 za_szczytem_ 6_lewy_ podwojny
+4270 za_szczytem_ 120
+4400 2+_lewy_ _ciac
+4550 60
+4600 6_prawy 80
+4650 przytnij 5_prawy
+4690 30 4_lewy_ podbija
+4740 50 7_lewy
+4810 do 7_prawy_ przez_szczyt 50
+4950 ciac_ 4_prawy
+5120 50 szczyt 10 i ciac_ 3_prawy
+5270 20 szczyt_lewa 60
+5300 7_prawy 50
+5310 ciac_ 3_lewy
+5450 do 6_prawy i za_szczytem_ smialo ciac_ 4_prawy
+5560 do 2+_lewy
+5680 do 3_lewy
+5730 do pozny 4_prawy
+5780 mostek i wczesnie_ _ciac krotki 2+_prawy
+5950 do ciac_ 5_lewy
+6000 do przytnij 7_lewy 30
+6050 do 4_prawy
+6080 40 6_lewy do 6_prawy_ przez_szczyt
+6130 do 5_lewy_ krotki zacisk do 3_lewy
+6400 20 przytnij krotki 4_lewy
+6470 za_szczytem_ ciac_ 6_lewy_ podbija 30
+6530 mocno_ciac 4_lewy do 2_prawy
+6710 50 ostroznie podbija 3_prawy zacisk_do_1 _ciac
+6850 do przytnij krotki 6_lewy
+6900 80
+6920 6_lewy
+6950 100
+6980 5_lewy_ zacisk
+7050 80
+7110 nie_spiesz_ przytnij krotki 6_lewy wybija
+7220 za_szczytem_ 5_prawy_ negat
+7400 do 7_prawy
+7420 100
+7470 5_prawy
+7550 20 przytnij krotki 6_lewy
+7580 do za_szczytem_ krotki 5_prawy
+7650 do 4_lewy 30 4_lewy
+7880 70
+7950 ciac_ 4_lewy 50
+8000 wczesnie_ ciac_ 3_prawy 
+8130 i 5_prawy
+8170 30 7_prawy
+8200 80
+8250 za_szczytem_ 20 6_lewy_ dlugi
+8420 200 podbija
+8500 6_lewy_ minus _ciasny nie_ciac
+8650 150
+8800 lotna

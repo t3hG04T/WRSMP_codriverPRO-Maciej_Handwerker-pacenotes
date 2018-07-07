@@ -1,0 +1,44 @@
+# ROC 2008
+0 3_lewy_ zacisk_do_2
+60 30
+70 2_prawy do 2_prawy
+140 20
+150 2_lewy_ _dluzszy
+240 za_szczytem_ 20
+270 2_lewy
+330 30
+350 2+_lewy
+430 80
+450 3_lewy_ dlugi
+580 zostan
+620 do 5_prawy 
+625 do 2_lewy
+680 30
+700 pozny 2_prawy
+730 zostan do minus 2_lewy_ nawrot
+870 30
+880 2+_lewy
+900 80
+# lap 2
+950 3_lewy_ zacisk_do_2
+1060 30
+1070 2_prawy do 2_prawy
+1140 20
+1150 2_lewy_ _dluzszy
+1240 za_szczytem_ 20
+1270 2_lewy
+1330 30
+1350 2+_lewy
+1430 80
+1450 3_lewy_ dlugi
+1580 zostan
+1620 do 5_prawy 
+1625 do 2_lewy
+1680 30
+1700 pozny 2_prawy
+1730 zostan do minus 2_lewy_ nawrot
+1870 30
+1880 2+_lewy
+1900 80
+1970 lotna
+2070 prawy _do_mety_stop

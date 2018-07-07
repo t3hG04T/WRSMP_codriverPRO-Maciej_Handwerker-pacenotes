@@ -1,0 +1,66 @@
+# Sieversdorf
+0 50 _z_drogi 1_prawy podwojny otwarty 70 prostuj podbija
+50  hak_lewy  nie_tnij
+120 70 szczyt_lewa nie_wypuszczaj 40 prostuj 
+150 przy_slupie wybija do 4_lewy krotki  40 od_szczytu_ odkleja 5_prawy 100
+300 ostroznie wybija _wejscie do nie_tnij krotki 3_prawy do 4_lewy krotki prostuj prawa 
+520 za_szczytem_30 4_lewy zacisk zostan 
+570 do podwojny 5_prawy _dluzszy nie_wypuszczaj
+720 za_drugim_szczytem_ zacisk do 6_lewy samp 100
+970 od_szczytu_ 5_prawy odkleja krotka 6_lewy 40 hamowanie
+1320 _z_drogi 1_prawy do 3_prawy przyciac 40 shamuj
+1470 ciasno 3_prawy krotki nie_tnij 10 i 1_lewy _z_drogi
+1590 40  od_szczytu_ zahacz 4_prawy krotki 30
+1650 nie_tnij 4_lewy garb _na_wyjsciu
+1740 przechodzi_w_ 5_lewy na_szczyt prawa _wypusc podbija
+1870 krotki 4_lewy prawy 50 shamuj
+1970 nie_tnij 3_prawy przy_slupie 50
+2070 2+_prawy przyciac _z_uwaga 40
+2120 3_prawy krotki syf 10 nie_tnij 3_lewy _wypusc 70
+2220 ostroznie syf 3_prawy zacisk krotka i 1_prawy_  _z_drogi przyciac
+2420  prostuj 100 od_szczytu_ 2_lewy _za_znak przez_garb
+2570 4_lewy zacisk  zostan 
+2630 do 4_prawy plus zostan
+2670 do shamuj 5_lewy do 1_prawy _z_drogi ostroznie syf  podbija
+2920 5_prawy krotki 50
+3000 3_prawy za_szczytem_10 i 1_prawy_ _na_asfalt 50
+3095 5_prawy _dluzszy nie_tnij od_szczytu_ zacisk 
+3170 krotki lewy za_szczytem_ przyciac  4_lewy
+3305 na_szczyt prawa prostuj 50 lewa
+3380 nie_tnij 3_prawy _bale shamuj_40 prawa
+3500 _z_drogi hak_lewy przyciac 30
+3590 przytnij 3_lewy do przytnij 4_prawy otwarty shamuj_40
+3640 2_lewy 10 krotka i 1_lewy 40
+3770 za_szczytem_ 3_prawy_ _dluzszy otwarty _w_gore lewa 
+3870 od_szczytu_ 10 4_prawy syf podbija ciasno
+3970 do 5_lewy krotki hamowanie 20 
+4070 1_lewy _z_drogi do 2_prawy_ przyciac 100 prostuj
+4250 1_lewy _dluzszy _na_wyjsciu _w_gore
+4320 za_szczytem_10 1_prawy _dluzszy przyciac 50
+4450 od_szczytu_ nie_tnij 3_lewy odkleja do 2_prawy 
+4540 5_lewy  200 prostuj podbija
+4640 ostroznie przez_szczyt krotki 4_lewy_ prawy prostuj podbija 100
+4870 nie_tnij 4_prawy_ zacisk 30
+4970 3_lewy _dluzszy plus
+5070 za_szczytem_20 nie_tnij 4_lewy krotki 50
+5200 krotki 5_prawy podwojny shamuj_ krotka do 1_prawy nie_tnij szeroko
+5350 7_lewy wypusc
+5420 1_lewy _za_opony do 2_prawy dlugi do 1_lewy ciasny_ nie_tnij
+5640 5_prawy krotki do 4_lewy prostuj 40 hamowanie
+5700 od_szczytu_ 4_lewy krotki _z_drogi ostroznie 200 na_szczyt hopa_prawa smialo 120
+5950 pozniej_ przy_slupie pozny_ 2_lewy zacisk przytnij_wyjscie 50
+6220 2+_prawy zacisk _na_wyjsciu mostek wybija nie_spiesz_ 50
+6270  za_szczytem_ odkleja 2_prawy  _ciac 
+6470 krotka i od_szczytu_ _ciac krotki 3_lewy smialo 70
+6570 ciac_ 4_lewy krotka i 3_prawy ciac_
+6700 do 3_lewy ciac_ 150
+6850 za_drugim_szczytem_ 10 i 4_prawy _na_wyjsciu szczyt_lewa nie_tnij 50
+7070 nie_tnij 4_lewy podwojny zostan shamuj
+7220 do 1_prawy ciasny_ 40
+7270 4_lewy krotki _szczytem wypusc 70 prostuj odkleja
+7370 za_szczytem_ 3_lewy nie_tnij negat 70
+7470 3_prawy _ciac podbija 30
+7570 od_szczytu_ krotki 4_lewy_ pozniej_ wypusc _szczytem prostuj 50
+7650  2_lewy wypusc szczyt prawa do 3_prawy hopa
+7720 50 wybija
+7940 lotna

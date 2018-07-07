@@ -1,0 +1,28 @@
+#Humalamaki II
+0 200 prostuj przez_szczyt
+50 4_lewy_ plus
+130 6_prawy_ minus nie_tnij na_szczyt
+250 200 prostuj hopa_smialo
+300 6_prawy_ do shamuj_ _z_uwaga 4_prawy_ minus nie_tnij 
+600 200 przez_szczyt
+700 shamuj_ za_hopa_ 4_lewy_ przez_szczyt _podwojny
+900 100 prostuj hopa_prawa
+1000 6_prawy_ 250 prostuj przez_szczyt
+1230 shamuj_ 4_lewy_ nie_tnij do 4_prawy_ przytnij minus
+1510 100 za_hopa_ 4_lewy_ nie_tnij _kamien
+1650 100 _w_siodle shamuj_ za_hopa_ 5_lewy
+1850 80 hopa_smialo
+1930 150 hopa shamuj_
+2010 za_hopa_ hamowanie 4_prawy_ przytnij
+2220 5_lewy_ przez_szczyt nie_tnij _kamien
+2380 500
+2500 7_lewy_ _podwojny przez_szczyt
+2720 za_szczytem_ krotka i 5_prawy_ nie_tnij _kamien
+3000 400 7_lewy
+3200 7_prawy
+3300 150 6_prawy
+3430 shamuj_ 5_prawy_ minus przez_szczyt
+3600 5_lewy_ przechodzi_w_ 4_lewy_ _podwojny
+3850 za_szczytem_ shamuj_ 3_prawy_ pozny minus
+4100 300 
+4250 6_lewy_ przez_szczyt lotna

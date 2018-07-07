@@ -1,0 +1,36 @@
+#Akagi
+0 200 nie_tnij 4_lewy zacisk _za_znak 20
+220 2_prawy do nawrot_lewy _dluzszy
+400 4_lewy do nawrot_prawy garb otwarty
+550 5_lewy shamuj_ nawrot_prawy zacisk 20
+740 nawrot_lewy ciasny_
+800  nawrot_prawy  ciasny_ 50
+870 nawrot_lewy lekki_zacisk 40
+960 1_prawy
+990 krotki lewy do nawrot_prawy 40
+1100 nawrot_lewy 70
+1200 4_prawy lewy_prawy nie_spiesz_
+1280 2_lewy _dluzszy do nawrot_prawy otwarty 100
+1500 5_lewy zacisk zostan
+1600 do 4_prawy lewy
+1680 do 3_prawy do 1_lewy 10
+1780 do 2_prawy_ minus do 1_lewy
+1880 do 2_prawy i nawrot_prawy 30
+2000 3_lewy krotki do 2_prawy
+2050 do nawrot_lewy _dluzszy 40
+2150 3_prawy zacisk
+2210 do 4_lewy shamuj do nawrot_prawy zacisk 20
+2410 nawrot_lewy otwarty
+2470 5_lewy 70
+2520 nawrot_prawy zacisk 30 5_lewy krotki shamuj
+2640 2_lewy nawrot 50
+2780 3_lewy prawy lewy
+2850 do 5_lewy prawy prostuj 50 hamowanie
+2950 nawrot_prawy zacisk zostan
+3050 do nawrot_lewy 50
+3120 nawrot_prawy zacisk
+3230 do nawrot_lewy otwarty 50
+3300 nawrot_prawy zacisk 20
+3410 2_lewy 40
+3450 3_lewy lotna
+3550 _stop

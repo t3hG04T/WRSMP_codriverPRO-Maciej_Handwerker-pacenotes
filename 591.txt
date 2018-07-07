@@ -1,0 +1,70 @@
+# Blanare II
+-5 3_lewy_ _dluzszy _ciasny krotka
+30 3_prawy
+80 hopa_smialo potem_ 100 na_szczyt
+120 za_szczytem_ spadanie_ hamuj_ 3+_lewy
+330 150 przez_szczyt
+400 4_lewy_ lekki_zacisk
+470 3_prawy_ minus
+570 krotka i dlugi 3_lewy_ potem_ plus
+650 90 7_lewy
+710 shamuj_ 6_lewy_ przez_szczyt do 2_prawy_ _dluzszy
+950 200 _w_siodle
+1000 shamuj_ 5_prawy_ _krotki przez_szczyt
+1120 80 _w_dol i 5_prawy
+1190 100 na_szczyt i 3_lewy
+1380 150 prostuj
+1400 lewy 
+1420 potem_ shamuj_ lewa i 4_prawy_ zostan
+1530 50 i 4_lewy_ do 3_prawy_ zacisk_do_2
+1730 krotka i 3_lewy
+1760 do 4_prawy_ zacisk_do_3
+1840 krotka i 2_lewy_ _dluzszy
+1980 100 nie_spiesz_ 3_lewy_ minus
+2060 60 shamuj_ za_szczytem_ 3_lewy_ _dluzszy negat
+2200 krotka i 2_prawy_ bardzo dlugi lekki_zacisk
+2310 5_lewy
+2340 80 6_lewy
+2380 80 shamuj_ 3_lewy_  _z_drogi zostan przechodzi_w_ 1_lewy
+2600 krotka i 2_prawy_ dlugi
+2700 5_lewy_ wczesnie_ zacisk_do_3
+2800 80 i 3_lewy
+2900 100 shamuj_ pozny_ 2_lewy_ _dluzszy
+3040 3_prawy_ dlugi
+3150 3_lewy_ do 2_prawy_ _dluzszy zacisk_do_1
+3320 5_lewy_ lewa i 4_prawy_ przez_szczyt
+3420 200 prostuj
+3470 shamuj_ 4_lewy_ minus
+3620 100 6_prawy_ _w_siodle
+3680 100 shamuj_ od_szczytu_ 5_prawy 
+3870 200 prostuj
+3900 hamuj_ 2_prawy_ zacisk _dluzszy
+4100 80 _szczytem i 6_lewy 
+4150 100 shamuj_ pozny_ 4_lewy_ zacisk_do_3 _dluzszy zostan
+4280 3_prawy i krotka na_szczyt
+4410 4_lewy_ _podwojny
+4470 100 przez_szczyt i 4_lewy_ minus zostan
+4580 100 _w_gore smialo przez_szczyt
+4700 ostroznie shamuj_ hopa
+4730 za_hopa_ hamuj_ 3_prawy
+4900 krotka minus 3_lewy_ zacisk dlugi
+5020 krotka 2_prawy_ do 2_lewy_ _podwojny lekki_zacisk
+5150 80 _w_gore i od_szczytu_ 3_prawy
+5190 4_lewy_ do 5_prawy
+5270 80 shamuj_ 5_lewy_ minus do 5_prawy_ _nie_wypuszczaj
+5400 100 _w_siodle
+5460 4_lewy_ zostan
+5550 ostroznie 3_prawy _pod_wiadukt
+5640 4_lewy_ do 2_lewy_ _nie_wypuszczaj
+5720 2_prawy_ _krotki
+5780 krotka 4_prawy
+5830 szczyt_lewa do za_szczytem_ 4_prawy 
+5920 spadanie_ shamuj_ 2_lewy
+6070 krotka i  minus 4_prawy_ _dluzszy
+6120 shamuj_ hopa_prawa
+6150 potem_ spadanie_ i 3_lewy
+6300 krotka 5_prawy
+6330 60 shamuj_ 2_lewy_ _dluzszy
+6470 krotka 4_prawy
+6540 krotka 4_lewy_ i lotna
+6610 4_prawy _do_mety_stop

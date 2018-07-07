@@ -1,0 +1,65 @@
+# Snekovice II
+0 200 garb
+100 shamuj 50 do 2_prawy otwarty
+350 100 za_szczytem_ 6_lewy _dluzszy zostan
+550 garb wybija
+600 pozniej_ dlugi 7_lewy podbija
+900 podwojny garb podbija ostroznie
+1000 do 7_prawy krotki
+1100 od_szczytu_ 20 6_lewy odkleja
+1250 50 5_prawy shamuj
+1480 do zahacz 3_lewy plus szeroko
+1600 30 od_szczytu_ 6_lewy krotki
+1680 20 5_prawy minus
+1800 150 szczyt_prawa
+2000 200 za_drugim_szczytem_ 5_lewy_ odkleja _z_uwaga
+2250 50 _wybija shamuj 30 5_prawy
+2350 40 3_lewy ciasno zahacz
+2560 20 szczyt_prawa
+2630 7_prawy_ krotki shamuj
+2680 do 3_prawy samp
+2800 30 6_lewy _dluzszy zacisk_do_3 za_baner pozniej_ otwarty
+3100 30 szczyt_lewa
+3150 30 5_prawy dlugi lekki_zacisk
+3350 100 podbija shamuj pozny_ 4_prawy _dluzszy zostan
+3650 za_szczytem_20 5_lewy krotki
+3950 20 7_prawy
+4100 150 shamuj 3_lewy
+4300 do 3_prawy
+4400 50 szczyt_prawa 50 shamuj 
+4500 do 2+_lewy
+4600 za_szczytem_20 zahacz 2_prawy otwarty max 
+4750 50 krotki 6_lewy garb shamuj
+4850 30 3_lewy plus
+4980 80 5_prawy krotki zostan
+5050 prostuj _szczytem max
+5100 pozniej_ 250 garb podwojny prawa odkleja shamuj
+5350 30 i 5_prawy krotki odkleja zostan
+5480 20 5_prawy krotki pozniej_ wypusc
+5520 30 7_lewy zacisk do 4_lewy mocno_ odkleja
+5700 bardzo dlugi 7_prawy
+6100 szczyt_prawa ostroznie
+6200 30 od_szczytu_ _dluzszy 7_lewy
+6350 30 garb lewa odkleja
+6400 7_lewy na_szczyt 
+6450 pozniej_ ostroznie od_szczytu_ lewa wybija
+6500 do 6_lewy dlugi zacisk ciasno
+6700 krotka i 5_prawy
+6900 150 szczyt_lewa
+7050 40 od_szczytu_ shamuj 5_lewy krotki
+7200 4_prawy zacisk
+7350 40 4_lewy wyjscie_szczytem max
+7500 250 widac_ pozniej_ shamuj garb ostroznie
+7750 60 5_prawy
+7900 40 4_lewy wyjscie_szczytem zostan
+8000 30 7_lewy krotki
+8070 100 podbija 6_prawy krotki wypusc ostroznie
+8150 od_szczytu_ przechodzi_w_ 7_lewy dlugi 
+8350 pozniej_ zacisk
+8600 50 lotna prawa
+8750 70 _do_mety_stop 
+
+
+
+
+

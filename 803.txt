@@ -1,0 +1,123 @@
+# Uchan-Su Winter
+-15 nawrot_prawy
+0015 6_lewy zacisk do nawrot_lewy nie_ciac
+0110 4_prawy_ dlugi
+0165 60 nawrot_lewy zacisk  potem_ 5_prawy
+0300 50_ 3_prawy nie_tnij
+0365 5_lewy i 90
+0430 nawrot_prawy do  2_prawy_ _kamien
+0560 6_lewy 120
+0695 hamowanie nawrot_lewy
+0785 120 prostuj 
+0845 5_lewy smialo
+0915 shamuj_  4_lewy
+1015 120
+1090 6_lewy_ do 6_prawy
+1150 50 6_prawy_ hamuj_ 2_lewy
+1355 50 2_lewy
+1450 150
+1530 nie_spiesz_ 5_prawy
+1590 40 shamuj_ nawrot_prawy
+1720 20 2_prawy_ do 2+_lewy_ zahacz
+1800 100
+1840 5_lewy  przytnij  do 6_prawy 120
+2015 hamowanie nawrot_prawy dlugi
+2180 100
+2215 3_lewy  podbija do 4_prawy
+2345 hamowanie hak_lewy
+2440 6_prawy
+2500 hamowanie nawrot_prawy
+2575 40 hak_lewy
+2640 prostuj
+2670 3_lewy  do 3_prawy_ dlugi
+2830 szczyt_prawa potem_ 5_lewy do 3_prawy nie_tnij
+3050 do_  5_lewy
+3100 3_lewy pozny nie_wypuszczaj
+3200 hamuj_ nawrot_lewy
+3270 do nawrot_prawy pozny_
+3335 do nawrot_lewy _dluzszy
+3380 do nawrot_prawy przyciac przechodzi_w_ hak_lewy
+3445 200 prostuj
+3565 shamuj_ 3_prawy dlugi zacisk
+3635 hamowanie nawrot_lewy
+3765 3_prawy_  przytnij_wyjscie
+3785 6_lewy_  podwojny smialo
+3835 hamowanie  za_szczytem_ nawrot_lewy
+3955 5_prawy_ zacisk  do 3
+4040 40 6_lewy
+4090 hamowanie  2_lewy do 2_prawy
+4230 50 3_prawy nie_tnij wypusc
+4305 4_prawy zacisk_do_ 2 zajebiscie_ dlugi
+4525 60
+4540 hamowanie hak_lewy
+4620 80
+4635 hamowanie 2_prawy
+4705 2_prawy
+4760 90 7_lewy_
+4855 shamuj_ nawrot_lewy pozny do hak_prawy
+4975 6_lewy_ zacisk
+5070 100 shamuj_ do 2+_prawy
+5185 6_lewy_ zajebiscie_ dlugi smialo
+5320 hamowanie hak_lewy
+5460 150 5_prawy przyciac potem_ szczyt smialo lewa
+5630 200 przez_  podwojny szczyt 
+5830 5_prawy
+5945 120 shamuj_ 5_lewy
+6080 prostuj 80 hamowanie nawrot_prawy przytnij _wyjscie
+6210 30 nawrot_lewy _dluzszy
+6315 30  nawrot_prawy przez_ mostek
+6390 50 nawrot_lewy
+6465 50 5_prawy zacisk_do_2 przez_ mostek
+6605 prostuj potem_ 4_prawy
+6655 shamuj 3_lewy
+6725  5_lewy _dluzszy
+6780 50 3_prawy zahacz
+6880 30 4_lewy
+6960 70  5_lewy do 4+_prawy
+7100 shamuj_50 do 3_lewy
+7210 80 shamuj 3_prawy przechodzi_w_  5_lewy
+7345 90
+7370  hamuj_ nawrot_prawy do 2_prawy
+7480 40 3_prawy do 3_lewy
+7570 6_prawy dlugi zacisk
+7605 shamuj  3_lewy
+7680 70 6_prawy smialo i 80
+7800 shamuj 3_lewy zahacz
+7890 3_prawy _dluzszy
+7960 30 hamowanie hak_lewy
+8020 4_lewy
+8050 shamuj 3_prawy zahacz
+8100 hamuj_ nawrot lewy
+8190 6_prawy
+8210 50 2_prawy nie_ciac
+8290 150 prostuj smialo
+8380  shamuj_50 2_lewy 
+8445  2_prawy nie_ciac _kamien
+8480 50_ 5_prawy
+8565 hamowanie nawrot_lewy
+8650 70 2_prawy zahacz
+8750  30 nawrot_lewy
+8795 6_prawy zacisk_do_3 przechodzi_w_ 2_lewy
+8882 70 2_lewy  za_znakiem_
+8990 nawrot_prawy podwojny zajebiscie_ dlugi
+9080 7_prawy 5_lewy dlugi zacisk
+9230 hamowanie  2_prawy
+9295 50 hamowanie nawrot_prawy _otwarty
+9370  6_prawy do 5_lewy  nie_spiesz_ przechodzi_w_ 4_prawy  i 4_lewy
+9570 50 4_prawy
+9645 50 hamowanie hak_lewy
+9725 3_prawy
+9780 4_lewy
+9800  6_prawy przez_szczyt
+9865 hamuj_50_ nawrot_lewy dlugi
+9950 5_prawy zacisk do nawrot prawy
+10045  30  hak_lewy pozny do nawrot_prawy
+10160 80 hamowanie nawrot_lewy
+10295 70 prostuj
+10320 shamuj 3_lewy zahacz
+10400 30 shamuj 2_prawy
+10475 6_lewy do 5_prawy
+10525 shamuj za_szczytem_10 2_prawy
+10645 6_lewy 5_prawy
+10740 hamuj_50_ 3_lewy nie_ciac 4_prawy lotna 2_lewy 3_prawy 4+_lewy
+11140 4_prawy_ i _stop

@@ -1,0 +1,26 @@
+#Humalamaki
+0 150 od_szczytu_ 6_prawy otwarty smialo 200
+250 od_szczytu_ hamowanie slisko 6_lewy zacisk
+350 do nie_tnij pozny_ 3_lewy otwarty wyjscie_szczytem zostan 50
+580 pozny_ 4_prawy dlugi otwarty nie_wypuszczaj
+830 do 6_lewy zostan wyjscie_hopa 50
+980 7_lewy _dluzszy _szczytem zostan smialo
+1180 do 7_prawy smialo nie_tnij 150
+1350 za_szczytem_ shamuj 100
+1450 nie_tnij krotki 5_lewy _wypusc 40
+1600 od_szczytu_ prawa 6_prawy widac_ 300 
+1950 od_szczytu_ shamuj_50 
+2000 nie_tnij 4_prawy krotki 50
+2200 wczesnie_ 4_lewy_ minus _ciac nie_wypuszczaj 100
+2400 ostroznie hopa 50 szczyt 70 ostroznie hopa 100 shamuj
+2500 od_szczytu_ nie_tnij 4_prawy odkleja spadanie _na_wyjsciu 70
+2800 od_szczytu_ 4_prawy odkleja pozniej_ 70 shamuj
+3000 ciasny_ 3_lewy_ krotki _ciac 40
+3150 przytnij _szczytem 4_prawy krotki
+3230 od_szczytu_ 6_lewy zostan wyjscie_hopa
+3450 shamuj_ hopa_prawa krotka na_szczyt prawa 40 od_szczytu_  4_prawy krotki odkleja
+3600 szczyt_lewa smialo 200
+3780 4_lewy wyjscie_hopa otwarty nie_tnij 200
+4120 za_szczytem_ shamuj_50 i od_szczytu_ 5_lewy otwarty _na_spadaniu 50
+4390 5_prawy_ minus
+4600 lotna

@@ -1,0 +1,60 @@
+# Diamond Creek II
+-5 150 
+50 za_szczytem_ 4_lewy
+180 szczyt_prawa
+230 120 6_prawy
+350 50 na_szczyt lewa
+430 prostuj 70 szczyt_prawa max
+520 100 szczyt odkleja shamuj
+620 70 od_szczytu_ odkleja 5_prawy _dluzszy otwarty
+860 wypusc do krotki 5_lewy
+960 100 szczyt_prawa max
+1060 200 za_drugim_szczytem_ 50 od_szczytu_ krotki 6_prawy odkleja
+1350 100 krotki 7_lewy _szczytem mocno_ odkleja
+1500 80 przytnij 5_lewy wyjscie_szczytem
+1680 30 ciasno 4_prawy
+1820 do 5_lewy
+1900 od_szczytu_ przechodzi_w_ 7_prawy
+2000 200 prostuj
+2150 4_lewy
+2250 70 od_szczytu_ 5_lewy
+2300 przechodzi_w_ 4_prawy
+2450 100 za_szczytem_20 4_lewy
+2670 30 7_lewy krotki
+2730 do szczyt_prawa
+2790 50 6_prawy
+2880 do 6_lewy krotki
+2970 100 szczyt_prawa max
+3030 150 szczyt_lewa ostroznie odkleja
+3250 30 za_szczytem_ 5_prawy wyjscie_szczytem
+3400 do 7_lewy
+3480 80 szczyt i ostroznie _w_siodle i szczyt prawa odkleja
+3570 30 szczyt_prawa shamuj
+3650 od_szczytu_ zostan 4_prawy krotki odkleja
+3850 pozniej_ spadanie 150
+4000 pozny_ 4_lewy zostan mocno_ odkleja _na_wyjsciu spadanie
+4200 100 krotki 5_lewy plus
+4300 krotka i 5_prawy _wyjscie max
+4400 pozniej_ 7_lewy
+4450 100 szczyt_prawa przechodzi_w_ 7_prawy smialo
+4600 widac_ 100
+4700 4+_prawy zostan 
+4840 do 7_lewy
+4950 30 od_szczytu_ 6_prawy odkleja
+5100 widac_ 150
+5200 od_szczytu_ 20 3_lewy plus wyjscie_szczytem max
+5500 widac_ 300 prostuj
+5600 szczyt przy_drzewku_ lewa
+5700 100 za_szczytem_ 5_prawy zacisk
+6080 30 3_lewy zacisk
+6250 30 4_prawy
+6350 20 szczyt_prawa 
+6400 pozniej_ 10 i 4_prawy _dluzszy zostan za_drugim_szczytem_ _wyjscie
+6500 do 7_lewy dlugi 
+6650 szczyt potrojny przechodzi_w_ 4_prawy dlugi otwarty 
+7050 lotna
+7100 150
+
+
+
+

@@ -1,0 +1,80 @@
+# Hradek 2
+
+0 70_ _prostuj
+5 _na_asfalt 
+15 przyciac_ 2+_lewy
+60 do ciac_ 4_prawy
+80 i ciac_ 5_prawy_ przez_szczyt
+100 do 5_lewy
+110 hopa i 3_lewy
+290 za_szczytem_ nie_ciac 2_lewy_ nie_wypuszczaj
+340 i szerzej_ hak_prawy
+435 6_prawy
+440 50 _tylko_przyciac 4_lewy_ _na_szuter
+540 100 _prostuj
+590 za_drugim_szczytem_ hak_lewy
+740 za_szczytem_ 5_lewy
+810 za_szczytem_ nie_ciac 4_prawy
+850 do przytnij 4_lewy
+900 do przytnij 5_prawy
+1000 80 przytnij 3_lewy_ krotki _na_asfalt
+1140 50
+1170 przytnij 5_prawy_ dlugi zostan
+1200 _z_drogi
+1300 4_lewy_ zacisk pozny
+1320 za_szczytem_ 70
+1370 5_prawy_ _szczytem _nie_spiesz
+1500 shamuj_ krotki 4_prawy
+1520 i 3_lewy
+1680 do 5_prawy
+1730 100 _prostuj
+1790 6_prawy_ wyjscie_hopa
+1800 60 _prostuj 5_prawy_ shamuj
+1910 pozny_ 2_lewy_ _otwarty
+2110 do przyciac krotki 5_lewy
+2120 100 _prostuj
+2140 od_szczytu_ przytnij 5_prawy_ _z_uwaga
+2160 za_szczytem_ odkleja 4_lewy_ nie_ciac
+2170 80 wczesnie_ hak_prawy _na_asfalt
+2545 za_szczytem_ 3_lewy_ nawrot negat
+2630 do przytnij krotki 5_prawy
+2680 do 3_lewy_ nie_wypuszczaj
+2720 i 4_prawy_ shamuj_
+2760 przytnij 2_prawy_ i przytnij 2+_lewy_ na_mostek
+2910 50 2_lewy_ _ciasny
+3000 do 5_prawy_ dlugi wyjscie_hopa
+3030 ostroznie hopa
+3050 40 hopa
+3070 mostek i krotki 5_prawy
+3090 i 4_lewy
+3200 i przytnij 6_prawy
+3310 za_szczytem_50
+3330 za_szczytem_ ciac_ 4_lewy_ podbija
+3600 6_lewy_ przytnij
+3680 80 shamuj przytnij 2_prawy_ przez_garb wypusc
+3850 przytnij 6_lewy_ przy_slupie
+3870 60 przytnij 6_prawy
+3950 40 3_lewy_ zacisk_do_2
+4120 50 przytnij 4_prawy_ wyjscie_szczytem
+4230 80 5_prawy_ _szczytem
+4300 60 6_lewy_ _z_uwaga
+4400 80 3_lewy_ przytnij
+4500 i przytnij 5_prawy
+4600 za_szczytem_ przytnij 5_lewy
+4650 70 hak_prawy slisko
+4830 70_prostuj
+4860 3_lewy_ ciasno
+4870 40 3_prawy_ krotki przez_garb _przy_oponach
+5000 do 4_lewy_
+5030 do 6_prawy
+5130 70 shamuj 6_lewy_ do hak_prawy
+5370 i 2_lewy
+5400 50 prawa
+5430 2_lewy_ _ciasny
+5470 za_szczytem_ przytnij 2_lewy_ _pod_wiadukt
+5600 za_szczytem_ 2_prawy_ _na_asfalt
+5665 60
+5690 szczyt_prawa za_drugim_szczytem_ widac_ 3_lewy_ _na_szuter
+5850 2_lewy_ zostan i 3_prawy
+6000 lotna
+#koniec odcinka

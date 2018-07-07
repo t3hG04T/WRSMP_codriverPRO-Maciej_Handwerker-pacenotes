@@ -1,0 +1,69 @@
+# Liptakov 1
+
+0 3_prawy
+20 szczyt_lewa
+50 hak_lewy _na_asfalt
+120 40 2_prawy 
+140 do przytnij 3_lewy
+160 do 5_prawy_ zacisk przy_drzewie przytnij
+240 do 5_prawy
+290 do przytnij szczyt_lewa
+330 shamuj_50 3_lewy_ za_barierke nie_wypuszczaj
+540 wypusc 4_prawy shamuj_ 2_prawy_ _za_slup
+650 60 _ciasny 3_prawy przyciac_
+720 7_lewy_ shamuj_ nawrot_lewy syf
+860 70_prostuj
+900 przyciac_ 5_prawy_ _dluzszy
+930 40 _prostuj shamuj_ 2+_prawy_ nie_wypuszczaj row
+1080 6_prawy_ podbija
+1100 70 od_szczytu_ 5_lewy_ minus odkleja
+1210 50 od_szczytu_ 4_lewy_ minus odkleja zostan
+1410 2+_prawy_ podwojny
+1530 przyciac_ 6_lewy
+1570 70
+1600 6_prawy_ przy_slupie
+1670 80
+1710 hopa shamuj_ 70
+1800 3_prawy_ podwojny
+1990 przytnij
+2060 40 6_lewy
+2130 za_szczytem_ 2_lewy_ lekki_zacisk
+2260 50 
+2340 6_prawy_ na_szczyt przytnij
+2400 do przytnij 6_lewy_ _szczytem _dluzszy
+2510 przytnij 6_prawy
+2560 do 5_lewy_ odkleja
+2660 shamuj_40 3_prawy_ zacisk i hak_lewy _na_szuter
+2960 3_prawy max
+2980 50_prostuj
+3010 za_szczytem_ lewa i 2_lewy
+3100 przytnij od_szczytu_ 5_lewy
+3130 do 4_prawy_ _nie_spiesz
+3150 _tylko_przyciac 3_prawy_ _na_asfalt
+3240 50_prostuj ciac_ 6_prawy
+3340 100
+3370 3_prawy_ nawrot lekki_zacisk
+3570 do 7_prawy_ podwojny
+3600 do 4_lewy_ plus _pod_wiadukt
+3710 potem_ 7_prawy_ do 5_prawy_ ciac_ znak
+3840 za_szczytem_ 70 6_lewy
+3900 40 krotki 6_lewy_ i 4_prawy_ przytnij _wyjscie
+4050 do 4_lewy _dluzszy
+4260 do 6_prawy_ wypusc
+4280 szykana_od_lewej
+4470 do 6_prawy przytnij
+4530 100 
+4580 7_lewy
+4620 120 
+4670 ostroznie 6_prawy_ shamuj_40 2_prawy_ _za_slup
+5010 od_szczytu_ 6_prawy
+5040 50_prostuj pozny_ 2_lewy_ _na_szuter
+5120 do 5_lewy_ shamuj hak_prawy _ciasny
+5205 do przytnij_6_lewy_ wyjscie_szczytem prawa
+5350 40 przytnij 4_lewy_prawy zostan
+5540 50 6_lewy_ shamuj_ i szykana_od_lewej
+5740 do przytnij 6_prawy
+5840 80 lewa
+5850 hak_prawy _na_szuter
+6000 lotna
+#kóniec

@@ -1,0 +1,42 @@
+#Sweet Lamb II
+0 5_lewy_ _wybija_ i 2_prawy _ciasny _podwojny
+140 nawrot_lewy nie_tnij
+190 krotka na_szczyt
+210 za_drugim_szczytem_ 5_lewy_ nie_tnij
+300 100 _podbija_ 7_lewy_ _podwojny
+400 150
+500 5_lewy_ _wybija
+600 60 7_prawy_ podwojny
+700 hamowanie nawrot_prawy nie_tnij
+970 wybija 7_lewy_ i 6_lewy_ _dluzszy
+1010 4_prawy_ nie_tnij
+1100 100 prostuj 
+1140 ostroznie _wybija_ i 2_lewy_ dlugi samp
+1470 300 smialo przez_szczyt
+1650 6_prawy_ przez_szczyt
+1700 4_lewy_ _podwojny _wybija
+1840 krotka szczyt_lewa
+1850 7_lewy_ przez_szczyt shamuj_ ostroznie 2_lewy_ bardzo_wybija
+2180 4_lewy
+2280 150 6_prawy
+2370 150 7_lewy
+2440 shamuj_ 5_lewy_ przechodzi_w_ 4 _z_uwaga nawrot_prawy nie_tnij
+2870 6_prawy_ przechodzi_w_ 5 _podbija negat
+2910 bardzo _ostroznie  ciasno 4_lewy_prawy
+2960 krotka _wybija_ _ostroznie 4_lewy na_mostek
+3110 przez_szczyt smialo
+3160 200 prostuj _wybija
+3300 4_lewy_ _wybija
+3380 ostroznie 5_lewy_ bardzo _wybija
+3450 hamowanie _wybija_ 2_lewy
+3640 2+_prawy_  _pozny_ bardzo dlugi _wybija
+3830 krotka i 3_lewy_ _wybija
+3920 szczyt_lewa
+3980 300 prostuj
+4160 za_szczytem_ 5_prawy
+4210 krotka i hamowanie do 2_prawy_ dlugi _wybija
+4500 100 prawa _wybija na_szczyt
+4580 za_szczytem_30 4_lewy_prawy
+4700 2_lewy_ _podwojny nie_tnij
+4850 6_prawy_ lewy krotka
+4890 i 6_prawy_ lewy lotna

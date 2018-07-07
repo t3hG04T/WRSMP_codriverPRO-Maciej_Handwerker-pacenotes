@@ -1,0 +1,11 @@
+# Lyon - Gerland
+0 70 ciasny_ 2_lewy
+110 200 lewa
+125 hak_prawy szeroko
+310 200 
+320 2_lewy ciasny_ i 3_lewy krotki 50
+510 6_prawy 70
+550 szykana_od_prawej przy_slupie ciasno 200
+595 2_prawy 50
+800 lotna
+870 _stop

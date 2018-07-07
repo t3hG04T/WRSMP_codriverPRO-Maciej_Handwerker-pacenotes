@@ -1,0 +1,70 @@
+# Shomaru Pass
+-5 6_prawy do minus 5_lewy 50
+80 1_lewy_ ciasno 30
+130 krzakiem_ 4_lewy_prawy krotki 40
+200 4_lewy 30
+250 5_prawy zacisk_do_3 50 lewa 
+390 6_prawy_ hamuj_ 2_lewy ciasny_ 20
+480 5_prawy krotki do 3_lewy 30
+560 2_prawy otwarty 50
+650 3_lewy dlugi otwarty 30
+770 2+_prawy dlugi
+870 od_szczytu_ 3+_lewy 20
+960 3_prawy _krotki i pozny_ 3_lewy otwarty
+1060 2+_prawy otwarty 20
+1130 4_lewy _dluzszy zacisk_do_3 50
+1270 minus 4_prawy_ lekki_zacisk
+1350 5_lewy_ prawy zostan
+1450 za_szczytem_ 3_lewy zacisk garb
+1550 do 3+_prawy podwojny
+1650 3+_lewy _dluzszy
+1710 2_prawy 20 i 1_prawy
+1820 2_lewy_ _krotki 40
+1860 3_prawy 20
+1880 nawrot_lewy 20
+1950 2+_prawy podwojny widac_ zostan
+2000 do nawrot_lewy 50
+2060 4_prawy krotki do bardzo dlugi 3_lewy zacisk _nie_wypuszczaj
+2240 4_prawy zacisk_do_2
+2360 3_lewy_ zacisk _dluzszy _nie_wypuszczaj 50
+2450 3_prawy krotki do
+2480 smialo minus 4_lewy_ _podwojny _dluzszy
+2580 2_prawy 30
+2685 3_lewy  krotki
+2710 2_prawy _dluzszy 20
+2760 2_lewy
+2820 3_prawy_ i 3_lewy
+2850 6_prawy_ do 2+_lewy dlugi 50
+3000 2_prawy nawrot 50
+3090 3+_lewy _dluzszy do 2_prawy nawrot 30
+3210 smialo 5_lewy
+3240 shamuj szczyt_prawa i 5_lewy_ zacisk_do_ 4
+3340 do 3_prawy ciasny_ prostuj 70
+3470 2_lewy 
+3560 2_prawy za_baner zahacz 40
+3600 2+_lewy zacisk
+3650 4_prawy_ _krotki 30
+3690 2_lewy_ _ciasny
+3740 3_prawy
+3820 za_szczytem_ 20 2_lewy_ _krotki
+3890 3_prawy podwojny 40
+3940 4_prawy do 1_lewy podwojny
+4080 5_prawy krzakiem_ 70
+4100 krotki 4_prawy_ minus samp
+4190 3_prawy 70
+4260 minus 5_lewy_ zacisk_do_3
+4430 minus 4_lewy_ i 4_lewy_ _podbija
+4540 prawy i shamuj krotki 2_lewy 50
+4660 2+_prawy 40
+4755 3+_lewy 30 
+4830 3+_lewy _prawy _krotki _ciasny
+4940 2_lewy do krotki 3_prawy podwojny 20
+5020 4_lewy 30 2_prawy_ _dluzszy
+5130 70 lewa 5_prawy krotki hamowanie 30
+5170 2_lewy 40
+5280 smialo 5_lewy_ minus 80
+5310 wczesnie_ hamuj_ 3_prawy_ zacisk_do_2
+5540 3+_lewy zacisk
+5680 2_prawy
+5740 lotna
+5860 _stop

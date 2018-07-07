@@ -1,0 +1,63 @@
+# Kuadonvaara
+-0020 6_prawy_ 30_ 4_prawy
+0030 120
+0105 5_prawy
+0175 150
+0247  hamowanie 5_prawy 50_ 2_lewy _z_drogi
+0350 200
+0564 6_lewy
+0648 shamuj_ 5_lewy_ hopa
+0770 90 4_prawy_ pozny
+0890 200
+1047 shamuj_ 5_lewy_ do 2_prawy_ na_glowna
+1193 400
+1584 5_lewy _w_siodle _dluzszy
+1700 50_ 4_prawy
+1790 70_ 2_lewy _z_drogi
+1860 90
+1912 7_lewy_ 250
+2127 6_lewy_ przez_szczyt
+2190 70_ hopa_lewa
+2272 150
+2393 shamuj_ 5_prawy
+2480 200
+2600 6_prawy
+2685 50_ 5_prawy
+2743 150
+2824 hamuj_ 2_prawy _z_drogi
+2930 prawy do 7_lewy _dluzszy
+2992 90
+3035 3_prawy _szczytem
+3100 70
+3143  5_lewy_ do 4_lewy_ zacisk dlugi
+3290 100
+3355 6_prawy_ 300
+3608 shamuj 3_lewy_ przez_szczyt wybija za_szczytem_ 100
+3812 5_prawy
+3865 100
+3930 6_lewy_ zajebiscie_ dlugi lekki_zacisk
+4100 6_prawy przez_szczyt 100
+4276 4_lewy_ dlugi zacisk
+4414 150
+4505 5_prawy _szczytem 120
+4650 6_lewy
+4720 90
+4765 shamuj_ 4_prawy_ zacisk do 2 wybija
+4887 90
+4926 shamuj_ 3_lewy slisko
+4990 40 6_prawy _szczytem
+5045 60 5_prawy
+5100 60 5_lewy_ przez_szczyt
+5190 100
+5230 5_prawy_ przez_ hopa
+5300 hamowanie slisko 2_prawy_ do hak_lewy
+5410 lewy _w_gore
+5428 5_lewy 50
+5460 3_prawy_ dlugi zacisk do 2
+5540 hak_lewy _w_gore
+5597 3_prawy 50
+5643 nawrot_prawy przez_garb
+5690 2_lewy 100 prostuj
+5788 hamuj_ hak_prawy slisko
+5850 50 3_lewy 
+5918 lotna 100 _do_mety_stop

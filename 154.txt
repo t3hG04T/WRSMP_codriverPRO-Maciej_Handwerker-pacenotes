@@ -1,0 +1,51 @@
+# Bruchsal-Unteroewisheim
+0  30 hak_lewy ciasny_ 50
+50 1_prawy _na_szuter nie_tnij do 2_lewy zacisk 
+110 prostuj prawy_lewy od_szczytu_
+125 2_lewy prawy _w_belach _na_asfalt 40
+225 nie_tnij 5_lewy krotki 200
+300 krotki 6_lewy na_szczyt 200
+430 od_szczytu_ 6_prawy ciasny_ 250
+650 przy _drzewach 6_lewy hamowanie szykana_od_lewej _w_belach ciasno
+1040 50 1_prawy_ plus przytnij podbija 30
+1100 3_lewy dlugi zostan
+1200 _bale 1_prawy _z_drogi nie_tnij _kamien 200
+1350 2_lewy _z_drogi ciasno 250
+1580 szykana_od_prawej _w_belach ciasno
+1800 7_prawy 500  podbija
+2250 hamowanie widac_ _bale 1_prawy plus przytnij podbija
+2600 7_lewy 100
+2750 6_prawy 70 shamuj
+2840 5_lewy krotki wyjscie_hopa ciasno 150
+3100 6_prawy krotki 70 shamuj
+3150 krotka szykana_od_lewej _w_belach shamuj_30 i 1_prawy _z_drogi
+3370 4_lewy krotki 100
+3450 6_prawy _dluzszy 150
+3550 6_lewy dlugi zostan podbija ciasno 100
+3850 6_prawy minus _dluzszy negat 150
+4100 7_lewy 70
+4200 _szczytem 6_lewy do pozny_ 5_prawy podbija 150
+4500 1_prawy _z_drogi _przy_drzewach 150 
+4800_przy_drzewach za_szczytem_ 1_prawy _z_drogi _na_szuter
+5000 dlugi 6_lewy podbija 50
+5100 nie_tnij 1_lewy _bale ciasno _na_asfalt
+5310  prostuj 250 1_prawy _z_drogi ciasno 100
+5600 krotki 6_lewy  
+5660 500 podbija
+5900 _przy_drzewach krotki 6_prawy ciasny_ podbija 300
+6150 _przy_drzewach spadanie podbija 1_prawy syf slisko
+6580 na_szczyt lewa 150
+6600 6_prawy krotki 70 shamuj
+6700 krotka szykana_od_lewej _w_belach smialo 150 prostuj
+6900 7_lewy 70
+7000 6_prawy minus 50
+7270 3_lewy _dluzszy zacisk 30
+7320 1_lewy _z_drogi 
+7500 szczyt_prawa 30 zajebiscie_ ciasno
+7540 4_lewy krotka i 5_prawy krotki 50 6_lewy 70 hamowanie
+7590 1_prawy ciasny_ nie_tnij 50
+7700 2_lewy otwarty 200
+7890  przy_drzewie 6_lewy shamuj_50 do 1_prawy _z_drogi
+8235 _bale prawa _na_szuter shamuj_40 1_lewy
+8360 3_prawy 
+8400 lotna

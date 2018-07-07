@@ -1,0 +1,51 @@
+# RP 2009 Shakedown reversed
+0 200 podbija
+50 7_lewy 70 wybija przy_drzewku_ prawa shamuj 
+170 do 4_lewy zacisk _szczytem odkleja 40
+320 4_prawy minus krotki podbija 50
+400 krotki 7_prawy do 6_lewy otwarty 40
+550 minus 6_prawy zacisk 70
+720 za_szczytem_ 7_lewy 100 podbija
+830 hamuj_ pozny_ hak_prawy nie_tnij 30
+1090 ciasno 3_lewy krotki 
+1120 przechodzi_w_ 5_lewy zostan
+1150 i ciasny_ 4_prawy krotki do 5_lewy krotki podwojny podbija 70
+1350 7_prawy 70
+1450 za_szczytem_20 7_prawy _dluzszy _przy_drzewach shamuj
+1570 krotki 3_lewy ciasny_ 40
+1800 do zostan 5_prawy shamuj 
+1860 do minus 2_lewy nie_tnij 20
+2000 2_lewy_ _dluzszy 100
+2090 podbija 80 
+2120 przytnij_row 3_lewy krotka
+2170 i 2_prawy_ otwarty 30
+2350 szczyt_lewa podbija 30
+2400 4_prawy podwojny wyjscie_hopa shamuj ciasno
+2450 pozny_ 3_lewy minus nie_wypuszczaj 30
+2620 szczyt_lewa 70 ciasno
+2690 3_prawy plus
+2750 70 prostuj shamuj 2_lewy minus negat
+2870 30 5_prawy podbija
+2940 szczyt_prawa smialo 40
+3020 pozniej_ 6_lewy
+3050 przechodzi_w_ krotki 4_prawy _szczytem odkleja
+3170 do 5_lewy krotki
+3220 do od_szczytu_ 5_prawy
+3270 krotka i 4_lewy_ krotki
+3350 garb i 4_prawy zacisk 40
+3500 6_lewy wybija 30
+3580 5_prawy shamuj_30
+3620 zostan 4_lewy zacisk 30  
+3670 3_prawy plus podbija 20
+3850 4_lewy 30
+3900 3_prawy 30
+3960 pozny_ 3_lewy zostan samp 30
+4010 od_szczytu_ 3_lewy krotki odkleja 30
+4110 2+_prawy_ zacisk zostan 30
+4180 do otwarty hak_lewy negat slisko 30
+4250 6_prawy zacisk shamuj
+4280 do hak_prawy_zostan
+4370 od_szczytu_ widac_ 4_prawy 40
+4410 do 4_lewy 30 
+4550 lotna
+4560 150

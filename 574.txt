@@ -1,0 +1,132 @@
+#Sorica
+0 90  prostuj  
+10 do krotki 4_prawy_ 50
+30 4_lewy krotki
+50 40  3_prawy 60
+100 nawrot_lewy _dluzszy
+185 nawrot_prawy  40
+290 4+_prawy  50
+320 nawrot_lewy _dluzszy  60
+390 5_lewy_ do nawrot_prawy 40
+505 5_lewy do 3_prawy_ przyciac 60
+570 prostuj  i minus 3_prawy_ zostan samp 
+670 do  4_prawy_ do 3_lewy_ _dluzszy
+780 do 2+_prawy_ nie_ciac
+860 do  2_lewy_ dlugi
+1000 60  max lewy
+1020  80 3_prawy_ zostan do 4+_lewy
+1170  70  5_prawy_ _dluzszy 60
+1250  krotki 5_lewy_ do 4_prawy_ zacisk_do_2 przytnij_wyjscie
+1480 2_lewy_ minus 40
+1530 2_prawy_ zahacz  zostan 30
+1560 3_lewy_ prawy_lewy 
+1640 4_prawy_ _dluzszy zostan przyciac 40
+1720  2_lewy_ dlugi 60
+1870 5_lewy 50
+1890 5_lewy 30  4_prawy_ do od_tasm_ ciasny_  2_prawy
+2050 do 3_lewy_ do 2+_prawy ciasny_
+2140 do 4_lewy_ zostan do  2_prawy
+2220 do 2_lewy_ _dluzszy 40
+2310 4+_prawy zostan 30
+2360 5_lewy_ smialo
+2430 200
+2470 ostroznie shamuj_ bardzo_wybija  5_lewy_ krotki do 4_prawy
+2680 3_lewy_ do 3_prawy_ przyciac 50
+2780 2_prawy_ z_uwaga_ 
+2875 prostuj 70
+2920 2+_prawy_ nie_ciac
+2970 do 4_lewy 40
+3020 4+_lewy _krotki do 5_prawy 80
+3120  4_lewy_ _dluzszy 70
+3250  5_prawy_ i minus lewy 60
+3330  krotki 6_prawy_ zacisk_do_2 ciac_ _wyjscie 80
+3485  prostuj do  6_prawy_ _szczytem  shamuj_30
+3540 pozny 2_lewy 60
+3740  4_prawy_ przyciac_ zostan
+3770 do wczesnie_ 3_lewy_ 80
+3850  szczyt_lewa 50
+3890  5_prawy_ smialo 70
+3990 4_prawy_ do 3_lewy_ _dluzszy
+4230 200
+4250 7_prawy 100
+4320  5_lewy_ przechodzi_w_ ciac_ 5_prawy_ samp 60
+4510  podbija krotki 6_prawy_ 50
+4580  3_prawy  przechodzi_w_ 
+4685 pozny_ 5_lewy  zostan przy_murku 20
+4720  hamowanie 2_prawy
+4880 50  5_prawy
+4910  400
+5120  hamowanie widac_ szykana_od_lewej smialo
+5280 200
+5340  7_lewy
+5440  _przy_drzewach  hamowanie 3_lewy_ dlugi zacisk
+5680 120 spadanie 
+5745  nawrot_prawy _dluzszy
+5920  7_lewy
+5950 120 
+5980 hamuj_ 3_prawy_ minus
+6140 do lewy max 100
+6200  podbija hak_prawy _przy_oponach 40
+6340  6_lewy
+6370  2_lewy_ prawy _szczytem ostroznie
+6460 100  hamowanie hak_lewy otwarty
+6660  5_prawy_ do 6_lewy_  podwojny 
+6700 100 szczyt_prawa shamuj_ 5_prawy
+6800 do 4_lewy_ do 3_prawy 30
+6905 4_lewy_ do 5_prawy nie_spiesz_ 60
+7010 pozny 4_lewy_ do dlugi 5_prawy_ zacisk nie_ciac
+7200 do 4_lewy_  zacisk negat 90
+7340  4_prawy_ _przy_oponach do lewy max 50
+7490  ciasno 4_lewy_prawy lewy przez_ mostek
+7640  shamuj_ 4_lewy_ przez_szczyt zostan
+7720  4_prawy_   zacisk 50
+7800 6_lewy_ bardzo dlugi
+7900 zacisk przez_szczyt do 4+_prawy
+8100 do przyciac 5_lewy 60
+8195 minus 5_prawy_ _szczytem negat
+8240 5_lewy_ do minus prawy 40
+8345 3_lewy_ do 4_prawy_ lewy  
+8420 przechodzi_w_ 6_lewy_ _dluzszy
+8570 90 5_prawy _dluzszy podbija 60
+8780 7_lewy_ bardzo dlugi 80
+8930 6_prawy_ do shamuj_
+8940 4_lewy_prawy minus
+9220 do  4_lewy 60
+9245  5_prawy 100
+9360  6_lewy_ shamuj_50
+9420  2_prawy_ _na_glowna zahacz 
+9620  150
+9660  6_prawy_ do 4_lewy_ dlugi
+9900  3_prawy_ _dluzszy 60
+10010 _przy_oponach 4_lewy_ dlugi do 4+_prawy _dluzszy
+10200 60 krotki 5_lewy
+10320 5_prawy do lewy_prawy minus
+10440 6_lewy_ _dluzszy do 5_prawy_ minus
+10640 150
+10700 5_prawy_ lekki_zacisk do  5_lewy minus 60
+10900 4_prawy_ zostan do 4+_lewy otwarty dlugi
+11140 120 minus 5_prawy_ _szczytem nie_wypuszczaj _kamien
+11300 5_lewy_ 60
+11380 5_prawy_ do lewy_prawy
+11530 do  6_lewy_ 150
+11650 hamuj_ 5_lewy_ zostan do 3_prawy_ lekki_zacisk
+11950 60  przy_murku_  4+_lewy i 5_prawy
+12020 4_lewy_prawy _na_wyjsciu zacisk
+12170 5_lewy_ prawy mostek 60 shamuj 3+_lewy samp
+12405  prostuj 60  4_prawy_ lewy_prawy
+12620  _bale i  7_prawy_ dlugi
+12800 80 6_lewy_ krotki 80
+12900  7_prawy_ 80
+12980  5_lewy_ do
+13010  6_prawy_ 120
+13200  widac_ szykana_od_lewej smialo 120
+13460  5_prawy_ do dlugi lewy
+13610 100 minus 5_prawy_ do 4+_lewy
+13880 100  7_lewy_ i wybija hamowanie szykana_od_lewej
+14120 70  7_prawy_ _szczytem 150
+14300  6_lewy_ prostuj
+14380  4+_prawy_ _dluzszy
+14570  6_lewy_ do 5_prawy 80
+14700  4_lewy_prawy 60
+14820  4_lewy_ _szczytem przechodzi_w_ 5_prawy
+14920  lotna

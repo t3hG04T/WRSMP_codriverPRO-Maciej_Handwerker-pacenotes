@@ -1,0 +1,65 @@
+# Greenhills
+0 6_prawy 
+10 za_szczytem_ zacisk do 4_prawy zostan wyjscie_szczytem lewa
+140 shamuj_30 do 2_lewy podbija 70
+200 2_prawy _dluzszy nie_wypuszczaj
+400 widac_ 120 prostuj
+480 nie_tnij 4_lewy wyjscie_szczytem odkleja 40
+600 nie_tnij 3_lewy_ samp _na_wyjsciu szczyt_lewa 40
+700 ostroznie woda do 2_prawy_ nie_tnij 
+800 szczyt_prawa pozniej_ krotki 4_lewy
+880 do 4_prawy krotka
+970 do 5_lewy przyciac
+1050 do 5_prawy szczyt_prawa 40
+1100 pozniej_ szczyt_lewa 100 hamowanie
+1240 2_lewy _z_drogi zahacz 40
+1400 od_szczytu_ 4_lewy 60
+1430 szczyt_prawa 80
+1500 hamowanie 2_lewy _z_drogi 50
+1700 3_prawy przytnij 150
+1780 4_prawy shamuj
+1900 do od_szczytu_ 3_lewy negat 30
+2000 4_prawy wypusc
+2040 do ciac_ 4_lewy
+2090 do 4_prawy wyjscie_szczytem lewa 70
+2180 krotki 4_prawy lewy _ciac 30
+2310 4_lewy krotki 100 prostuj
+2420 przez_szczyt 5_lewy _dluzszy zacisk _ciac _wyjscie
+2600 3_prawy_ krotki max 40
+2720 lewa od_szczytu_ 6_lewy zajebiscie_ dlugi zostan
+2800 zacisk_do_3 _szczytem
+2900 do 4_prawy krotki
+2990 do 4_lewy dlugi 30
+3100 od_szczytu_ ciac_ krotki 3_prawy
+3200 do 4_lewy od_szczytu_  hamowanie 50
+3300 2_prawy_ wczesnie_ ciac_ 30
+3420 3_prawy _szczytem podwojny 50
+3510 od_szczytu_ krotki 4_prawy_ do 4_lewy minus
+3600 do 4_prawy
+3650 do 3_lewy
+3700 krotki 4_prawy zostan 20
+3780 krotki 3_lewy_ prawy 40
+3830 3_prawy 30
+3900 krotki 3_prawy lewy 40
+4010 3_prawy podwojny zostan
+4080 do 3_lewy spadanie woda i 5_prawy krotki 40
+4200 od_szczytu_ 4_lewy 200
+4350 4_lewy negat
+4450 5_prawy zacisk_do_3 przytnij
+4550 do 3_lewy _dluzszy 120
+4680 5_lewy smialo 30
+4780 5_prawy przytnij 150 za_szczytem_ 30
+4900 5_lewy 40
+5050 5_prawy 50
+5140 4_lewy _w_gore
+5200 do 5_prawy _szczytem 50
+5270 za_szczytem_ 5_lewy spadanie_ 120
+5450 _z_uwaga woda podbija
+5500 200 dlugi szczyt ostroznie
+5650 za_szczytem_ 5_lewy 
+5750 do ciac_ 6_prawy 200
+5840 200 na_szczyt lewa shamuj
+6080 lotna
+
+
+

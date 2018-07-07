@@ -1,0 +1,67 @@
+# Hualapai Nation
+-5 70 krotki 7_lewy
+80 40 7_prawy zacisk
+270 200 od_szczytu_ 7_prawy krotki
+330 30 6_lewy podbija
+520 100 podbija
+600 7_prawy shamuj
+680 za_szczytem_ do 4_prawy minus odkleja
+820 50 5_lewy
+950 300
+1200 za_szczytem_ 4_prawy
+1300 30 5_lewy
+1500 30 krotki 7_prawy
+1600 200 smialo
+1700 za_szczytem_ 70 shamuj 4_lewy plus
+1850 do 5_prawy_ otwarty
+1950 7_prawy _dluzszy
+2050 szczyt_prawa max
+2150 pozniej_ widac_ 7_prawy
+2250 300 szczyt
+2350 przy_drzewku_ szczyt_prawa
+2500 pozniej_ szczyt_lewa
+2600 prostuj 70 7_lewy bardzo dlugi ostroznie wybija _przy_drzewach
+2950 70 6_prawy smialo
+3100 150 6_lewy _szczytem odkleja
+3250 kaszel 400 prostuj 
+3500 szczyt_prawa shamuj_30 5_lewy
+3700 80 5_prawy dlugi otwarty
+3950 50 4_lewy
+4020 za_szczytem_50 3_prawy minus
+4150 szczyt_lewa
+4200 pozniej_ przy_drzewku_ 6_lewy krotki  od_tasm_ 3_lewy
+4450 krotka i 3_prawy negat
+4550 100 7_lewy
+4650 40 5_prawy_ od_szczytu_ przechodzi_w_ 6_prawy _dluzszy zacisk
+5000 30 5_lewy minus
+5150 200 7_lewy dlugi
+5300 przy_drzewku_ 6_lewy_ minus
+5600 za_szczytem_10 4_prawy negat minus przechodzi_w_ 7_prawy smialo
+5800 150 3_lewy minus nie_tnij
+6000 20 krotki 7_lewy przez_garb
+6050 80 za_szczytem_50 3_prawy minus zahacz
+6250 widac_ 6_lewy
+6350 szczyt_prawa 30
+6450 krotki 6_prawy _szczytem odkleja
+6550 400 max podbija
+6800 70 5_lewy do 6_prawy_ krotki
+7000 30 4_prawy
+7200 przechodzi_w_ 7_lewy
+7280 50 7_prawy_ _szczytem pozniej_ wypusc
+7550 30 7_lewy hopa 30 hopa
+7650 30 7_prawy bardzo dlugi zostan
+7750 hopa 200
+7950 pozniej_ za_hopa_ 30 zacisk
+8350 100 3_lewy zacisk
+8550 150
+8700 lotna 150 _do_mety_stop
+
+
+
+
+
+
+
+
+
+ 

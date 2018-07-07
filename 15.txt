@@ -1,0 +1,112 @@
+#Mustaselka II
+-5  40 shamuj
+10 2_prawy 
+30 do 2_lewy minus
+90 do 2+_prawy
+130 do 2+_lewy
+180 do 3_prawy samp prostuj 40
+220 5_lewy krotki shamuj_40
+270 1_prawy zahacz 30
+330 4_lewy 30 shamuj
+400 2+_prawy nie_tnij 20
+440 2_lewy_ minus zacisk 30
+490 3_prawy otwarty
+550 od_szczytu_ 5_lewy krotki
+620 4_prawy minus _szczytem zostan odkleja 20
+670 4_lewy minus _szczytem odkleja
+770 6_prawy _wypusc szczyt_lewa 30
+850 6_lewy krotki 50
+920 6_prawy wyjscie_szczytem 
+950 120
+1000 _przy_drzewach krotki 4_lewy prawy _ciac shamuj
+1130 do 2+_lewy
+1250 3_prawy_ plus shamuj
+1300 do 2_lewy podbija 20
+1400 _dluzszy 4_prawy zacisk 30
+1500 krotki 5_lewy
+1550 do 4+_prawy _dluzszy zostan
+1600 4_lewy podwojny
+1700 5_prawy _dluzszy przez_szczyt podwojny
+1800 4_lewy _dluzszy od_szczytu_ zacisk_do_3 50
+1900 krotki 5_prawy 60
+2050 shamuj 1_lewy
+2150 krotka i pozny_ 2_prawy minus 20
+2200 4_lewy shamuj_20
+2300 2+_prawy zacisk
+2350 5_lewy 30
+2400 przez_szczyt 30
+2430 krotki 4_lewy plus
+2440 do krotki 4_prawy
+2500 do 4_lewy na_szczyt
+2600 krotka i 5_prawy spadanie widac_ 120 
+2650 szczyt_lewa przytnij hamowanie ostroznie
+2700 i za_szczytem_ 3_prawy _dluzszy zacisk_do_2
+2840 dlugi 4_lewy shamuj_50
+2940 wczesnie_ 2+_lewy 50
+3100 4_lewy 30
+3200 4_prawy wyjscie_szczytem 30
+3300 5_lewy 50
+3380 szczyt_lewa 10 do
+3420 krotki 5_prawy 30
+3480 5_lewy _szczytem shamuj_30
+3570 krotki 4_prawy samp 30
+3680 1_prawy 100
+3760 4_prawy krotki przez_garb 40
+3880 1_lewy _ciasny 40
+3980 przytnij garb lewa 10
+4030 do 3_prawy minus
+4090 do 3_lewy 30
+4150 6_lewy prawy _szczytem ostroznie 
+4180 _dluzszy 4_lewy szczyt 
+4250 do 5_prawy lewy samp 50
+4300 od_szczytu_ 6_prawy lewy wybija 50
+4420 szczyt_prawa  _przy_drzewach 50
+4500 7_lewy 40 
+4550 hamowanie przy_drzewie 7_prawy do 5_lewy 20
+4630 i hak_prawy 30 
+4740 szczyt_prawa shamuj_20
+4780 do hak_lewy 
+4840 szczyt i 4_prawy
+4880 i 3_Lewy zahacz
+4920 i 5_prawy otwarty
+4980 7_prawy 100 shamuj
+5050 wybija 30
+5090 4+_prawy
+5130 do ciasno 3_lewy
+5180 do 3_prawy_ 100 prostuj podbija
+5250 6_lewy 70 shamuj za_drugim_szczytem_ 30
+5450 krotki 6_lewy prawy podbija krotka
+5550 6_lewy prawy podbija shamuj_40
+5600 3_lewy 50
+5650 4_lewy wybija 70
+5780 podwojny 6_lewy garb podbija
+5880 5_prawy krotki na_szczyt 30
+5950 z_uwaga_ od_szczytu_ 3_lewy nie_tnij
+6080 do 4_prawy prostuj 250
+6200 przy_drzewie shamuj_50 2_prawy minus
+6400 do 2_lewy minus 40
+6450 do 4_prawy
+6500 4_lewy _szczytem 30
+6550 i szczyt shamuj_20
+6600 3_prawy minus 30 podbija
+6700 3_prawy 4_lewy 20
+6810 7_prawy na_szczyt ostroznie wybija shamuj_30
+6860 od_szczytu_ krotki 5_lewy_ przy_drzewku_ 3_lewy
+7020 spadanie_ przez_garb 100
+7130 4_lewy 40
+7300 hopa_prawa
+7350 i 6_prawy 50
+7400 5_lewy_ 30 podbija
+7500 5_prawy_ podbija szczyt shamuj
+7580 3_prawy_ przez_szczyt
+7680 6_lewy
+7700 3_prawy_ podbija
+7750 4_lewy
+7800 4_lewy do 4_prawy
+7900 lotna 100
+
+7000 
+
+
+
+

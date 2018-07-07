@@ -1,0 +1,72 @@
+# Courcelles Val'd Esnoms
+-17 200
+130 4_prawy podbija
+210 150
+300 5_lewy
+360  200
+480 prawy_lewy prostuj
+565 200
+650 za_szczytem_ shamuj_ do 3+_prawy podbija
+790 120
+860 6_lewy_ 120
+1000 shamuj 4+_lewy 150
+1150 5_prawy_ potem_ shamuj do hak_lewy _za_bal
+1335 30_ 4_prawy_ 100
+1445 3_lewy_ odkleja
+1495 50_ 3_prawy_ zacisk do 1
+1590 100
+1655 shamuj 2_prawy odkleja
+1737 nawrot_lewy bardzo dlugi
+1800 250
+2015 shamuj 4_prawy_ do nawrot_lewy _dluzszy
+2180 30_ 4_prawy_ zacisk do 2 _z_drogi
+2275 150
+2375 6_lewy_ do 5_prawy podwojny
+2495 250
+2675 shamuj do hak_lewy przez_ garb
+2770 120
+2845 hamowanie do 2_lewy _na_szuter
+2900 200
+3055 6_prawy_ smialo 200
+3245 4_prawy _dluzszy
+3390 100
+3445 4+_lewy bardzo podbija
+3490 90
+3545 4_lewy do 4_prawy podbija
+3640 200 prostuj
+3780 5_lewy_ 100
+3895 shamuj_ do hak_lewy _na_asfalt
+3970 200 prostuj
+4100 mocno_ shamuj_ do hak_prawy
+4180 40 hak_lewy
+4220 200
+4365 szykana_od_prawej smialo
+4590 ciac_ 5_lewy_ do 6_prawy bardzo_wybija
+4775 mocno_ hamuj_ 2_lewy _za_bal do 3_prawy_ ciac_
+4940 100
+4980 shamuj 2_lewy_ na_glowna ciac_ _wyjscie
+5060 4_prawy podbija
+5125 150
+5190 5_lewy
+5220 200
+5350 prawy_lewy prostuj
+5370 200
+5490 za_szczytem_ shamuj_ do 3+_prawy podbija
+5700 120
+5720 6_lewy_ 120
+5875 shamuj 4+_lewy 150
+6020 5_prawy_ potem_ shamuj do hak_lewy _za_bal
+6205 30_ 4_prawy_ 100
+6300 3_lewy_ odkleja
+6330 50_ 3_prawy_ zacisk do 1
+6460 100
+6530 shamuj 2_prawy odkleja
+6620 nawrot_lewy bardzo dlugi
+6690 250
+6880 shamuj 4_prawy_ do nawrot_lewy _dluzszy
+7040 30_ 4_prawy_ otwarty
+7130 200
+7292 6_prawy_ 150 
+7390 shamuj szykana_od_prawej
+7490 400 przez_ 7_prawy_ dlugi
+7900 lotna i 100 _do_mety_stop

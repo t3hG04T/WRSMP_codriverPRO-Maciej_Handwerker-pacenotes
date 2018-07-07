@@ -1,0 +1,104 @@
+# Swiss III asfalt
+-5 4_lewy_ przytnij krotka
+30 shamuj_ ciasny_ nawrot_prawy _w_gore nie_ciac 30
+140 4_lewy_ _na_wyjsciu zacisk  dlugi nie_tnij 
+200 wyjscie_szczytem przy _drzewach 150
+260 widac_ hopa prawa nie_spiesz_ 
+320 70 lewa 
+350 za_szczytem_ 4_prawy _podwojny nie_ciac 20
+550 za_szczytem_ 2_lewy_ negat  spadanie
+640 do 2_prawy_ ciasno
+720 szczyt_prawa spadanie i nawrot_lewy nie_tnij
+800 do 2_prawy
+820 od_szczytu_ 2_lewy_ 30
+860 szczyt_lewa spadanie i nawrot_prawy _nie_wypuszczaj 
+960 ciasno 4_lewy_ i za_szczytem_ 2_lewy_ _dluzszy
+1010 3_prawy_ krotka i 4_prawy_ _krotki na_szczyt
+1070 szczyt_prawa 20 nawrot_lewy 20
+1210 hak_prawy otwarty
+1250 krotka prostuj za_szczytem_ hak_lewy  30
+1340 nie_spiesz_ 4_prawy 
+1360 szczyt_lewa spadanie hak_prawy _nie_wypuszczaj
+1400 4_lewy_ szczyt_prawa nie_ciac przy_oponach_ zostan
+1470 spadanie_ nawrot_lewy 30
+1590 3_prawy_ minus zacisk nie_ciac do ciasny_ nawrot_lewy dlugi _nie_wypuszczaj 20
+1700 2_prawy_ zacisk dlugi samp 10
+1750 5_lewy_ na_szczyt dlugi
+1790 za_szczytem_ shamuj hak_prawy negat
+1890 3_lewy_ minus
+1920 zostan minus 3_prawy_ lewy
+1960 4_prawy_ przez_szczyt shamuj do hak_lewy otwarty 50
+2120 szczyt_lewa nie_spiesz_ i hak_prawy zahacz
+2240 za_szczytem_ przytnij_krzakiem_ 4_lewy_ zostan 50
+2270 za_szczytem_ pozny_ 4_prawy_ zostan samp 50
+2340 zahacz 3_lewy_ minus lekki_zacisk _dluzszy zostan 
+2450 100 podbija
+2500 za_szczytem_ krotki 3_prawy_ lewy do 4_prawy_ _krotki smialo 100 wybija 
+2670 3_lewy_ do nie_tnij 2_prawy_ lewy zacisk
+2800 i nawrot_prawy dlugi 10
+2860 do 1_lewy_ 70
+2910 garb i za_szczytem_20 3_prawy_ lewy zostan 30
+3050 2_lewy_ do hak_prawy _nie_wypuszczaj
+3150 1_lewy_ nie_ciac 50
+3190 2_prawy_ _krotki zahacz 40
+3250 2_lewy_ _w_dol odkleja zacisk dlugi _nie_wypuszczaj
+3360 nawrot_prawy _ciasny 
+3430 100 _w_siodle
+3450 ciasny_ 1_prawy_ przytnij na_szczyt zostan
+3520 2+_lewy zahacz 100 podbija
+3600 shamuj_ 2_prawy_slisko zostan do nie_ciac 2_lewy
+3720 i 2_prawy_ zostan do nie_ciac 3_lewy 30
+3800 3_prawy_ _podwojny do minus 3_lewy_ _krotki _ciasny nie_ciac
+3900 50 hopa
+3950 4_lewy_ nie_tnij krotka
+4040 2_prawy_ _krotki ciasny_ _nie_wypuszczaj 70 _podbija
+4120 garb 50 hopa_prawa pozniej_ 70
+4190 shamuj_ 2_lewy_ _podbija 30
+4340 hak_lewy do ciasny_ hak_prawy
+4470 150 przez_garb
+4500 widac_ 6_lewy_ _krotki do 4_prawy_ minus _szczytem
+4630 4_lewy_ minus zacisk zostan przytnij_wyjscie
+4690 krotka hak_prawy zahacz
+4820 od_szczytu_ prostuj do nawrot_lewy _w_gore nie_ciac opony samp
+4920 4_prawy_ przez_szczyt zostan do 3_lewy
+4970 3_prawy_ zostan do 2_lewy_ ciasno
+5060 hak_prawy _w_gore
+5150 prostuj i za_szczytem_  4_lewy_ spadanie
+5180 shamuj_ 2_prawy_ dlugi minus
+5310 nawrot_lewy
+5350 3_prawy_ dlugi nie_ciac opony do nawrot_lewy _w_gore zostan
+5460 krotka ostroznie _kamien za_szczytem_ prawa pozniej_ 4_lewy_ krotka
+5530 nawrot_prawy
+5580 szczyt_lewa
+5600 4_prawy_ _krotki 30 
+5620 hak_lewy _w_gore 
+5710 50 prostuj przez_szczyt
+5730 nawrot_prawy nie_ciac 30 
+5800 nawrot_lewy _w_gore samp
+5840 za_szczytem_  ciasny_ 3_prawy_ _krotki _nie_wypuszczaj 30
+5890 3_prawy_ do 2_lewy 
+5940 3_lewy_ i nawrot_prawy _w_gore nie_ciac
+6110 2_lewy_ wyjscie_szczytem nie_ciac zostan
+6160 2_prawy_ do hak_lewy _w_gore
+6220 od_szczytu_ 4_prawy_ _krotki 20 
+6270 2_prawy_ _dluzszy do 2_lewy_ wyjscie_szczytem zostan 
+6360 nie_tnij 4_prawy_ _dluzszy zostan samp 100
+6460 hopa prawa ostroznie spadanie 150
+6490 hamowanie szczyt_prawa i 4_lewy_ nie_ciac lekki_zacisk dlugi 30
+6790 nawrot_prawy nie_ciac opony spadanie 30
+6915 nie_ciac 4_lewy_ _przy_oponach 70
+6980 3_prawy_ minus _dluzszy nie_tnij zostan
+7040 garb 30 i shamuj_ hopa 50
+7090 2_prawy_ nie_ciac do 3_lewy_ dlugi lekki_zacisk _nie_wypuszczaj
+7300 3_prawy_ nie_ciac do 2_lewy_ _krotki zostan 20
+7400  2_prawy_ nie_ciac do 3_lewy_ _krotki minus
+7460 70 _podbija
+7500 4_lewy_ do 2_prawy_ wyjscie_szczytem
+7650 4_prawy_ 10 i nawrot_lewy _w_gore nie_ciac
+7760 2_prawy_ na_szczyt zostan do 2_lewy
+7830 i nawrot_prawy
+7880 3_lewy_ dlugi zacisk_do_2
+7960 3_prawy_ wyjscie_szczytem _nie_wypuszczaj
+8040 4_lewy_ _dluzszy nie_ciac 100
+8160 lotna
+8270 i _stop

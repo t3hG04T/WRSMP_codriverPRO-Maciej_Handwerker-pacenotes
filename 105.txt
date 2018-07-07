@@ -1,0 +1,39 @@
+#Sosnova 2010
+0 200
+100 3_lewy_ dlugi
+120 prostuj 100
+200 3_lewy_ do 2_prawy_
+430 50 5_lewy_ szeroko slisko
+590 150 6_lewy_ bardzo dlugi
+850 4_lewy_ zacisk_do_3 z_uwaga_ slisko
+1000 150 3_prawy_ minus slisko
+1200 prostuj 100
+1250 4_lewy_ zacisk_do_1 50
+1400 3_prawy_ 30 2_prawy_ dlugi 100
+1500 3_lewy_zacisk_do_1 
+1600 50 prostuj 3_lewy_ zacisk_do_2 5_prawy
+1750 40 3_lewy_ do 5_prawy
+1800 hopa_smialo_ za_szczytem_30 5_lewy
+1920 3_lewy_zacisk_do_1
+2000 do 3_prawy_ nie_wypuszczaj
+2120 100 3_lewy_ dlugi
+2200 prostuj 100
+2330 3_lewy_ do 2_prawy_
+2430 50 5_lewy_ szeroko slisko
+2650 150 6_lewy_ bardzo dlugi
+2800 4_lewy_ zacisk_do_3 slisko
+3000 150 3_prawy_ minus slisko
+3250 prostuj 100
+3300 4_lewy_ zacisk_do_1 50
+3450 3_prawy_ 30 2_prawy_ dlugi 100
+3550 3_lewy_zacisk_do_1
+3700 50 prostuj 3_lewy_ zacisk_do_2 5_prawy
+3840 3_lewy_ ciasny_ do 4_prawy
+3890 hopa_smialo_ za_szczytem_30 5_lewy_
+3980 3_lewy_zacisk_do_1
+4040 do 3_prawy_ nie_wypuszczaj
+4100 100
+4200 lotna
+4350 i_wyjezdzamy_w_prawo_w_brame_do_mety_stop
+
+ 

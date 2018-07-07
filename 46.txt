@@ -1,0 +1,44 @@
+#Cote D'Arbroz II
+0 50 pozniej_ 4_prawy_ _ciac samp
+20 40 6_prawy do za_drugim_szczytem_ 5_prawy slisko
+200 20 2_lewy_ nawrot
+300 do 6_lewy 40
+330 pozniej_ 3_prawy
+400 za_szczytem_ 7_lewy i za_szczytem_ 2_lewy_ _ciac odkleja
+550 do ciac_ 5_prawy_ na_szczyt
+640 za_szczytem_ 70
+660 5_lewy_ minus odkleja
+770 50 za_szczytem_ 6_prawy_ _dluzszy minus
+850 za_szczytem_ 5_lewy_ minus odkleja do 5_prawy
+950 do 6_lewy_ minus
+1100 do nie_ciac 6_prawy 70
+1280 prostuj 7_lewy i ciac_ 6_prawy_ podbija
+1350 50 5_lewy_ na_szczyt odkleja
+1420 szczyt_prawa slisko 30 4_lewy_ minus przytnij
+1790 za_szczytem_ 50
+1820 7_lewy
+1850 30 2+_prawy_ _ciac podbija
+2020 do ciac_ 6_prawy 30
+2050 ciac_ 6_prawy do 6_lewy do 6_lewy
+2200 za_szczytem_ ciac_ 6_prawy i 6_lewy i 6_prawy przytnij_wyjscie
+2400 i 6_lewy_ do szczyt_lewa i ciac_ 6_prawy do minus 6_lewy
+2650 ostroznie szczyt_lewa i mocno_ciac minus 6_prawy
+2800 do szczyt_prawa spadanie 50 7_lewy i nawrot_prawy
+3240 20 za_szczytem_ 20 6_prawy i nawrot_lewy zostan
+3360 20 do ciac_ 5_prawy do ciac_ 5_lewy i 6_prawy
+3420 shamuj_ 4_lewy i nawrot_prawy przytnij
+3620 50
+3630 szczyt_prawa 20 nawrot_lewy
+3780 do 7_prawy
+3810 za_szczytem_ 5_lewy_ spadanie
+3830 40 nawrot_prawy
+3970 zostan
+4010 do pozny nawrot_lewy
+4110 do ciac_ 6_prawy
+4120 do 6_lewy 
+4130 120
+4220 2_prawy_ dlugi ciac_ _wyjscie
+4340 30
+4350 6_prawy dlugi
+4450 do 3_lewy
+4490 lotna

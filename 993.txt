@@ -1,0 +1,70 @@
+# Kormoran Shakedown
+-15 100
+30 6_lewy
+75 40 2_prawy
+150 3_lewy_ nie_ciac
+205 70_ 6_lewy_ do 6_prawy
+320 120
+420 5_lewy
+470 60 prawy_lewy nie_tnij
+580 6_prawy przez_szczyt
+665 120
+730 5_lewy
+800 50_ 4+_prawy_ nie_tnij
+875 70
+920 3_lewy_ dlugi
+995 2_lewy
+1030 50_ 6_lewy _dluzszy
+1100 shamuj_ 4_prawy zacisk do 2
+1240 50_ 6_lewy_ i shamuj_ do hak_prawy _z_drogi
+1340 60
+1385 5_prawy zahacz
+1420 80
+1465 3+_lewy _w_gore
+1525 150
+1600 7_lewy_ nie_tnij
+1650 5_prawy _dluzszy
+1685 4+_lewy
+1800 90 prostuj
+1850 shamuj 5_prawy_ do hak_lewy
+1930 200
+2030 hamowanie hak_prawy
+2180 6_lewy_ podwojny
+2240 70_ 5_prawy
+2300 200 70 prostuj
+2440 hamowanie hak_prawy
+2640 120
+2700 6_prawy nie_tnij
+2750 70_ 5_prawy
+2820 80_ 6_lewy_ do 7_prawy
+2895 hamowanie hak_prawy
+3100 200
+3215 hamuj_ hak_lewy
+3320 3_prawy _dluzszy otwarty
+3350 100
+3450 6_lewy_ dlugi
+3500 50_ 6_prawy_ podwojny
+3600 50_ 6_lewy_ dlugi
+3700 40 5_prawy
+3750 60
+3800 5_prawy
+3835 4_prawy
+3900 120
+3970 4+_lewy _dluzszy
+4030 100
+4090 shamuj 3_lewy_ woda
+4150 90
+4110 5_lewy
+4230 100
+4260 6_prawy_ do 3_lewy
+4350 50_ 3+_lewy
+4400 100
+4450 2+_prawy _z_drogi
+4510 50_ 6_prawy
+4590 100
+4620 shamuj 6_prawy_ 50
+4715 7_prawy_ 50
+4740 6_prawy
+4770 shamuj 3+_lewy zahacz
+4870 250 prostuj
+5130 lotna i 150 _do_mety_stop

@@ -1,0 +1,41 @@
+# Lernovec
+0 prostuj 200
+30 6_lewy krotki _nie_wypuszczaj ciasno
+120 100 szczyt_lewa
+170 7_prawy
+220 20 3_lewy_ plus podbija nie_tnij
+400 10 krotki 6_prawy
+450 50 5_lewy krotki zostan
+550 30 4_prawy_ podwojny otwarty podbija
+670 70 6_lewy krotki odkleja
+870 30 6_prawy_ ostroznie podbija
+1150 100 7_lewy_ wyjscie_szczytem 70
+1400 szczyt odkleja smialo
+1550 400 prostuj podbija  
+1700 za_drugim_szczytem_ 7_prawy_ max 
+1900 120
+2100 5_lewy plus _dluzszy nie_tnij
+2350 do 6_prawy zostan
+2460 30 4_lewy_ negat nie_tnij
+2650 50 6_prawy
+2700 30 na_szczyt lewa max pozniej_ hopa
+2830 40 krotki 7_lewy
+2900 za_szczytem_ 5_prawy minus negat
+3200 prostuj 120
+3250 krotki 6_lewy _w_gore 20
+3350 5_lewy plus _szczytem negat zostan
+3400 5_prawy _szczytem nie_wypuszczaj negat
+3530 50 5_lewy plus podbija
+3650 za_szczytem_ 5_prawy krotki  
+3800 80 prostuj
+3900 6_lewy _w_gore 
+4010 50 5_prawy negat przez_szczyt _z_uwaga
+4050 pozniej_ 5_prawy krotki
+4080 20 6_prawy_ minus przez_szczyt negat 
+4250 30 za_szczytem_ 6_lewy_ prawy
+4500 do 6_lewy _dluzszy otwarty wyjscie_szczytem
+4550 30 7_lewy 
+4600 do 5_prawy plus przez_ dlugi szczyt otwarty
+4850 100 lotna
+4900 hamowanie
+5000 3_prawy 30 _do_mety_stop

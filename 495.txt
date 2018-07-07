@@ -1,0 +1,41 @@
+# Lernovec II
+-5  30 3_lewy minus
+50 150 podbija
+100 5_lewy _szczytem podwojny zostan
+250 6_prawy nie_wypuszczaj odkleja
+300 za_szczytem_10 5_prawy nie_wypuszczaj
+550 30 4_lewy prawy krotki nie_tnij
+640 od_szczytu_ odkleja 4_lewy negat
+780 50 5_lewy _szczytem nie_wypuszczaj
+920 do 6_prawy 100 podbija ostroznie
+1000 krotki 7_lewy_ od_tasm_ zacisk do 5_lewy krotki odkleja
+1100 30 6_prawy _w_siodle _podbija
+1350 30 za_szczytem_ 5_lewy
+1470 30 5_prawy podwojny _szczytem  nie_tnij
+1700 30 krotki 5_prawy nie_tnij 120
+1800 za_szczytem_ 4_lewy wyjscie_szczytem
+1900 za_szczytem_ odkleja 100 5_prawy
+2000 z_uwaga_ szczyt 50 i 4_lewy 70
+2250 za_szczytem_30 odkleja 4_prawy
+2500 50 5_lewy zacisk
+2670 100 5_prawy_ podwojny nie_tnij
+2850 300
+2950 7_lewy_
+3000 100 przez_szczyt max
+3150 200 szczyt_lewa podbija max
+3250 300 podbija szczyt_lewa ostroznie
+3600 100 szczyt prawa i 6_prawy
+3700 200 podbija ostroznie
+3900 podbija krotki 6_lewy
+4000 200
+4100 za_drugim_szczytem_ 7_prawy
+4280 100 pozny_ 4_lewy _dluzszy 
+4300 krotka i 4_prawy
+4450 70 7_lewy_ shamuj
+4550 3_prawy_ samp _podbija nie_tnij
+4720 do 7_lewy_
+4780 100
+4800 przez_szczyt prawa
+4850 70
+4900 szczyt podbija i 6_prawy
+5090 lotna

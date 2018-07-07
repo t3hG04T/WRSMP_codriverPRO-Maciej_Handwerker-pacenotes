@@ -1,0 +1,109 @@
+#Mustaselka
+0 4_lewy
+10 4_prawy zahacz
+45 do 4_lewy zahacz
+60 do 5_prawy
+90 do 3_lewy zacisk 20
+120 4_prawy 50
+200 4_lewy 50
+300 szczyt_prawa _wybija
+390 podwojny krotki 5_prawy 70
+460 6_lewy hopa _na_wyjsciu shamuj_40
+580 4_prawy zahacz 50
+690 na_szczyt 50
+740 przytnij krotki 2_prawy lewy_prawy na_szczyt 30 
+890 prostuj 70 
+920 szczyt_prawa hopa 40
+990 6_lewy krotki 50
+1030 hamowanie 5_prawy 
+1100 do 4_lewy nie_tnij _wybija 30
+1175 3_lewy otwarty 30
+1280 szczyt i 5_prawy przez_szczyt nie_wypuszczaj
+1340 przechodzi_w_ 5_lewy shamuj_40
+1385 2_prawy przytnij
+1410 do 2+_lewy _ciasny 40
+1500 prostuj 250 na_szczyt
+1650 shamuj 6_lewy _przy_drzewach przechodzi_w_  
+1720 3_prawy lewy nie_tnij
+1800 do 7_lewy 50 
+1870 garb lewa podbija
+1910 5_prawy mocno_ wybija 100
+1990 przytnij krotki 6_prawy 50
+2080 krotki 5_prawy przytnij 50
+2150 ostroznie 5_lewy przez_szczyt wybija 
+2130 do 5_prawy _szczytem
+2200 5_lewy _szczytem przy_drzewie wybija
+2250 krotka i 5_prawy zostan na_szczyt podbija _z_uwaga
+2380 prawa przez_szczyt mocno_ podbija 100
+2420 5_prawy podbija 
+2570 i krotki 4_lewy podwojny
+2610 i 3_prawy
+2700 i 5_lewy 100
+2850 6_lewy _dluzszy zacisk 
+2920 do 5_lewy przytnij
+2990 do 4_prawy na_szczyt
+3050 do 3_lewy przechodzi_w_ 1_prawy 20
+3175 4_lewy prawy prostuj 20
+3200 nawrot_lewy 20 
+3220 5_prawy krotki 50
+3280 5_lewy 30
+3320 6_prawy 50
+3350 6_lewy przez_szczyt prawa 40
+3380 5_prawy 
+3410 do 5_lewy 70
+3500 6_prawy 5_lewy
+3600 5_prawy _w_siodle
+3700 do 5_lewy
+3750 do 5_prawy zacisk_do_3 minus
+3800 do 3_lewy krotki
+3870 do 5_prawy przez_garb shamuj_40
+3920 1_prawy nie_ciac _kamien 50
+3990 5_lewy _szczytem 90
+4120 1_lewy do 7_prawy
+4250 4_lewy 50
+4320 6_prawy _szczytem 70
+4380 _krotki 5_lewy wyjscie_hopa 90
+4500 7_lewy do
+4550 _krotki 5_prawy 70
+4620 5_lewy 50
+4700 4_prawy samp 40
+4780 2_prawy pozniej_ krotki 7_lewy
+4870 do 5_prawy do 4_prawy 30
+4950 dlugi 3_lewy zacisk na_szczyt prawa
+5130 prostuj 100 widac_
+5100 przytnij 6_lewy krotka
+5200 do 4_prawy odkleja 40
+5370 4_lewy przez_szczyt do 5_prawy 50
+5450 shamuj 5_prawy przytnij do 3_lewy 
+5600 4_prawy
+5700 z_uwaga_ 3_lewy zacisk do 1_prawy _dluzszy
+5800 7_lewy przez_garb 30
+5900 5_lewy
+5980 do ostroznie 4_prawy przez_szczyt odkleja 30
+6070 5_lewy 
+6170 do krotki 5_prawy podwojny zostan
+6300 5_lewy _dluzszy
+6370 6_prawy 50
+6430 4_lewy zacisk shamuj
+6500 2_prawy
+6590 4_lewy do 4_prawy zacisk_do_3
+6630 krotka i 4_lewy prawy prostuj 150
+6750 szczyt i 5_lewy 
+6900 5_prawy 30
+7000 za_szczytem_ 6_lewy
+7070 4_prawy _szczytem _ostroznie
+7160 do 3_lewy _szczytem 30
+7250 5_prawy _szczytem
+7320 3_lewy krotka
+7380 i 3_prawy 30
+7450 2+_lewy 50
+7500 hamowanie 4_prawy
+7580 do minus 2_lewy
+7650 6_prawy podwojny 50
+7700 4_lewy 20
+7750 3_prawy
+7800 3_lewy
+7850 2+_prawy
+7900 2_lewy
+8010 lotna  i za_szczytem_ _do_mety_stop
+

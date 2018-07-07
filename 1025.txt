@@ -1,0 +1,67 @@
+# FSO ¯erañ
+-5 3_lewy przy_slupie ciasno _w_brame
+30 podbija 50 4_lewy_ krotki do 2+_prawy otwarty zostan ciasno _w_brame wybija 30
+150 _za_opony 3_prawy_ podwojny zacisk 20 
+220 do 2_lewy_ zostan 50
+320 _za_brama wybija 2_lewy_ do 2_prawy_ _nie_wypuszczaj 70
+445 7_lewy podbija i shamuj za_drugim_drzewkiem_ 30 szykana_od_prawej
+680 potem_ 4_prawy lewy przez_ _szuter  przy_slupie 50
+720 ostroznie 6_lewy nie_spiesz_  zajebiscie_ wybija
+880 _na_asfalt i 2_prawy przy_tasmie do 2+_lewy przy_drzewku_ syf 70
+1000 szykana lewa ciasno _z_drogi 
+1100 70 podbija
+1150 3_lewy_ bardzo dlugi zostan
+1250 do 3_prawy_ wczesnie_ zacisk przez_ _szuter i 2_prawy _wypusc
+1430 6_prawy zajebiscie_ dlugi szeroko
+1500 pozniej_ odkleja lekki_zacisk
+1700 100 prostuj
+1730 hamowanie
+1800 szykana prawa _z_drogi ciasno
+1980 250 ostroznie wybija 
+2050 zostan _przy_drzewach prawa 70
+2150 potem_ szykana_od_lewej smialo
+2400 do 2_lewy prawy krotki ciasno 20 _w_brame
+
+2500 podbija 50 4_lewy_ krotki do 2+_prawy otwarty zostan ciasno _w_brame wybija 30
+2680 _za_opony 3_prawy_ podwojny zacisk 20 
+2750 do 2_lewy_ zostan 50
+2810 _za_brama wybija 2_lewy_ do 2_prawy_ _nie_wypuszczaj 70
+2920 7_lewy podbija i  shamuj za_drugim_drzewkiem_ 30 szykana_od_prawej
+3140 potem_ 4_prawy lewy przez_ _szuter przy_slupie 50
+3190 ostroznie 6_lewy nie_spiesz_  zajebiscie_ wybija
+3400 _na_asfalt i 2_prawy przy_tasmie do 2+_lewy przy_drzewku_ syf 70
+3500 szykana lewa ciasno _z_drogi 
+3590 70 podbija
+3600 3_lewy_ bardzo dlugi zostan
+3750 do 3_prawy wczesnie_ zacisk przez_ _szuter i 2_prawy _wypusc
+3920 6_prawy zajebiscie_ dlugi szeroko
+4020 pozniej_ odkleja lekki_zacisk
+4150 100 prostuj
+4200 hamowanie
+4250 szykana prawa _z_drogi ciasno
+4480 250 ostroznie wybija
+4550 zostan _przy_drzewach prawa 70
+4600 potem_ szykana_od_lewej smialo
+4880 do 2_lewy prawy krotki ciasno _w_brame
+
+4950 podbija 50 4_lewy_ krotki do 2+_prawy otwarty zostan ciasno _w_brame wybija 30
+5170 _za_opony 3_prawy podwojny zacisk 20 
+5250 do 2_lewy_ 50 zostan
+5300 _za_brama wybija 2_lewy_ do 2_prawy _nie_wypuszczaj 70
+5395 7_lewy podbija i shamuj za_drugim_drzewkiem_ 30 szykana_od_prawej
+5600 potem_ 4_prawy lewy przez_ _szuter przy_slupie 50
+5650 ostroznie 6_lewy nie_spiesz_  zajebiscie_ wybija
+5850 _na_asfalt i 2_prawy_ przy_tasmie do 2+_lewy przy_drzewku_ syf 70
+5950 szykana lewa ciasno _z_drogi 
+6060 70 podbija
+6085 3_lewy_ bardzo dlugi zostan
+6200 do 3_prawy wczesnie_ zacisk przez_ _szuter i 2_prawy _wypusc
+6385 6_prawy zajebiscie_ dlugi szeroko
+6500 pozniej_ odkleja lekki_zacisk
+6700 100 prostuj
+6750 hamowanie
+6780 szykana prawa _z_drogi ciasno
+6940 250 ostroznie wybija
+7000 zostan lewa 6_lewy_ krotki
+7200 lotna 150 2_lewy
+7400 _do_mety_stop

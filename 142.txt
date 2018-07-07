@@ -1,0 +1,63 @@
+# Mlynky Snow
+0 7_prawy za_szczytem_ 6_lewy dlugi 
+90 przy_drzewku_ zacisk
+180 80 7_prawy szczyt odkleja do 5_prawy
+310 30_ 4_lewy bardzo_wybija
+510 100 _prostuj
+560 krotki 6_prawy przez_szczyt
+610 50 _prostuj
+700 6_prawy
+740 podbija do 6_lewy
+800 100 szczyt _z_uwaga do
+900 5_prawy_ wyjscie_szczytem
+1010 szczyt lewa do 6_prawy_ nie_spiesz_
+1110 od_znaku_ _wybija 5_lewy_ _dluzszy do 7_prawy
+1310 od_znaku_ syf 2_lewy_ nie_wypuszczaj
+1510 30
+1540 7_lewy_ do 5_prawy_ _szczytem
+1610 20 za_szczytem_ 4_prawy_ _dluzszy
+1780 30 krotki 4_lewy
+1840 i 5_prawy_ na_szczyt
+1910 od_znaku_ 5_lewy
+2030 70
+2070 krotki 4_lewy
+2100 20 6_prawy wyjscie_szczytem 
+2110 potem_ ostroznie 5_lewy
+2200 4_prawy_ odkleja
+2400 do krotki 6_lewy
+2470 za_szczytem_ 6_prawy
+2500 50 i 6_lewy_ 100 6_prawy_ shamuj_40 
+2600 3_prawy_ zacisk_do_1 ciac_ samp
+2960 20 6_prawy
+3000 100 6_lewy_ wyjscie_szczytem
+3040 do odkleja 4_prawy_ _na_wyjsciu bardzo_wybija 
+3260 120 6_lewy shamuj_40 od_znaku_ 2_lewy
+3550 20 4_lewy do krotki 4_lewy
+3680 50 garb prawa 100
+3700 nie_spiesz_ 6_prawy _szczytem 40 shamuj_ 3_lewy_ zostan
+4050 do 6_prawy na_szczyt dlugi
+4200 za_szczytem_ 30 7_lewy_ 120
+4300 hamowanie_hak_prawy_ _podbija_ _wejscie
+4450 do 2_lewy_ dlugi
+4535 20 4_prawy_ odkleja zacisk samp
+4640 za_szczytem_ 100
+4670 6_lewy
+4720 shamuj_ od_szczytu_ 3_prawy_ zacisk_do_2 syf
+4970 do 6_lewy wyjscie_szczytem dlugi
+5150 120
+5190 garb prawa nie_spiesz_
+5200 30 6_lewy za_szczytem_ krotki 5_lewy_ 
+5300 wybija i 4_lewy_ przez_szczyt
+5610 100 hamowanie szczyt prawa 10 i za_szczytem_ 1_prawy
+5870 100 _prostuj
+5900 garb lewa do 6_prawy
+6030 od_znaku_ 2_lewy
+6220 30 za_szczytem_ 30
+6200 od_szczytu_ krotki 5_prawy
+6280 30 garb prawa spadanie i 5_lewy
+6320 z_uwaga_ od_szczytu_ odkleja 4_prawy
+6610 250 potem_ spadanie i _w_siodle
+6710 krotki 5_lewy_ 30 2_prawy negat
+7010 20 5_lewy
+7050 lotna
+# i to koniec tego piêknego odcinka

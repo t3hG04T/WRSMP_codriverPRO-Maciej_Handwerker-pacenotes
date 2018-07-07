@@ -1,0 +1,73 @@
+# Loch Ard II
+0 szczyt_prawa i 4_lewy_ minus przytnij
+100 3_prawy minus _podwojny zostan
+250 do 3_lewy od_szczytu_ otwarty i 4_lewy
+350 pozniej_ szczyt_prawa prostuj 70
+400 za_szczytem_ 5_lewy _dluzszy przytnij_wyjscie nie_wypuszczaj 50
+600 6_prawy krotki 150
+720 za_szczytem_ 6_lewy shamuj 50
+790 5_prawy minus slisko
+870 do 3_lewy _za_drzewo zacisk spadanie krotka
+1100 3_prawy dlugi zajebiscie_ podbija _na_wyjsciu nie_wypuszczaj
+1280 4_prawy zahacz 30
+1330 kaszel
+1370 4_lewy zacisk do 5_prawy ostroznie za_szczytem_  6_prawy 40
+1600 za_szczytem_ zahacz 6_prawy zacisk 70
+1800 hamowanie mostek i wczesnie_ 1_prawy nawrot
+1980 4_lewy_ _ciac row
+2030 _szczytem 4_lewy  krotki  zahacz nie_wypuszczaj odkleja
+2100 _przy_drzewach 3_lewy _szczytem przytnij
+2170 do 3_prawy
+2230 do 4_lewy przy_drzewku_ _ciac samp
+2350 szczyt prostuj pozniej_ od_szczytu_ 5_prawy max
+2480 150 prostuj
+2540 szczyt_prawa 70
+2610 6_lewy_ krotki i szczyt prostuj shamuj 40
+2770 od_szczytu_ 5_prawy_ minus zahacz
+2950 do 5_lewy_ wyjscie_hopa
+3040 widac_ 100 prostuj
+3100 za_szczytem_ przytnij 4_prawy
+3170 5_lewy_ ciac_ row
+3280 5_prawy _szczytem nie_wypuszczaj
+3380 do 3_lewy_  zacisk zostan
+3530 szczyt_lewa 
+3600 ciac_ _szczytem 3+_lewy odkleja
+3700 do 4_prawy ciac_ przy_drzewie wyjscie_szczytem zostan
+3800 6_lewy wyjscie_szczytem prawa 100
+3940 od_szczytu_ 4_prawy zacisk _dluzszy  zostan _na_wyjsciu negat
+4070 za_szczytem_ 30 3_lewy 
+4320 wyjscie_szczytem prawa 50
+4360 pozniej_ szczyt_prawa do 5_lewy za_drugim_szczytem_ zacisk
+4480 4_prawy ciac_ smialo wypusc
+4630 do 4_lewy otwarty zostan
+4720 przy_tasmie 3_prawy pozno przyciac nie_spiesz_ wyjscie_szczytem hamowanie
+4860 2_lewy _dluzszy zajebiscie_ podbija
+5025 krotka i 3_prawy _dluzszy
+5100 100 prostuj
+5140 od_szczytu_ 3_prawy  _kamien
+5200 4_lewy_ przytnij otwarty
+5260 3_lewy _ciac row
+5390 3_prawy i 3_lewy ostroznie
+5480 krotki 5_prawy nie_tnij do  4+_lewy  nie_tnij 120
+5550 za_szczytem_ krotki  6_prawy lewy wyjscie_szczytem zostan shamuj
+5650 4_prawy_ minus przytnij _z_uwaga
+5980 5_lewy_ krotka 
+6050 i 6_prawy wyjscie_szczytem zostan 70
+6200 pozny_ 5_lewy zacisk samp 40
+6330 od_szczytu_ 5_prawy krotki 70
+6400 5_prawy krotki _szczytem
+6480 do 3_lewy odkleja i 4_prawy krotki podwojny 100
+6750 6_lewy _szczytem krotki 100
+6880 shamuj _baner pozniej_ od_szczytu_ 5_lewy krotki
+6980 do 5_prawy wyjscie_hopa zostan
+7110 70 szczyt_prawa hamuj_ podbija
+7170 5_prawy nie_tnij wyjscie_szczytem lewa
+7300 widac_ 5_prawy krotki do 3_lewy zahacz
+7620 od_szczytu_ nie_tnij 4_prawy zacisk_do_3 dlugi zostan za_szczytem_ 30
+7730 zahacz 3_lewy lekki_zacisk krotka
+7880 wczesnie_ 3_prawy _nie_wypuszczaj
+8000 za_szczytem_ 50 6_lewy krotki samp do szczyt_prawa 70
+8200 5_lewy do 4_prawy
+8360 lotna
+8370 4_lewy  zacisk
+8510 _stop

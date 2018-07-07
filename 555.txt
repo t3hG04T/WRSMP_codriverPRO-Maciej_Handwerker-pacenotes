@@ -1,0 +1,57 @@
+#Maton I
+-5 2_prawy_ zacisk bardzo dlugi
+10 lewy i smialo 3_prawy_ _krotki
+50 5_lewy_ _prawy _krotki zahacz
+90 hamuj_ na_szczyt i 1_lewy_ zahacz
+240 3_prawy_ _podwojny _krotki zahacz 
+280 spadanie prostuj
+300 hamuj_ krotki 4_lewy_ do nawrot_prawy
+380 _w_dol i 3_lewy_ minus
+450 za_szczytem_ 5_lewy_ zacisk negat dlugi
+510 4_prawy_ otwarty
+600 80
+630 zahacz 6_lewy_ przez_szczyt zostan do 3_prawy
+760 60 
+790 3+_prawy zacisk
+840 zahacz 3_lewy_ _krotki samp
+930 lewa przez_szczyt przytnij do 3_prawy
+1040 nawrot_lewy zahacz
+1110 60
+1125 4_lewy_ minus
+1150 40 7_prawy_ przytnij
+1180 60 smialo 3+_prawy _krotki samp
+1200 70
+1280 hamuj_ nawrot_prawy
+1380 krotka prostuj
+1390 smialo 5_lewy_ _prawy max zahacz
+1420 70 hamuj_ nawrot_lewy zahacz
+1560 krotka 6_prawy_ do zahacz 3_lewy_ negat
+1590 4_prawy
+1620 4_prawy_ zacisk_do_2
+1760 2_lewy_ dlugi zahacz
+1820  na_szczyt i nawrot_prawy zahacz
+1880 do 4_lewy_ _krotki
+1920 90 smialo 7_prawy_ lewy przez_szczyt
+1940 spadanie i 3_lewy_ _dluzszy
+2030 przytnij 3_prawy_ _krotki smialo do 7_lewy
+2080 spadanie i minus 3_lewy_ _krotki
+2260 70
+2270 minus 4_prawy_ _pozny_ zacisk zostan przytnij
+2320 7_lewy_ za_szczytem_ lewa hamuj_ nawrot_prawy
+2460 do hak_lewy _z_drogi za_barierke
+2530 spadanie ciasno 5_lewy_ _dluzszy do 2_lewy_ _ciac
+2610 50 hamuj_ 4_prawy_ do hak_prawy _na_glowna
+2730 2_lewy_ przytnij samp
+2740 5_lewy zahacz 
+2760 80 na_szczyt i nawrot_prawy
+2870 2_lewy_ _prawy zahacz
+2910 30 nawrot_lewy
+2960 60 
+2980 7_prawy_ do 4_lewy_ _krotki samp
+3020 hamuj_ nawrot_prawy
+3140 80
+3150 lewy _prawy i krotki 2+_lewy
+3240 nawrot_prawy
+3280 70 spadanie i 3_lewy _krotki 
+3330 80 spadanie hamuj_ pozny nawrot_lewy zahacz _nie_wypuszczaj
+3460 krotka i nawrot_prawy lotna

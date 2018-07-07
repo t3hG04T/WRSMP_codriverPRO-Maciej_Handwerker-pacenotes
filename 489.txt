@@ -1,0 +1,34 @@
+#Jirkovicky II
+-5 za_szczytem_ 50 3_lewy dlugi zacisk _na_wyjsciu szczyt zostan 30
+190 nie_tnij 2_prawy _dluzszy negat 30 ostroznie
+270 _w_belach 2_prawy syf pozniej_ przytnij lewa 2_lewy_ prawy _na_asfalt 50
+350 1_lewy _z_drogi przy_drzewie _na_szuter nie_tnij 20
+500 zostan 3_prawy nie_tnij do 3_lewy krotki zahacz
+620 prostuj 100
+650 3_lewy krotki zahacz 50
+690 shamuj 6_prawy do 3_lewy samp prostuj 30
+880 za_szczytem_ _dluzszy 3_prawy ciasno 
+950 krotki 6_lewy zacisk_do_3 _przy_drzewach odkleja nie_tnij 30
+1080 przytnij 4_lewy krotki 40 lewa shamuj 
+1150 2+_prawy nie_tnij 50
+1270 przytnij dlugi 3_prawy otwarty zostan 30
+1500 _dluzszy 3_lewy otwarty _przytnij_wyjscie
+1570 podbija 4_prawy_ zacisk negat zostan
+1770 krotki 6_lewy od_szczytu_ zacisk_do_ 4 dlugi zostan nie_tnij _bale podbija
+1900 przechodzi_w_ 4_prawy negat 30
+2080 od_szczytu_ podbija dlugi 4_lewy_ zacisk przyciac zostan _bale 40
+2280 dlugi 3_prawy negat przy_drzewie prawa _przytnij_wyjscie 30
+2350 3_lewy krotki przyciac 20
+2450 przyciac 4_prawy krotki
+2480 do 5_lewy krotki shamuj prawa
+2550 do 3_lewy shamuj_20 do 1_prawy nie_tnij _z_drogi
+2720 pozny 3_lewy przyciac do 3_prawy dlugi zahacz podbija 20
+2850 3_lewy ciasny_
+2900 3_prawy 30 hopa_lewa 
+3000 pozniej_ 4_lewy krotki 30 4_lewy _dluzszy zacisk
+3050 do 4_prawy _dluzszy zostan wyjscie_szczytem podbija 30
+3200 4_lewy 30 hamowanie
+3270 zahacz 1_prawy przy_drzewie przez_garb _na_asfalt 30
+3420 5_lewy dlugi zostan
+3550 lotna
+3580 przy_drzewie _stop

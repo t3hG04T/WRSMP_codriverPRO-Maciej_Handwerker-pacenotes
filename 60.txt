@@ -1,0 +1,44 @@
+# Fraizer Wells II
+-5  30 3_lewy     
+50 150 podbija
+100 5_lewy na_szczyt
+180 krotka i 5_lewy nie_wypuszczaj
+250 50  5_prawy dlugi _szczytem zostan odkleja
+530 do 6_lewy prawy przyciac
+640 szczyt z_uwaga_ i 4_lewy     
+760 70 6_lewy na_szczyt
+850 do 5_prawy 100
+940 podbija ostroznie      
+980 krotki 7_lewy_ zacisk do 5_lewy krotki odkleja
+1100 i 6_prawy _w_siodle _podbija
+1280 za_szczytem_ 5_lewy
+1370 i 5_prawy _szczytem  odkleja nie_tnij
+1650 do 7_prawy 120
+1780 za_szczytem_ 4_lewy wyjscie_szczytem
+1900 za_szczytem_ odkleja 150 6_prawy       
+2000 z_uwaga_ hopa_prawa 50 i 4_lewy 70
+2250 za_szczytem_ odkleja 4_prawy
+2500 50 5_lewy zacisk
+2670 100 5_prawy_ podwojny
+2850 300       
+2900 7_lewy_
+2950 200 przez_szczyt prawa max
+3150 400
+3270 przez_szczyt podbija smialo
+3550 250       
+3600 szczyt prawa i 6_prawy
+3700 300
+3900 podbija 5_lewy przyciac_ _krotki
+4000 200
+4100 za_drugim_szczytem_ 7_prawy
+4250 100 pozny_ 4_lewy _dluzszy i 4_prawy
+4500 70
+4530 7_lewy_ i 3_prawy_ samp _podbija
+4720 do 7_lewy_
+4780 100
+4800 przez_szczyt prawa
+4850 70
+4900 szczyt podbija i 6_prawy
+5090 lotna
+
+# i to koniec tego piêknego odcinka

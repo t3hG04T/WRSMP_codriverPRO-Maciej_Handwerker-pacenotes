@@ -1,0 +1,72 @@
+#Harwood Forest
+0 5_lewy prawy zostan prawa
+25 2+_lewy samp
+100 70 4_lewy_ do 5_prawy
+230 podbija i 4_lewy
+320 4_prawy minus do 7_lewy
+390 2+_prawy samp prostuj 40
+450 5_prawy_ nie_tnij
+550 do krotki 4_lewy_ zostan wyjscie_hopa
+600 50 krotki 5_lewy prawy zostan
+700 do _ciasny 4_prawy_ minus krotki
+800 5_lewy krotki 50
+920 shamuj krotki 5_prawy_ samp
+950 wczesnie_ 2_prawy_ _ciac 50
+1100 ostroznie woda
+1150 i 6_prawy podbija 30
+1200 6_lewy_ szczyt nie_wypuszczaj
+1270 6_prawy
+1300 do krotki 6_lewy_ _szczytem 50
+1340 przytnij od_szczytu_ 5_lewy samp prostuj 50 
+1470 szczyt_lewa do 5_prawy shamuj
+1600 do wczesnie_ 4_lewy_ minus _otwarty
+1800 6_lewy_ prawy_lewy 50
+1930 przytnij 5_lewy garb
+1980 5_prawy minus nie_ciac
+2120 do przytnij max 3_lewy samp 30
+2200 szczyt_prawa i krotki 5_prawy
+2350 i szczyt_lewa
+2400 6_prawy shamuj_50 wybija
+2500 2_lewy _z_drogi
+2580 ciasno 120 prostuj
+2650 3_lewy plus slisko 50
+2780 pozniej_ krotki 7_lewy prawy _podbija shamuj
+2880 5_prawy samp _szczytem 50 podbija
+2970 i 5_Lewy zostan samp 70 
+3100 zostan prawa wybija
+3220 4_prawy samp zostan
+3250 do 4_prawy
+3300 do 4_lewy
+3400 do krotki 5_prawy
+3470 4_lewy odkleja podwojny szczyt pozniej_ wypusc
+3600 6_prawy i od_szczytu_ 5_lewy zostan shamuj 40
+3730 2_prawy ciasny_ _z_drogi
+3850 120 _prostuj
+3900 pozniej_ 6_lewy i przytnij_krzakiem_ 5_prawy
+4100 do shamuj 4_lewy
+4150 do 2_prawy minus 100
+4250 4_prawy otwarty
+4310 4_lewy ciasny_ pozniej_ ostroznie
+4400 mostek i krotki 4_prawy
+4470 krotki 5_lewy wypusc 40
+4550 6_lewy
+4650 podwojny 5_prawy nie_tnij
+4700 krotki 5_lewy 30
+4750 5_prawy krotki _szczytem i 7_lewy 40
+4800 shamuj mostek 50
+4850 _z_drogi 1_lewy samp 30 
+5100 od_szczytu_ 5_lewy wypusc 40 podbija
+5150 5_prawy przytnij 30
+5250 do _dluzszy 4_lewy samp _wybija 
+5300 krotki 6_prawy za_szczytem_
+5400 4_prawy_ do 4_lewy_ nie_ciac 50 shamuj
+5520 2_lewy 
+5620 wypusc do nie_tnij 4_prawy 20
+5680 4_lewy minus
+5750 4_prawy zacisk
+5820 do krotki 4_lewy
+5850 przytnij 4_prawy
+5900 shamuj 5_lewy 
+5980 do 2+_prawy
+6100 lotna
+6120 90 _do_mety_stop

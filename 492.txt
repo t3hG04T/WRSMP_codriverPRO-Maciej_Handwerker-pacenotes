@@ -1,0 +1,71 @@
+# Uzkotin
+-5 20 garb dlugi 7_prawy _podbija
+40 30 5_prawy_ szczyt i 5_lewy_ minus negat
+170 70 3_prawy do 3_lewy nie_tnij odkleja
+450 krotka i 6_lewy dlugi szczyt odkleja
+570 30 6_prawy
+680 bardzo dlugi 5_lewy plus przez_szczyt zostan odkleja
+900 ostroznie _w_siodle wybija
+960 5_prawy krotki _wypusc
+1030 do 4_lewy nie_tnij zostan negat
+1150 do dlugi 4_prawy negat ostroznie nie_wypuszczaj
+1270 20 wczesnie_ 3_prawy lewy plus odkleja smialo
+1425 50 7_lewy _dluzszy od_tasm_ zacisk do 5_lewy
+1500 do 4_prawy _w_siodle _wyjscie odkleja
+1600 40 na_szczyt lewa
+1650 4_prawy podbija_na_wyjsciu
+1800 30 4_prawy zostan
+1850 20 krotki 4_lewy
+1950 za_szczytem_ 4_prawy
+2050 20 dlugi 4_lewy negat nie_tnij _kamien
+2200 90 4_prawy negat samp
+2350 40 szczyt_prawa
+2450 30 5_lewy _dluzszy
+2500 od_tasm_ zacisk do 3_lewy krotki
+2670 40 za_szczytem_ 6_lewy krotki
+2710 i 4_prawy_ minus nie_tnij podbija 
+2800 20 6_lewy _szczytem 
+2830 20 shamuj 6_prawy _z_uwaga podbija 
+2880 do 3_lewy negat zostan
+3000 do 6_prawy shamuj_40
+3050 3_prawy slisko
+3100 przechodzi_w_ 5_lewy otwarty
+3200 przy_drzewie zacisk do 4_lewy krotki
+3250 80 prostuj
+3320 3_prawy plus _wyjscie odkleja
+3450 7_lewy zacisk do 5_lewy
+3550 70 szczyt_lewa 
+3600 40 3_prawy plus
+3800 do pozny 4_lewy_ wybija
+3850 krotka i 2_prawy krotki nie_tnij
+3900 do 4_lewy plus nie_tnij _wyjscie _szczytem
+3950 80 2+_prawy _w_siodle
+4050 do krotki 6_lewy
+4120 50 za_szczytem_20 3_prawy
+4250 4_lewy_ zostan
+4380 80 prostuj 
+4420 3_prawy przytnij
+4550 40 slisko 2+_lewy otwarty
+4720 150 pozny nie_tnij 2_prawy plus zacisk slisko
+4950 40 podbija ostroznie slisko 3_lewy_ _dluzszy samp
+5050 30 2_prawy negat
+5200 przy_drzewie shamuj_30
+5250 do 2_prawy minus slisko negat
+5350 70 za_szczytem_ krotki 6_lewy smialo
+5470 500 prostuj
+5800 shamuj 4_lewy od_tasm_ ostroznie
+6050 50 4_prawy odkleja
+6200 30 przytnij 4+_prawy odkleja
+6250 do 5_lewy _nie_wypuszczaj podbija smialo
+6350 30 7_prawy wybija _na_wyjsciu
+6500 100 szczyt max
+6600 250 prawa
+6750 shamuj krotki 4_lewy podwojny negat i 3_prawy  
+7100 30 7_lewy
+7200 za_szczytem_ 5_prawy plus
+7250 40 4_lewy krotki
+7400 20 6_prawy
+7550 40 6_prawy
+7650 70 5_lewy_ plus _dluzszy otwarty
+7930 lotna
+7950 200 lewa _do_mety_stop

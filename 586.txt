@@ -1,0 +1,64 @@
+5  40 4_lewy_ przechodzi_w_ 3_prawy_ ciac_ i prostuj
+80  znak i 3_lewy
+120  50  2_prawy_ ciac_
+200  4_lewy_ podwojny  prostuj  80
+255  od_znaku_ 4_prawy  ciac_
+320  80  6_prawy_ ciac_ krotki  100
+445  hak_lewy ciasny_
+565  100  podbija
+620  4_lewy_ i hak_prawy  
+760 przechodzi_w_ lewy max _szczytem
+760 60  5_prawy_  lewy i prawy dlugi
+945  70  _od_znaku  3_lewy_ ciac_  40
+1040  5_lewy_ przyciac
+1095  40  3_prawy_ wybija  przechodzi_w_ 4_lewy_ dlugi
+1200  wyjscie_szczytem i prostuj do 4_lewy
+1320  40 4_prawy_ zacisk   samp
+1470  40 5_prawy_  przechodzi_w_ 4_lewy_ dlugi
+1600  4_prawy_ bardzo dlugi
+1670  i widac_  3_lewy_ pozny ciac_
+1800  wczesnie_ 2_lewy_  krotki
+1855  od_znaku_ 3_prawy_ dlugi i szczyt 40
+1975  5_lewy_ zacisk do 2_lewy
+2060  4+_prawy do 4_lewy_ i  3_prawy
+2160  otwarty  potem_ 4_lewy_ przyciac
+2260  4_prawy_  przechodzi_w_ 3_lewy
+2380 3_prawy_  _szczytem  dlugi
+2510  krotka 6_lewy_ zacisk _dluzszy
+2615  70  5_prawy_ przyciac_ krotki
+2680   60 4_lewy_ do  shamuj_ szczyt  30
+2780  5_lewy  40
+2820   4_prawy_ krotki  60
+2875  50 4_lewy_ wybija  bardzo dlugi
+3000  70 _od_znaku 3_prawy_ podwojny  odkleja
+3110  do 3_lewy_ dlugi
+3190  do 4_prawy  _szczytem przechodzi_w_ 4_lewy  50
+3300  5_prawy_ zacisk do 3_prawy
+3390 do  4_lewy_ przyciac
+3410 do  4_prawy
+3440  przechodzi_w_ 3_lewy_ dlugi ciac_
+3510  szczyt_prawa 30  3_lewy_ dlugi
+3660  40 2+_lewy_  krotki ciac_   przechodzi_w_
+3720  3_lewy_ ciac_ i 4_prawy_ ciac_ dlugi
+3900  potem_ 3_lewy i 5_prawy_
+3990  i 4_prawy_ potrojny
+4165  krotka 3_lewy_ ciac_ i prostuj znak i
+4270  szczyt_prawa i 4_lewy
+4320  krotka  4_lewy do prawy minus
+4405  40 5_lewy_ ciac_  50
+4460  3_lewy  80
+4580  pozno  3_prawy_ i 5_lewy_ samp
+4730  70 szczyt_lewa
+4780 60  hamowanie_hak_prawy_ ciasny_
+4880  120  widac_
+4960  hak_lewy ciasny_
+5035  150 kaszel
+5080  krotki 5_prawy przytnij_krzakiem_
+5150  prostuj 100
+5190  4_prawy_ ciac_
+5255  50
+5280  4_lewy_ podwojny  hamowanie
+5330  i 2_prawy  samp
+5434  30  2_lewy_ do 4_prawy  lotna
+5515  i 4_prawy_ do lewy _stop
+5600 kaszel

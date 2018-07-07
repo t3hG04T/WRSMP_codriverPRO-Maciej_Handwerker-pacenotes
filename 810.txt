@@ -1,0 +1,53 @@
+# Livadija
+0 4_lewy zacisk 70
+70 7_prawy zacisk_do_ 5 krotki 100
+200 podbija 5_lewy nie_wypuszczaj
+370 za_szczytem_ 70 7_lewy shamuj do 4_prawy zacisk 40
+650 5_lewy krotka i 3_prawy zostan
+770 150 prostuj
+840 wczesnie_ krotki 3_lewy ciasny_
+980 7_prawy lewy shamuj
+1070 za_szczytem_ krotki 4_lewy do _dluzszy prawy_lewy
+1200 5_prawy
+1350 7_lewy _dluzszy od_znaku_ zacisk_do_3 50
+1570 3_prawy _w_siodle przechodzi_w_ 6_prawy
+1670 do  5_lewy _dluzszy lekki_zacisk
+1820 od_znaku_ 7_prawy hamowanie 70
+1900 3_prawy ostroznie 40
+2000 5_lewy krotki 70
+2110  4_lewy krotki 70
+2200 3_lewy zacisk_do_2 70
+2320 4_prawy przechodzi_w_ 7_prawy 40
+2420 i 3_prawy 50 lewa
+2535 5_prawy 200
+2650 od_szczytu_ 6_prawy zacisk_do_2 _dluzszy
+2881 100 prostuj i 4_lewy zacisk_do_2 ostroznie podwojny
+3100 120 6_lewy 40
+3200 2_prawy 40
+3370 2_lewy dlugi zacisk
+3450 40 2_prawy dlugi
+3560 szczyt_prawa 70
+3580 od_znaku_ hak_lewy
+3670 50
+3700 4_lewy prawy
+3780 do 6_lewy  prawy do 3_lewy
+3880 krotka i 4_prawy
+3950 5_lewy _dluzszy zostan
+4040 szczyt_lewa prostuj 70
+4100 6_lewy 30
+4170 5_prawy do 7_lewy shamuj
+4250 nawrot_prawy
+4430 50
+4450 6_lewy _dluzszy zacisk_do_2 ciasno 50 
+4530 4_prawy lewy
+4680 do 4_prawy zacisk
+4730 do 4_lewy_ minus przy_murku dlugi otwarty pozniej_ zacisk_do_2
+4850 przechodzi_w_ 3_prawy otwarty nie_spiesz_ dlugi
+4950 pozniej_ zacisk_do_2 dlugi
+5120 6_lewy krotki zacisk_do_2 przy_murku_
+5250 5_prawy lewy shamuj_40 2_prawy 70
+5400 4_lewy prawy przechodzi_w_ 6_lewy krotki 40 lotna
+5500 shamuj 2+_lewy 50
+5620 2_prawy 
+5720 i _stop
+ 

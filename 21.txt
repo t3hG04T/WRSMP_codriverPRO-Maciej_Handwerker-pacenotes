@@ -1,0 +1,74 @@
+#Falstone
+-5 Lewy 50
+40 przytnij 4_prawy lewy
+50 ostroznie _ciasny mostek
+110 i 3_lewy wypusc
+130 do krotki 5_prawy _ciac 80
+180 ciac_ 4_prawy
+220 do 4_lewy _za_drzewo 50
+400 7_lewy do 4_prawy lewy krotki _z_uwaga _ciac mostek
+520 i _ciasny 3_lewy_ prawy przytnij do 4_lewy krotka
+650 ciac_ ciasny_ 2+_prawy zostan mostek 
+740 do 4_lewy
+780 4_prawy
+820 4_lewy prawy zahacz nie_tnij 50
+900 4_prawy nie_tnij row do 3_lewy 50 prostuj
+1130 ciac_ 4_prawy do 4_lewy podwojny 
+1300 do 4_prawy krotki 80
+1350 4_prawy do dlugi 3_lewy max zostan
+1500 4+_prawy do 3_lewy nie_tnij 40
+1700 krotki 4_lewy prawy do 3_lewy 40 
+1820 3_lewy plus zostan
+1920 do 4_prawy 70
+1990 6_lewy hamowanie 30
+2050 2_lewy minus od_tasm_ 20
+2170 2_prawy_ minus 20
+2210 i 1_lewy max
+2270 do 1_prawy max 50
+2300 krotki lewy_prawy shamuj_40
+2350 _przy_drzewach _ciac row 3_lewy_ plus
+2490 100 przez_garb
+2550 6_prawy 70
+2650 za_drugim_szczytem_ 20 _ciac krotki 4_lewy samp
+2800 szczyt_prawa minus 6_prawy 70
+2900 hamowanie do 1 nawrot_prawy od_tasm_ 50
+3090 5_prawy krotka
+3150 minus 5_lewy shamuj_30 4_lewy 20
+3320 do 4_prawy przytnij 
+3430 szczyt_prawa 70
+3500 minus 4_lewy potrojny nie_wypuszczaj 70
+3750 shamuj 7_lewy 
+3800 do 2_prawy minus przytnij 40
+3900 wczesnie_ 4_prawy odkleja 40
+4000 _dluzszy 6_lewy zostan krotka i hopa_prawa 70
+4200 przytnij 6_lewy 30
+4300 shamuj szczyt_prawa 40 4_lewy 30
+4400 i zahacz 1_prawy otwarty 40
+4600 przytnij krotki 4_prawy do 3_lewy zacisk 50
+4700 7_lewy do 4_prawy
+4800 do ciasny_ 4_lewy minus zostan 
+4900 do 4_prawy przytnij 50
+5000 przytnij 4_prawy do lewy zostan samp 30
+5100 4_prawy 60 4_prawy
+5200 do 3_lewy plus _za_drzewo podwojny
+5260 pozniej_ wypusc do 4_prawy shamuj
+5300 do przytnij 1_lewy ciasny_ 70
+5500 1_lewy nie_tnij 40
+5650 1_prawy otwarty 
+5700 za_szczytem_50 
+5780 nie_tnij 4_prawy do lewy _dluzszy 40
+5870 7_lewy 
+5950 do 5_prawy
+6020 do minus 4_lewy _dluzszy
+6050 ciac_ _wyjscie do 5_prawy 70
+6150 7_lewy do przytnij 4_prawy
+6250 do 4_lewy dlugi
+6300 do 4_prawy minus
+6380 do 3_lewy samp
+6550 lotna
+6600 3_lewy prawy i _stop
+
+
+
+
+
