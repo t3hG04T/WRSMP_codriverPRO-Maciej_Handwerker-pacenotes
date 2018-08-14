@@ -1,37 +1,44 @@
 # Pian del Colle Snow Reversed
-20 2_prawy
+-15 2_prawy
 100 3_lewy_ ciac_
-200 do 4_prawy_ przytnij
+200 4_prawy
 270 100
-330 6_prawy
-510 6_lewy
-600 szykana_od_prawej
-750 6_prawy_ do 6_lewy
-880 2_lewy
-1120 nawrot_prawy
+315 6_prawy
+475 6_lewy
+580 szykana_od_prawej
+745 6_prawy_ do 6_lewy
+865 2_lewy potem_ 120
+1100 nawrot_prawy
 1200 6_prawy
-1300 6_lewy_ do 5_prawy
-1380 3_lewy_ nie_ciac
+1280 6_lewy_ do 5_prawy
+1360 3_lewy_ nie_ciac
 1500 2_prawy_ do nawrot_lewy
-1650 4_lewy_ ciac_
-1820 nawrot_prawy
-1950 5_lewy_ do 6_prawy
-2050 4_lewy_ przyciac_ nie_wypuszczaj
+1650 4_lewy
+1750 120
+1815 nawrot_prawy
+1920 5_lewy_ do 6_prawy
+2050 4_lewy_ nie_wypuszczaj
+2135 150 prostuj
 2280 nawrot_lewy do nawrot_prawy
-2500 6_prawy
-2680 6_lewy_ do 6_prawy_ przytnij
-2780 6_lewy_ nie_ciac
-3250 nawrot_lewy
-3450 szykana_od_lewej
-3770 6_lewy
+2440 200
+2505  _przy_drzewach 6_prawy 150
+2680 6_lewy_ do 6_prawy_ zahacz
+2780 6_lewy
+2985 70_ 7_lewy
+3070 200
+3240 nawrot_lewy
+3420 200
+3480 szykana_od_lewej
+3740 6_lewy
 3850 6_prawy
 3950 3_prawy
-4050 4_lewy podwojny
+4050 4_lewy 70
+4170 4_lewy
 4320 4_prawy_ do 3_prawy_ podwojny
-4650 4_lewy
+4650 5_lewy
 4750 4_prawy
 4870 3_lewy
-5100 4_prawy
+5075 4_prawy
 5200 6_lewy
 5300 6_lewy
 5400 5_prawy_ ciac_ do 4_lewy_ ciac_

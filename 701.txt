@@ -1,0 +1,93 @@
+#Passo Valle reversed
+-10 5_prawy_ slisko
+20 70_ nie_spiesz_ 2_lewy
+115 80
+160 2_prawy_ slisko do 2_lewy
+236 5_prawy_ 60
+280 4_lewy
+335 80
+375 hamuj_ 2_prawy_ slisko do 3_lewy
+470 lewy_prawy prostuj slisko
+515 7_prawy_ 50_ 6_prawy_ 100
+635 3_prawy_ dlugi
+725 3_lewy_ 30
+775 4_prawy do_2_lewy _dluzszy
+835 4+_prawy_ zacisk
+915 50_ 2_lewy_ dlugi 
+1000 3_lewy_ do 3_prawy
+1065 2_lewy_
+1100 70
+1135 4_lewy
+1175 6_prawy
+1190 6_prawy nie_spiesz_
+1215 hamowanie 2+_prawy_ przez_ mostek slisko
+1320 30_ 2+_prawy _na_asfalt
+1360 70
+1400 4_lewy_ do prawy_lewy prostuj smialo
+1457 5_prawy_ smialo
+1490 50_ 3_prawy_ do 2_lewy do 3_prawy
+1597 60
+1615 5_lewy_ smialo
+1650 70
+1685 5_prawy_ z_uwaga_
+1720 90
+1770 shamuj 3_prawy_ do 2+_lewy
+1845 60 prostuj
+1875 4_lewy
+1930 5_prawy_ slisko 70
+1990 5_prawy_ smialo
+2020 70
+2065 4_lewy
+2110 70
+2150 5_lewy_ 50
+2185 hamowanie 2_prawy_ do 3_lewy slisko _na_wyjsciu
+2260 50 widac_ prostuj
+2300 3_lewy
+2330 50_prostuj
+2345 4_prawy_ do 4_prawy_ do
+2385 3_lewy_ slisko
+2420 50_ 3_prawy_ slisko
+2476 4_lewy
+2510 70_prostuj widac_
+2550 1_lewy z_uwaga_
+2600 50
+2645 hamowanie nawrot_lewy slisko
+2710 i 5_prawy _dluzszy slisko
+2750 120
+2810 hamowanie 2_lewy_ do 1_prawy do 3_lewy
+2950 6_prawy
+2980 6_lewy_ 70
+3030 6_prawy_ 70
+3085 6_prawy_ 60
+3120 6_prawy_ potem_ hamowanie 2_prawy na_mostek bardzo dlugi
+3315 70
+3370 4_lewy_ bardzo dlugi zacisk do 3
+3450 3_prawy
+3483 4_lewy do 6_prawy
+3535 150
+3670 7_lewy_ 100
+3760 7_lewy_ 80
+3785 shamuj 5_lewy_ slisko
+3890 2_lewy_ ciac_
+3975 i 50_ 3_lewy_ do 3_prawy _dluzszy slisko
+4100 slisko 50_ 6_prawy
+4145 6_lewy do 6_prawy_ 100
+4290 6_lewy_ smialo
+4335 120
+4417 6_lewy_ bardzo dlugi
+4590 200
+4740 shamuj 5_prawy
+4830 120 prostuj
+4885 hamowanie 2_lewy_ slisko
+4995 100
+5055 6_lewy_ do 1_prawy_ podbija slisko dlugi
+5193 50_ 5_prawy_ slisko
+5230 70
+5245 4_prawy_ 50
+5325 7_lewy_ do 6_prawy
+5380 5_lewy do 5_prawy _dluzszy
+5430 4+_prawy_ do 2_lewy slisko
+5560 100
+5615 i slisko 6_lewy_ zacisk do 4_lewy
+5730 lotna i hak_prawy
+5765 70 _do_mety_stop

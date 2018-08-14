@@ -1,0 +1,44 @@
+#Lousada RX
+0 120 lewa
+70 3_prawy_ wypusc _na_szuter
+150 50_ hopa
+210 za_hopa_ 4_prawy_ szeroko
+350 100 lewa
+405 nawrot_prawy bardzo dlugi
+560 100 prawa
+620  4_lewy _z_drogi zacisk_do_ 2_lewy _na_szuter
+760 70
+800 hamuj_ wczesnie_ do nawrot_prawy _na_asfalt
+870 100
+950 3_prawy_ wypusc _na_szuter
+1050 50_ hopa
+1110 za_hopa_ 4_prawy_ szeroko
+1250 100 lewa
+1310 nawrot_prawy bardzo dlugi
+1460 100 prawa
+1520  4_lewy _z_drogi zacisk_do_ 2_lewy _na_szuter
+1660 70
+1700 hamuj_ wczesnie_ do nawrot_prawy _na_asfalt
+1770 100
+1850 3_prawy_ wypusc _na_szuter
+1950 50_ hopa
+2010 za_hopa_ 4_prawy_ szeroko
+2150 100 lewa
+2190 nawrot_prawy bardzo dlugi
+2320 100 prawa
+2380  4_lewy _z_drogi zacisk_do_ 2_lewy _na_szuter
+2550 70
+2600 hamuj_ wczesnie_ do nawrot_prawy _na_asfalt
+2665  50
+2680 5_lewy _ prawy _z_drogi _na_szuter
+2745 50_ 3_prawy_ szeroko
+2850 70_ lewa hopa
+2900  za_hopa_ 4_prawy_ szeroko
+3030 100 lewa
+3100 nawrot_prawy bardzo dlugi
+3200 100 prawa
+3300  4_lewy _z_drogi zacisk_do_ 2_lewy _na_szuter
+3440 70
+3495 hamuj_ wczesnie_ do nawrot_prawy _na_asfalt
+3570 100
+3667 lotna

@@ -1,4 +1,4 @@
-#Joukkovaara gravel II
+#Joukkovaara tarmac II
 1 200
 100 6_lewy
 140 do 4_prawy zacisk

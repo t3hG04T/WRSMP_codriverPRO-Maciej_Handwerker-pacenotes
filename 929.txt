@@ -1,0 +1,54 @@
+# Svince
+-15 2_lewy _z_drogi _za_bal
+13 70
+30 6_prawy _za_bal
+100 70_ 6_prawy _za_bal
+200 50_ 6_lewy _za_bal
+280 100
+335 hamowanie_hak_prawy_
+450 120
+500 7_lewy dlugi max
+630 7_prawy _bale max
+770 200 lewa
+870 hamowanie szykana prawy_lewy prawy
+1020 120 max
+1095 5_prawy _za_bal
+1200 70_ 5_lewy _za_bal
+1290 50_ 6_lewy _za_bal
+1390 250
+1520 hamowanie_hak_prawy_ nie_ciac _kamien
+1640 5_lewy
+1680 300
+1920 shamuj do 4_prawy _za_bal _dluzszy
+2105 hamuj_ 3_prawy _za_bal
+2200 70
+2250 4_lewy _za_bal
+2300 50_ shamuj 4_prawy _za_bal
+2370 150
+2465 shamuj _przy_drzewach 3_lewy ciasno _za_bal
+2590 150 prostuj
+2710 7_lewy_ ciac_ 50
+2785 hamowanie 2_prawy _za_bal
+2890 50_ prawa
+2920 szykana lewy_prawy
+2970 80
+2990 hopa _z_uwaga
+3040 150 i_ostatnie_okrazenie
+3145 6_prawy _za_bal
+3200 70_ 6_prawy _za_bal
+3300 50_ 6_lewy _za_bal
+3380 100
+3450 hamowanie_hak_prawy_
+3550 120
+3600 7_lewy dlugi max
+3800 7_prawy _bale max
+3860 200 lewa
+4010 hamowanie szykana prawy_lewy prawy
+4130 120 max
+4240 5_prawy _za_bal
+4320 70_ 5_lewy _za_bal
+4400 50_ 6_lewy _za_bal
+4475 250
+4660 hamowanie 2_lewy _z_drogi _za_bal 30_
+4795 lotna
+4805 100 _do_mety_stop

@@ -1,0 +1,100 @@
+#Joukkovaara gravel
+-5 4_lewy na_szczyt otwarty 150
+85 od_szczytu_ shamuj_30 do krotki 5_prawy 
+150 _w_siodle do 5_lewy _szczytem odkleja 50
+300 _podwojny krotki 4_lewy 70 zacisk
+400 3_prawy zahacz 50
+520 5_prawy _szczytem _wyjscie _w_siodle 50
+620 i 5_prawy
+680 do krotki 4_lewy 30
+730 krotki 4_lewy przytnij_krzakiem_ 40
+870 do 4_prawy _podwojny 20
+970 krotki 5_lewy
+1000 do krotki 5_prawy _szczytem 70
+1090 5_prawy 
+1130 do 4_lewy zahacz 30
+1230 krotki 4_lewy 40 
+1350 krotki 4_lewy nie_tnij 20
+1410 4_prawy bardzo dlugi z_uwaga_ _na_wyjsciu z_uwaga_
+1490 od_szczytu_ 4_prawy krotki 50
+1600 hopa 70 
+1700 zahacz 4_lewy minus 50
+1800 do 4_prawy wypusc 
+1860 do ciac_ 4_lewy podwojny 70
+1990 do 7_prawy
+2050 do 4_lewy _szczytem
+2100 do 5_prawy
+2155 do 5_lewy _szczytem 100 hopa 30
+2270 krotki 7_prawy lewy zacisk
+2350 do 5_lewy odkleja 70
+2550 do minus 5_prawy dlugi zostan
+2730 do 6_lewy przytnij smialo 100
+2900 6_prawy 50
+3000 6_lewy minus 100
+3090 hopa 50
+3150 5_prawy hamowanie przez_garb odkleja 20
+3220 3_lewy 20
+3400 4_lewy 40
+3445 do 4_prawy _dluzszy 30
+3520 5_lewy prawy prostuj
+3650 5_prawy 50
+3750 5_prawy 40
+3850 5_prawy krotki do 5_lewy krotki 70
+4020 5_lewy _dluzszy zacisk 30
+4150 7_prawy
+4220 6_lewy 70
+4300 4_lewy  zahacz
+4370 do 4_prawy zajebiscie_ dlugi zacisk 30
+4700 hopa_smialo_ 50 pozniej_ shamuj
+4810 4_lewy zacisk
+4880 do krotki 4_prawy podwojny _wypusc
+4950 do przytnij 4_lewy podwojny 50
+5075 7_prawy do 4_lewy 30
+5185 5_prawy krotki 40
+5230 6_lewy zacisk do 4_lewy
+5350 do 4_prawy _dluzszy 100 podbija
+5510 4+_prawy krotki
+5580 do 5_lewy nie_tnij 70
+5725 za_szczytem_ 6_lewy dlugi 
+5850 _na_wyjsciu szczyt wypusc
+5840 do 5_prawy _dluzszy shamuj_30
+5910 do 4_prawy krotki 
+5980 do garb 4_lewy otwarty 20
+6050 4_prawy nie_tnij 50
+6170 dlugi 6_lewy przez_garb otwarty 50
+6320 5_prawy 50
+6490 5_prawy 30 shamuj
+6570 hopa i 5_prawy 
+6605 5_lewy 30
+6685 od_szczytu_ prawa i 5_lewy_ _nie_wypuszczaj
+6750 6_prawy 30
+6920 6_lewy bardzo dlugi
+7050 od_szczytu_ przechodzi_w_ 6_prawy 50 shamuj 
+7285 do krotki 5_prawy i 4_lewy _dluzszy i prawy krotki
+7490 5_lewy szczyt spadanie _na_wyjsciu 30
+7620 4_prawy 150
+7790 krotki 5_prawy nie_tnij 
+7875 do 5_lewy 50
+8000 5_lewy shamuj do
+8070 3_prawy
+8145 5_prawy 50
+8280 krotki 6_prawy lewy_prawy prostuj 50
+8420 4_prawy ciasno
+8515 do 4_lewy podwojny 30
+8650 5_prawy na_szczyt smialo 
+8750 pozniej_ shamuj krotki 4_lewy_ do 3_prawy 30
+8900 4_lewy 20
+9000 4_prawy _dluzszy otwarty 
+9150 do 6_lewy  wyjscie_hopa _nie_spiesz lewa do 4_lewy
+9200 100
+9380 5_prawy
+9445 5_lewy _dluzszy zacisk
+9655 do 4_prawy podwojny 70
+9810 5_prawy _dluzszy zacisk _nie_wypuszczaj
+9880 do 5_lewy _dluzszy
+10010 do 6_prawy 80
+10150 lotna 
+10170 100 _do_mety_stop
+
+
+ 

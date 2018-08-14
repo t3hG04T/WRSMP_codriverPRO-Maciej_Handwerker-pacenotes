@@ -1,4 +1,4 @@
-#Foron II Snow
+#Foron II
 0 3+_prawy zahacz 70 prostuj spadanie
 50 hamuj_ hak_prawy _za_bal przez_garb 
 190 lewy potem_ prawa i 1_lewy_ _za_bal przez_garb 70
@@ -79,7 +79,7 @@
 7980 za_szczytem_ 4_prawy_ minus _nie_wypuszczaj samp
 8050 5_prawy 50
 8090 od_szczytu_ 6_lewy_ _dluzszy shamuj
-8140 2_prawy_ _z_drogi _podbija_ 30 _na_asfalt
+8140 2_prawy_ _z_drogi _podbija_ 30
 8340 ciasno 2_prawy 30
 8400 2_lewy 30 
 8450 hak_prawy przez_garb negat zostan

@@ -1,0 +1,84 @@
+#Carvalho de Rei 2008
+-17 200 prostuj
+80 2_lewy _na_szuter do 2_prawy
+200 100
+280 3_lewy wybija
+335 50_ 5_lewy _dluzszy
+430 150
+532 4_prawy nie_ciac _kamien
+620 100
+660 hamowanie 1_prawy
+735 3+_lewy do 4_prawy 
+815 3_lewy_ podwojny
+900 6_prawy
+925 5_prawy do 5_lewy _podbija_
+1000 shamuj do 3_lewy podwojny
+1080 100
+1140 5_lewy_ przez_garb
+1190 50_ 4_lewy
+1270 80
+1295 nawrot_prawy _dluzszy
+1365 100
+1430 4_prawy _szczytem nie_ciac _kamien
+1460 do 4_lewy
+1485 150
+1640 3 minus lewy
+1710 100
+1785 6_lewy_ do 5_prawy
+1900 120
+1950 5_lewy do  hamuj_ 6_prawy_ do 1_lewy _z_drogi _za_znak
+2130 5_prawy
+2135 50
+2160  4_lewy nie_tnij
+2210 70_ 5_prawy_ potem_ shamuj
+2290 2+_prawy_ do 4_lewy do 4_prawy
+2450 50_ nawrot_prawy
+2500 80_ hopa_prawa
+2590 150
+2670 shamuj 4_lewy_ do 4_prawy
+2810 50_ nawrot_lewy _pozny_
+2930 50_ 4_lewy_ nie_wypuszczaj 70
+3055 4_prawy 70
+3125 3_lewy_ nie_tnij _kamien do hak_prawy zacisk
+3280 prawy_lewy 200
+3440 hamuj_ 5_lewy_ do 3+_prawy
+3565 50_ 5_lewy_ podwojny
+3640 do 5_prawy wybija
+3700 100 2_lewy_ zahacz
+3805 70_ 4_prawy
+3875 100
+3910 6_prawy_ przez_szczyt
+3990 50_ nie_spiesz_ 5_prawy_ do 3_lewy
+4120 przy_slupie 3_prawy_ podwojny _nie_spiesz
+4200 przechodzi_w_ 3_lewy
+4325 100 5_lewy przy_murku_
+4445 6_lewy_ nie_tnij do 6_prawy 
+4475 50_ 5_lewy
+4680 shamuj_ 6_lewy_ do 4_prawy
+4790 200
+4915 shamuj 4_lewy_ do 3_prawy_ dlugi
+5120 150 na_szczyt lewa
+5265 5_prawy_ zahacz do 6_lewy _dluzszy
+5380 _na_asfalt
+5445 za_szczytem_ 3_prawy przy_murku slisko
+5555 150
+5620 za_szczytem_20 3_lewy_ ciasno
+5710 30_ 4_prawy _na_szuter _dluzszy
+5835 70 za_szczytem_ 3_lewy_ zacisk do 2 bardzo dlugi
+6070 70_ 3_prawy_ bardzo dlugi
+6215 70_ 6_lewy_ bardzo dlugi podbija
+6420 150 5_lewy _szczytem odkleja
+6605 200
+6760 shamuj 5_lewy _w_siodle,
+6840 za_szczytem_ shamuj 3+_prawy odkleja
+7010 50_ 4_lewy_ do 3_prawy_ ciac_ podbija
+7200 do 4_lewy
+7280 200
+7440 shamuj 4_prawy_ zacisk _dluzszy
+7600 150
+7690 shamuj_ 3_lewy_ 100
+7840 5_prawy
+7895 shamuj_ do 3_lewy
+7995 120
+8050 6_prawy
+8150 lotna 150 _do_mety_stop

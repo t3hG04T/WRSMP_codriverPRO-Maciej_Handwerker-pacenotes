@@ -1,0 +1,34 @@
+# Halenkovice SD
+-15 5_lewy_ do 6_prawy
+0100 120
+0200 5_lewy_ pozny_ do 4_prawy _dluzszy
+0390 70_ 4_prawy
+0540 50_ 2_lewy_ nawrot dlugi otwarty
+0710 50_ nawrot_prawy dlugi
+830 30_ 4_lewy
+870 100 6_lewy _szczytem
+0950 70_ 3_lewy_ mostek
+1130 70_ za_znakiem_ 4_prawy
+1245 100
+1325 hamowanie nawrot_prawy
+1430 do 4+_lewy
+1500 50_ 3_lewy_ zacisk do 2
+1600 4_prawy_ bardzo dlugi
+1680 4_prawy_ zostan
+1740 150
+1840 5_lewy_ smialo przechodzi_w_ hamowanie do 3_prawy _z_drogi
+2070 50_ 4_lewy _szczytem _dluzszy
+2120 4_prawy_ ciac_ smialo _bale _szuter
+2190 200
+2335 6_lewy _szczytem smialo
+2420 120
+2500 7_prawy_ 500
+3050 shamuj do 5_lewy_ pozny
+3280 300
+3490 hamowanie 3_prawy _z_drogi na_szczyt ciac_
+3650 120
+3690 5_lewy_ smialo
+3835 za_szczytem_50 _na_szuter
+3930 shamuj_ 4_prawy_ do 4_lewy _na_asfalt
+4080 200
+4220 hamowanie 3_prawy _z_drogi ciac_

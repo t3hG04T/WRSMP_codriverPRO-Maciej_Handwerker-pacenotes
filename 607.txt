@@ -1,0 +1,88 @@
+#Sturec
+-25  50_ 5_prawy dlugi bardzo
+85  przy znak zacisk do 4_prawy
+220 150
+330 shamuj do 3_lewy do 3_prawy przez_garb odkleja
+485 do 4_lewy_ do 4_prawy
+600 50_ za_szczytem_ 2_lewy
+700 4_prawy_ 50
+780 5_prawy_ zahacz
+850 150
+940 6_lewy_ max
+990 70_ 5_lewy _dluzszy
+1100 do 5_prawy_ do 4_lewy otwarty
+1240 50_ nawrot_prawy _dluzszy
+1385 5_lewy_ do 3_prawy_ zacisk
+1515 3_lewy_ 30
+1580 od_szczytu_ 4_prawy
+1650 50_ nawrot_lewy
+1750 5_prawy
+1785 70_ 5_lewy
+1830 4_prawy przez_garb odkleja
+1920 5_lewy_ do 4_prawy
+2040 70_ nawrot_prawy
+2150 4_lewy_ do 3_prawy
+2280 nawrot_lewy
+2350 50_ 
+2370 4_lewy_ do 3_prawy _ przez_garb
+2475 50_ 4+_prawy do 6_lewy
+2620 70_ 5_lewy_ max
+2710 120
+2780 hamowanie 2_lewy_ nawrot
+2950 4_prawy_ dlugi zacisk do 
+3030 5_lewy_ podbija
+3085 70
+3140 5_prawy z_uwaga_ przez_szczyt
+3180 70
+3220 4_prawy_ zacisk
+3375 150
+3470 6_lewy _dluzszy
+3560 150
+3620 hamuj_ nawrot_prawy ciasny_
+3765 70_ 6_prawy_ do 6_lewy przez_szczyt
+3900 150
+4020 hamuj_ nawrot_lewy
+4130 200
+4290 6_lewy_ ciac_ do
+4310 5_prawy_ do 5_lewy _dluzszy
+4500 70
+4590 shamuj 3_lewy_ do
+4680 3_prawy
+4770 50_ 3_lewy
+4825 50_ 6_lewy
+4895 shamuj 3_prawy do 3_lewy
+5005 50 4_prawy do
+5080 5_lewy
+5140 70
+5170 pozny_ 4+_prawy
+5270 150
+5350 6_lewy_ zahacz
+5420 100
+5480 shamuj 5_prawy
+5540 do 4+_prawy_ zacisk
+5600 3_prawy_ na_szczyt
+5700 przechodzi_w_ 4_lewy
+5730 do 3+_prawy
+5800 70_ za_szczytem_ nawrot_prawy
+5930 50_ 4_lewy_ do 3_prawy_ nie_tnij
+6050 shamuj nawrot_lewy
+6110 70 
+6150 5_lewy do shamuj_ 3_prawy
+6220 70_ na_szczyt 5_prawy
+6330 100
+6400 shamuj 4_lewy_ do 3_prawy
+6540 2_lewy 40
+6600 5_prawy_ do shamuj nawrot_lewy dlugi
+6780 50_ za_szczytem_ 3_prawy_ do 4_lewy
+6900 5_prawy_ 100
+6950 6_prawy _dluzszy zacisk
+7110 do 5_lewy
+7195 50_ 6_prawy
+7270 200
+7385 mocno_ hamuj_ do nawrot_prawy
+7570 120
+7660 7_prawy _szczytem do 6_lewy
+7730 100
+7795 hamowanie nawrot_lewy
+7950 100
+8050 lotna 150 _do_mety_stop
