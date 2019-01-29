@@ -1,0 +1,27 @@
+# Mitterbach
+-10  40 4_lewy
+20  30_ nawrot_prawy
+80 50_ 3_lewy
+130  przy_murku_ 5_prawy _szczytem przechodzi_w_ 5_lewy
+250 150
+400  shamuj 4_prawy
+520 70_ 4_lewy_ zacisk _przy_drzewach przechodzi_w_ 6_prawy
+650 250
+830 shamuj_ 5_prawy_ pozny _przy_drzewach dlugi
+965 120
+1140 5_lewy_ pozny
+1230 300 szczyt_prawa
+1420 hamowanie 4_lewy zahacz
+1530 200
+1650 hamuj_ 2_lewy _z_drogi
+1750 400
+1960 za_szczytem_30 5_prawy
+2090 150
+2150 shamuj 3_lewy_ 150
+2355 5_prawy_ zahacz pozno
+2445 70_ 6_lewy_ smialo
+2500 100
+2530 5_lewy_ 100
+2670 50_ 5_prawy _z_uwaga przez_szczyt bardzo dlugi
+2770 80_ shamuj przy lotna
+2910 4_lewy_ 150 _do_mety_stop
